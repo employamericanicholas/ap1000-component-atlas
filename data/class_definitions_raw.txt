@@ -1,0 +1,514 @@
+3. Design of Structures, Components,
+Equipment and Systems AP1000 Design Control Document
+components are related to ANS nuclear safety classification, NRC quality groups, ASME Code,
+Section III classification, seismic category and other applicable industry standards, as shown in
+Table 3.2-3.
+3.2.2.1 Classification Definitions
+The definitions used in the classification of structures, systems and components are provided in
+the following. Unless otherwise noted these definitions apply throughout the Design Control
+Document. These definitions are consistent with the ANS Definitions for Light Water Reactor
+Standards (ANS-58.14-1993).
+Safety-related is a classification applied to items relied upon to remain functional during or
+following a design basis event to provide a safety-related function. Safety-related also applies to
+documentation and services affecting a safety-related item.
+Safety-related function is a function that is relied upon during or following a design basis event
+to provide for the following:
+• The integrity of the reactor coolant pressure boundary
+• The capability to shut down the reactor and maintain it in a safe shutdown condition
+• The capability to prevent or mitigate the consequences of accidents that could result in
+potential offsite exposures comparable to the guideline exposures of 10 CFR 50.34.
+Design basis event is an event that is a condition of normal operation (including anticipated
+operational occurrences), a design basis accident, an external event, or natural phenomena for
+which the plant must be designed so that the safety-related functions are achievable.
+Design basis accidents and transients are those design basis events that are accidents and
+transients and are postulated in the safety analyses. The design basis accidents and transients are
+used in the design of the plant to establish acceptable performance requirements for structures,
+systems, and components.
+3.2.2.2 Application of Classification
+The AP1000 requires adaptation of safety classification documents and standards because of the
+way that the AP1000 accomplishes safety-related functions.
+In addition to 10 CFR 50.55a, the AP1000 classification has been developed considering
+requirements and guidelines in the following:
+• ANSI N18.2 (Reference 1) – safety classification
+• ANS 51.1 (Reference 2) – safety classification
+• Regulatory Guide 1.26 – Quality Groups
+• Regulatory Guide 1.97 – instrumentation requirements
+• 10 CFR 21.
+Tier 2 Material 3.2-4 Revision 19
+
+3. Design of Structures, Components,
+Equipment and Systems AP1000 Design Control Document
+Conformance with the guidelines of Regulatory Guides 1.26 and 1.97 is discussed in
+subsection 1.9.1.
+The general guidelines for safety classification in the ANSI and ANS standards are useful in the
+development of the AP1000 classification. The specific classifications for various structures,
+systems, and components included in Regulatory Guide 1.26 and ANSI 18.2 and ANS 51.1 are
+based on a nuclear power plant with active safety systems and are not necessarily appropriate for
+the passive safety systems of the AP1000.
+For the purposes of equipment classification, structures, systems, and components are classified as
+Class A, B, C, D, E, F, G, L, P, R, or W. For mechanical equipment Classes A, B, and C are
+equivalent to ANS Safety Class 1, 2, and 3. For electrical equipment Class C is equivalent to
+Class 1E. Structures, systems, and components classified equipment class A, B, or C or seismic
+Category I are basic components as defined in 10 CFR Part 21.
+Equipment Class D is a nonsafety-related class. Classes E, F, G, L, P, R, and W are nonsafety-
+related classes associated with different industry codes and standards.
+Components are classified down to the replacement part level according to the definitions and
+criteria of the classification system. A single item or portion thereof, which provides two or more
+functions of different classes, is classified according to the most stringent function. Different
+portions of the same structure, system, or component may perform different functions and be
+assigned to different equipment classes if the structure, system, or component contains a suitable
+interface boundary.
+The definitions and criteria for the AP1000 equipment classes follow.
+3.2.2.3 Equipment Class A
+Class A is a safety-related class equivalent to ANS Safety Class 1. It applies to the reactor coolant
+system pressure boundary, including the required isolation valves and mechanical supports. This
+class has the highest integrity, and the lowest probability of leakage.
+10 CFR 21 applies to Class A structures, systems, and components. Class A structures, systems,
+and components are seismic Category I and use codes and standards consistent with the guidelines
+for NRC Quality Group A. 10 CFR 50, Appendix B applies. ASME Code, Section III, Class 1
+applies to pressure retaining components.
+3.2.2.4 Equipment Class B
+Class B is a safety-related class equivalent to ANS Safety Class 2. It limits the leakage of
+radioactive material from the containment following a design basis accident. This class is designed
+to accomplish the following:
+• It provides fission product barrier or primary containment radioactive material holdup or
+isolation.
+Tier 2 Material 3.2-5 Revision 19
+
+3. Design of Structures, Components,
+Equipment and Systems AP1000 Design Control Document
+• It provides the containment boundary including penetrations and isolation valves. This also
+includes piping that functions as the containment boundary. For example, the steam and
+feedwater system inside containment and the secondary shell of the steam generator are
+Class B by this criterion.
+• It circulates a non-containment/non-reactor coolant fluid to provide a post-accident safety-
+related function into and out of the containment. These lines have a Class B pressure
+boundary inside the containment. The outside containment lines in this circulation loop can
+be Class C or a nonsafety-related class if suitable containment isolation valves are provided.
+• It introduces emergency negative reactivity to make the reactor subcritical (for example,
+control rods).
+• This class also applies to structures, systems, and components where leakage could cause a
+loss of adequate core cooling. In isolating leaks, credit can be taken for automatic safety-
+related isolation and for appropriate operator action. As a minimum, operator action needs
+redundant safety-related indication and alarm followed by 30 minutes for operator action.
+10 CFR 21 applies to Class B structures, systems, and components. Class B structures, systems,
+and components are seismic Category I and use codes and standards consistent with the guidelines
+for NRC Quality Group B. 10 CFR 50, Appendix B applies. ASME Code, Section III, Class 2 or
+Class MC applies to pressure retaining components. ASME Code, Section III, Subsection NE
+applies to the containment vessel and guard pipes.
+3.2.2.5 Equipment Class C
+Class C is a safety-related class equivalent to ANS Safety Class 3. It applies to other safety-related
+functions required to mitigate design basis accidents and other design basis events. Minor leakage
+will not prevent Class C structures, systems, and components from meeting the safety-related
+function, either from the regard of radiation dose or system functioning.
+This class also applies to equipment that, upon rupturing, would cause dose limits for unrestricted
+areas, as specified in 10 CFR 20, to be exceeded or would cause a loss of core cooling.
+10 CFR 21 applies to Class C structures, systems, and components. Class C structures, systems,
+and components use codes and standards consistent with the guidelines for NRC Quality Group C.
+Class C structures, systems, and components are seismic Category I except those noted below
+which are not required to provide a safety-related function following a seismic event. 10 CFR 50,
+Appendix B applies. ASME Code, Section III, Class 3 applies to pressure retaining components.
+In addition to these requirements, for systems that provide emergency core cooling functions, full
+radiography in accordance with the requirements of ASME Code, Section III, ND-5222 of a
+random sample of welds will be conducted on the piping butt welds during construction. For
+Class C air and gas storage tanks fabricated without welding, ASME Code, Section VIII,
+Appendix 22 may be used in lieu of Section III, Class 3. 10 CFR 50, Appendix B requirements
+and 10 CFR 21 apply to the manufacture of safety-related air and gas storage tanks. For core
+support structures ASME Code, Section III, Subsection NG applies. For electrical systems,
+Tier 2 Material 3.2-6 Revision 19
+
+3. Design of Structures, Components,
+Equipment and Systems AP1000 Design Control Document
+appropriate IEEE standards, including IEEE standard 323-74 (Reference 3) and IEEE standard
+344-87 (Reference 4), apply.
+Class C applies to structures, systems, and components not included in Class A or Class B that are
+designed and relied upon to accomplish one or more of the following safety-related functions:
+• Provide safety injection or maintain sufficient reactor coolant inventory to allow for core
+cooling
+• Provide core cooling
+• Provide containment cooling
+• Provide for removal of radiation from the containment atmosphere as necessary to meet the
+offsite dose limits
+• Limit the buildup of radioactive material in the atmosphere of rooms and areas outside
+containment as necessary to meet the offsite dose limits
+• Introduce negative reactivity control measures to achieve or maintain safe shutdown
+conditions (for example, boron addition)
+• Maintain geometry of structures inside the reactor vessel so that the control rods can be
+inserted (when required) and the fuel remains in a coolable geometry
+• Provide load-bearing structures and supports for Class A, B, and C structures, systems, and
+components. This applies to structures and supports that are not part of the pressure
+boundary.
+• Provide structures and buildings to protect Class A, B, and C structures, systems, and
+components from events such as internal/external missiles, seismic, and flooding. Structures
+protecting equipment from nonseismic events are not required to be seismic Category I.
+• Provide permanent radiation shielding to allow operator access to the main control room and
+to limit the exposure to Class A, B and C structures, systems, and components
+• Provide safety support functions to Class A, B and C structures, systems, and components,
+such as, heat removal, room cooling, and electrical power
+• Provide instrumentation and controls for automatic or manual actuation of Class A, B, and C
+structures, systems, and components necessary to perform the safety-related functions of the
+Class A, B, or C structure, system or component. This includes the processing of signals and
+interlock functions required for proper safety performance of these structures, systems, and
+components.
+• Maintain spent fuel integrity, the failure of which could result in fuel damage such that
+significant quantities of radioactive material could be released from the fuel and results in
+Tier 2 Material 3.2-7 Revision 19
+
+3. Design of Structures, Components,
+Equipment and Systems AP1000 Design Control Document
+offsite doses greater than normal limits (for example, spent fuel pool, fuel transfer tube
+isolation valve)
+• Maintain spent fuel sub-critical
+• Monitor radioactive effluent to confirm that release rates or total releases are within limits
+established for normal operations and transient operation
+• Monitor variables to indicate status of Class A, B or C structures, systems, and components
+required for post-accident mitigation
+• Provide for functions defined in Class B where structures, systems, and components, or
+portions thereof are not within the scope of the ASME Code, Section III, Class 2.
+• Provide provisions for connecting temporary equipment to extend the use of safety related
+systems. See subsection 1.9.5 for a discussion of actions required for an extended loss of
+onsite and offsite ac power sources.
+The components and portions of systems that provide emergency core cooling functions and are
+required to have radiography of a random sample of welds during construction include the
+following:
+• Accumulators
+• Injection piping from the accumulators to the reactor coolant system isolation check valves in
+the direct vessel injection line
+• Piping from the in-containment refueling water storage tank (IRWST) and recirculation
+screens to the reactor coolant system isolation check valves in the direct vessel injection line
+• Piping from the Stage 1, 2, and 3 automatic depressurization system valves to the IRWST
+including the spargers.
+The IRWST is formed from portions of structural modules that are elements of the containment
+internal structures. The inspection requirements for the welds in these structural modules are
+provided in subsection 3.8.3.6.2.
+3.2.2.6 Equipment Class D
+Class D is nonsafety-related with some additional requirements on procurement, inspection or
+monitoring.
+For Class D structures, systems, and components containing radioactivity, it is demonstrated by
+conservative analysis that the potential for failure due to a design basis event does not result in
+exceeding the normal offsite doses per 10 CFR 20. This criterion is in conformance with the
+definition of Class D in Regulatory Guide 1.26.
+Tier 2 Material 3.2-8 Revision 19
+
+3. Design of Structures, Components,
+Equipment and Systems AP1000 Design Control Document
+A structure, system or component is classified as Class D when it directly acts to prevent
+unnecessary actuation of the passive safety systems. Structures, systems and components which
+support those which directly act to prevent the actuation of passive safety systems are also
+Class D. The inclusion of these nonsafety-related structures, systems, and components in Class D
+recognizes that these systems provide an important first level of defense that helps to reduce the
+calculated probabilistic risk assessment core melt frequency. These structures, systems, and
+components are normally used to support plant cooldown and depressurization and to maintain
+shutdown conditions during maintenance and refueling outages.
+For Class D structures, systems, and components considered to be risk significant as defined in the
+reliability assurance program (see Section 16.2). Provisions are made to check for operability,
+including appropriate testing and inspection, and to repair out-of-service structures, systems, and
+components. These provisions are documented and administered in the plant reliability assurance
+plan and operating and maintenance procedures.
+A portion of chemical and volume control system is defined as the reactor coolant pressure
+boundary and is Class D. This portion of the chemical and volume control system is seismically
+analyzed. See subsection 5.2.1.1 for the seismic analysis requirements.
+Some Class D structures, systems, and components are assumed to function in a severe
+containment environment. The design requirements for these components include operation in
+such an environment. An evaluation is done to confirm that the structure, system, or component
+can be expected to function in such an environment.
+Standard industrial quality assurance standards are applied to Class D structures, systems, and
+components to provide appropriate integrity and function although 10 CFR 50, Appendix B and
+10 CFR 21 do not apply. 10 CFR 50, Appendix B and 10 CFR 21 do apply to Class D structures,
+systems, and components that are seismic Category I. Pertinent portions of 10 CFR 50,
+Appendix B are applied to seismic Category II applications as described in subsection 3.2.1.1.2.
+These industrial quality assurance standards are consistent with the guidelines for NRC Quality
+Group D. The industry standards used for Class D structures, systems and components are widely
+used industry standards. Typical industrial standards used for Class D systems and components
+are provided as follows:
+• Pressure vessels – ASME Code, Section VIII
+• Piping – ANSI B 31.1. Power Piping, (Reference 5)
+• Pumps – API 610 (Reference 6), or Hydraulic Institute Standards (Reference 7)
+• Valves – ANSI B16.34 (Reference 8)
+• Atmospheric storage tanks – API-650 (Reference 9), AWWA D 100 (Reference 10), or
+ANSI B96.1 (Reference 11)
+• 0 - 15 psig Storage Tanks – API-620 (Reference 12)
+Tier 2 Material 3.2-9 Revision 19
+
+3. Design of Structures, Components,
+Equipment and Systems AP1000 Design Control Document
+• AC motor and generators – NEMA MG1 (Reference 13)
+• Circuit breakers, switchgear, relays, substations and fuses – IEEE C37 (Reference 14).
+The NS buildings containing Class D structures, systems, and components, as well as the
+anchorage of the structures, systems, and components to the building, are designed to the seismic
+requirements of the Uniform Building Code (Reference 15). The systems and components are not
+designed for seismic loads. However, when Class D structures, systems, and components are
+located near a Class A, B, or C structure, system, or component, the requirements for seismic
+Category II may apply.
+For Class D structures, systems, and components required to be monitored for maintenance
+effectiveness by 10 CFR 50.65, the availability parameters and criteria are included in the
+maintenance monitoring plan for evaluating the effectiveness of the maintenance program.
+As examples, Class D applies to structures, systems, and components not included in Class A, B
+or C that provide the following functions:
+• Provide core or containment cooling which prevents challenges to the passive core cooling
+system and the passive containment cooling system
+• Process, extract, encase, store or reuse radioactive fluid or waste
+• Verify that plant operating conditions are within technical specification limits
+• Provide permanent shielding for post accident access to Class A, B or C structures, systems,
+and components or of offsite personnel
+• Handle spent fuel, the failure of which could result in fuel damage such that limited
+quantities of radioactive material could be released from the fuel (for example, fuel handling
+machine, spent fuel handling tool, new and spent fuel racks)
+• Protect Class B or C structures, systems, and components necessary to attain or maintain safe
+shutdown following fire
+• Indicate the status of protection system bypasses that are not automatically removed as a part
+of the protection system operation
+• Aid in determining the cause or consequences of an event for post-accident investigation
+• Prevent interaction that could result in preventing Class A, B or C structures, systems, and
+components from performing required safety-related functions
+• Limit the buildup of hydrogen in the containment atmosphere to acceptable values
+Tier 2 Material 3.2-10 Revision 19
+
+3. Design of Structures, Components,
+Equipment and Systems AP1000 Design Control Document
+3.2.2.7 Other Equipment Classes
+Equipment classes E, F, G, L, P, R, and W are nonsafety-related. They apply to structures,
+systems, and components not covered in the above classes. They have no safety-related function to
+perform. They do not contain sufficient radioactive material that a release could exceed applicable
+limits.
+Structures, systems, and components that do not normally contain radioactive fluids, gases, or
+solids but have the potential to become radioactively contaminated are classified as one of these
+nonsafety-related classes if all of the following criteria are satisfied:
+• The system is only potentially radioactive and does not normally contain radioactive material,
+and
+• The system has shown in plant operations that the operation with the system containing
+radioactive material meets or can meet unrestricted area release limits, and
+• An evaluation of the system confirms that the system contains features and components that
+keep the consequences of a system failure as low as reasonably achievable, and
+• The system has no other regulatory guidance requiring its inclusion in Classes A, B, C or D.
+This review of the system features and components includes the following as a minimum:
+• Features and components that control and limit the radioactive contamination in the system
+• Features that facilitate an expeditious cleanup should the system become contaminated
+• Features and components that limit and control the radiological consequences of a potential
+system failure
+• The means by which the system prevents propagation to an event of greater consequence.
+There are no special quality assurance requirements for Class E, F, G, L, P, R, and W structures,
+systems, and components. Unless specifically specified, 10 CFR Part 21 and Part 50, Appendix B
+do not apply. The systems and components are normally not designed for seismic loading.
+However, there may be special cases where some seismic design is required. See subsection 3.2.1
+for more details.
+Structures, systems, and components are designed in accordance with an industry standard at the
+discretion of the designer. The following provides examples of industry standards which may be
+used for these classes:
+Class E – This class is used for nonsafety-related structures, systems, and components that do not
+have a specialized industry standard or classification, as noted in the following classes.
+Class F and G – These classes are used for Fire Protection Systems. They comply with National
+Fire Protection Association Codes which invoke ANSI B31.1 (Reference 5), AWWA (American
+Tier 2 Material 3.2-11 Revision 19
+
+3. Design of Structures, Components,
+Equipment and Systems AP1000 Design Control Document
+Water Works Association), API (American Petroleum Institute), Underwriters Laboratories (UL),
+and other codes, depending on service. See subsection 9.5.1 for quality assurance requirements for
+fire protection structures, systems, and components. Portions of fire protection systems that protect
+safety-related SSCs are designated as AP1000 equipment Class F, which meets the requirements
+of ANSI B31-1 and requires seismic analysis.
+Class L – This class is used in heating, ventilation and air-conditioning systems. It complies with
+SMACNA - 1985 (Reference 16). Components may also be procured to AMCA and ASHRAE
+standards.
+Class P – This class is used for plumbing equipment. It complies with the National Plumbing
+Code (Reference 17).
+Class R – This class is for air cleaning units and components that may be required to contain,
+clean, or exclude radioactively contaminated air. It complies with ASME 509 (Reference 18).
+When used with 10 CFR Part 50 Appendix B quality assurance, it is equivalent to Class C.
+Class W – This class complies with American Water Works Association guidelines with no
+specific quality assurance requirements.
+3.2.2.8 Instrumentation and Control Line Interface Criteria
+Class C instrumentation, as defined in subsection 3.2.2.5 have a safety-related equipment class
+pressure boundary including the sensing line, valves and instrument sensor. The pressure
+boundary is the same safety-related equipment class as the systems or components it is connected
+to. Sensing lines connected to the reactor coolant system pressure boundary are Class B if a
+suitable flow restrictor is provided.
+The parts of the sensor, outside the pressure boundary, are designated Class C (1E) if they provide
+a safety-related function per subsection 3.2.2.1. They are Class D if the instrument supports
+Class D functions per subsection 3.2.2.6. Otherwise the parts are Class E.
+3.2.2.9 Electrical Classifications
+Safety-related electrical equipment is equipment Class C, as outlined in subsection 3.2.2.5, and is
+constructed to IEEE standards for Class 1E. The nonsafety-related electrical equipment and
+instrumentation is constructed to standards including non-Class 1E IEEE standards and National
+Electrical Manufacturers Association (NEMA) standards. Safety-related electrical equipment and
+instrumentation is identified in Section 3.11.
+3.2.3 Inspection Requirements
+Safety-related structures, systems, and components built to the requirements of the ASME Code,
+Section III, are required by 10 CFR 50.55a to have in-service inspections. The requirements of the
+in-service inspection program for ASME Code, Section III structures, systems, and components
+are found in Section XI of the ASME Code.
+The following ASME standards apply to safety-related structures, systems, and components:
+Tier 2 Material 3.2-12 Revision 19
+
+3. Design of Structures, Components,
+Equipment and Systems AP1000 Design Control Document
+• Pumps (Class A, B, C) – ASME OM Code, Subsection ISTB
+• Valves (Class A, B, C) – ASME OM Code, Subsection ISTC
+• Equipment supports (Class A, B, C) – ASME Code, Section XI, Subsection IWF
+• Metal containments and vessels – ASME Code, Section XI, Subsection IWE
+• Other Class A components such as pipes and tanks – ASME Code, Section XI,
+Subsection IWB
+• Other Class B components such as pipes and tanks – ASME Code, Section XI,
+Subsection IWC
+• Other Class C components such as pipes and tanks – ASME Code, Section XI,
+Subsection IWD.
+The inspection requirements, if applicable, for Class D structures, systems, and components are
+established by the designer for each structure, system, and component. These inspection
+requirements are developed so that the reliability of the structures, systems, and components is not
+degraded. The inspection requirements are included in the administratively controlled inspection
+or maintenance plans.
+3.2.4 Application of AP1000 Safety-Related Equipment and Seismic Classification System
+The application of the AP1000 equipment and seismic classification system to AP1000 systems
+and components is shown in Table 3.2-3. Table 3.2-3 lists safety-related and seismic Category I
+mechanical and fluid system component and associated equipment class and seismic category as
+well as other related information. The table also provides information on the systems that contain
+Class D components. Additional information on the Class D functions of the various systems can
+be found in the description in the Design Certification Document (DCD) for the systems.
+Mechanical and fluid systems that contain no safety-related or Class D systems are included in the
+table and general information provided on the system. Supports for piping and components have
+the same classification as the component or piping supported. Supports for AP1000 equipment
+Class A, B, and C mechanical components and piping are constructed to ASME Code, Section III,
+Subsection NF requirements. The principal construction code for supports for nonsafety-related
+components and piping is the same as that for the supported component or piping.
+Following the name of each system is the building location of the system components. Some of
+the systems supply all or most of the buildings. This is indicated by identifying the location as
+various. Where a system includes piping or ducts that only passed through a building without
+including any components that building is generally not included in the list.
+The following list includes the systems in Table 3.2-3. The three letters in the beginning of each
+line is the acronym for the system. The systems included in Table 3.2-3 are listed alphabetically by
+three letter acronym. Those systems marked with an asterisk * are electrical or instrumentation
+systems and are not included in Table 3.2-3. The components in the incore instrumentation system
+Tier 2 Material 3.2-13 Revision 19
+
+3. Design of Structures, Components,
+Equipment and Systems AP1000 Design Control Document
+that have a pressure boundary function are included in the table. See Section 3.11 for
+identification of safety-related electrical and instrumentation equipment.
+NSSS/Steam Generator Controls and Auxiliaries
+BDS Steam Generator Blowdown System
+CNS Containment System
+CVS Chemical and Volume Control System
+PCS Passive Containment Cooling System
+PXS Passive Core Cooling System
+RCS Reactor Coolant System
+RNS Normal Residual Heat Removal System
+RXS Reactor System
+SGS Steam Generator System
+Nuclear Control and Monitoring
+*DAS Diverse Actuation System
+IIS Incore Instrumentation System
+*OCS Operation and Control Centers
+*PMS Protection and Safety Monitoring System
+PSS Primary Sampling System
+*RMS Radiation Monitoring System
+*SJS Seismic Monitoring System
+*SMS Special Monitoring System
+Main Power Cycle and Auxiliaries
+CDS Condensate System
+CFS Turbine Island Chemical Feed System
+CPS Condensate Polishing System
+DTS Demineralized Water Treatment System
+DWS Demineralized Water Transfer and Storage System
+FWS Main and Startup Feedwater System
+GSS Gland Seal System
+HDS Heater Drain System
+MSS Main Steam System
+MTS Main Turbine System
+RWS Raw Water System
+TDS Turbine Island Vents, Drains and Relief System
+Class 1E and Emergency Power Systems
+*IDS Class 1E dc and UPS System
+Cooling and Circulating Water
+CCS Component Cooling Water System
+CES Condenser Tube Cleaning System
+CWS Circulating Water System
+SFS Spent Fuel Pit Cooling System
+SWS Service Water System
+Tier 2 Material 3.2-14 Revision 19
+
+3. Design of Structures, Components,
+Equipment and Systems AP1000 Design Control Document
+TCS Turbine Building Closed Cooling Water System
+Auxiliary Steam
+ASS Auxiliary Steam Supply System
+Generation and Transmission
+*ZAS Main Generation System
+*ZBS Transmission Switchyard and Offsite Power System
+*ZVS Excitation and Voltage Regulation System
+Radwaste
+WGS Gaseous Radwaste System
+WLS Liquid Radwaste System
+WRS Radioactive Waste Drain System
+WSS Solid Radwaste System
+HVAC
+VAS Radiologically Controlled Area Ventilation System
+VBS Nuclear Island Nonradioactive Ventilation System
+VCS Containment Recirculation Cooling System
+VES Main Control Room Emergency Habitability System
+VFS Containment Air Filtration System
+VHS Health Physics and Hot Machine Shop HVAC System
+VLS Containment Hydrogen Control System
+VRS Radwaste Building HVAC System
+VTS Turbine Building Ventilation System
+VUS Containment Leak Rate Test System
+VWS Central Chilled Water System
+VXS Annex/Auxiliary Nonradioactive Ventilation System
+VYS Hot Water Heating System
+VZS Diesel Generator Building Ventilation System
+Turbine-Generator Controls and Auxiliary
+CMS Condenser Air Removal System
+HCS Generator Hydrogen and CO Systems
+2
+HSS Hydrogen Seal Oil System
+LOS Main Turbine and Generator Lube Oil System
+*TOS Main Turbine Control and Diagnostics System
+Material Handling
+FHS Fuel Handling and Refueling System
+MHS Mechanical Handling System
+Piping Services
+CAS Compressed and Instrument Air Systems
+DOS Standby Diesel Fuel Oil System
+FPS Fire Protection System
+Tier 2 Material 3.2-15 Revision 19
+
+3. Design of Structures, Components,
+Equipment and Systems AP1000 Design Control Document
+PGS Plant Gas Systems
+PWS Potable Water System
+Non-Class 1E Power Systems
+*ECS Main AC Power System
+*EDS Non-Class 1E dc and UPS System
+ZOS Onsite Standby Power System
+*ZRS Offsite Retail Power System
+Miscellaneous Electrical Systems
+*EFS Communication Systems
+*EGS Grounding and Lightning Protection System
+*EHS Special Process Heat Tracing System
+*ELS Plant Lighting System
+*EQS Cathodic Protection System
+Non-Nuclear Controls and Monitoring
+*DDS Data Display and Processing System
+*MES Meteorological and Environmental Monitoring System
+*PLS Plant Control System
+*SES Plant Security System
+SSS Secondary Sampling System
+*TVS Closed Circuit TV System
+Non-Radioactive Drains
+DRS Storm Drain System
+RDS Gravity and Roof Drain Collection System
+SDS Sanitary Drainage System
+WWS Waste Water System
+Those systems marked with an asterisk (*) are electrical or instrumentation systems and are not
+included in Table 3.2-3.
+3.2.5 Combined License Information
+This section contains no requirement for additional information to be provided in support of the
+Combined License application.
+3.2.6 References
+1. ANSI N18.2a-75, “Nuclear Safety Criteria for the Design of Stationary Pressurized Water
+Reactor Plants.”
+2. ANS/ANSI 51.1-83, “Nuclear Safety Criteria for the Design of Stationary Pressurized Water
+Reactor Plants.”
+3. IEEE 323-74, “IEEE Standard for Qualifying Class 1E Equipment for Nuclear Power
+Generating Stations.”
+Tier 2 Material 3.2-16 Revision 19

@@ -1,0 +1,13 @@
+# NRC source PDFs (~99 MB) — rerun scripts/download_all.sh to fetch
+data/raw/*.pdf
+data/raw/*.html
+
+# cloned external repos and large source PDFs
+data/external/TIMCAT/
+data/external/osti_2371533.pdf
+data/external/INL-RPT-24-77048-R1.xlsx
+
+# local
+__pycache__/
+_tmp_check.js
+~$*.xlsx

@@ -1,0 +1,751 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>AP1000 Component Atlas</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --bg:#F2F4F6; --surface:#FCFCFB; --surface-2:#E9EDF0; --line:#C9D1D8; --line-soft:#DDE3E8;
+  --ink:#1B2430; --ink-2:#4A5560; --ink-3:#7A848E;
+  --accent:#2F6FA8; --accent-ink:#245685; --accent-soft:#DCE8F2;
+  --cA:#2a78d6; --cB:#eb6834; --cC:#1baf7a; --cD:#eda100; --cO:#e87ba4;
+  --sel:#B54031;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#14181D; --surface:#1B2129; --surface-2:#232B34; --line:#3A4550; --line-soft:#2C353F;
+    --ink:#E8ECF0; --ink-2:#AEB8C2; --ink-3:#79838D;
+    --accent:#5D9BD4; --accent-ink:#85B5E2; --accent-soft:#24303C;
+    --cA:#3987e5; --cB:#d95926; --cC:#199e70; --cD:#c98500; --cO:#d55181;
+    --sel:#E06A58;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#14181D; --surface:#1B2129; --surface-2:#232B34; --line:#3A4550; --line-soft:#2C353F;
+  --ink:#E8ECF0; --ink-2:#AEB8C2; --ink-3:#79838D;
+  --accent:#5D9BD4; --accent-ink:#85B5E2; --accent-soft:#24303C;
+  --cA:#3987e5; --cB:#d95926; --cC:#199e70; --cD:#c98500; --cO:#d55181;
+  --sel:#E06A58;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.5 "IBM Plex Sans",system-ui,sans-serif;padding-inline:0}
+.wrap{max-width:1480px;margin:0 auto;padding-inline:16px}
+a{color:var(--accent-ink)}
+button{font:inherit;color:inherit}
+
+/* ---- title block ---- */
+header{border-bottom:2px solid var(--ink);background:var(--surface)}
+.tb{display:flex;flex-wrap:wrap;align-items:stretch;gap:0}
+.tb-name{padding:14px 20px 12px 0;border-right:1px solid var(--line);flex:1 1 300px;min-width:260px}
+.tb-name h1{margin:0;font:700 30px/1 "Barlow Condensed",sans-serif;letter-spacing:.02em;text-transform:uppercase}
+.tb-name .sub{color:var(--ink-2);font-size:12.5px;margin-top:4px}
+.tb-stats{display:flex;flex-wrap:wrap}
+.stat{padding:12px 20px;border-right:1px solid var(--line);min-width:104px}
+.stat b{display:block;font:600 24px/1.1 "Barlow Condensed",sans-serif;font-variant-numeric:tabular-nums}
+.stat span{font-size:10.5px;text-transform:uppercase;letter-spacing:.08em;color:var(--ink-3)}
+nav{display:flex;gap:2px;background:var(--surface);overflow-x:auto}
+nav button{appearance:none;border:none;background:none;padding:9px 16px 7px;cursor:pointer;
+  font:600 13px/1 "IBM Plex Sans",sans-serif;letter-spacing:.04em;text-transform:uppercase;
+  color:var(--ink-2);border-bottom:3px solid transparent;white-space:nowrap}
+nav button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+nav button:focus-visible{outline:2px solid var(--accent);outline-offset:-2px}
+
+main{padding-block:16px 40px}
+.panel[hidden]{display:none!important}
+
+/* ---- model panel ---- */
+.model-grid{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:16px}
+@media (max-width:900px){.model-grid{grid-template-columns:1fr}}
+.viewport{position:relative;background:var(--surface);border:1px solid var(--line);min-height:340px;height:min(66vh,720px)}
+.viewport canvas{display:block;width:100%;height:100%;touch-action:none}
+.v-label{position:absolute;transform:translate(-50%,-100%);pointer-events:none;
+  font:500 10.5px/1.2 "IBM Plex Mono",monospace;color:var(--ink-2);
+  background:color-mix(in srgb, var(--surface) 82%, transparent);
+  border:1px solid var(--line-soft);padding:1px 5px;white-space:nowrap}
+.v-controls{position:absolute;top:10px;left:10px;display:flex;flex-direction:column;gap:6px;
+  background:color-mix(in srgb, var(--surface) 92%, transparent);border:1px solid var(--line);
+  padding:10px 12px;font-size:12px;max-width:230px}
+.v-controls label{display:flex;align-items:center;gap:6px;cursor:pointer}
+.v-controls input[type=range]{width:110px;accent-color:var(--accent)}
+.v-controls input[type=checkbox]{accent-color:var(--accent)}
+.v-hint{position:absolute;right:10px;bottom:8px;font-size:11px;color:var(--ink-3);pointer-events:none}
+.inspector{background:var(--surface);border:1px solid var(--line);padding:16px;overflow:auto;max-height:min(66vh,720px)}
+.inspector h2{margin:0 0 2px;font:600 20px/1.1 "Barlow Condensed",sans-serif;text-transform:uppercase;letter-spacing:.02em}
+.inspector .kind{font-size:10.5px;text-transform:uppercase;letter-spacing:.08em;color:var(--ink-3)}
+.inspector p{color:var(--ink-2);font-size:13px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0}
+.chip{font:500 11px/1 "IBM Plex Mono",monospace;border:1px solid var(--line);padding:4px 7px;background:var(--surface-2)}
+.i-list{margin:8px 0 0;padding:0;list-style:none}
+.i-list li{padding:7px 0;border-top:1px solid var(--line-soft);font-size:12.5px}
+.i-list .tag{font:500 11.5px "IBM Plex Mono",monospace;color:var(--accent-ink)}
+.browse-btn{display:inline-block;margin-top:12px;background:var(--accent);color:#fff;border:none;padding:8px 14px;cursor:pointer;font-weight:600;font-size:12.5px}
+
+/* ---- filter bar & table ---- */
+.filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px;align-items:center}
+.filters input[type=search],.filters select{background:var(--surface);border:1px solid var(--line);color:var(--ink);
+  padding:8px 10px;font:inherit;font-size:13px;min-width:0}
+.filters input[type=search]{flex:1 1 220px}
+.filters select{max-width:230px}
+.filters .count{margin-left:auto;font-size:12.5px;color:var(--ink-2);font-variant-numeric:tabular-nums}
+.filters .clear{background:none;border:1px solid var(--line);padding:8px 10px;cursor:pointer;font-size:12.5px;color:var(--ink-2)}
+.tbl-wrap{overflow-x:auto;background:var(--surface);border:1px solid var(--line)}
+table{border-collapse:collapse;width:100%;font-size:12.8px}
+th,td{text-align:left;padding:7px 10px;border-bottom:1px solid var(--line-soft);vertical-align:top}
+th{font-size:10.5px;text-transform:uppercase;letter-spacing:.07em;color:var(--ink-3);
+  position:sticky;top:0;background:var(--surface);cursor:pointer;user-select:none;white-space:nowrap}
+th:hover{color:var(--ink)}
+tbody tr{cursor:pointer}
+tbody tr:hover{background:var(--accent-soft)}
+td.tag{font:500 12px "IBM Plex Mono",monospace;white-space:nowrap}
+.badge{display:inline-block;font:600 10.5px/1 "IBM Plex Sans",sans-serif;padding:3px 6px;border-radius:2px;color:#fff}
+.b-A{background:var(--cA)}.b-B{background:var(--cB)}.b-C{background:var(--cC)}
+.b-D{background:var(--cD);color:#1B2430}.b-O{background:var(--cO);color:#1B2430}
+.b-none{background:var(--surface-2);color:var(--ink-2);border:1px solid var(--line)}
+
+/* ---- detail drawer ---- */
+.drawer{position:fixed;inset:auto 0 0 0;max-height:72vh;overflow:auto;background:var(--surface);
+  border-top:2px solid var(--ink);padding:18px 20px calc(20px + env(safe-area-inset-bottom,0px));z-index:40;
+  box-shadow:0 -8px 30px rgba(0,0,0,.25)}
+@media (min-width:900px){.drawer{inset:0 0 0 auto;width:430px;max-height:none;border-top:none;border-left:2px solid var(--ink);
+  padding-top:calc(18px + env(safe-area-inset-top,0px))}}
+.drawer h3{margin:0;font:600 22px/1.1 "Barlow Condensed",sans-serif}
+.drawer .tagline{font:500 13px "IBM Plex Mono",monospace;color:var(--accent-ink);margin:2px 0 10px}
+.drawer dl{display:grid;grid-template-columns:150px 1fr;gap:4px 12px;margin:12px 0;font-size:12.8px}
+.drawer dt{color:var(--ink-3)}
+.drawer dd{margin:0}
+.drawer .close{position:absolute;top:10px;right:12px;background:none;border:1px solid var(--line);
+  width:30px;height:30px;cursor:pointer;font-size:15px;color:var(--ink-2)}
+
+/* ---- systems ---- */
+.classbar{display:flex;flex-direction:column;gap:8px;background:var(--surface);border:1px solid var(--line);padding:16px;margin-bottom:16px;max-width:680px}
+.classbar h3{margin:0 0 4px;font:600 17px/1 "Barlow Condensed",sans-serif;text-transform:uppercase;letter-spacing:.03em}
+.cb-row{display:grid;grid-template-columns:170px 1fr 60px;gap:10px;align-items:center;font-size:12.5px}
+.cb-row .bar{height:14px;border-radius:0 4px 4px 0;min-width:2px}
+.cb-row .num{font-variant-numeric:tabular-nums;text-align:right;color:var(--ink-2)}
+.cb-note{font-size:11.5px;color:var(--ink-3);margin-top:6px}
+
+/* ---- documents ---- */
+.doc-list{list-style:none;margin:0;padding:0;background:var(--surface);border:1px solid var(--line)}
+.doc-list li{padding:9px 14px;border-bottom:1px solid var(--line-soft);font-size:13px;display:flex;gap:12px;flex-wrap:wrap}
+.doc-list .ml{font:500 12px "IBM Plex Mono",monospace;color:var(--ink-3);flex:0 0 110px}
+
+/* ---- about ---- */
+.prose{max-width:72ch;background:var(--surface);border:1px solid var(--line);padding:22px 24px}
+.prose h2{font:600 22px/1.1 "Barlow Condensed",sans-serif;text-transform:uppercase;letter-spacing:.02em;margin:22px 0 8px}
+.prose h2:first-child{margin-top:0}
+.prose table{font-size:12.5px;margin:10px 0}
+.prose code{font:12px "IBM Plex Mono",monospace;background:var(--surface-2);padding:1px 4px}
+.loading{padding:60px 20px;text-align:center;color:var(--ink-2)}
+@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="tb">
+      <div class="tb-name">
+        <h1>AP1000 Component Atlas</h1>
+        <div class="sub">Westinghouse AP1000 · Design Control Document Rev. 19 · NRC ADAMS ML11171A500</div>
+      </div>
+      <div class="tb-stats" id="stats"></div>
+    </div>
+  </div>
+  <div class="wrap"><nav id="tabs" role="tablist">
+    <button role="tab" aria-selected="true" data-tab="model">3D Model</button>
+    <button role="tab" aria-selected="false" data-tab="components">Components</button>
+    <button role="tab" aria-selected="false" data-tab="systems">Systems</button>
+    <button role="tab" aria-selected="false" data-tab="documents">Documents</button>
+    <button role="tab" aria-selected="false" data-tab="about">About &amp; Sources</button>
+  </nav></div>
+</header>
+
+<main class="wrap">
+  <div id="loading" class="loading">Loading component database…</div>
+
+  <section class="panel" id="panel-model" hidden>
+    <div class="model-grid">
+      <div class="viewport" id="viewport">
+        <div class="v-controls">
+          <label><input type="checkbox" id="ck-shield" checked> Shield &amp; aux buildings</label>
+          <label><input type="checkbox" id="ck-cv" checked> Containment vessel</label>
+          <label><input type="checkbox" id="ck-labels" checked> Labels</label>
+          <label>Building opacity <input type="range" id="rg-op" min="8" max="100" value="34"></label>
+        </div>
+        <div class="v-hint">drag to orbit · scroll to zoom · click a part</div>
+      </div>
+      <aside class="inspector" id="inspector"></aside>
+    </div>
+  </section>
+
+  <section class="panel" id="panel-components" hidden>
+    <div class="filters">
+      <input type="search" id="f-q" placeholder="Search tag or description…" aria-label="Search components">
+      <select id="f-sys" aria-label="Filter by system"></select>
+      <select id="f-bldg" aria-label="Filter by building"></select>
+      <select id="f-class" aria-label="Filter by AP1000 class"></select>
+      <select id="f-seis" aria-label="Filter by seismic category"></select>
+      <button class="clear" id="f-clear">Clear</button>
+      <span class="count" id="f-count"></span>
+    </div>
+    <div class="tbl-wrap" style="max-height:70vh;overflow:auto">
+      <table id="ctable">
+        <thead><tr>
+          <th data-k="tag">Tag</th><th data-k="description">Description</th>
+          <th data-k="system_code">System</th><th data-k="ap1000_class">Class</th>
+          <th data-k="seismic_category">Seismic</th><th data-k="construction_code">Code</th>
+          <th data-k="location">Location</th>
+        </tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="panel" id="panel-systems" hidden>
+    <div class="classbar" id="classbar"></div>
+    <div class="tbl-wrap">
+      <table id="stable">
+        <thead><tr><th>Code</th><th>System</th><th>Buildings</th><th style="text-align:right">Components</th><th>By class</th><th>Notes</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="panel" id="panel-documents" hidden>
+    <div class="filters">
+      <input type="search" id="d-q" placeholder="Search document titles…" aria-label="Search documents">
+      <span class="count" id="d-count"></span>
+    </div>
+    <ul class="doc-list" id="dlist"></ul>
+  </section>
+
+  <section class="panel" id="panel-about" hidden>
+    <div class="prose" id="about"></div>
+  </section>
+</main>
+
+<div class="drawer" id="drawer" hidden></div>
+
+<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/build/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+<script>
+"use strict";
+let DB=null;
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt=n=>n.toLocaleString("en-US");
+
+/* ---------- tabs ---------- */
+const tabs=$("#tabs");
+function showTab(name){
+  tabs.querySelectorAll("button").forEach(b=>b.setAttribute("aria-selected",String(b.dataset.tab===name)));
+  document.querySelectorAll(".panel").forEach(p=>{p.hidden=(p.id!=="panel-"+name);});
+  try{history.replaceState(null,"","#"+name);}catch(e){}
+  if(name==="model") requestAnimationFrame(()=>{resize3d();});
+}
+tabs.addEventListener("click",e=>{const b=e.target.closest("button");if(b)showTab(b.dataset.tab);});
+
+/* ---------- class helpers ---------- */
+function classBucket(c){
+  if(!c) return "none";
+  const u=c.trim().toUpperCase();
+  if(u==="A"||u==="B"||u==="C"||u==="D") return u;
+  return "O";
+}
+function classBadge(c){
+  const b=classBucket(c);
+  if(b==="none") return '<span class="badge b-none">Tier 1</span>';
+  return `<span class="badge b-${b}">${esc(c)}</span>`;
+}
+
+/* ---------- state & filtering ---------- */
+const state={q:"",sys:"",bldg:"",cls:"",seis:"",sortK:"tag",sortDir:1};
+function filtered(){
+  const q=state.q.toLowerCase();
+  return DB.components.filter(c=>{
+    if(state.sys && c.system_code!==state.sys) return false;
+    if(state.bldg && !(c.buildings||[]).includes(state.bldg)) return false;
+    if(state.cls){
+      if(state.cls==="safety"){ if(!["A","B","C"].includes(classBucket(c.ap1000_class))) return false; }
+      else if(classBucket(c.ap1000_class)!==state.cls) return false;
+    }
+    if(state.seis && (c.seismic_category||"")!==state.seis) return false;
+    if(q && !((c.tag||"").toLowerCase().includes(q)||(c.description||"").toLowerCase().includes(q)||(c.system_name||"").toLowerCase().includes(q))) return false;
+    return true;
+  });
+}
+function renderTable(){
+  const rows=filtered();
+  const k=state.sortK,d=state.sortDir;
+  rows.sort((a,b)=>((a[k]||"")>(b[k]||"")?1:-1)*d);
+  $("#f-count").textContent=`${fmt(rows.length)} of ${fmt(DB.components.length)} components`;
+  const tb=$("#ctable tbody");
+  tb.innerHTML=rows.map((c,i)=>`<tr data-i="${DB.components.indexOf(c)}">
+    <td class="tag">${esc(c.tag)}</td><td>${esc(c.description)}</td>
+    <td><span title="${esc(c.system_name)}">${esc(c.system_code||"")}</span></td>
+    <td>${classBadge(c.ap1000_class)}</td><td>${esc(c.seismic_category||"–")}</td>
+    <td>${esc(c.construction_code||"–")}</td><td>${esc(c.location||"–")}</td></tr>`).join("");
+}
+function bindFilters(){
+  $("#f-q").addEventListener("input",e=>{state.q=e.target.value;renderTable();});
+  $("#f-sys").addEventListener("change",e=>{state.sys=e.target.value;renderTable();});
+  $("#f-bldg").addEventListener("change",e=>{state.bldg=e.target.value;renderTable();});
+  $("#f-class").addEventListener("change",e=>{state.cls=e.target.value;renderTable();});
+  $("#f-seis").addEventListener("change",e=>{state.seis=e.target.value;renderTable();});
+  $("#f-clear").addEventListener("click",()=>{
+    state.q=state.sys=state.bldg=state.cls=state.seis="";
+    $("#f-q").value="";["f-sys","f-bldg","f-class","f-seis"].forEach(id=>{document.getElementById(id).value="";});
+    renderTable();
+  });
+  $("#ctable thead").addEventListener("click",e=>{
+    const th=e.target.closest("th"); if(!th)return;
+    const k=th.dataset.k;
+    if(state.sortK===k) state.sortDir*=-1; else {state.sortK=k;state.sortDir=1;}
+    renderTable();
+  });
+  $("#ctable tbody").addEventListener("click",e=>{
+    const tr=e.target.closest("tr"); if(!tr)return;
+    openDrawer(DB.components[+tr.dataset.i]);
+  });
+}
+function gotoComponents(f){
+  Object.assign(state,{q:"",sys:"",bldg:"",cls:"",seis:""},f||{});
+  $("#f-q").value=state.q;
+  $("#f-sys").value=state.sys;$("#f-bldg").value=state.bldg;
+  $("#f-class").value=state.cls;$("#f-seis").value=state.seis;
+  renderTable(); showTab("components");
+}
+
+/* ---------- detail drawer ---------- */
+const T1_LABELS={tier1_asme_III:"ASME III (Tier 1)",tier1_seismic_cat_I:"Seismic Cat. I (Tier 1)",
+  tier1_class_1E_harsh:"Class 1E / harsh env.",tier1_remote_valve:"Remotely operated valve",
+  tier1_active_function:"Active safety function",tier1_safety_display:"Safety-related display",
+  tier1_loss_power_position:"Loss-of-power position",tier1_location:"Location (Tier 1)",
+  tier1_control_pms_das:"Control: PMS/DAS",tier1_control_pms:"Control: PMS",tier1_other:"Other Tier 1 attributes"};
+function openDrawer(c){
+  const dr=$("#drawer");
+  let rows="";
+  const add=(k,v)=>{if(v)rows+=`<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`;};
+  add("System",`${c.system_name||""} (${c.system_code||"?"})`);
+  add("Location",c.location);
+  add("Buildings",(c.buildings||[]).join(", "));
+  add("AP1000 class",c.ap1000_class||"(not in Table 3.2-3 — Tier 1 item)");
+  add("Seismic category",c.seismic_category);
+  add("Construction code",c.construction_code);
+  add("Comments",c.comments);
+  for(const[k,label]of Object.entries(T1_LABELS)) add(label,c[k]);
+  add("In Table 3.2-3",c.in_table_3_2_3?"Yes":"No");
+  add("In Tier 1 ITAAC",c.in_tier1?`Yes (${c.tier1_table||""})`:"No");
+  const mls=(c.source.match(/ML\d{8}[A-Z]\d{3}/g)||[]);
+  const links=mls.map(ml=>`<a href="https://www.nrc.gov/docs/${ml.slice(0,6)}/${ml}.pdf" target="_blank" rel="noopener">${ml}</a>`).join(" · ");
+  dr.innerHTML=`<button class="close" aria-label="Close">✕</button>
+    <h3>${esc(c.description||c.tag)}</h3><div class="tagline">${esc(c.tag)}</div>
+    <div>${classBadge(c.ap1000_class)}</div>
+    <dl>${rows}</dl>
+    <div style="font-size:12px;color:var(--ink-3)">Source: ${esc(c.source)}<br>${links}</div>`;
+  dr.hidden=false;
+  dr.querySelector(".close").addEventListener("click",()=>{dr.hidden=true;});
+}
+document.addEventListener("keydown",e=>{if(e.key==="Escape")$("#drawer").hidden=true;});
+
+/* ---------- systems ---------- */
+function renderSystems(){
+  const counts={A:0,B:0,C:0,D:0,O:0,none:0};
+  DB.components.forEach(c=>counts[classBucket(c.ap1000_class)]++);
+  const rows=[["Class A — ASME III-1 / SC-1",counts.A,"var(--cA)","A"],
+    ["Class B — ASME III-2 / SC-2",counts.B,"var(--cB)","B"],
+    ["Class C — ASME III-3 / SC-3",counts.C,"var(--cC)","C"],
+    ["Class D — nonsafety, Quality Gp D",counts.D,"var(--cD)","D"],
+    ["Other classes (E, F, L, P, R, W…)",counts.O,"var(--cO)","O"],
+    ["Tier 1 only (no 3.2-3 class)",counts.none,"var(--line)","none"]];
+  const max=Math.max(...rows.map(r=>r[1]));
+  $("#classbar").innerHTML=`<h3>Components by AP1000 equipment class</h3>`+rows.map(([l,n,c,key])=>
+    `<div class="cb-row" role="button" tabindex="0" data-cls="${key}" style="cursor:pointer">
+      <span>${l}</span><span class="bar" style="width:${(100*n/max).toFixed(1)}%;background:${c}"></span>
+      <span class="num">${fmt(n)}</span></div>`).join("")+
+    `<div class="cb-note">Classes A–C are safety-related (10 CFR 50 App. B QA). Click a row to browse. Turbine-island systems classified wholesale as Class E appear under system notes, not as itemized rows.</div>`;
+  $("#classbar").addEventListener("click",e=>{
+    const r=e.target.closest(".cb-row"); if(!r)return;
+    gotoComponents({cls:r.dataset.cls});
+  });
+  const tb=$("#stable tbody");
+  const sys=[...DB.systems].sort((a,b)=>b.component_count-a.component_count);
+  tb.innerHTML=sys.map(s=>{
+    const cc=Object.entries(s.class_counts||{}).filter(([k])=>k!=="(Tier 1 only)")
+      .map(([k,v])=>`${k}:${v}`).join(" ");
+    return `<tr data-code="${esc(s.code)}"><td class="tag">${esc(s.code)}</td><td>${esc(s.name)}</td>
+      <td>${esc((s.buildings||[]).join(", ")||s.location||"")}</td>
+      <td style="text-align:right;font-variant-numeric:tabular-nums">${fmt(s.component_count)}</td>
+      <td style="font:11.5px 'IBM Plex Mono',monospace">${esc(cc)}</td>
+      <td style="font-size:12px;color:var(--ink-2)">${esc(s.notes||"")}</td></tr>`;
+  }).join("");
+  tb.addEventListener("click",e=>{
+    const tr=e.target.closest("tr"); if(!tr)return;
+    gotoComponents({sys:tr.dataset.code});
+  });
+}
+
+/* ---------- documents ---------- */
+function renderDocs(){
+  const q=($("#d-q").value||"").toLowerCase();
+  const docs=DB.documents.filter(d=>!q||d.title.toLowerCase().includes(q)||d.ml.toLowerCase().includes(q));
+  $("#d-count").textContent=`${fmt(docs.length)} of ${fmt(DB.documents.length)} documents`;
+  $("#dlist").innerHTML=docs.map(d=>`<li><span class="ml">${esc(d.ml)}</span>
+    <a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.title)}</a></li>`).join("");
+}
+
+/* ---------- about ---------- */
+function renderAbout(){
+  const cd=DB.class_definitions.map(r=>`<tr><td><b>${esc(r.ap1000_class)}</b></td><td>${esc(r.ans_safety_class)}</td>
+    <td>${esc(r.seismic)}</td><td>${esc(r.asme_iii_class)}</td><td>${esc(r.quality_group)}</td><td>${esc(r.appendix_b)}</td></tr>`).join("");
+  $("#about").innerHTML=`
+  <h2>What this is</h2>
+  <p>A component-level atlas of the Westinghouse AP1000 pressurized water reactor, built entirely from public
+  U.S. Nuclear Regulatory Commission licensing records. The core dataset is <b>Table 3.2-3</b> of the
+  Design Control Document (DCD) Revision 19, Tier 2 — the certified classification of mechanical and fluid
+  system components — merged with the equipment tables of DCD <b>Tier 1</b> (the ITAAC design descriptions),
+  which add electrical, instrumentation and qualification attributes.</p>
+  <h2>Class crosswalk (Table 3.2-1)</h2>
+  <div style="overflow-x:auto"><table><thead><tr><th>AP1000 class</th><th>ANS safety class</th><th>Seismic</th>
+  <th>ASME III class</th><th>Quality group</th><th>10 CFR 50 App. B</th></tr></thead><tbody>${cd}</tbody></table></div>
+  <h2>Reading the data</h2>
+  <p>Classes A–C are safety-related and carry full nuclear QA; Class D covers nonsafety components with
+  regulatory oversight; the remaining letters (E, F, L, P, R, W) cover conventional-code equipment — most of
+  the turbine island is simply designated Class E without itemization. Tag numbers follow the
+  Westinghouse system-code convention (<code>SGS-MB-01A</code> = Steam Generator System, major vessel B, unit 01A).</p>
+  <h2>The 3D model</h2>
+  <p>The model is a <em>schematic</em> general-arrangement view drawn from the DCD's published dimensions
+  (Tier 2 §1.2 general plant description): a 39.6&nbsp;m inner-diameter steel containment vessel inside the
+  shield building, flanked by the auxiliary, annex, turbine, diesel-generator and radwaste buildings. It shows
+  where systems live and how major primary-loop components relate — it is not fabrication geometry, which
+  Westinghouse does not publish.</p>
+  <h2>Spreadsheet</h2>
+  <p><a href="AP1000_Component_Database.xlsx" download>Download the full Excel workbook</a> — the complete
+  component table with blank categorization columns for domestic-content work, plus systems, structures,
+  class definitions, the document index, and cost-account data from the supplementary sources below.</p>
+  <h2>Sources</h2>
+  <p>All 174 documents of NRC ADAMS package
+  <a href="https://www.nrc.gov/docs/ML1117/ML11171A500.html" target="_blank" rel="noopener">ML11171A500</a>
+  (AP1000 DCD Rev. 19, June 2011) — browsable under the Documents tab. Extraction: automated table parsing
+  of ML11171A425 (Tier 2 §3.2) and the seven Tier 1 Chapter 2 section files, with column-shift repairs;
+  see the repository's <code>scripts/</code> directory. Data errors are possible — verify against the source
+  PDF (linked from every component) before relying on a value.</p>
+  <p>Supplementary cost-account data (in the Excel workbook):
+  <a href="https://github.com/mit-crpg/TIMCAT" target="_blank" rel="noopener">MIT TIMCAT</a> — EEDB
+  code-of-accounts construction cost model whose factory-equipment vs. site-labor split supports
+  manufactured-content analysis, including an AP1000-surrogate input model; and
+  <a href="https://www.osti.gov/biblio/2371533" target="_blank" rel="noopener">INL/RPT-24-77048</a>
+  (GAIN meta-analysis of advanced reactor costs, 2024) with three per-account AP1000 cost estimates.</p>
+  <p style="font-size:12px;color:var(--ink-3)">Built for domestic-content supply chain analysis.
+  Not affiliated with Westinghouse or the NRC.</p>`;
+}
+
+/* ============ 3D MODEL ============ */
+let scene,camera,renderer,controls,raycaster,pickables=[],labels=[],hovered=null,selected=null;
+const BLDG_INFO={
+  "Containment":{blurb:"Steel containment vessel, 39.6 m ID × 65.6 m — houses the entire reactor coolant system and passive core cooling equipment."},
+  "Shield Building":{blurb:"Reinforced-concrete shield building around the containment vessel; its roof carries the 2,900 m³ passive containment cooling water tank."},
+  "Auxiliary Building":{blurb:"Seismic Category I building wrapping the shield building — fuel handling, CVS, normal RHR, spent fuel pool, main control room, I&C and 1E electrical rooms."},
+  "Annex Building":{blurb:"Personnel access, non-1E electrical, ancillary diesel generators, hot machine shop."},
+  "Turbine Building":{blurb:"Turbine-generator, condensate, feedwater and other Class E power-conversion systems."},
+  "Diesel Generator Building":{blurb:"Two onsite standby diesel generators and fuel-oil systems."},
+  "Radwaste Building":{blurb:"Liquid and solid radwaste processing."},
+  "Yard":{blurb:"Yard structures: circulating water, switchyard interface, storage tanks."}
+};
+const SYS_OF_MESH={};   // mesh.uuid -> {systems:[...], building}
+function mat(color,opacity){
+  const m=new THREE.MeshLambertMaterial({color});
+  if(opacity!==undefined){m.transparent=true;m.opacity=opacity;}
+  return m;
+}
+function addMesh(geom,material,pos,ud){
+  const m=new THREE.Mesh(geom,material);
+  m.position.set(...pos);
+  m.userData=ud||{};
+  scene.add(m);
+  if(ud&&ud.label!==undefined) pickables.push(m);
+  return m;
+}
+function addLabel(text,pos){
+  const el=document.createElement("div");
+  el.className="v-label";el.textContent=text;
+  $("#viewport").appendChild(el);
+  labels.push({el,pos:new THREE.Vector3(...pos)});
+}
+function build3d(){
+  const vp=$("#viewport");
+  scene=new THREE.Scene();
+  camera=new THREE.PerspectiveCamera(45,1,1,4000);
+  camera.position.set(150,110,190);
+  renderer=new THREE.WebGLRenderer({antialias:true,alpha:true});
+  renderer.setPixelRatio(Math.min(devicePixelRatio,2));
+  vp.insertBefore(renderer.domElement,vp.firstChild);
+  controls=new THREE.OrbitControls(camera,renderer.domElement);
+  controls.target.set(0,22,0);
+  controls.maxPolarAngle=Math.PI/2-0.02;
+  controls.enableDamping=true;controls.dampingFactor=0.08;
+  controls.minDistance=40;controls.maxDistance=700;
+  scene.add(new THREE.HemisphereLight(0xdfe8f2,0x5a534a,0.95));
+  const sun=new THREE.DirectionalLight(0xfff4e0,0.75);
+  sun.position.set(180,260,120);scene.add(sun);
+  raycaster=new THREE.Raycaster();
+
+  const isDark=matchMedia("(prefers-color-scheme: dark)").matches&&document.documentElement.dataset.theme!=="light"||document.documentElement.dataset.theme==="dark";
+  const ground=new THREE.Mesh(new THREE.PlaneGeometry(1200,1200),mat(isDark?0x232a31:0xdde2e5));
+  ground.rotation.x=-Math.PI/2;scene.add(ground);
+  const grid=new THREE.GridHelper(1200,60,isDark?0x39434d:0xc4ccd2,isDark?0x2b333c:0xcfd6db);
+  grid.position.y=0.05;scene.add(grid);
+
+  const CONC=0x9aA0a4, CONC2=0xaab0b2, STEEL=0x7f8a94;
+  const opGroup=[]; // meshes affected by opacity slider
+  const OP=0.34;
+
+  /* --- shield building (cylinder + conical roof + PCS tank) --- */
+  const shield=addMesh(new THREE.CylinderGeometry(22,22,60,48,1,false),mat(CONC,OP),[0,30,0],
+    {label:"Shield Building",kind:"building",building:"Shield Building",systems:["PCS"]});
+  const shieldRoof=addMesh(new THREE.ConeGeometry(22,10,48),mat(CONC2,OP),[0,65,0],
+    {label:"Shield Building roof",kind:"building",building:"Shield Building",systems:["PCS"]});
+  const pcsTank=addMesh(new THREE.CylinderGeometry(9,9,7,32),mat(0x3d6f9e,0.92),[0,72,0],
+    {label:"PCS water tank",kind:"component",building:"Shield Building",systems:["PCS"],
+     blurb:"Passive containment cooling water storage tank — ~2,900 m³ gravity-drained onto the containment shell for 72-hour passive heat removal."});
+  addLabel("Shield building / PCS tank",[0,78,0]);
+  opGroup.push(shield,shieldRoof);
+
+  /* --- containment vessel --- */
+  const cvBody=addMesh(new THREE.CylinderGeometry(19.8,19.8,47,48,1,true),mat(STEEL,0.28),[0,25.5,0],
+    {label:"Containment Vessel",kind:"building",building:"Containment",systems:["CNS"]});
+  const cvDome=addMesh(new THREE.SphereGeometry(19.8,48,24,0,Math.PI*2,0,Math.PI/2),mat(STEEL,0.28),[0,49,0],
+    {label:"Containment dome",kind:"building",building:"Containment",systems:["CNS"]});
+  const cvGroup=[cvBody,cvDome];
+  addLabel("Containment vessel (CNS)",[0,52,22]);
+
+  /* --- primary components inside containment --- */
+  const rpv=addMesh(new THREE.CylinderGeometry(2.3,2.3,11,32),mat(0x8c4a2f),[0,7.5,0],
+    {label:"Reactor Pressure Vessel",kind:"component",building:"Containment",systems:["RXS","RCS"],
+     blurb:"Reactor pressure vessel — 157-assembly core, ~11.7 m tall. System RXS; the reactor coolant pressure boundary is Class A / ASME III-1."});
+  addMesh(new THREE.SphereGeometry(2.3,32,16,0,Math.PI*2,0,Math.PI/2),mat(0x8c4a2f),[0,13,0],
+    {label:"RPV head",kind:"component",building:"Containment",systems:["RXS"],
+     blurb:"Integrated head package with 69 control rod drive mechanisms (RXS-MV-11Hxx series in the database)."});
+  addLabel("Reactor vessel (RXS)",[0,16,3]);
+  const sgPos=[[-9.5,0],[9.5,0]];
+  sgPos.forEach(([x,z],i)=>{
+    addMesh(new THREE.CylinderGeometry(2.8,2.5,20,32),mat(0x5d7ea3),[x,14,z],
+      {label:`Steam Generator ${i?"B":"A"}`,kind:"component",building:"Containment",systems:["SGS"],
+       blurb:"Delta-125 steam generator — 6.1 m upper-shell diameter, ~22.5 m tall (SGS-MB-01A/B, Class A). Two per plant."});
+    addMesh(new THREE.SphereGeometry(2.8,24,12,0,Math.PI*2,0,Math.PI/2),mat(0x5d7ea3),[x,24,z],
+      {label:`SG ${i?"B":"A"} head`,kind:"component",building:"Containment",systems:["SGS"],blurb:"Steam generator steam dome and outlet."});
+    // canned RCPs under channel head
+    [[x-1.7,z+1.4],[x+1.7,z+1.4]].forEach(([px,pz],j)=>{
+      addMesh(new THREE.SphereGeometry(1.5,20,14),mat(0x374c61),[px,3.2,pz],
+        {label:`Reactor Coolant Pump ${i?"B":"A"}${j+1}`,kind:"component",building:"Containment",systems:["RCS"],
+         blurb:"Canned-motor reactor coolant pump, mounted directly in the SG channel head — four per plant (RCS-MP-01A/B–02A/B, Class A). No shaft seals."});
+    });
+  });
+  addLabel("Steam generators + RCPs (SGS/RCS)",[-9.5,27,0]);
+  const prz=addMesh(new THREE.CylinderGeometry(1.4,1.4,11,24),mat(0xa06a35),[4.5,10.5,-8],
+    {label:"Pressurizer",kind:"component",building:"Containment",systems:["RCS"],
+     blurb:"Pressurizer, ~59.5 m³ — largest in PWR service (RCS-MV-02, Class A). Sets primary pressure at 15.5 MPa."});
+  addLabel("Pressurizer (RCS)",[4.5,17,-8]);
+  [[-6,-11],[6,-11]].forEach(([x,z],i)=>{
+    addMesh(new THREE.CylinderGeometry(2.0,2.0,6.5,24),mat(0x2e7d67),[x,4.5,z],
+      {label:`Core Makeup Tank ${i?"B":"A"}`,kind:"component",building:"Containment",systems:["PXS"],
+       blurb:"Core makeup tank — full-pressure borated water injection by gravity (PXS-MT-02A/B, Class A)."});
+    addMesh(new THREE.SphereGeometry(2.1,20,14),mat(0x35695e),[x+(i?4.5:-4.5),3.4,z+3.5],
+      {label:`Accumulator ${i?"B":"A"}`,kind:"component",building:"Containment",systems:["PXS"],
+       blurb:"Passive-injection accumulator, nitrogen-charged (PXS-MT-01A/B, Class C)."});
+  });
+  addLabel("Passive core cooling (PXS)",[0,8,-13]);
+  // IRWST — annular tank represented as a partial torus
+  const irwst=addMesh(new THREE.TorusGeometry(14.5,3.1,14,40,Math.PI*1.25),mat(0x2f6fa8,0.85),[0,5.2,0],
+    {label:"IRWST",kind:"component",building:"Containment",systems:["PXS"],
+     blurb:"In-containment refueling water storage tank — ~2,100 m³ annular tank; heat sink for passive RHR and source for gravity injection (PXS, Class C)."});
+  irwst.rotation.x=Math.PI/2;
+  // polar crane ring
+  const crane=addMesh(new THREE.TorusGeometry(17.5,0.5,10,48),mat(0xb0842f),[0,42,0],
+    {label:"Polar crane",kind:"component",building:"Containment",systems:["MHS"],
+     blurb:"Containment polar crane for SG/RPV-head handling (mechanical handling system MHS)."});
+  crane.rotation.x=Math.PI/2;
+
+  /* --- surrounding buildings --- */
+  function bldg(w,h,d,x,z,color,name,systems){
+    const m=addMesh(new THREE.BoxGeometry(w,h,d),mat(color,OP),[x,h/2,z],
+      {label:name,kind:"building",building:name,systems:systems||[]});
+    opGroup.push(m);
+    return m;
+  }
+  bldg(38,33,26,-2,33,CONC2,"Auxiliary Building");
+  bldg(26,33,30,-26,10,CONC2,"Auxiliary Building");
+  addLabel("Auxiliary building",[-14,35,26]);
+  bldg(42,17,34,36,32,0xb9ac96,"Annex Building");
+  addLabel("Annex building",[36,19,32]);
+  const tb=bldg(56,32,104,2,-84,0xb5bcc2,"Turbine Building");
+  addLabel("Turbine building",[2,34,-84]);
+  // turbine-generator train inside turbine hall (schematic)
+  const tgY=13;
+  addMesh(new THREE.CylinderGeometry(2.2,2.2,9,20),mat(0x6b5540),[2,tgY,-52],
+    {label:"HP Turbine",kind:"component",building:"Turbine Building",systems:["MTS"],
+     blurb:"High-pressure turbine (main turbine system MTS, Class E)."}).rotation.x=Math.PI/2;
+  [[-64],[-76],[-88]].forEach(([z],i)=>{
+    addMesh(new THREE.CylinderGeometry(3.1,3.1,10,20),mat(0x6b5540),[2,tgY,z],
+      {label:`LP Turbine ${i+1}`,kind:"component",building:"Turbine Building",systems:["MTS"],
+       blurb:"Low-pressure turbine stage — three per train, 1,800 rpm."}).rotation.x=Math.PI/2;
+  });
+  addMesh(new THREE.CylinderGeometry(2.6,2.6,12,20),mat(0x8f6a3a),[2,tgY,-101],
+    {label:"Generator",kind:"component",building:"Turbine Building",systems:["ZAS"],
+     blurb:"Main generator, ~1,200 MWe gross (main generation system ZAS)."}).rotation.x=Math.PI/2;
+  addMesh(new THREE.BoxGeometry(16,7,42),mat(0x54626e),[2,4,-72],
+    {label:"Condensers",kind:"component",building:"Turbine Building",systems:["CDS"],
+     blurb:"Main condensers beneath the LP turbines (condensate system CDS, Class E)."});
+  addLabel("Turbine-generator (MTS/ZAS)",[2,20,-72]);
+  bldg(30,12,20,-56,-30,0xb9ac96,"Diesel Generator Building");
+  addLabel("Diesel generator bldg (ZOS)",[-56,14,-30]);
+  bldg(34,12,24,-58,42,0xb9ac96,"Radwaste Building");
+  addLabel("Radwaste building (WLS/WSS)",[-58,14,42]);
+
+  /* --- controls wiring --- */
+  $("#ck-shield").addEventListener("change",e=>{opGroup.forEach(m=>m.visible=e.target.checked);});
+  $("#ck-cv").addEventListener("change",e=>{cvGroup.forEach(m=>m.visible=e.target.checked);});
+  $("#ck-labels").addEventListener("change",e=>{labels.forEach(l=>l.el.style.display=e.target.checked?"":"none");});
+  $("#rg-op").addEventListener("input",e=>{
+    const v=+e.target.value/100;
+    opGroup.forEach(m=>{m.material.opacity=v;m.material.transparent=v<0.999;});
+  });
+
+  /* --- picking --- */
+  let downXY=null;
+  renderer.domElement.addEventListener("pointerdown",e=>{downXY=[e.clientX,e.clientY];});
+  renderer.domElement.addEventListener("pointerup",e=>{
+    if(!downXY)return;
+    const dx=e.clientX-downXY[0],dy=e.clientY-downXY[1];downXY=null;
+    if(dx*dx+dy*dy>25)return; // drag, not click
+    const hit=pick(e);
+    if(hit){select(hit.object);}
+  });
+  renderer.domElement.addEventListener("pointermove",e=>{
+    const hit=pick(e);
+    if(hovered&&hovered!==(hit&&hit.object)){hovered.material.emissive?.setHex(0x000000);hovered=null;}
+    if(hit&&hit.object!==selected){hovered=hit.object;hovered.material.emissive?.setHex(0x30425a);}
+    renderer.domElement.style.cursor=hit?"pointer":"";
+  });
+  function pick(e){
+    const r=renderer.domElement.getBoundingClientRect();
+    const v=new THREE.Vector2(((e.clientX-r.left)/r.width)*2-1,-((e.clientY-r.top)/r.height)*2+1);
+    raycaster.setFromCamera(v,camera);
+    const hits=raycaster.intersectObjects(pickables.filter(m=>m.visible));
+    return hits[0]||null;
+  }
+  resize3d();
+  addEventListener("resize",resize3d);
+  (function loop(){
+    requestAnimationFrame(loop);
+    controls.update();
+    // project labels
+    const r=renderer.domElement.getBoundingClientRect();
+    labels.forEach(({el,pos})=>{
+      const p=pos.clone().project(camera);
+      if(p.z>1){el.style.display="none";return;}
+      if($("#ck-labels").checked)el.style.display="";
+      el.style.left=(p.x*0.5+0.5)*r.width+"px";
+      el.style.top=(-p.y*0.5+0.5)*r.height+"px";
+    });
+    renderer.render(scene,camera);
+  })();
+  renderInspector(null);
+}
+function resize3d(){
+  if(!renderer)return;
+  const vp=$("#viewport");
+  const w=vp.clientWidth,h=vp.clientHeight;
+  renderer.setSize(w,h,false);
+  camera.aspect=w/h;camera.updateProjectionMatrix();
+}
+function select(mesh){
+  if(selected)selected.material.emissive?.setHex(0x000000);
+  selected=mesh;
+  mesh.material.emissive?.setHex(0x5a2018);
+  renderInspector(mesh.userData);
+}
+function renderInspector(ud){
+  const el=$("#inspector");
+  if(!ud){
+    el.innerHTML=`<div class="kind">Inspector</div><h2>Click any part of the plant</h2>
+    <p>The model is a schematic general arrangement of the AP1000 drawn from DCD Rev. 19 dimensions.
+    Select a building or a major component to see the systems it hosts and jump to its
+    component listings.</p>
+    <p style="font-size:12px;color:var(--ink-3)">Buildings render translucent so you can see the primary loop:
+    reactor vessel, two steam generators with canned-motor pumps, pressurizer, core makeup tanks,
+    accumulators, and the IRWST ring tank inside containment.</p>`;
+    return;
+  }
+  const inBldg=ud.kind==="building"?DB.components.filter(c=>(c.buildings||[]).includes(ud.building)):[];
+  const sysNames=(ud.systems||[]).map(code=>{
+    const s=DB.systems.find(s=>s.code===code);
+    return s?`${s.name} (${code})`:code;
+  });
+  let listHtml="",browse="";
+  if(ud.kind==="building"){
+    const sysSet={};
+    inBldg.forEach(c=>{if(c.system_code)sysSet[c.system_code]=(sysSet[c.system_code]||0)+1;});
+    const top=Object.entries(sysSet).sort((a,b)=>b[1]-a[1]).slice(0,10);
+    listHtml=`<div class="kind" style="margin-top:14px">Systems in this building</div><ul class="i-list">`+
+      top.map(([code,n])=>{
+        const s=DB.systems.find(s=>s.code===code);
+        return `<li><span class="tag">${esc(code)}</span> ${esc(s?s.name:"")} — ${fmt(n)} components</li>`;
+      }).join("")+`</ul>`;
+    browse=`<button class="browse-btn" data-bldg="${esc(ud.building)}">Browse ${fmt(inBldg.length)} components →</button>`;
+  }else if(ud.systems&&ud.systems.length){
+    const code=ud.systems[0];
+    const comps=DB.components.filter(c=>c.system_code===code).slice(0,8);
+    listHtml=`<div class="kind" style="margin-top:14px">Sample components (${esc(code)})</div><ul class="i-list">`+
+      comps.map(c=>`<li><span class="tag">${esc(c.tag)}</span> ${esc(c.description)}</li>`).join("")+`</ul>`;
+    browse=`<button class="browse-btn" data-sys="${esc(code)}">Browse ${esc(code)} components →</button>`;
+  }
+  el.innerHTML=`<div class="kind">${esc(ud.kind==="building"?"Building / structure":"Major component")}</div>
+    <h2>${esc(ud.label)}</h2>
+    ${ud.blurb?`<p>${esc(ud.blurb)}</p>`:(BLDG_INFO[ud.building]?`<p>${esc(BLDG_INFO[ud.building].blurb)}</p>`:"")}
+    ${sysNames.length?`<div class="chips">${sysNames.map(s=>`<span class="chip">${esc(s)}</span>`).join("")}</div>`:""}
+    ${listHtml}${browse}`;
+  el.querySelectorAll(".browse-btn").forEach(b=>b.addEventListener("click",()=>{
+    if(b.dataset.bldg)gotoComponents({bldg:b.dataset.bldg});
+    else gotoComponents({sys:b.dataset.sys});
+  }));
+}
+
+/* ---------- boot ---------- */
+fetch("data/plant.json").then(r=>r.json()).then(db=>{
+  DB=db;
+  $("#loading").remove();
+  // stats
+  const safety=db.components.filter(c=>["A","B","C"].includes(classBucket(c.ap1000_class))).length;
+  $("#stats").innerHTML=[
+    [fmt(db.components.length),"components"],
+    [fmt(db.systems.length),"systems"],
+    [fmt(safety),"safety-related"],
+    ["8","buildings"],
+    [fmt(db.documents.length),"NRC documents"]
+  ].map(([b,s])=>`<div class="stat"><b>${b}</b><span>${s}</span></div>`).join("");
+  // filter options
+  const opt=(v,l)=>`<option value="${esc(v)}">${esc(l)}</option>`;
+  $("#f-sys").innerHTML=opt("","All systems")+[...db.systems].sort((a,b)=>a.code>b.code?1:-1)
+    .map(s=>opt(s.code,`${s.code} — ${s.name}`)).join("");
+  const bldgs=[...new Set(db.components.flatMap(c=>c.buildings||[]))].sort();
+  $("#f-bldg").innerHTML=opt("","All buildings")+bldgs.map(b=>opt(b,b)).join("");
+  $("#f-class").innerHTML=opt("","All classes")+opt("safety","Safety-related (A+B+C)")+
+    ["A","B","C","D"].map(c=>opt(c,"Class "+c)).join("")+opt("O","Other (E/F/L/P/R/W, notes)")+opt("none","Tier 1 only");
+  $("#f-seis").innerHTML=opt("","All seismic")+["I","II","NS"].map(s=>opt(s,"Seismic "+s)).join("");
+  bindFilters();renderTable();renderSystems();renderDocs();renderAbout();
+  $("#d-q").addEventListener("input",renderDocs);
+  const h=(location.hash||"").replace("#","");
+  showTab(["model","components","systems","documents","about"].includes(h)?h:"model");
+  build3d();
+}).catch(err=>{
+  $("#loading").textContent="Could not load data/plant.json — "+err;
+});
+</script>
+</body>
+</html>
