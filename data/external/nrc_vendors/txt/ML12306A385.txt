@@ -1,0 +1,345 @@
+November 2, 2012
+Mr. Stan Miller, General Manager
+Enertech
+2950 Birch Street
+Brea, CA 92821
+SUBJECT: U.S. NUCLEAR REGULATORY COMMISSION INSPECTION REPORT
+NO. 99901377/2012-201, NOTICE OF VIOLATION, AND NOTICE OF
+NONCONFORMANCE
+Dear Mr. Miller:
+From August 27–28, 2012, and from September 17-20, 2012, the U.S. Nuclear Regulatory
+Commission (NRC) staff conducted an inspection of Enertech at Logan, UT, and Brea, CA,
+respectively. This limited-scope routine inspection assessed Enertech’s compliance with the
+provisions of Title 10 of the Code of Federal Regulations (10 CFR) Part 21, “Reporting of
+Defects and Noncompliance,” and selected portions of Appendix B, “Quality Assurance Program
+Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to 10 CFR Part 50, “Domestic
+Licensing of Production and Utilization Facilities.” This technically focused inspection evaluated
+the implementation of Enertech’s quality assurance program, with a focus on Section III of the
+American Society of Mechanical Engineers (ASME) Boiler and Pressure Vessel Code and
+ASME Qualification of Active Mechanical Equipment Used in Nuclear Power Plants qualification
+testing associated with the nozzle check valves of the passive core cooling system for the
+Westinghouse Electric Corporation AP1000 design. These qualification tests are associated
+with inspections, tests, analyses, and acceptance criteria (ITAAC) from Revision 19 to the
+certified AP1000 Design Control Document, Tier 1. Currently, the combined licenses of Vogtle
+Electric Generating Plant, Units 3 and 4, and Virgil C. Summer Nuclear Station, Units 2 and 3,
+incorporate these ITAAC. In addition, the enclosed Notice of Nonconformance (NON) issues, if
+not corrected, may impact the ability of NRC licensees to meet applicable ITAAC from the
+AP1000 Design Control Document. The specific issues and applicable ITAAC are contained in
+Section 4 of the Attachment.
+The enclosed report presents the results of this inspection. This NRC inspection report does
+not constitute the agency’s endorsement of your overall quality assurance or 10 CFR Part 21
+programs.
+Based on the results of this inspection, the NRC has determined that one Severity Level IV
+violation of NRC requirements occurred. The NRC evaluated the violation in accordance with
+the agency’s Enforcement Policy, which is available on the NRC’s Web site at
+http://www.nrc.gov/about-nrc/regulatory/enforcement/enforce-pol.html.
+The violation is cited in the enclosed notice of violation (Notice) and the circumstances
+surrounding it are described in detail in subject inspection report. The violation is being cited in
+the Notice because Enertech failed to inform all affected purchasers within five working days
+that it did not have the capability to perform an evaluation to determine if a defect exists.
+
+=== PAGE BREAK ===
+
+S. Miller - 2 -
+You are required to respond to this letter and to follow the instructions specified in the enclosed
+Notice when preparing your response. If you have additional information that you believe the
+NRC should consider, you may provide it in your response to the Notice. The NRC’s review of
+your response to the Notice also will determine if further enforcement action is necessary to
+ensure compliance with regulatory requirements.
+In addition, during this inspection the NRC inspection team found that the implementation of
+your quality assurance program failed to meet certain regulatory requirements imposed on
+Enertech by your customers or NRC licensees. Specifically, the NRC inspection team
+determined that Enertech was not fully implementing its quality assurance program in the areas
+of commercial grade dedication, test control, control of measuring and test equipment,
+corrective action, and quality assurance records. The specific findings and references to the
+pertinent requirements are identified in the enclosures to this letter. Even though the NRC
+inspection team did not identify issues in all areas reviewed, Enertech should, in its response to
+the enclosed NON, document the results of the extent of the condition and should determine
+any effects on other components and testing activities.
+Please provide a written explanation or statement within 30 days of this letter in accordance with
+the instructions specified in the enclosed NON. The NRC will consider extending the response
+time if you show good cause for the agency to do so.
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC’s “Rules of Practice,” the NRC will make available electronically for public inspection
+a copy of this letter, its enclosure, and your response through the NRC Public Document Room
+or from the NRC’s Agencywide Documents Access and Management System, which is
+accessible at http://www.nrc.gov/reading-rm/adams.html. To the extent possible (and if
+applicable), your response should not include any personal privacy, proprietary, or Safeguards
+Information so that it can be made available to the public without redaction. If personal privacy
+or proprietary information is necessary to provide an acceptable response, please provide a
+bracketed copy of your response that identifies the information that should be protected and a
+redacted copy of your response that deletes such information. If you request that such material
+be withheld from public disclosure, you must specifically identify the portions of your response
+that you seek to have withheld and provide in detail the bases for your claim (e.g., explain why
+the disclosure of information would create an unwarranted invasion of personal privacy or
+provide the information required by 10 CFR 2.390(b) to support a request for withholding
+confidential commercial or financial information). If Safeguards Information is necessary to
+provide an acceptable response, please provide the level of protection described in
+10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA/
+Edward H. Roach, Chief
+Mechanical Vendor Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901377
+
+=== PAGE BREAK ===
+
+S. Miller - 2 -
+You are required to respond to this letter and to follow the instructions specified in the enclosed
+Notice when preparing your response. If you have additional information that you believe the NRC
+should consider, you may provide it in your response to the Notice. The NRC’s review of your
+response to the Notice also will determine if further enforcement action is necessary to ensure
+compliance with regulatory requirements.
+In addition, during this inspection the NRC inspection team found that the implementation of your
+quality assurance program failed to meet certain regulatory requirements imposed on Enertech by
+your customers or NRC licensees. Specifically, the NRC inspection team determined that Enertech
+was not fully implementing its quality assurance program in the areas of commercial grade
+dedication, test control, control of measuring and test equipment, corrective action, and quality
+assurance records. The specific findings and references to the pertinent requirements are identified
+in the enclosures to this letter. Even though the NRC inspection team did not identify issues in all
+areas reviewed, Enertech should, in its response to the enclosed NON, document the results of the
+extent of the condition and should determine any effects on other components and testing activities.
+Please provide a written explanation or statement within 30 days of this letter in accordance with
+the instructions specified in the enclosed NON. The NRC will consider extending the response time
+if you show good cause for the agency to do so.
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,” of
+the NRC’s “Rules of Practice,” the NRC will make available electronically for public inspection a
+copy of this letter, its enclosure, and your response through the NRC Public Document Room or
+from the NRC’s Agencywide Documents Access and Management System, which is accessible at
+http://www.nrc.gov/reading-rm/adams.html. To the extent possible (and if applicable), your
+response should not include any personal privacy, proprietary, or Safeguards Information so that it
+can be made available to the public without redaction. If personal privacy or proprietary information
+is necessary to provide an acceptable response, please provide a bracketed copy of your response
+that identifies the information that should be protected and a redacted copy of your response that
+deletes such information. If you request that such material be withheld from public disclosure, you
+must specifically identify the portions of your response that you seek to have withheld and provide
+in detail the bases for your claim (e.g., explain why the disclosure of information would create an
+unwarranted invasion of personal privacy or provide the information required by 10 CFR 2.390(b) to
+support a request for withholding confidential commercial or financial information). If Safeguards
+Information is necessary to provide an acceptable response, please provide the level of protection
+described in 10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA/
+Edward H. Roach, Chief
+Mechanical Vendor Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No. 99901377
+DISTRIBUTION:
+RidsNroDcip RidsNroDcipCMVB RidsNroDcipCEVB RRasmussen KKavanagh SFreeman
+TSakadales rdekleine@curtisswright.com smiller@curtisswright.com AP1000 CONTACTS
+ADAMS Accession No.: ML12306A385 *Concurrence via email NRC-001
+OFFICE NRO/DCIP/CMVB NRO/DCIP/CMVB *NRO/DE/CIB *NRO/DE/CIB *RII/DCI/CIB3
+NAME RMcIntyre BClarke JStrnisha RDavis JBartleman
+DATE 10/31/2012 10/31/2012 11/ /2012 10/31/2012 10/31/2012
+OFFICE *RII/DCI/CIB3 NRO/DCIP/CAEB *RII/DCI/CIB3 NRO/DCIPCITB NRO/DCIP/CMVB
+NAME DJackson TFrye DJackson MKowal ERoach
+DATE 10/31/2012 11/02/2012 10/31/2012 11/02/2012 11/02/2012
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+NOTICE OF VIOLATION
+Enertech Docket No. 99901377
+2950 East Birch Street Report No. 2012-201
+Brea, CA 92821
+During a U.S. Nuclear Regulatory Commission (NRC) inspection conducted at Enertech in Brea,
+CA, on September 17-20, 2012, a violation of NRC requirements was identified. In accordance
+with the NRC Enforcement Policy, the violation is listed below:
+Paragraph 21.21, “Notification of failure to comply or existence of a defect and its
+evaluation,” of Title 10 of the Code of Federal Regulations (10 CFR) 21.21(b)
+requires, in part, that “if the deviation or failure to comply is discovered by a
+supplier of basic components, or services associated with basic components, and
+the supplier determines that it does not have the capability to perform the
+evaluation to determine if a defect exists, then the supplier must inform the
+purchasers or affected licensees within five working days of this determination so
+that purchasers or affected licensees may evaluate the deviation or failure to
+comply, pursuant to 10 CFR 21.21(a).”
+Contrary to the above, as of September 20, 2012, Enertech failed to inform all
+purchasers within five working days that it did not have the capability to perform an
+evaluation to determine the existence of a defect. Specifically, Enertech evaluated
+two issues concerning the arcing and short-circuiting of valve actuator circuit
+boards and concluded that the issues did not pose a significant safety hazard
+(SSH). However, there is no objective evidence that Enertech properly evaluated
+the shipped circuit boards in their various applications at numerous licensees to
+make a definitive SSH determination.
+This issue has been identified as Violation 999013777/2012-201-01.
+This is a Severity Level IV violation (Section 6.9.d of the NRC Enforcement Policy).
+Pursuant to the the provisions of 10 CFR 2.201, “Notice of Violation,” Enertech is hereby
+required to submit a written statement or explanation to the U.S. Nuclear Regulatory
+Commission, ATTN: Document Control Desk, Washington, DC 20555-0001, with a copy to the
+Chief, Construction Mechanical Vendor Branch, Division of Construction Inspection and
+Operational Programs, Office of New Reactors, within 30 days of the date of the letter
+transmitting this Notice of Violation. This reply should be clearly marked as a “Reply to a Notice
+of Violation” and should include (1) the reason for the violation or, if contested, the basis for
+disputing the violation or severity level, (2) the corrective steps that have been taken and the
+results achieved, (3) the corrective steps that will be taken, and (4) the date when full
+compliance will be achieved. Your response may reference or include previous docketed
+correspondence if the correspondence adequately addresses the required response. Where
+good cause is shown, the NRC will consider extending the response time.
+If you contest this enforcement action, provide a copy of your response, with the basis for your
+denial, to the Director, Office of Enforcement, U.S. Nuclear Regulatory Commission,
+Washington, DC 20555-0001.
+Enclosure 1
+
+=== PAGE BREAK ===
+
+Because your response will be made available electronically for public inspection in the NRC
+Public Document Room and from the NRC’s Agencywide Documents Access and Management
+System, which is accessible from the NRC Web site at http://www.nrc.gov/ reading-rm/
+adams.html, it should not include any personal privacy, proprietary, or Safeguards Information,
+to the extent possible, so that it can be made available to the public without redaction. If
+personal privacy or proprietary information is necessary to provide an acceptable response,
+please provide a bracketed copy of your response that identifies the information that should be
+protected and a redacted copy of your response that deletes such information. If you request
+that such material be withheld, you must specifically identify the portions of your response that
+you seek to have withheld and provide, in detail, the bases for your claim of withholding
+(e.g., explain why the disclosure of information will create an unwarranted invasion of personal
+privacy or provide the information required by 10 CFR 2.390(b) to support a request for
+withholding confidential commercial or financial information). If Safeguards Information is
+necessary to provide an acceptable response, please provide the level of protection described
+in 10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.”
+In accordance with 10 CFR 19.11, “Posting of Notices to Workers,” you may be required to post
+this notice within 2 working days of receipt.
+Dated this 2nd of November 2012.
+- 2 -
+
+=== PAGE BREAK ===
+
+NOTICE OF NONCONFORMANCE
+Enertech Docket No. 99901377
+2950 East Birch Street Report No. 2012-201
+Brea, CA 92821
+Based on the results of a U.S. Nuclear Regulatory Commission (NRC) inspection conducted at
+Utah State University (USU) in Logan, UT, on August 27-28, 2012, and at the Enertech facility in
+Brea, CA, on September 17-20, 2012, it appears that certain activities were not conducted in
+accordance with NRC requirements that were contractually imposed on Enertech by its
+customers or NRC licensees:
+A. Criterion III, “Design Control,” of Appendix B, “Quality Assurance Program Criteria for
+Nuclear Power Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of Federal
+Regulations (10 CFR) Part 50, “Domestic Licensing of Production and Utilization
+Facilities,” states, in part, that “measures shall also be established for the selection and
+review for suitability of application of materials, parts, equipment, and processes that are
+essential to the safety-related functions of the structures, systems, and components.”
+Enertech Operating Procedure (EOP) 3140, “Procedure for the Dedication of
+Commercial-Grade Items/Services,” Revision AB, dated July 26, 2012, provides the
+methods for the dedication of commercial grade items or services or both used in
+nuclear safety-related applications.
+Contrary to the above, as of September 20, 2012, Enertech failed to review for suitability
+of application materials that were essential to the safety-related functions of structures,
+systems, and components. Specifically, Enertech did not perform the following:
+• Adequately dedicate ERV-Z 8-inch nozzle check valve test activities conducted
+at USU. The commercial grade survey performed by Enertech at USU did not
+verify the calibration quality of the instruments used during the American Society
+of Mechanical Engineers (ASME) QME-1 functional flow tests to identify and
+record safety-related test data. These instruments included fluke meters,
+Rosemount pressure transmitters, a magnetic flow meter, a digital thermometer,
+and the Avery (water) weigh tank, which were commercially calibrated and
+accepted by USU and Enertech without verification of the calibration suppliers.
+• Employ suitable dedication methods to verify that safety-related non-pressure
+boundary ERV-Z 8-inch nozzle check valve parts purchased as commercial
+grade items (CGI) met the appropriate material specifications (chemical and
+mechanical properties) that the associated CGI Dedication Procedure document
+identified as critical characteristics. The diffuser, large retaining ring, and small
+retaining ring were purchased from commercial suppliers who had not received a
+commercial grade survey. Enertech accepted the material certification report for
+the chemical and mechanical properties through positive material identification
+(PMI) using an x-ray fluorescence alloy analyzer for only a limited sample of the
+chemical elements. The CGI Evaluation MA22004 (for the diffuser) and CGI
+Evaluation MA21723, (for the large and small retaining rings) did not include a
+documented technical justification necessary to address the acceptance of all
+identified material specification chemical and mechanical properties that were
+identified on the material certification report.
+Enclosure 2
+
+=== PAGE BREAK ===
+
+• Perform an appropriate CGI technical evaluation as part of CGD for the diffuser,
+the large retaining rings, and the small retaining rings. The CGI technical
+evaluation did not include a documented justification for the sampling plans that
+were being implemented for acceptance. Enertech received the sampled items
+from suppliers that had not been through a review or commercial grade survey to
+verify a traceability process for lot/batch heat number control. The CGI
+Evaluation MA22004 (for the diffuser) and CGI Evaluation MA21723 (for the
+large and small retaining rings) that were performed as part of the dedication did
+not include a documented basis for the sample testing population of the items
+received from commercial suppliers for which lot/batch homogeneity had not
+been verified.
+These issues have been identified as Nonconformance 99901377/2012-201-02.
+B. Criterion XI, “Test Control,” of Appendix B to 10 CFR Part 50 states, in part, that “a test
+program shall be established to assure that all testing required to demonstrate that
+structures, systems, and components will perform satisfactorily in service is identified
+and performed.”
+Enertech Procedure MA22989, “Equipment Qualification Procedure for Enertech 8”
+Class 1707 ERV-Z Nozzle Check Valve,” Revision B, dated February 16, 2012, states, in
+part, that “the purpose of this qualification procedure is to verify the appropriate
+inspection parameters and establish a testing procedure with acceptance criteria to
+successfully qualify the Enertech valve per ASME QME-1-2007 Section QV-7500.”
+Section QV-2000, “Purpose,” of ASME QME-1-2007 states, in part, that “the purpose of
+Section QV is to provide requirements for the qualification of the design of valves to
+perform in service as required under all specified operating and design basis conditions.”
+Contrary to the above, as of September 20, 2012, Enertech failed to establish a test
+program to ensure that it had identified and performed all testing necessary to
+demonstrate that the ERV-Z 8-inch nozzle check valve will perform satisfactorily in
+service. Specifically, Enertech’s test program did not identify and perform qualification
+testing of the valve to demonstrate operability under all QME-1-2007 specified operating
+and design basis conditions.
+This issue has been identified as Nonconformance 99901377/2012-201-03.
+C. Criterion XII, “Control of Measuring and Test Equipment,” of Appendix B to
+10 CFR Part 50, states, in part, that “measures shall be established to assure that tools,
+gages, instruments, and other measuring and testing devices used in activities affecting
+quality are properly controlled, [and] calibrated…to maintain accuracy within necessary
+limits.”
+EOP 8120, “Calibration and Control of Measuring Test Equipment,” Revision Q, dated
+October 15, 2008, states, in part, that “following a successful calibration, the calibration
+technician shall affix a calibration label to the instrument,” that “calibration shall be
+performed prior to each test and after testing is completed for ASME Code items,” and
+that “serial numbers shall be affixed by a permanent means.”
+- 2 -
+
+=== PAGE BREAK ===
+
+Contrary to the above, as of September 20, 2012, Enertech failed to establish adequate
+controls to ensure that the gauges used in the qualification testing of a safety-related
+ASME Section III Class 1 “N-Stamp” valve were properly controlled to display accurate
+calibration labels. Specifically, Enertech failed to ensure that the gauges used in ASME
+Boiler and Pressure Vessel Code testing were calibrated before and after testing.
+Furthermore, Enertech failed to ensure that measuring and test equipment had
+permanent markings to identify the equipment.
+This item is identified as Nonconformance 99901377/2012-201-04.
+D. Criterion XVI, “Corrective Action,” of Appendix B to 10 CFR Part 50, states, in part, that
+“measures shall be established to assure that conditions adverse to quality, such as
+failures, malfunctions, deficiencies, deviations, defective material and equipment, and
+nonconformances are promptly identified and corrected.”
+EOP 8160, “Procedure for Corrective Action,” Revision U, dated February 25, 2011,
+states, in part, that “a Corrective Action Request (CAR) may be initiated by any
+employee using a Corrective Action Request form (QAM Exhibit 16-1). Corrective Action
+Requests shall be prepared and forwarded to the responsible entity (Enertech
+Department Manager or Supplier) within 5 days of identifying a Corrective Action and
+[shall] clearly reference the supporting documents that explain the adverse condition.”
+Contrary to the above, as of September 20, 2012, Enertech failed to promptly identify
+and correct conditions adverse to quality and failed to adequately implement corrective
+actions. Specifically, Enertech failed to initiate a CAR related to the potential arcing and
+short-circuiting of actuator circuit boards, although two Enertech evaluations addressed
+this issue under 10 CFR Part 21, “Reporting of Defects and Noncompliance:”
+• NRC 11-001, “Potential 10 CFR 21 Reportable Item, Actuator Circuit Boards,”
+dated August 1, 2011
+• NRC 11-002, “Potential 10 CFR 21 Reportable Item, Actuator Circuit Boards,”
+dated September 20, 2011
+Consequently, Enertech did not complete the corrective actions described in these
+evaluations, including sending letters to customers and making replacement parts kit
+and installation instructions available.
+This issue has been identified as Nonconformance 99901377/2012-201-05.
+E. Criterion XVII, “Quality Assurance Records,” of Appendix B to 10 CFR Part 50 states, in
+part, that “records shall be identifiable and retrievable. Consistent with applicable
+regulatory requirements, the applicant shall establish requirements concerning record
+retention, such as duration, location, and assigned responsibility.”
+The Enertech Quality Assurance Manual, Fourth Edition, Revision 19, dated
+March 8, 2012, states, in part, that “access to records shall be limited to authorized
+personnel designated by the Director of Quality” and that “documents shall be stored to
+avoid damage or loss.”
+- 3 -

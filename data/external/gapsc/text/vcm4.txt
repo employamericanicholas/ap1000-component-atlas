@@ -1,0 +1,953 @@
+
+
+
+Plant Vogtle Units 3 &amp; 4
+
+Fourth Semi-Annual 
+Construction Monitoring Report
+
+February 2011
+
+Docket No. 29849
+
+
+EXECUTIVE SUMMARY 
+
+
+This is the fourth semi-annual Vogtle Construction Monitoring report (“Fourth VCM Report”) submitted by Georgia Power Company (“Georgia Power” or the “Company”) to the Georgia Public Service Commission (the “Commission”) pursuant to the stipulation (the “Stipulation”) adopted in the Commission’s order in Docket No. 27800 (the “Certification Order”).  
+
+In this Fourth VCM Report, the Company requests that the Commission verify and approve the construction expenditures for Plant Vogtle Units 3 and 4 (the “Project”) during the reporting period of July 1, 2010 through December 31, 2010 (the “Reporting Period”).  This Fourth VCM Report provides the basis upon which the Commission may verify and approve such expenditures as made pursuant to the certificate in accordance with O.C.G.A. § 46-3A-7(b).  In addition, the Company’s semi-annual reports generally provide the basis by which the Commission may approve, disapprove, or modify any proposed revisions in the Project schedule and budget; however, the Company is not requesting any changes to the overall Project schedule or budget for this Reporting Period.  
+
+In addition to summarizing the information contained in this Fourth VCM Report, this executive summary also highlights several key developments and issues that occurred during the Reporting Period to put the progress of the Project in context.  
+
+Construction of units 3 and 4 at Plant Vogtle (the “Units”) is tracking under the $6.113 billion certified amount (“the Certified Amount”).  As of December 31, 2010, the commercial operation date (“COD”) for Unit 3 was forecasted without ongoing schedule adjustments to be June 7, 2016; however, Westinghouse Electric Company LLC (“Westinghouse”) and Stone &amp; Webster, Inc. (together with Westinghouse, the “Consortium”) are developing a plan to return the forecast to meet the original COD. With a project of this magnitude, the Company acknowledges that there will be fluctuations in the schedule.  To that end, the known fluctuations in the schedule have been assessed by the Consortium, reviewed by Southern Nuclear Company (“SNC”) and deemed to be manageable to meet the target COD dates in 2016 and 2017 for Vogtle Units 3 and 4 respectively. 
+
+Significant progress was made in the licensing of the Units during the Reporting Period, and the Company believes that the Design Control Document (“DCD”) and the combined construction and operating licenses (“COLs”) for the Units will now be issued in the Fall of 2011.  This is a result of several actions.  As discussed in the Third VCM Report, the three amendments to the Early Site Permit (“ESP”) were filed to support backfill operations, and during the Reporting Period, sufficient backfill was identified on site to support Project activities.  Furthermore, the schedule, which the Company has known since early 2010 could be delayed, possibly into early 2012, has been substantially restored as a result of the Nuclear Regulatory Commission (“NRC”) restructuring its review process. The Advisory Committee on Reactor Safeguards (“ACRS”) Subcommittee issued a letter on December 13, 2010 supporting the issuance of the design certification, and the ACRS Subcommittee met on December 17, 2010 and endorsed the issuance of the COLs as well.  The ACRS Full Committee met on January 13, 2011 to discuss issuance of the Vogtle COLs and their letter endorsing the Vogtle COL application was issued on January 24, 2011.  Therefore, certification of the DCD by the NRC continues and is needed for the Vogtle COLs, as discussed in more detail herein. 
+
+New issues continued to surface on both the DCD and the COL applications during this Reporting Period, however, such issues tended to be more minor in nature than in previous periods.  Important issues that were successfully resolved for the DCD during this Reporting Period include the design of the shield building and GSI-191. The Company is closely monitoring the progress of any new items that may emerge and is interacting closely with the NRC and Westinghouse to continue to evaluate any potential impacts on schedule.
+
+On August 13, 2010, the NRC received a new petition to intervene in the COL application process that concerned the inspection programs and the coatings for the containment vessel.  The Atomic Safety and Licensing Board (“ASLB”) considered and then dismissed the petition on November 30, 2010.  The petitioners appealed that decision on December 9, 2010, and the NRC has yet to rule on the appeal.
+
+Although outside this Reporting Period, the Company is providing preliminary information with regards to an NRC inspection and the Company’s oversight of the Shaw Modular Solutions (“SMS”) facility in Lake Charles, Louisiana.  Specifically, as a result of Quality Assurance Program issues identified by both the NRC and the Company, a request was made to Shaw Nuclear, SMS, and Westinghouse to jointly develop a comprehensive plan to address nuclear safety culture, SMS quality assurance effectiveness, application and understanding of nuclear fundamentals, and the continuous process improvement culture.  As part of its aggressive actions, the Company’s senior executives hold weekly meetings with the Consortium’s senior management to receive updates on its ongoing progress to resolve quality concerns.  
+
+Commencing with this Fourth VCM Report, there is a new category in Table 1.1 entitled “EPC Scope Change,” which reflects costs that had formerly been reported in Owner’s Costs, but are more appropriately attributed to costs incurred for work necessary to construct the Units.  This new category better identifies the cost of scope changes that are the result of such things as approved and potential change orders and changes in regulations.   These costs are related to construction work that typically would be performed by the Consortium and are associated with the engineering, procurement and construction of the Units, rather than operational/oversight costs, that are generally within the Owner’s scope.
+
+The Commission Staff and the Construction Monitor have been kept abreast of the progress of construction, and the issues discussed above, through monthly meetings with Georgia Power, and through their review of the Level 1 schedule and the Vogtle 3 and 4 Project Metrics Packages, which show progress to date against the milestones.  While the Project continues to track under the $6.113 billion Certified Amount, as with any project of this magnitude, it is now apparent that the cost of several individual items will be greater than budgeted while the cost of others will be less than budgeted; however, the overall net change in the projected cost of the Project is favorable.  
+
+In conclusion, the Company is currently managing cost pressures and risk, and as a result, the Total Current Forecast is within the $6.113 billion Certified Amount.  While there remains a favorable variance between the Certified Amount and the Total Current Forecast, the Company acknowledges that this variance may change over time as the Project continues, and therefore the Company does not request an adjustment to the Certified Amount at this time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+As agreed in the Stipulation that was incorporated into the Certification Order, the Company responds to the 15 specified items, in the order in which they appear in Section 2(d)(1-15) of the Stipulation as follows:
+
+The reasons for any additional change in the estimated costs of the units since the process began.
+
+The Company reports against a total certified cost of $6.113 billion. The cost reports are provided in Tables 1.1 and 1.1a below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 1.1  
+
+
+Footnotes
+As a result of Amendment No. 3 to the EPC Agreement, the REDACTED REDACTED was replaced with Fixed Semi Annual Escalation.
+EPC Base increased $REDACTED as a result of simulator budget transfer from Owners Cost.
+The certified cost reflects the REDACTED escalation rate estimated at REDACTED; current forecast reflects the Fixed Semi Annual Escalation provisions of Amendment No. 3 to the EPC Agreement.
+EPC Scope Change amounts (Forecasted and Project To Date) were included in Owners Cost in the Third VCM Report.
+Owners Cost reflects an increase of $REDACTED partially off-set by a decrease of $REDACTED for simulator budget transferred to EPC Base and a decrease of $REDACTED for transmission items transferred to Transmission Interconnection.  Changes in Owners Cost are further described in Item 9.
+Transmission Interconnection reflects an increase of $REDACTED, which is the current estimate for cost issues associated with additional transmission work that was described in the Second VCM Report. These items were previously categorized in Owners Cost.
+Financing cost was lowered primarily as a result of changes in the spending curve and expected net benefits of the DOE Loan Guarantee partially offset by increases in long term interest rate forecasts since Certification.
+The Consortium has not yet achieved certain milestones.  There is currently no impact to the overall project schedule and cost.
+EPC Scope Changes decreased due to timing of backfill.  There is currently no impact to the overall project schedule and cost.
+Lower than expected AFUDC primarily resulting from changes in the spending curve.
+
+Note: Details may not add to totals due to rounding.
+
+Table 1.1a (Trend) 
+
+
+
+A description of any cooperative actions between other builders of nuclear units in the southeast to address labor, crafts, engineering and management requirements. 
+
+SNC cooperates with other builders of nuclear units to address engineering and management requirements via industry related groups.  These groups provide forums for builders of a given technology type to consider issues common to the participants, including development of training, procedures and programs.  The groups operate under strict antitrust rules and do not collaborate in any way to influence the labor markets. 
+
+As a member of APOG, SNC has engaged with other APOG members (Progress Energy Carolinas, Duke Energy Carolinas, Florida Power &amp; Light and South Carolina Electric and Gas Company (“SCE&amp;G”)) to support the following activities either through financial means or with participation.
+
+Development of a knowledge and abilities (“K&amp;A”) catalog that provides the basis for the NRC licensed operator training and examinations throughout the life of the plant. This document has been submitted to the NRC on behalf of the industry.
+Review of Westinghouse procedures and development of a standard set of operation and maintenance procedures that will be proposed to all AP1000 utilities.
+Review of engineering and design issues with Westinghouse to resolve common problems for the benefit of all AP1000 owners.
+Review of the final layout of the plant to ensure it meets regulatory requirements and industry expectations for constructability, operability, maintainability, inspectability and testability.
+Human factors programs associated with man machine interface and procedure usage protocols are being worked out jointly with APOG member utilities, Westinghouse and the NRC. The computerized procedure system presents some opportunities to rethink traditional methods that could simplify communications, reduce potential human errors and enhance safe operations.
+Review of the Westinghouse and Shaw lessons learned program to ensure lessons learned from China and other AP1000 utilities are reviewed and, if needed, incorporated into the design.
+A full time APOG Programs Manager was hired to manage the development of programs necessary for testing, startup and eventual operation of the AP1000. These programs range from engineering programs to maintenance, chemistry, health physics, operations, Occupational Safety and Health Administration compliance, et. al., as related to the AP1000.
+
+SNC, in cooperation with SCE&amp;G, has contracted with Westinghouse for initial training program development, instruction, and certification of utility licensed operator instructors.  The first two groups of 48 instructors (24 each from SCE&amp;G and SNC) completed nine weeks of initial training in 2010.  Additional training will take place throughout 2011.  SNC and SCE&amp;G have also partnered to procure services for creation of a Probabilistic Risk Assessment (“PRA”) model.  The total cost of this product is REDACTED REDACTED.  The PRA is needed for several risk informed programs in support of safe plant operation and consistent with current nuclear industry requirements.
+As previously reported, SNC continues to participate as a member of NuStart Energy, a consortium of utilities and two reactor vendors whose purpose is to demonstrate the COL process and complete design finalization activities for the two reactor technologies, the Westinghouse AP1000 and the General Electric ESBWR. This Project has transitioned to serve as the AP1000 Reference COL Application and is a leader in both the licensing and engineering areas for the AP1000 utilities.  The engineering team provides input to Westinghouse design finalization efforts and promotes standardization of site-specific design, where practical. 
+
+In addition to the items listed above, SNC continues to participate in leadership roles for various Nuclear Energy Institute (“NEI”) sponsored groups, specifically, the Design Centered Working Group (“DCWG”), the New Plant Working Group (“NPWG”) and the New Plant Oversight Committee (“NPOC”).  The DCWG, formed by NEI at the request of the NRC, is made up of the AP1000 utilities with the purpose of standardizing licensing activities associated with the Design Control Document (“DCD”), the COL and construction of the AP1000.  The NPWG, managed by NEI, is a policy-making group that establishes guidance for addressing the NRC, legislative and public affair issues for new reactors (e.g. AP1000, ESBWR) and modular reactors. The direction for the NPWG is established by the NPOC, which is made up of nuclear industry executives.
+
+At the close of 2010, SNC opened a representative office in Shanghai.  That office is staffed with a Southern Nuclear project manager who is an expatriate of the People’s Republic of China.  In this role, the Shanghai project manager focuses on maintaining and strengthening relationships with the owner companies and the operating companies of the four AP1000 units currently under construction at Sanmen Nuclear Power Station and Haiyang Nuclear Power Plant.  The construction efforts at all four Chinese units are approximately 24 months ahead of the Vogtle 3 and 4 Project and therefore, are rich sources of lessons learned for the Vogtle 3 and 4 units’ construction and subsequent operation.  The Shanghai project manager will provide logistical and experiential assistance to SNC construction managers as they travel to the sites, observing milestones associated with the structures and equipment in common with the Vogtle 3 and 4 units.  The Shanghai project manager will also routinely travel between the two China sites monitoring progress against a published milestone schedule to pinpoint opportunities for construction observations.
+
+An explanation of how the indices used in the EPC contract are tracking.
+
+On February 22, 2010, the Consortium and Georgia Power, acting for itself and as agent for Oglethorpe Power Corporation, Municipal Electric Authority of Georgia and the City of Dalton (the “Owners”) entered into Amendment No. 3 to the EPC Agreement.  Amendment No. 3, which was approved by the Commission on August 17, 2010, replaces certain index-based adjustments to the purchase price with fixed escalation amounts.  
+
+With Amendment No. 3 in place, the only remaining index is the REDACTED, which is currently tracking REDACTED original estimates on a cumulative basis, as shown in Table 3.1.  
+
+
+Table 3.1 
+
+
+
+Any updated estimate of on site spent fuel storage costs, including the costs for dry storage of spent fuel for an extended period of time after shutdown, and any updated calculation of spent fuel storage costs assuming Yucca Mountain is never available. 
+
+As previously reported, the Company provided a sensitivity analysis for spent fuel storage costs to the Commission Staff (“Staff”) and the Independent Evaluator in October 2008 that estimated the cost of on-site storage through 2088, which is ten years beyond the anticipated shutdown of Unit 4.  There is no change at this time to the estimate provided in October 2008.  In November 2008, SNC executed a contract with the DOE that requires the DOE to complete removal of spent fuel from the Units within ten years from the date of the shutdown of Unit 4.
+
+As reported in the Third VCM Report, President Obama asked the U.S. Secretary of Energy to establish the “Blue Ribbon Commission on America’s Nuclear Future.”  The mandate to the 15-member Blue Ribbon Commission is to address the issue of long-term storage and disposal options for spent nuclear fuel.  Specifically, the Blue Ribbon Commission is charged with developing policy recommendations and suggesting legislative changes to address alternative storage options, spent fuel recycling and disposal options. While outside this reporting period, on January 7, 2011, the Blue Ribbon Commission held a Full Commission Meeting in Augusta, Georgia. Southern Nuclear President and CEO, Jim Miller, testified on behalf of SNC that Yucca Mountain, Nevada should be the final repository for spent fuel from commercial nuclear reactors and high-level wastes from the nation’s nuclear weapons programs.  The Blue Ribbon Commission is also gathering input from other industry executives to be included in its interim report, which is expected to be issued in Summer 2011.
+
+The status of the Company’s loan guarantee application at the Department of Energy and to the extent that application is granted, then the Company shall also report on the impact it has or would have on the final expected in-service cost of the units. 
+
+There has been no change in the status of the Company’s conditional commitment for a Loan Guarantee from the DOE that would apply to future Company borrowings related to the Units since the last reporting period.  Total guaranteed borrowings will not exceed 70 percent of eligible Project costs, or approximately $3.4 billion. 
+
+Final approval and issuance of the Loan Guarantee is subject to receipt of the COL from the NRC, negotiation of definitive agreements (which will conclude following receipt of the COL), completion of due diligence by the DOE, and receipt of any necessary regulatory approvals or conditions as defined in the definitive agreements. 
+
+As a result of the Loan Guarantee, Georgia Power and its customers are currently expected to save approximately $15 million to $20 million in interest costs annually, at the corporate level, over the expected life of the bonds.  The actual amount of the interest savings will depend on the final terms and the timing of the specific borrowings.  
+
+The estimated impact of the DOE Loan Guarantee on this Project is reflected in financing costs in Tables 1.1, 1.1a, and 8.1. An estimate of the net benefits of the Loan Guarantee has been reflected in the Total Current Forecast based on the information available at this time.  Discussion with the DOE on this topic is ongoing.  Additional costs associated with compliance with applicable federal regulations pertaining to the acceptance of a Loan Guarantee may be identified and incorporated at a later date. 
+
+Whether the Company is using trust preferred financing and the impact it has or would have on the expected in-service cost of the units.
+
+There has been no change in the status of this item since the last reporting period. 
+
+The extent to which the Company is using short term debt and the impact it has or would have on the expected in-service cost of the units.
+
+There has been no change in the status of this item since the last reporting period.
+
+An update of the estimated in-service cost and projected date of commercial operation of both units. 
+
+An update of the estimated in-service cost of both Units is shown in Table 8.1 below.   
+
+The schedule approved in the Certification Order provides for a COD for Unit 3 of April 1, 2016 and a COD for Unit 4 of April 1, 2017.  With a project of this magnitude, the Company acknowledges that there will be fluctuations in the schedule.  To that end, known fluctuations in the schedule have been assessed by the Consortium, reviewed by SNC and are deemed to be manageable.  With these known fluctuations, the schedule continues to support the target COD dates for Vogtle Units 3 and 4.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 8.1 
+
+
+
+
+
+A description of all major sources of changes (both increases and decreases) to the in-service cost and sources of change in commercial operation dates, if any. 
+
+The current forecasted Total Construction and Capital Cost for the Units is $4.408 billion and the current forecasted Total Financing Cost is $1.675 billion, for a current forecasted Total Project Cost that is now projected to be $6.083 billion, which is $30 million below the Certified Amount of $6.113 billion.  
+
+Table 1.1 reflects all significant sources of changes in the in-service cost. The major sources of projected cost decreases result from the Commission’s adoption of Amendment No. 3 to the EPC Agreement, as well as effective management of activities at the Project site.  While both have contributed to a current cost savings, such savings are expected to be partially offset by potential new and emerging issues as previously described in the Second and Third VCM Reports, and further updated in Table 9.1 below.   
+
+
+
+
+
+Table 9.1
+
+
+
+
+The cost estimates provided in Table 9.1 are based upon the best information available at this time.  The Company will continue to closely monitor these issues and revise estimates as necessary in future reporting periods.  Below is a more detailed description of the major sources of change during this Reporting Period.
+
+
+REDACTED
+
+REDACTED REDACTED REDACTED.  REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED.
+
+
+In addition to the items listed above, the Company continues to evaluate other potential changes identified by the Consortium, such as the REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED.  
+
+The Company continues to evaluate the EPC Agreement to determine whether additional related change orders are appropriate, and awaits supporting cost estimates documentation from the Consortium to justify the change requests, but has not updated the budget to reflect these and does not plan to do so unless and until the change orders are determined to be more fully supported. 
+
+Beginning with this Fourth VCM Report, Table 1.1 now reflects a separate category entitled “EPC Scope Change.”  This category includes costs that were previously reported in Owner’s Costs, but are more appropriately attributed to costs incurred for work necessary to construct the Units.  This new category better identifies the cost of scope changes that are the result of such things as potential change orders and changes in regulations.   These costs are related to construction work that typically would be performed by the Consortium and are associated with the engineering, procurement and construction of the Units, rather than operational/oversight costs that are generally within the Owner’s scope and include the following items:
+
+
+REDACTED 
+REDACTED 
+REDACTED 
+REDACTED 
+REDACTED 
+REDACTED 
+REDACTED 
+REDACTED 
+REDACTED 
+REDACTED 
+REDACTED
+
+
+As the Construction Monitor has previously noted, the Company continues to provide forceful leadership of the Project and is actively involved and engaged in closely monitoring activities in the Consortium scope.  But as the Construction Monitor also notes, the impact of this active oversight on Consortium performance has yet to be demonstrated fully.   As the Project continues to progress, it is possible that additional Company oversight may be required to assess the quality of vendor supply and construction.  The Company continues to evaluate the appropriate level of staffing and oversight as well as the appropriate timing of additional oversight, and has not yet made any specific changes that require any updated cost estimates at this time.
+
+The status of the Company’s combined construction and operating license (COL) application at the Nuclear Regulatory Commission. 
+
+The most recent licensing schedule is shown in Table 10.1 below. 
+ 
+Significant progress continues to be made in the licensing of the Units.  As described in the Third VCM Report, three amendments to the ESP were filed to support backfill operations. The third amendment was approved at the beginning of this Reporting Period to provide for additional backfill from other sources and limit the use of safety-related backfill.  With these three amendments in place, SNC and the Consortium were able to identify sufficient backfill on site to support Project activities. 
+ 
+Early in 2010, it became evident that there was likely to be a delay in the issuance of the design certification and subsequently the COLs, possibly into early 2012.  Thus, in the first half of 2010, the NRC restructured both its internal DCD and COL application review processes to (1) provide for advanced safety evaluation reports (“ASERs”) to be issued on a chapter by chapter basis, and (2) conduct the ACRS Subcommittee reviews on a chapter by chapter basis.  The ACRS Subcommittee met over 20 days during the Reporting Period to conduct these DCD reviews. These activities substantially restored the schedule to a Fall 2011 design certification issuance.   As a result, the DCD ACRS Full Committee review was held on December 2, 2010, and a subsequent ACRS Full Committee letter was issued on December 13, 2010, which supported the issuance of the design certification.  On a parallel schedule, ACRS Subcommittee meetings were held throughout the latter half of 2010 on the Vogtle 3 and 4 COL application with the endorsement of the ACRS Subcommittee on December 17, 2010 that the COLs should be issued as well.  Although outside this Reporting Period, it is important to note that the ACRS Full Committee issued a letter endorsing the Vogtle COL application on January 24, 2011. 
+
+The completion of the COL application review remains dependent on the review of the DCD.  The NRC issued the draft environmental impact statement on August 26, 2010, and the NRC has notified the Company that the final environmental impact statement is scheduled to be issued on April 1, 2011.  These dates mean that the DCD certification continues on critical path.  In addition, the NRC issued the final chapter of the Vogtle ASER in December 2010. The NRC earlier had notified SNC that the: (1) Vogtle 3 and 4 ASERs’ completion was expected by December 2010, (2) COL ACRS Full Committee approval was expected by May 2011 and (3) issuance of the Final Safety Evaluation Report (“FSER”) was scheduled for June 2011.  With the completion of the ASERs and the ACRS Full Committee’s endorsement of the COL application, the Vogtle COL schedule has now accelerated by a few months.  The next activity for the issuance of the Vogtle FSER continues to be the issuance of the DCD FSER, which is scheduled for April 2011.
+ 
+New issues continued to surface on both the DCD and the COL application during this Reporting Period.  SNC continued to work with Westinghouse and the NRC during the Reporting Period to support resolution of DCD issues and to improve overall relations between Westinghouse and the NRC.  As a result, overall relations have continued to improve.   In general, issues during this Reporting Period tended to be more minor in nature than the issues addressed in previous reporting periods.  Issues regarding the DCD from the past reporting period that have been successfully resolved include the design of the shield building and GSI-191.  Also during this Reporting Period, there were several nonconcurrences identified in the DCD reviews, each of which were successfully resolved within the NRC.  The Company is closely monitoring the progress of any new items that may emerge and is interacting closely with the NRC to continue to evaluate any potential impacts on schedule.
+
+On August 13, 2010, the NRC received a new petition to intervene in the COL application process.  This intervention dealt with a concern regarding the inspection programs and the coatings for the containment vessel.  The ASLB convened and considered and eventually dismissed the petition on November 30, 2010.  On December 9, 2010, the petitioners appealed that decision to the NRC, which has yet to rule.
+
+
+
+
+
+
+
+
+
+
+Table 10.1
+Licensing - Vogtle 3 &amp; 4 COLA Schedule
+
+
+Note: Future NRC dates are based on NRC revised COL review schedule letter to SNC dated October 29, 2010.
+
+* Based on AP1000 Design Certification Amendment for the AP1000 establishing September 2011 as the date for final   
+   Rulemaking.
+          (Reference June 21, 2010 letter from NRC to Westinghouse)
+
+ (A) - Actual
+
+The status of all other significant permits and licenses required from other governmental agencies. 
+
+Table 11.1 
+
+
+
+Permit
+Activity Covered
+Permitting Agency
+Jurisdiction
+Estimated Application Date
+Projected Received Date
+Required Date
+
+Responsibility
+
+Notes
+
+Early Site Permit (ESP) and Limited Work Authorization (LWA)
+ESP -Site approval for nuclear plant construction; LWA - approval for limited safety-related work
+NRC
+Federal
+Actual August 2006
+Actual August 26, 2009
+September 2011
+SNC
+
+
+Combined Operating License (COL)
+Safety related construction for a nuclear power facility
+NRC
+Federal
+Actual March 31, 2008
+REDACTED
+REDACTED
+SNC
+
+Limited Work Authorization (LWA-B)
+Approval for nuclear island rebar and embeds and placement of NI base slab
+NRC
+Federal
+Actual October 2, 2009
+REDACTED
+REDACTED
+SNC
+
+Section 404 Permit
+Disturbance of crossing wetland areas or navigable waters
+USACE
+Federal
+Actual 
+November 9, 2009
+Revised January 7,2010
+Actual 
+September, 30, 2010
+October 2010
+SNC
+
+1,7,8, 16
+Section 10 Permit
+New intake/discharge to Savannah River
+USACE
+Federal
+Actual 
+November 9, 2009 Revised January 7,2010
+Actual 
+September, 30, 2010
+October 2010
+SNC
+
+1,7,8, 16
+
+Section 401 Certification
+Compliance with water quality standards
+GDNR
+State
+Actual 
+November 9, 2009 Revised January 7,2010
+Actual 
+June 1, 2010
+July 2010
+SNC
+ 7,8,16
+
+State Waters Buffer Variance
+Land disturbing activities within 25’ state waters buffer
+GDNR
+State
+Actual 
+January 8, 2010 
+Actual April 29, 2010 
+July  2010
+SNC
+
+
+Certificate of Registration
+Transportation of Hazardous Material
+USDOT
+Federal
+Actual May 2009
+Actual May 14, 2009
+June 2009
+SNC
+
+Federal Depredation Permit
+Adverse impacts on protected species and/or their nests. For site and rail corridor upgrade.
+USFWS
+Federal
+If needed
+TBD
+TBD
+SNC/GPC
+
+13
+
+Scientific Collecting Permit
+Collection of specimens
+USFWS
+Federal
+If needed
+TBD
+TBD
+SNC/GPC
+13
+Salvage Permit
+Donation or receipt  of protected species (bodies, feathers, etc.) for exhibit or scientific study
+USFWS
+Federal
+If needed 
+TBD
+TBD
+SNC/GPC
+
+13
+
+Objects Affecting Navigable Airspace - 
+Construction Notice
+Notice of erection of structures (&gt;200’ high) potentially impacting air navigation
+
+
+FAA
+Federal
+
+REDACTED
+
+
+REDACTED 
+REDACTED
+
+
+Shaw
+17
+Stand-Alone Construction Projects Storm Water Permit
+Discharge storm water from site during construction
+GDNR
+State
+Actual October 2008
+ongoing
+Various
+
+
+
+SNC
+
+
+National Historic Preservation Act
+Consultation regarding potential to adversely affect historic resources
+GDNR
+State
+Actual letter to SHPO transmitting MOU for signature December 2009
+Actual January 20, 2010
+ June 2010
+SNC
+17
+Air Quality Construction Permit
+Construction air emission sources
+GDNR
+State
+Actual March 13, 2009
+Actual June 18, 2009
+
+June 2009
+Shaw
+10
+
+NPDES Wastewater Permit 
+Regulates limits of pollutants in liquid discharge to surface water
+GDNR
+State
+Actual September 23,  2009
+Actual April 16, 2010
+July  2010
+SNC
+2,7,17
+Air Quality Construction Permit
+Construction of plant air emission sources
+GDNR
+State
+Actual May 22, 2009
+Actual April 9, 2010
+May 2010
+SNC
+17
+ 
+GA Endangered Wildlife Act
+Adverse impacts on state designated protected species and/or their habitat. For site and rail corridor
+GDNR
+State
+If needed
+TBD
+TBD
+SNC
+13
+
+NPDES Wastewater Permit 
+Regulates limits of pollutants in liquid discharge to surface water
+GDNR
+State
+REDACTED
+REDACTED
+REDACTED
+SNC
+ 14
+
+NPDES Wastewater Permit 
+Regulates limits of pollutants in liquid discharge to surface water
+GDNR
+State
+REDACTED
+REDACTED
+REDACTED
+SNC
+14
+
+Infrastructure Projects Construction Storm Water Permit
+Discharge storm water from linear construction sites (e.g. Roadways, transmission line and rail corridor)
+GDNR
+State
+TBD
+TBD
+REDACTED
+GPC
+14
+
+General Permit for Industrial Storm Water Discharges
+Discharge storm water associated with industrial activity
+GDNR
+State
+TBD
+TBD
+REDACTED
+SNC
+4, 14
+
+Permit to Operate a Public Water System
+Operate a public, non-transient, non-community water system
+GDNR
+State
+Actual June 16, 2009
+Actual July 14, 2010
+TBD
+SNC
+
+Permit to Operate a Public water System
+Operate a public, non-transient, non-community water system
+GDNR
+State
+Actual September 9, 2009
+REDACTED
+REDACTED
+SNC
+12, 17
+
+Permit to Withdraw Groundwater – Make up Wells 3 and 4
+Consumptive use of 100,000 gallons per day or more of groundwater
+GDNR
+State
+Actual May 26, 2009
+Actual July 30, 2009
+November 2009
+SNC
+4
+
+Permit to Withdraw Groundwater – Dewatering Activities
+Dewater for foundation if needed for more than 60 days
+GDNR
+State
+Actual 
+September 3, 2008
+Actual March 27, 2009
+June  2009
+SNC
+
+
+Certificate of Abandoned Well(s) – MU-2A
+Abandoned wells have been filled, plugged and sealed (notification required 30 days after well is abandoned)
+GDNR
+State
+REDACTED
+N/A – No response required
+REDACTED
+SNC
+11
+
+Certificate of Abandoned Well(s) – SW-5
+Abandoned wells have been filled, plugged and sealed (notification required 30 days after well is abandoned)
+GDNR
+State
+Actual February 18, 2009 Notification only
+N/A – No response required
+NA
+SNC
+
+
+Permit to Withdraw Surface Water
+Surface water withdrawal
+GDNR
+State
+REDACTED
+REDACTED
+REDACTED
+SNC
+
+Land Disturbing Activity Permit
+Permission to conduct land disturbing activities of one acre or larger, or within 25’ of any state waters
+GDNR
+State
+N/A
+N/A
+N/A
+
+5
+
+Private Industrial Landfill Permit
+On-site disposal of solid waste consisting of construction and demolition debris
+GDNR
+State
+Actual December 2008
+Actual Revised D &amp; O Plan Received April 30, 2009 
+May 2010
+SNC
+4
+
+Solid Waste Handling Permit
+Disposal of industrial solid wastes. Transportation of putrescible waste for disposal in a permitted landfill
+GDNR
+State
+N/A
+N/A
+N/A
+SNC
+6
+Title V Operating Permit
+Operation of air emission sources
+GDNR
+State
+Actual May 22, 2009
+Actual June 11, 2010
+2015
+SNC
+4 
+
+Certificate of Public Convenience and Necessity
+Present and future public convenience and necessity requiring the operation of such equipment or facility
+GA PSC
+State
+Actual August 1, 2008
+Actual March 17, 2009 Approved by PSC
+March 17, 2009
+GPC
+
+
+General Permit to Transport Radioactive Materials
+Transportation of radioactive materials in the State of Georgia
+GDNR/
+GDPS
+State
+TBD
+REDACTED
+REDACTED
+SNC
+4, 14
+
+Utility Right-of-Way Permit
+Utility right-of-way easement
+GDOT
+State
+TBD
+REDACTED
+REDACTED
+GPC
+14
+Tennessee Radioactive Waste License-for-Delivery
+Transportation of radioactive materials into the State of Tennessee
+TDEC
+State
+REDACTED
+REDACTED
+REDACTED
+SNC
+4
+
+Utah Radiation Control Rule
+Transportation of radioactive materials into the State of Utah
+UDEQ
+State
+REDACTED
+REDACTED
+REDACTED
+SNC
+4
+
+Scientific Collecting Permit
+State permit for collection of specimens
+SCDNR
+State
+If needed
+TBD
+TBD
+SNC/GPC
+13
+
+Scientific Collecting Permit
+State permit for collection of specimens
+GDNR
+State
+If needed
+TBD
+TBD
+SNC/GPC
+13
+Land Disturbing Activity Permit
+All land disturbing activities within the boundaries of Burke County
+Burke County
+County
+N/A
+N/A
+N/A
+N/A
+5
+Building Permit
+Construction, alteration, repair, or demolition of any building or structure within the boundaries of Burke County
+Burke County
+County
+N/A
+N/A
+N/A
+N/A
+5
+Demolition Notification
+Notice of demolition of buildings or structures
+GDNR/
+Burke County
+State/
+County
+Various – first notification submitted in October 2008
+Various
+Various
+SNC
+
+Land Disturbing Activity Permit
+All land disturbing activities within the boundaries for transmission construction
+Various
+County
+N/A
+N/A
+N/A
+N/A
+5
+
+Notes on Variances 
+1
+Permit application to be submitted in accordance with USACE regulations. Corps Master permit to cover intake and discharge
+2
+If needed for Batch Plant
+3
+Modification to existing permit – one for Unit 3 and one for Unit 4
+4
+Modification to existing permit
+5
+Not applicable since GPC is exempt pursuant to O.C.G.A 12-7-17 (10)
+6
+Existing Permit – no modification required
+7
+Final design info received from Shaw
+8
+All items related to Corps Master permit
+9
+MOU for SHPO temporarily delayed pending evaluation of Shaw inquiry  on potential for relocation of  intake structure
+10
+Shaw Air SIP permit for construction issued June 18, 2009 by Georgia EPD; modification of permit was required due to changes in equipment needs and specifications by Shaw.  Permit modification received December 29, 2009.
+11
+Well MU2A will not be abandoned as originally scheduled and will be used temporarily to support construction water needs.
+12
+Fire training Center (FTC) Potable Water permit application filed in September 2009 after need identified for potable water at FTC building. 
+13
+These permits will only be obtained if needed for the project.  Permit application will be made once the need is identified and the use of TBD indicates that the permit application date will be determined consistent with the time the need is identified.
+14
+TBD indicates that the State of Georgia has not indicated when these permit applications should be submitted.  These permit application dates will be added as the project progresses based on input from the State of Georgia.
+15
+Potable water permits issuance is based on completion of well installation and source water analysis. Working with Shaw to revise well completion schedule.    
+16
+These permits were resubmitted due to a Shaw calculation revision applied to the previous applications.      
+17
+The required date has been revised to reflect the associated construction need dates or project completion dates.      
+
+
+Note: Grayed variance notes are resolved, or are associated with permits that have already been received.
+
+
+The status of procurement, engineering, fabrication, transportation and erection of major equipment. 
+
+Consortium Responsibilities.  There is no change to this item since the Third VCM Report.  Under the EPC Agreement, the Consortium has the responsibility for all activities involving the procurement, engineering, fabrication, transportation and erection of major equipment.  Georgia Power, through its agent SNC, is overseeing those activities to confirm that the Consortium is abiding by the terms of the EPC Agreement and that the Project meets the standards of quality demanded by Georgia Power. 
+
+Procurement.   The December 2010 EPC Monthly Status Report and December 2010 Vogtle 3 and 4 Project Metrics Package provide more detailed information regarding the status of procurement.  In summary, according to the December 2010 EPC Monthly Status Report, Westinghouse and Shaw have issued 192 purchase orders (“POs”) as compared to the 201 POs that were planned.  In addition to the information presented by the Consortium, the Company also tracks planned versus actual procurement activities for major components through its Vendor Surveillance Organization.  As reported in the December 2010 Vogtle 3 and 4 Project Metrics Package, all 64 of the planned major components POs have been issued for the Project.
+
+The following major POs were issued during this Reporting Period:
+REDACTED 
+REDACTED
+REDACTED
+
+Engineering.  The December 2010 EPC Monthly Status Report and December 2010 Vogtle 3 and 4 Project Metrics Package provide more detailed information regarding the status of engineering.  Engineering activities are lagging and several challenges exist. As of December 31, 2010 REDACTED engineering Certified for Construction (“CFC”) packages scheduled were issued.  The Consortium continues to issue partial engineering For Procurement Only (“FPO”) packages to limit the impacts of the late CFC packages and, of the REDACTED that were planned, REDACTED were issued.  The Consortium notes in the EPC Monthly Status Report that REDACTED percent of the planned documents scheduled for issuance in CFC and FPO packages were issued as of December 31, 2010.  The Consortium also notes that the delays to date in issuance of the CFC packages are consuming float but have not yet impacted construction start dates, and that further schedule re-alignment between design document release, and procurement and construction need, is underway.  SNC Engineering has requested that the Consortium evaluate specific design impacts to the critical path schedule.
+
+SNC Engineering has identified three areas of design finalization that present the most risk to the overall design finalization schedule; (1) REDACTED REDACTED (2) REDACTED REDACTED REDACTED REDACTED (3) REDACTED REDACTED REDACTED REDACTED REDACTED.  Due to the schedule risk posed by these areas, SNC has placed resident engineers in the Shaw office and the Westinghouse Nuclear Automation office to monitor and assess performance and identify and elevate issues to SNC senior management.
+In the Third VCM Report, the Reactor Coolant Pump (“RCP”) bearing design and RCP to Steam Generator weld examination were identified as challenges.  Subsequent testing performed on the RCP has been positive, and a decision has been made to move forward with the REDACTED REDACTED. This puts the RCP delivery on schedule to support the Project.  In addition, the ASME Code Case Committee approved the first of the two code cases for the RCP weld to the Steam Generator.
+
+Fabrication.   The December 2010 EPC Monthly Status Report and December 2010 Vogtle 3 and 4 Project Metrics Package provide more detailed information regarding the status of fabrication.  In summary, of the 35 planned fabrication starts to date, 25 have actually started.  The remainder are forecasted to begin in the first quarter of 2011 and the shift in fabrication start dates does not currently affect the delivery of these components to meet the site need dates. 
+
+The following major component fabrication commenced during this Reporting Period:
+
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+
+As identified in the Third VCM Report, the Company continues to monitor the following vendor quality issues with SMS, Mangiarotti and Chicago Bridge and Iron (“CB&amp;I”).
+
+The stop work order (“SWO”) for the SMS facility was lifted on August 6, 2010; however, in October 2010, a fabrication hold was placed on the structural CA type wall submodules as a result of the shield building coupler and wall material design changes made by the Consortium.  Design changes are also being made to the leak chase design.   REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED.  
+  
+
+Although outside this Reporting Period, the Company is providing preliminary information with regard to an NRC inspection and the Company’s oversight of the SMS facility.  Specifically, as a result of Quality Assurance Program issues identified by both the NRC and the Company, Shaw Nuclear, SMS, and Westinghouse were requested to jointly develop a comprehensive plan to address concerns regarding nuclear safety culture, SMS quality assurance effectiveness, application and understanding of nuclear fundamentals, and the continuous process improvement culture.  The plan incorporates industry fundamentals and best practices as well as lessons learned from CB&amp;I.  The Company’s senior executives hold weekly meetings with the Consortium’s senior management to receive updates on its ongoing progress to resolve these quality concerns.  
+
+On January 14, 2011, Westinghouse issued a full release of the temporary manufacturing hold on Mangiarotti Nucleare S.p.A and Mangiarotti S.p.A.  Westinghouse found that Mangiarotti demonstrated full comprehension and compliance with the requirements of 10 C.F.R. 21, as well as other required ASME standards that were under compliance review. Westinghouse further found that Mangiarotti now provides sufficient and accurate information in quality assurance documentation, and is properly storing such documentation to prevent damage or loss. After a complete assessment of the corrective actions to satisfactorily address the deficiencies it had identified, Westinghouse has found that the Mangiarotti S.p.A. Quality Assurance program now complies with nuclear industry standards and U.S. regulatory requirements.  
+
+On October 24, 2010, Westinghouse issued a SWO to CB&amp;I and revised this SWO with additional restart qualifications on November 15, 2010.  The SWO was issued for deficiencies in the CB&amp;I Quality Program, including deficiencies observed in the storage and protection of the containment vessel plates and procedural gaps in the corrective action program. Conditions of lifting the SWO include the acceptance of the response to the Westinghouse supplier corrective action request, approval of a root causal analysis, and completion of a quality program audit of CB&amp;I at the Vogtle site by Westinghouse.  In addition, CB&amp;I must complete training and accept a plan for use of selected human performance tools by CB&amp;I for containment vessel related activities.  To close out the SWO, Westinghouse must also accept the responses and action plans for the supplier corrective action requests identified in a recent audit report.   
+
+Transportation.  
+The following major components were delivered to the site during this Reporting Period:
+
+REDACTED
+
+Erection of Major Equipment.  The Level 1 Schedule, the December EPC Monthly Status Report and the December 2010 Vogtle 3 and 4 Project Metrics Package provide detailed information regarding the status of erection of major equipment and current site activities.  
+
+The following activities are important to note:
+
+The first shipment of Containment Vessel Lower Head Plates arrived at the Vogtle site. These are the first nuclear components to arrive on site.
+Module assembly building structural work is complete.
+Batch plant 2 construction is underway.
+Backfill to the 180 foot elevation has been completed to support circulating water pipe installation, shield and auxiliary building base foundation work, as well as the foundation for the 315 foot derrick crane.
+Operations Training Facility construction is underway.
+Raw Water Storage Tank, Yard Fire Tank and Potable Water Tank erection is complete.
+
+
+The status of transportation links for heavy forgings and modules.
+
+As of December 31, 2010, all expected heavy forgings have been successfully transported from Japan Steel Works located in Muroran, Japan to Doosan Heavy Industries located in Changwon, South Korea.  In addition to the forgings identified in the Third VCM Report, the following forgings have been transported:
+
+REDACTED
+REDACTED
+
+The following forgings for Unit 4 were produced by Doosan:
+
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+
+In addition to the above, the following forgings were made for Mangiarotti and transported to various locations in Italy:
+
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+REDACTED 
+REDACTED
+REDACTED
+REDACTED
+REDACTED 
+
+An updated comparison of the economics of the certified project to other capacity options.
+ 
+The relative economic value for the Units can be determined by comparing the costs associated with completing, operating, and maintaining the Units over their 60 year useful life with the costs to build, operate, and maintain a gas-fired combined cycle (“CC”) unit over a comparable time period, which is the next most viable generation alternative over the same period.  The economic analysis performed for this Fourth VCM Report has relied on the methodologies used in the economic evaluations conducted in Docket Nos. 27800 and 29849.
+ 
+The economic evaluation presented in this Fourth VCM Report reflects updated fuel forecasts, load forecasts and new generation technology capital costs. Consistent with the Third VCM Report, a range of planning scenarios was used to evaluate the possible impacts of varying fuel and carbon prices.  Three possible fuel price forecasts were used as well as three possible carbon price cases ($0, $10, and $20 per ton of CO2) along with a policy case of $30/ton.  Carbon prices are per ton in REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED REDACTED.  
+
+This economic evaluation includes updated capital and O&amp;M costs for the gas-fired alternative as well as updated system production costs.  Updated assumptions regarding Vogtle Units 3 and 4 in this evaluation include updated capital costs to complete the Units as well as a change in the allowed return on equity consistent with the Commission’s final order in Georgia Power’s 2010 Rate Case (Docket No. 31958).  Other items, such as post-COD O&amp;M, spent fuel storage cost estimates and the assumed operating characteristics of the Units were not changed.  Although not included in the economic evaluation, it is important to recognize that the Company currently estimates the net benefits associated with the expected DOE federal loan guarantee that would extend to customers over the life of the debt by reducing the Company’s overall weighted average cost of capital total more than $REDACTED.  Furthermore, the Company currently estimates the net benefit of Federal production tax credits “PTCs” will be substantially higher than the assumed PTCs used in this Fourth VCM Report.  The current economic evaluation assumes REDACTED of potential available PTCs, or $REDACTED.  On a combined basis, these incentives from the federal government, which the Company has worked to ensure are available to the Vogtle 3 and 4 Project, will provide additional economic benefits to the Company’s customers in excess of $REDACTED.
+
+The “sunk costs” (non-refundable costs already incurred or projected to have been incurred as of February 28, 2011) are excluded from this forward-looking analysis. The total currently certified construction and financing cost of $6.113 billion, net of sunk costs, is used as the basis to determine “cost to complete.”  Also, this economic evaluation utilizes marginal financing costs, which are higher than current estimates of embedded average financing costs.  Other references to financing costs in this Fourth VCM Report are based on estimates of embedded average financing costs.
+ 
+The relative economics for the Units, when compared to the gas-fired alternative, vary depending on the assumptions for future fuel prices as well as with the projected carbon prices associated with potential future carbon legislation.  The updated fuel forecast used for the economic evaluation presented in this Fourth VCM Report projects lower natural gas prices over the long term as compared to the fuel forecast used in the Third VCM Report.  However, the results of the evaluation continue to reflect positive benefits primarily as a result of the reduction in capital costs to complete the Units as compared to the capital costs to complete the Units assumed in the Third VCM Report.  Table 14.1 below shows the difference between the lifetime costs of building, operating, and maintaining the gas-fired alternative and Units 3 and 4, with positive savings meaning Units 3 and 4 are less expensive to customers than the gas-fired CC alternative.  All twelve scenarios show positive benefits to customers for completing and operating the Units.
+
+
+Table 14.1        
+ Relative Savings of Units 3 and 4 versus CC as of February 28, 2011
+“Incremental Cost to Complete”
+(Net present value of lifetime costs of CC minus Units 3 and 4)
+
+Fuel \ CO2
+$0 CO2
+$10 CO2
+$20 CO2
+$30 CO2
+High
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+Moderate
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+Low 
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+Positive number means Vogtle Units 3 and 4 are less costly than the gas-fired CC
+alternative.
+
+Alternatively, the results of the updated economic evaluation can be expressed in terms of the “breakeven capital cost to complete.”  Table 14.2 below shows the results of the breakeven analysis that calculates the maximum capital expenditure that could be spent to complete the Units and maintain lifetime costs that are equal to the cost of the gas-fired CC alternative.  In all of the scenarios, the maximum capital cost to complete the Units exceeds the Company’s current estimate of the cost to complete the Units (including marginal construction financing costs) of $REDACTED billion. 
+
+Table 14.2
+
+Relative Savings of Units 3 and 4 versus CC as of February 28, 2011
+“Break-Even Cost to Complete”
+(Maximum Capital Costs to Complete Units 3 and 4 and Remain Economic)
+
+Fuel \ CO2
+$0 CO2
+$10 CO2
+$20 CO2
+$30 CO2
+High
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+Moderate
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+Low
+REDACTED
+REDACTED
+REDACTED
+REDACTED
+If value is higher than current estimated cost to complete of $REDACTED billion of in-service and construction financing costs, the Project benefits customers.
+
+The analyses provided in Tables 14.1 and 14.2 are based on an economic assessment from an “incremental cost to complete” perspective, which ignores any potential cancellation fees or other costs that would be incurred if the Project were stopped as well as any fully-committed construction costs that would not be avoidable in the event the Project is cancelled.  If the results from the incremental cost to complete evaluation showed it was no longer cost-effective to pursue completing the Units, a second cancellation assessment would be performed to determine the economic value of canceling the Units.  A cancellation assessment can provide the most appropriate perspective for deciding whether to cancel the Units as it would include the impacts of any cancellation fees or other costs associated with cancelling the Project in the economic analysis.  However, because Tables 14.1 and 14.2 both reflect significant savings and benefits to customers from the incremental cost to complete perspective across a wide range of possible future fuel and carbon prices, a cancellation assessment is not warranted at this time.  
+
+The Company will be under a continuing obligation to supplement its response to PIA Staff DR STF-TN-1-2 by ensuring that the financing data reflected in the schedules attached to that DR response reflect the most current and updated information at the time of each semi-annual monitoring report.  In addition, the Company will provide the most current information shared with each of the Rating Agencies. 
+
+To comply with this requirement, the Company is including Trade Secret Exhibits 1a, 1b, 2 and 3.
+Updated financial projections and calculations of rating agencies. Exhibits 1a and 1b contain updated calculations.
+
+A presentation to Moody’s at its offices on August 2, 2010.  This presentation is provided as Exhibit 2.
+
+Updated Georgia Power Security Issuances for the Project through 2020 under CWIP in rate base methodology, attached as Exhibit 3.

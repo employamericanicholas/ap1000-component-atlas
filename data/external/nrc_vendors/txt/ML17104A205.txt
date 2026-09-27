@@ -1,0 +1,289 @@
+April 24, 2017
+Mr. John DeBonis, Quality Assurance Manager
+Curtiss-Wright Flow Control Company
+Target Rock Division
+1966E Broadhollow Road
+East Farmingdale, NY 11735
+SUBJECT: NUCLEAR REGULATORY COMMISSION INSPECTION OF CURTISS-WRIGHT
+FLOW CONTROL COMPANY TARGET ROCK DIVISION, REPORT
+NO. 99900060/2017-202 AND NOTICE OF NONCONFORMANCE
+Dear Mr. DeBonis:
+From March 6-9, 2017, the U.S. Nuclear Regulatory Commission (NRC) conducted an
+inspection at the Curtiss-Wright Flow Control Company Target Rock Division (hereafter referred
+to as TR) facility in East Farmingdale, NY. The enclosed report presents the results of the
+inspection.
+The purpose of the limited-scope inspection was to assess TR’s compliance with the provisions
+of Title 10 of the Code of Federal Regulations (10 CFR) Part 21, “Reporting of Defects and
+Noncompliance,” and selected portions of Appendix B, “Quality Assurance Criteria for Nuclear
+Power Plants and Fuel Reprocessing Plants,” to 10 CFR Part 50, “Domestic Licensing of
+Production and Utilization Facilities.” This technically-focused inspection specifically evaluated
+TR’s implementation of quality activities associated with the design, procurement, manufacture,
+and testing of valves with an emphasis on 6-inch by 10-inch relief valves. This NRC inspection
+report does not constitute NRC endorsement of TR’s overall quality assurance (QA) program.
+During this inspection, the team found that TR has established a QA program that adequately
+controls quality-affecting activities in accordance with the regulatory requirements of Appendix B
+to 10 CFR Part 50. However, implementation of the QA program did not meet certain NRC
+requirements contractually imposed on TR by its customers or NRC licensees. Specifically, the
+inspection team determined that TR was not implementing its commercial-grade dedication
+program in accordance with the requirements of Criterion VII, “Control of Purchased Material,
+Equipment, and Services,” of Appendix B to 10 CFR Part 50. The specific findings and
+references to the pertinent requirements are identified in the enclosures to this letter. In
+response to the enclosed Notice of Nonconformance (NON), TR should document the results of
+the extent of condition and determine if there are any effects on other safety-related
+components.
+Please provide a written explanation or statement within 30 days of this letter in accordance with
+the instructions specified in the enclosed NON. The NRC will consider extending the response
+time if you show good cause for the agency to do so.
+
+=== PAGE BREAK ===
+
+J. DeBonis 2
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC’s Rules of Practice, the NRC will make a copy of this letter, its enclosures, and your
+response available electronically for public inspection in the NRC Public Document Room or
+from the NRC’s document system, Agencywide Document Access and Management System,
+accessible from the NRC Web site at http://www.nrc.gov/reading-rm/adams.html. To the extent
+possible, your response should not include any personal privacy, proprietary, or safeguards
+information so that it can be made available to the public without redaction. If personal privacy
+or proprietary information is necessary to provide an acceptable response, then please provide
+a bracketed copy of your response that identifies the information that should be protected and a
+redacted copy of your response that deletes such information. If you request that such material
+be withheld from public disclosure, you must specifically identify the portions of your response
+that you seek to have withheld and provide in detail the bases for your claim (e.g., explain why
+the disclosure of information will create an unwarranted invasion of personal privacy or provide
+the information required by 10 CFR 2.390(b) to support a request for withholding confidential
+commercial or financial information). If safeguards information is necessary to provide an
+acceptable response, please provide the level of protection described in 10 CFR 73.21,
+“Protection of Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA/
+John P. Burke, Chief
+Quality Assurance Vendor Inspection Branch-2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99900060
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report No. 99900060/2017-202
+and Attachment
+
+=== PAGE BREAK ===
+
+J. DeBonis 3
+SUBJECT: NUCLEAR REGULATORY COMMISSION INSPECTION OF CURTISS-WRIGHT
+FLOW CONTROL COMPANY TARGET ROCK DIVISION, REPORT
+NO. 99900060/2017-202 AND NOTICE OF NONCONFORMANCE
+Dated: April 24, 2017
+DISTRIBUTION:
+ASakadales
+TJackson
+KKavanagh
+NRO_DCIP Distribution
+ConE_Resource
+jdebonis@curtisswright.com
+jgyeon@kins.re.kr
+lhg777@korea.kr
+adimeo@curtisswright.com
+ADAMS Accession No.: ML17104A205 *concurred via email NRO-002
+OFFICE NRO/DCIP NRO/DCIP NRO/DCIP NRR/DIRS
+NAME BClarke JOrtega JHeath* CNolan*
+DATE 04/24/17 04/24/17 04/18/17 04/14/17
+OFFICE NRO/DE RI/DRS NRO/DCIP NRO/DCIP
+NAME JBillerbeck* SPindale* SSmith* JBurke
+DATE 04/14/17 04/20/17 04/24/17 04/24/17
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+NOTICE OF NONCONFORMANCE
+Curtiss-Wright Flow Control Company Docket No. 99900060
+Target Rock Division Inspection Report No. 99900060/2017-202
+1966E Broadhollow Road
+East Farmingdale, NY 11735
+Based on the results of a U.S. Nuclear Regulatory Commission (NRC) inspection conducted
+from March 6 to March 9, 2017, of activities performed at Curtiss-Wright Flow Control
+Company – Target Rock Division (hereafter referred to as TR), it appears that certain activities
+were not conducted in accordance with NRC requirements contractually imposed upon TR by its
+customers or NRC licensees.
+A. Criterion VII, “Control of Purchased Material, Equipment, and Services,” of Appendix B
+to Title 10 of the Code of Federal Regulations (10 CFR) Part 50, states, in part, that,
+“Measures shall be established to assure that purchased material, equipment, and
+services, whether purchased directly or through contractors and subcontractors, conform
+to the procurement documents. These measures shall include provisions, as
+appropriate, for source evaluation and selection, objective evidence of quality furnished
+by the contractor or subcontractor, inspection at the contractor or subcontractor source,
+and examination of products upon delivery.”
+Section 8.2 of Target Rock Report No. 5041, “Dedication Requirements for Commercial
+Grade Items,” Revision V, dated February 16, 2015, states, that, “Implementation of CG
+[commercial-grade] surveys requires confirmation that specified critical characteristics
+are being controlled under the scope of the supplier’s documented commercial quality
+system activities and that reasonable assurance is established that the commercial
+supplier’s activity adequately control the supplied CG items.“ And further that, “Prior to
+conduct of a CGI [commercial-grade item] survey, the assigned quality engineer and
+when appropriate, the Assigned EP Project Engineer, shall prepare a survey check list
+which will include the specific (CCAV) [Critical Characteristic Attribute Verification sheet]
+characteristics to be verified and the method of verification. The results of the CG
+survey shall be documented by completing the above approved survey plan/check list
+which is reviewed and approved by Quality Assurance and shall include: 1) Item or items
+included in the scope of the survey, 2) Critical characteristics to be controlled by the
+supplier, 3) Supplier controls to be verified specific to the critical characteristics, 4) The
+methods used to survey or verify performed activities including results, 5) Conclusions
+attesting to the adequacy of the supplier controls, 6) Identification of selected critical
+characteristics which can also be verified at receipt inspection…”
+Contrary to the above, as of March 9, 2017, TR failed to establish measures that
+included provisions, as appropriate, for source evaluation and selection, objective
+evidence of quality furnished by the contractor or subcontractor, inspection at the
+contractor or subcontractor source, or examination of products upon delivery.
+Specifically, TR failed to conduct commercial-grade surveys or use another verification
+method to verify the critical characteristics, that, when verified, provide reasonable
+assurance that items and services will perform their intended safety function. This issue
+Enclosure 1
+
+=== PAGE BREAK ===
+
+was identified as inadequate dedication of items and services procured from the
+following commercial suppliers:
+• Skovira Machine Machining services
+• Bannett Heat Treating and Brazing Heat treating and brazing services
+• Suhm Spring Works Purchased springs
+This issue has been identified as Nonconformance 99900060/2017-202-01.
+Please provide a written statement or explanation to the U.S. Nuclear Regulatory Commission,
+ATTN: Document Control Desk, Washington, DC 20555-0001, with a copy to the Chief, Quality
+Assurance Vendor Inspection Branch-2, Division of Construction Inspection and Operational
+Programs, Office of New Reactors, within 30 days of the date of the letter transmitting this
+Notice of Nonconformance. This reply should be clearly marked as a “Reply to a Notice of
+Nonconformance” and should include for each noncompliance: (1) the reason for the
+noncompliance, or if contested, the basis for disputing the noncompliance; (2) the corrective
+steps that have been taken and the results achieved; (3) the corrective steps that will be taken
+to avoid noncompliances; and (4) the date when your corrective action will be completed.
+Where good cause is shown, the NRC will consider extending the response time.
+Because the NRC will make your response available electronically for public inspection in the
+NRC Public Document Room or from the NRC’s document system, Agencywide Documents
+Access and Management System, which is accessible from the NRC Web site at
+http://www.nrc.gov/reading-rm/adams.html, to the extent possible, it should not include any
+personal privacy, proprietary, or safeguards information so that it can be made available to the
+public without redaction. If personal privacy or proprietary information is necessary to provide
+an acceptable response, then please provide a bracketed copy of your response that identifies
+the information that should be protected and a redacted copy of your response that deletes such
+information. If you request withholding of such material, you must specifically identify the
+portions of your response that you seek to have withheld and provide in detail the bases for your
+claim of withholding (e.g., explain why the disclosure of information will create an unwarranted
+invasion of personal privacy or provide the information required by 10 CFR 2.390(b) to support a
+request for withholding confidential commercial or financial information). If safeguards
+information is necessary to provide an acceptable response, please provide the level of
+protection described in 10 CFR 73.21, “Protection of Safeguards Information: Performance
+Requirements.”
+Dated this the 24th day of April 2017.
+2
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS
+VENDOR INSPECTION REPORT
+Docket No.: 99900060
+Report No.: 99900060/2017-202
+Vendor: Curtiss-Wright Flow Control Company
+Target Rock Division
+1966E Broadhollow Road
+East Farmingdale, NY 11735-1768
+Vendor Contact: Mr. John DeBonis, Quality Assurance Manager
+Phone: 631-396-4429
+jdebonis@curtisswright.com
+Background: Target Rock, a business unit of Curtiss-Wright Flow Control
+Company, is an American Society of Mechanical Engineers
+certificate holder with its scope of supply including, but not limited
+to, commercial grade dedication, design, fabrication, assembly,
+and testing of valves for safety-related applications for the
+commercial operating fleet.
+Inspection Dates: March 6-9, 2017
+Inspection Team Leader: Brent Clarke NRO/DCIP/QVIB-2
+Inspectors: Jonathan Ortega NRO/DCIP/QVIB-2
+Jermaine Heath NRO/DCIP/QVIB-3
+Catherine Nolan NRR/DIRS/IOEB
+John Billerbeck NRR/DE/EPNB
+Stephen Pindale RI/DRS/EB1
+Joung Gun Yeon KINS (Observer)
+Hoo Jin Lee NSSC (Observer)
+Approved by: John P. Burke, Chief
+Quality Assurance Vendor Inspection Branch-2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Enclosure 2
+
+=== PAGE BREAK ===
+
+EXECUTIVE SUMMARY
+Target Rock
+99900060/2017-202
+The U.S. Nuclear Regulatory Commission (NRC) staff conducted a vendor inspection at the
+Curtiss-Wright Flow Control Company – Target Rock Division (hereafter referred to as TR)
+facility to verify that it had implemented an adequate quality assurance (QA) program that
+complies with the requirements of Appendix B, “Quality Assurance Criteria for Nuclear Power
+Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of Federal Regulations (10 CFR)
+Part 50, “Domestic Licensing of Production and Utilization Facilities.” In addition, the NRC
+inspection team verified that TR implemented a program under 10 CFR Part 21, “Reporting of
+Defects and Noncompliance,” that met NRC’s regulatory requirements. The NRC inspection
+team conducted the inspection from March 6-9, 2017.
+This technically-focused inspection specifically evaluated TR’s implementation of quality
+activities associated with the design, procurement, manufacture, and testing of valves with an
+emphasis on 6-inch by 10-inch relief valves.
+Some of the specific activities observed by the NRC inspection team included:
+• Receipt inspection of rod disks for solenoid valves
+• Receipt inspection supporting commercial-grade dedication (CGD) of pan head screws
+for various valves
+• Setpoint testing of a relief valve
+• Hydrotesting of a valve body for a 1-inch solenoid-operated valve
+• Hydrotesting of a bonnet for a 2-inch solenoid-operated valve
+• Hydrotesting of a main disk for a universal 1-inch valve
+• Final inspection of a relief valve
+• Assembly of a solenoid-operated valve
+• Calibration of a micrometer
+• Control, inventory, and issuance of Measuring and Test Equipment (M&TE)
+• Main disc hardsurface welding of a 2-inch by 3-inch power-operated relief valve (PORV)
+• Body-to-bonnet seal welding of a 1-inch solenoid-operated valve
+• Liquid Penetrant Inspection (LPI) of the body-to-bonnet seal weld of the same 1-inch
+solenoid-operated valve
+These regulations served as the bases for the NRC inspection:
+• Appendix B to 10 CFR Part 50
+• 10 CFR Part 21
+During the course of this inspection, the NRC inspection team implemented Inspection
+Procedure (IP) 43002, “Routine Inspections of Nuclear Vendors,” dated January 27, 2017,
+IP 43004, “Inspection of Commercial-Grade Dedication Programs,” dated January 27, 2017, and
+IP 36100, “Inspection of 10 CFR Part 21 and Programs for Reporting Defects and
+Noncompliance,” dated February 13, 2012.
+The last NRC inspection of TR occurred in April 2012.
+2
+
+=== PAGE BREAK ===
+
+With the exception of one nonconformance described below, the NRC inspection team
+concluded that TR’s QA policies and procedures comply with the applicable requirements of
+Appendix B to 10 CFR Part 50 and 10 CFR Part 21, and that TR’s personnel are implementing
+these policies and procedures effectively. The results of this inspection are summarized below.
+Commercial-Grade Dedication
+Contrary to the above, as of March 9, 2017, TR failed to establish measures that included
+provisions, as appropriate, for source evaluation and selection, objective evidence of quality
+furnished by the contractor or subcontractor, inspection at the contractor or subcontractor
+source, or examination of products upon delivery. Specifically, TR failed to conduct
+commercial-grade surveys or use another verification method to verify the critical
+characteristics, that, when verified, provide reasonable assurance that items and services will
+perform their intended safety function. This issue was identified as inadequate dedication of
+items and services procured from the following commercial suppliers:
+• Skovira Machine Machining services
+• Bannett Heat Treating and Brazing Heat treating and brazing services
+• Suhm Spring Works Purchased springs
+Other Inspection Areas
+The NRC inspection team determined that TR is implementing its programs for design control,
+test control, supplier oversight, control of M&TE, nonconforming material, parts and
+components, corrective action, internal audits, and manufacturing and special processes in
+accordance with the applicable regulatory requirements of Appendix B to 10 CFR Part 50.
+Additionally, the NRC inspection team determined that TR is implementing its programs for
+reporting defects and noncompliance in accordance with the requirements of 10 CFR Part 21.
+Based on the limited sample of documents reviewed and activities observed, the NRC
+inspection team also determined that TR is implementing its policies and procedures associated
+with these programs.
+3

@@ -1,0 +1,300 @@
+October 23, 2012
+Mr. John DeBonis, Quality Assurance Manager
+Curtiss-Wright Flow Control Company
+Target Rock Division
+1966E Broadhollow Road
+East Farmingdale, NY 11735-1768
+SUBJECT: NUCLEAR REGULATORY COMMISSION INSPECTION REPORT
+NO. 99900060/2012-201 AND NOTICE OF NONCONFORMANCE
+Dear Mr. DeBonis:
+From September 10 to September 14, 2012, the U.S. Nuclear Regulatory Commission (NRC)
+conducted an inspection at the Target Rock (TR) facility in East Farmingdale, NY. The
+enclosed report presents the results of the inspection.
+The purpose of the limited-scope inspection was to assess TR’s compliance with the provisions
+of selected portions of Appendix B, “Quality Assurance Criteria for Nuclear Power Plants and
+Fuel Reprocessing Plants,” to Title 10 of the Code of Federal Regulations (10 CFR) Part 50,
+“Domestic Licensing of Production and Utilization Facilities.” This technically focused inspection
+specifically evaluated TR’s implementation of quality activities associated with the design,
+procurement, manufacture, and test of valves with an emphasis on the 1-inch solenoid and
+6-inch by 10-inch relief valves. The NRC inspection team included inspectors from the Korean
+Institute of Nuclear Safety (KINS) as part the first NRC-led inspection under the Multinational
+Design Evaluation Program. The KINS inspectors used NRC inspection procedures and
+requirements and their findings and conclusions are included in this inspection report. This
+NRC inspection report does not constitute NRC endorsement of TR’s overall quality assurance
+(QA) program.
+During this inspection, the team found that TR has established a QA program that adequately
+controls quality-affecting activities in accordance with the regulatory requirements of Appendix B
+to 10 CFR Part 50. However, implementation of the QA program did not meet certain NRC
+requirements contractually imposed on TR by its customers or NRC licensees. Specifically, the
+inspection team determined that TR was not implementing aspects of its commercial-grade
+dedication program consistent with regulatory requirements. The specific findings and
+references to the pertinent requirements are identified in the enclosures to this letter. In
+response to the enclosed Notice of Nonconformance (NON), TR should document the results of
+the extent of condition and determine if there are any effects on other safety-related
+components.
+Please provide a written explanation or statement within 30 days of this letter in accordance with
+the instructions specified in the enclosed NON. The NRC will consider extending the response
+time if you show good cause for the agency to do so.
+
+=== PAGE BREAK ===
+
+J. DeBonis - 2 -
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC’s Rules of Practice, the NRC will make a copy of this letter, its enclosures, and your
+response available electronically for public inspection in the NRC Public Document Room or
+from the NRC’s document system, Agencywide Document Access and Management System,
+accessible from the NRC Web site at http://www.nrc.gov/reading-rm/adams.html. To the extent
+possible, your response should not include any personal privacy, proprietary, or safeguards
+information so that it can be made available to the public without redaction. If personal privacy
+or proprietary information is necessary to provide an acceptable response, then please provide
+a bracketed copy of your response that identifies the information that should be protected and a
+redacted copy of your response that deletes such information. If you request that such material
+be withheld from public disclosure, you must specifically identify the portions of your response
+that you seek to have withheld and provide in detail the bases for your claim (e.g., explain why
+the disclosure of information will create an unwarranted invasion of personal privacy or provide
+the information required by 10 CFR 2.390(b) to support a request for withholding confidential
+commercial or financial information). If safeguards information is necessary to provide an
+acceptable response, please provide the level of protection described in 10 CFR 73.21,
+“Protection of Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA/
+Richard A. Rasmussen, Chief
+Electrical Vendor Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99900060
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report 99900060/2012-201
+
+=== PAGE BREAK ===
+
+J. DeBonis - 2 -
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC’s Rules of Practice, the NRC will make a copy of this letter, its enclosures, and your
+response available electronically for public inspection in the NRC Public Document Room or
+from the NRC’s document system, Agencywide Document Access and Management System,
+accessible from the NRC Web site at http://www.nrc.gov/reading-rm/adams.html. To the extent
+possible, your response should not include any personal privacy, proprietary, or safeguards
+information so that it can be made available to the public without redaction. If personal privacy
+or proprietary information is necessary to provide an acceptable response, then please provide
+a bracketed copy of your response that identifies the information that should be protected and a
+redacted copy of your response that deletes such information. If you request that such material
+be withheld from public disclosure, you must specifically identify the portions of your response
+that you seek to have withheld and provide in detail the bases for your claim (e.g., explain why
+the disclosure of information will create an unwarranted invasion of personal privacy or provide
+the information required by 10 CFR 2.390(b) to support a request for withholding confidential
+commercial or financial information). If safeguards information is necessary to provide an
+acceptable response, please provide the level of protection described in 10 CFR 73.21,
+“Protection of Safeguards Information: Performance Requirements.”
+Sincerely,
+Richard A. Rasmussen, Chief
+Electrical Vendor Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99900060
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report 99900060/2012-201
+DISTRIBUTION:
+ASakadales ERoach KKavanagh RidsNroDcip
+RidsNroDcipCMVB RidsNroDcipCEVB jdebonis@curtisswright.com
+shyang@kins.re.kr hkkim@kins.re.kr mmjung@kins.re.kr
+AP1000 Contacts
+ADAMS Accession No.: ML12291A375 *Concurred via email NRC-001
+OFFICE NRO/DCIP/CEVB NRO/DCIP/CMVB NRO/DCIP/CEVB NRO/DCIP/CAEB
+NAME GLipscomb RPatel GGalletti TFrye
+DATE 10/18/2012 10/18/2012 10/19/2012 10/23/2012
+OFFICE NRO/DCIP/CEVB
+NAME RRasmussen
+DATE 10/23/2012
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+NOTICE OF NONCONFORMANCE
+Target Rock Division Docket No. 99900060
+Curtiss-Wright Flow Control Company Inspection Report No. 99900060/2012-201
+1966E Broadhollow Road
+East Farmingdale, NY 11735-1768
+Based on the results of a U.S. Nuclear Regulatory Commission (NRC) inspection conducted
+from September 10 to September 14, 2012, of activities performed at Target Rock (TR), a
+business unit of Curtiss-Wright Flow Control Company, it appears that certain activities were not
+conducted in accordance with NRC requirements contractually imposed upon TR by its
+customers or NRC licensees.
+A. Criterion III, “Design Control,” of Appendix B, “Quality Assurance Criteria for Nuclear
+Power Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of Federal
+Regulations (10 CFR) Part 50, “Domestic Licensing of Production and Utilization
+Facilities,” states, in part, “Measures shall be also established for the selection and
+review for suitability of application of materials, parts, equipment, and processes that are
+essential to the safety-related functions of the structures, systems, and components.”
+Contrary to the above, as of September 14, 2012, TR failed to perform a review for
+suitability of application of materials and processes essential to the safety-related
+functions of the structures, systems, and components as part of commercial grade
+dedication (CGD) of terminal block part number (P/N) 205674-2. Specifically, TR failed
+to require verification of critical characteristics of acceptance that were identified during
+the technical evaluation of a commercially purchased terminal block. Electrical
+performance characteristics such as voltage rating, amperage rating, and dielectric
+rating, identified as design basis performance characteristics critical for safe operation of
+a solenoid valve, were not identified on the Critical Characteristics Attribute Verification
+(CCAV) form or verified by the quality control inspector during receipt inspection.
+This issue has been identified as Nonconformance 99900060/2012-201-01.
+B. Criterion VII, “Control of Purchased Material, Equipment, and Services” of Appendix B to
+10 CFR Part 50, states in part, “Measures shall be established to assure that purchased
+material, equipment, and services, whether purchased directly or through contractors
+and subcontractors, conform to the procurement documents. These measures shall
+include provisions, as appropriate, for source evaluation and selection, objective
+evidence of quality furnished by the contractor or subcontractor, inspection at the
+contractor or subcontractor source, and examination of products upon delivery.”
+Section 9.0, “Inspection (Dedication of CG items by method 1),” of Target Rock Report
+No. 5041 (TRP-5041), “Dedication Requirements for Commercial Grade Items,” Revision
+S, dated August 23, 2012, states in part, that for plated or coated parts, when an
+unplated sample is not provided, per paragraph 4.1.2, remove plating/coating from one
+item per lot to enable alloy identification.
+Contrary to the above, as of September 14, 2012, TR failed to adequately verify that
+commercial items received from its suppliers conformed to the applicable specification
+requirements and failed to validate required critical characteristics of acceptance during
+CGD receipt inspection and testing of terminal block P/N 205674-2. Specifically, TR did
+Enclosure 1
+
+=== PAGE BREAK ===
+
+not perform the necessary inspection to verify that the material for the terminal screws
+and plate met the material acceptance criteria in accordance with the requirements of
+TRP-5041 and as specified in the terminal block CCAV form No. 205674, 205675, and
+205676.
+This issue has been identified as Nonconformance 99900060/2012-201-02.
+C. Criterion VII, “Control of Purchased Material, Equipment, and Services,” of Appendix B
+to 10 CFR Part 50, states in part, “Measures shall be established to assure that
+purchased material, equipment, and services, whether purchased directly or through
+contractors and subcontractors, conform to the procurement documents. These
+measures shall include provisions, as appropriate, for source evaluation and selection,
+objective evidence of quality furnished by the contractor or subcontractor, inspection at
+the contractor or subcontractor source, and examination of products upon delivery.”
+Section 7.3.200, “Supplier Evaluation and Selection,” of the Target Rock QMP-1023,
+“Energy Products Nuclear Quality Assurance Manual, Edition 9,” Revision 1, dated
+March 16, 2012, states, in part, that before the award of a contract, TR shall evaluate a
+supplier’s capability to provide items and services in accordance with the requirements
+of the procurement documents.
+Contrary to the above, as of September 14, 2012, TR failed to adequately verify that
+commercial items received from its suppliers conformed to the applicable specification
+requirements and failed to validate required critical characteristics of acceptance during
+CGD receipt inspection and testing of terminal block P/N 205674 and pressure actuated
+switch P/N 200372. Specifically, TR relied on a commercial supplier-issued certificate of
+conformance as the sole method to verify critical characteristics of acceptance without
+conducting a commercial-grade survey, source verification, or other surveillance of the
+supplier, to verify that the supplier’s quality program was capable of appropriate control
+of required critical characteristics.
+This issue has been identified as Nonconformance 99900060/2012-201-03.
+Please provide a written statement or explanation to the U.S. Nuclear Regulatory Commission,
+ATTN: Document Control Desk, Washington, DC 20555-0001, with a copy to the Chief,
+Electrical Vendor Branch, Division of Construction Inspection and Operational Programs, Office
+of New Reactors, within 30 days of the date of the letter transmitting this Notice of
+Nonconformance. This reply should be clearly marked as a “Reply to a Notice of
+Nonconformance” and should include for each noncompliance: (1) the reason for the
+noncompliance, or if contested, the basis for disputing the noncompliance; (2) the corrective
+steps that have been taken and the results achieved; (3) the corrective steps that will be taken
+to avoid noncompliances; and (4) the date when your corrective action will be completed.
+Where good cause is shown, the NRC will consider extending the response time.
+Because the NRC will make your response available electronically for public inspection in the
+NRC Public Document Room or from the NRC’s document system, Agencywide Documents
+Access and Management System, which is accessible from the NRC Web site at
+http://www.nrc.gov/reading-rm/adams.html, to the extent possible, it should not include any
+personal privacy, proprietary, or safeguards information so that it can be made available to the
+public without redaction. If personal privacy or proprietary information is necessary to provide
+- 2 -
+
+=== PAGE BREAK ===
+
+an acceptable response, then please provide a bracketed copy of your response that identifies
+the information that should be protected and a redacted copy of your response that deletes such
+information. If you request withholding of such material, you must specifically identify the
+portions of your response that you seek to have withheld and provide in detail the bases for your
+claim of withholding (e.g., explain why the disclosure of information will create an unwarranted
+invasion of personal privacy or provide the information required by 10 CFR 2.390(b) to support a
+request for withholding confidential commercial or financial information). If safeguards
+information is necessary to provide an acceptable response, please provide the level of
+protection described in 10 CFR 73.21, “Protection of Safeguards Information: Performance
+Requirements.”
+Dated this xxth day of October 2012.
+- 3 -
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS
+VENDOR INSPECTION REPORT
+Docket No.: 99900060
+Report No.: 99900060/2012-201
+Vendor: Target Rock Division
+Curtiss-Wright Flow Control Company
+1966E Broadhollow Road
+East Farmingdale, NY 11735-1768
+Vendor Contact: Mr. John DeBonis, Quality Assurance Manager
+Phone: 631-396-4429
+jdebonis@curtisswright.com
+Background: Target Rock, a business unit of Curtiss-Wright Flow Control
+Company, is an American Society of Mechanical Engineers
+certificate holder with its scope of supply including, but not limited
+to, commercial grade dedication, design, fabrication, assembly,
+and testing of valves for safety-related applications for the
+commercial operating fleet.
+Inspection Dates: September 10–14, 2012
+Inspection Team Leader: George Lipscomb, NRO/DCIP/CEVB
+Inspectors: Greg Galletti NRO/DCIP/CEVB
+Raju Patel NRO/DCIP/CMVB
+Dr. Mike Jung KINS
+Dr. Hong-key Kim KINS
+Approved by: Richard A. Rasmussen, Chief
+Electrical Vendor Branch
+Division of Construction Inspection and Operational Programs
+Office of New Reactors
+Enclosure 2
+
+=== PAGE BREAK ===
+
+EXECUTIVE SUMMARY
+Target Rock
+99900060/2012-201
+The U.S. Nuclear Regulatory Commission (NRC) conducted this inspection to verify that Target
+Rock (TR) implements an adequate quality assurance (QA) program that complies with the
+requirements of Appendix B, “Quality Assurance Criteria for Nuclear Power Plants and Fuel
+Reprocessing Plants,” to Title 10 of the Code of Federal Regulations (10 CFR) Part 50,
+“Domestic Licensing of Production and Utilization Facilities.” This technically focused inspection
+specifically evaluated TR’s implementation of quality activities associated with the design,
+procurement, manufacture, and test of valves with an emphasis on the 1-inch solenoid and
+6-inch by 10-inch relief valves. The NRC identified these product lines because they are
+representative types of valves that are anticipated to be used in new reactor construction and
+are already in use in both the Korean and United States operating fleet. The NRC conducted
+this inspection at TR’s manufacturing facility in East Farmingdale, NY.
+The following regulation served as the basis for this NRC inspection:
+• Appendix B to 10 CFR Part 50
+The inspectors used Inspection Procedure (IP) 43002, “Routine Inspections of Nuclear
+Vendors,” dated April 25, 2011; and IP 43004, “Inspection of Commercial-Grade Dedication
+Programs,” dated April 25, 2011, to conduct this inspection.
+The NRC inspection team included inspectors from the Korean Institute of Nuclear Safety
+(KINS) as part of the first NRC-led inspection under the Multinational Design Evaluation
+Program. The inspection team referenced “Multinational Design Evaluation Programme Vendor
+Inspection Cooperation Working Group Witnessed and Joint Vendor Inspection Protocol,”
+Revision 1, dated December 3, 2010, for this inspection.
+The previous NRC inspection of the TR facility in East Farmingdale, NY, occurred in 2007, and
+identified Nonconformance 99900060/2007-201-01 (available in the Agencywide Documents
+Access and Management System under Accession No. ML072470273) related to verification of
+supplier quality controls of critical characteristics. Nonconformance 99900060/2007-201-01 was
+closed as part of this inspection.
+With the exception of the nonconformances described below, the NRC inspection team
+concluded that TR is effectively implementing its QA program in support of the design,
+manufacturing, and testing of the sampled valve models. The results of this inspection are
+summarized below.
+Commercial-Grade Dedication
+The NRC inspection team concluded that TR has established a program that adequately
+controls commercial grade dedication (CGD) in accordance with the regulatory requirements of
+Appendix B to 10 CFR Part 50. However, TR is not effectively implementing its CGD program
+consistent with the requirements of Criterion III, “Design Control,” and Criterion VII, “Control of
+Purchased Materials, Equipment, and Services,” of Appendix B to 10 CFR Part 50. The NRC
+inspection team issued Nonconformance 99900060/2012-201-01 for TR’s failure to perform a
+review for suitability of application of materials and processes essential to the safety-related
+- 2 -

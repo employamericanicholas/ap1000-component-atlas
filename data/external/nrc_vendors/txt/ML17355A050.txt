@@ -1,0 +1,244 @@
+December 27, 2017
+Mr. Doug Sample
+Manager, Technical Services (QA/QC)
+Newport News Industrial Corporation
+182 Enterprise Dr.
+Newport News, VA 23606
+SUBJECT: NUCLEAR REGULATORY COMMISSION INSPECTION OF NEWPORT NEWS
+INDUSTRIAL CORPORATION, REPORT NO. 99901433/2017-201
+Dear Mr. Sample:
+On November 13-17, 2017, the U.S. Nuclear Regulatory Commission (NRC) staff conducted an
+inspection at the Newport News Industrial Corporation’s (hereafter referred to as NNI) facility in
+Newport News, VA. The purpose of this limited-scope routine inspection was to assess NNI’s
+compliance with provisions of Title 10 of the Code of Federal Regulations (10 CFR) Part 21,
+“Reporting of Defects and Noncompliance,” and selected portions of Appendix B, “Quality
+Assurance Program Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to
+10 CFR Part 50, “Domestic Licensing of Production and Utilization Facilities.”
+The enclosed report presents the results of the inspection. This technically-focused inspection
+specifically evaluated NNI’s implementation of the quality activities associated with the design,
+fabrication, and testing of the air inlet panels and tension ring panels for the Shield Building of
+the Westinghouse Electric Company AP1000 reactor design for the domestic reactors being
+supplied to Vogtle Electric Generating Station, Units 3 & 4. During this inspection, the NRC staff
+looked at records and construction activities associated with inspections, tests, analyses, and
+acceptance criteria (ITAAC) from Revision 19 of the approved AP1000 Design Control
+Document. Specifically, these activities were associated with the ITAAC Number 3.3.00.02a.i.b
+(761). The NRC inspection team did not identify any findings associated with the ITAAC
+contained in Section 4 of the attachment to this report. This NRC inspection report does not
+constitute NRC endorsement of NNI’s overall quality assurance (QA) or Part 21 programs.
+Within the scope of this inspection, no violations or nonconformances were identified.
+Based on the results of this inspection, the NRC inspection team found the implementation of
+your QA program met the requirements imposed on you by your customers or NRC licensees.
+No findings of significance were identified.
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC’s “Rules of Practice,” the NRC will make available electronically for public inspection
+a copy of this letter and its enclosure through the NRC Public Document Room or from the
+
+=== PAGE BREAK ===
+
+D. Sample - 2 -
+NRC’s Agencywide Documents Access and Management System, which is accessible at
+http://www.nrc.gov/reading-rm/adams.html.
+Sincerely,
+/RA/ Terry Jackson Acting for
+John P. Burke, Chief
+Quality Assurance Vendor Inspection Branch-2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901433
+EPID: 99901433/I-2017-201-0037
+Enclosure:
+Inspection Report No. 99901433/2017-201
+and Attachment
+
+=== PAGE BREAK ===
+
+D. Sample - 3 -
+SUBJECT: NUCLEAR REGULATORY COMMISSION INSPECTION OF NEWPORT NEWS
+INDUSTRIAL CORPORATION, REPORT NO. 99901433/2017-201
+Dated: December 27, 2017
+DISTRIBUTION:
+Public
+TJackson
+KKavanagh
+RNease
+SSamaddar
+ASakadales
+ConE_Resource
+NRO_DCIP_Distribution
+Doug.Sample@hii-nns.com
+Steve.Napiecek@hii-nns.com
+Paul.Vinyard@hii-nns.com
+Wanda.G.Fitzgerald@hii-nns.com
+scotty.Jones@hii-nns.com
+Derrick.Coates@hii-nns.com
+ADAMS Accession No.: ML17355A050 *via e-mail NRO-002
+OFC NRO/DCIP NRO/DCIP NRO/DEI NRO/DEI
+NAME THerrity AKeim RRoche-Rivera PPatel (RRoche-Rivera for)
+DATE 12/21/17 12/22/17 12/22/17 12/22/17
+OFC RII/DCO NRO/DCIP NRO/DCIP
+NAME JLizardi* JOrtega-Luciano JBurke (TJackson for)
+DATE 12/21/17 12/22/17 12/27/17
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS
+VENDOR INSPECTION REPORT
+Docket No.: 99901433
+Report No.: 99901433/2017-201
+Vendor: Newport News Industrial Corporation
+182 Enterprise Dr.
+Newport News, VA 23606
+Vendor Contact: Mr. Doug Sample
+Manager, Technical Services (QA/QC)
+Email: Doug.Sample@hii-nns.com
+Phone: 1-757-380-2725
+Nuclear Industry Activity: Newport News Industrial Corporation (NNI) is an American
+Society of Mechanical Engineers (ASME) Boiler & Pressure
+Vessel (B&PV) Code Certificate Holder holding an N, NS, and
+NPT stamp. NNI’s scope of supply includes, but is not limited to,
+design, fabrication, and assembly of structural steel panels for the
+shield building to the American Welding Society (AWS) D1.1,
+Structural Welding Code–Steel, AWS D1.4, Structural Welding
+Code–Reinforcing Steel and, American Institute of Steel
+Construction (AISC) N690.
+Inspection Dates: November 13-17, 2017
+Inspectors: Jonathan Ortega-Luciano NRO/DCIP/QVIB-2, Team Leader
+Thomas Herrity NRO/DCIP/QVIB-2
+Andrea Keim NRO/DCIP/QVIB-3
+Jonathan Lizardi R-II/DCO/IB4
+Robert Roche-Rivera NRO/DEI/SEB
+Pravin Patel NRO/DEI/SEB
+Approved by: John P. Burke, Chief
+Quality Assurance Vendor Inspection Branch-2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Enclosure
+
+=== PAGE BREAK ===
+
+EXECUTIVE SUMMARY
+Newport News Industrial Corporation
+99901433/2017-201
+The U.S. Nuclear Regulatory Commission (NRC) staff conducted a routine vendor inspection at
+the Newport News Industrial Corporation’s (hereafter referred to as NNI) facility in Newport
+News, VA, to verify that it had implemented an adequate quality assurance (QA) program that
+complies with the requirements of Appendix B, “Quality Assurance Criteria for Nuclear Power
+Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of Federal Regulations (10 CFR)
+Part 50, “Domestic Licensing of Production and Utilization Facilities” and that NNI implemented
+a program under 10 CFR Part 21, “Reporting of Defects and Noncompliance.” Additionally, the
+NRC inspection team reviewed NNI records and construction activities associated with the
+Inspections, Tests, Analyses, and Acceptance Criteria (ITAAC) Number 3.3.00.02a.i.b (761)
+from Revision 19 of the approved Design Control Document for the Westinghouse Electric
+Corporation’s AP1000 design; as detailed in Sections 2 and 6 of this report. This was the
+second NRC inspection of NNI’s facility in Newport News, Virginia. The last NRC inspection
+was conducted in September 2013 and the results are documented in Inspection Report (IR)
+No. 99901433/2013-201, dated November 8, 2013.
+This technically-focused inspection specifically evaluated NNI’s implementation of quality
+activities associated with the design, fabrication, and testing of the safety-related air inlet panels
+and tension ring panels for the Shield Building for the Westinghouse Electric Company AP1000
+reactor design being supplied to Vogtle Electric Generating Plant, Units 3 & 4. Specific activities
+observed by the NRC inspection team included:
+• Ultrasonic inspection tests (UT) of Structural Weld Number TR01-0026-R1 on Vogtle
+Unit 3 Shield Building Tension Ring Submodule TR01 (i.e. SV3-TR01).
+• Installation of the initial 10 production shear studs (i.e. 12G-B18 thru -B27) for Vogtle
+Unit 4 Shield Building Panels SV4-12D and SV4-12G, respectively.
+• Attended a corrective action review meeting
+• Visual examination tests (VT) of Weld Numbers 07M-3972 and 07M-3973 on Vogtle
+Unit 4 Shield Building Panel 07M (i.e. SV4-07M).
+• Weld filler material issuance and filler material control activities
+• Calibration of a Fluke meter
+• Calibration of Epoch XT equipment for ultrasonic flaw detection
+- 2 -
+
+=== PAGE BREAK ===
+
+In addition to observing these activities, the NRC inspection team verified that measurement
+and test equipment (M&TE) was properly identified, marked, calibrated, and used within its
+calibrated range.
+These regulations served as the bases for the NRC inspection:
+• Appendix B to 10 CFR Part 50
+• 10 CFR Part 21
+During the course of this inspection, the NRC inspection team implemented:
+• Inspection Procedure (IP) 36100, “Inspection of 10 CFR Part 21 and Programs for
+Reporting Defects and Noncompliance,” dated February 13, 2012;
+• IP 43002, “Routine Inspections of Nuclear Vendors,” dated January 27, 2017;
+• IP 43004, “Inspection of Commercial-Grade Dedication Programs,” dated
+January 27, 2017;
+• IP 65001.01, “Inspection of ITAAC-Related Foundations & Buildings,” dated
+April 18, 2014;
+• IP 65001.02, “Inspection of ITAAC-Related Installation of Structural Concrete,” dated
+November 22, 2011;
+• IP 65001.A, “Inspection of the As-Built Attributes for Structures, Systems, and
+Components (SSCs) Associated with ITAAC,” dated September 25, 2013;
+• IP 65001.B, “Inspection of the ITAAC-Related Welding Program,” dated
+September 25, 2013;
+• IP 65001.F, “Inspection of the ITAAC-Related Design and Fabrication Requirements,”
+dated September 20, 2013.
+The results of this inspection are summarized below.
+Corrective Action
+The NRC inspection team reviewed the corrective actions that NNI had taken to address
+nonconformances documented in IR No. 99901433/2013-201 dated November 8, 2013. The
+NRC inspection team reviewed the documentation that provided objective evidence that all
+corrective actions were completed and adequately implemented. Based on this review, the
+NRC inspection team closed all of the nonconformances documented in the 2013 IR.
+- 3 -
+
+=== PAGE BREAK ===
+
+Inspection Areas
+The NRC inspection team determined that NNI is implementing its programs for
+commercial-grade dedication; training and qualification of personnel; manufacturing control;
+special process; inspection; M&TE, nonconformance of material, parts or components;
+corrective action; and audits in accordance with the applicable regulatory requirements of
+Appendix B to 10 CFR Part 50. Also, the NRC inspection team concluded that NNI is
+implementing its 10 CFR Part 21 program in accordance with the regulatory requirements.
+Based on the limited sample of documents reviewed and activities observed, the NRC
+inspection team also determined that NNI is implementing its policies and procedures
+associated with these programs. No findings of significance were identified.
+- 4 -
+
+=== PAGE BREAK ===
+
+REPORT DETAILS
+1. 10 CFR Part 21 Program
+a. Inspection Scope
+The NRC inspection team reviewed Newport News Industrial Corporation’s (hereafter
+referred to as NNI) policies and implementing procedures that govern NNI’s 10 CFR
+Part 21 program to verify compliance with the regulatory requirements. In addition, the
+NRC inspection team evaluated the 10 CFR Part 21 postings, employee training, and a
+sample of NNI’s purchase orders (POs) for compliance with the requirements of
+10 CFR 21.21, “Notification of Failure to Comply or Existence of a Defect and its
+Evaluation,” and 10 CFR 21.31, “Procurement Documents.” The NRC inspection team
+also verified that NNI’s nonconformance and corrective action procedures provide a link
+to the 10 CFR Part 21 program.
+Furthermore, for a sample of 10 CFR Part 21 evaluations performed by NNI, the NRC
+inspection team verified that NNI had effectively implemented the requirements for
+evaluating deviations and failures to comply. The NRC inspection team verified that the
+notifications were performed in accordance with the requirements of 10 CFR 21.21, as
+applicable.
+The NRC inspection team also discussed the 10 CFR Part 21 program with NNI’s
+management and technical staff. The attachment to this inspection report lists the
+documents reviewed by the NRC inspection team.
+b. Observations and Findings
+No findings of significance were identified.
+c. Conclusion
+The NRC inspection team concluded that NNI has established its 10 CFR Part 21
+program in accordance with the regulatory requirements of 10CFR21. Based on the
+limited sample of documents reviewed, the NRC inspection team determined that NNI is
+implementing its policies and procedures associated with the 10 CFR Part 21 program.
+No findings of significance were identified.
+2. Design Control
+a. Inspection Scope
+The NRC inspection team reviewed NNI’s policies and implementing procedures that
+govern the design control program to verify their compliance with the regulatory
+requirements of Criterion III, “Design Control,” of Appendix B, “Quality Assurance Criteria
+for Nuclear Power Plants and Fuel Reprocessing Plants,” to 10 CFR Part 50, “Domestic
+Licensing of Production and Utilization Facilities,” American Welding Society
+(AWS) D1.1, Structural Welding Code–Steel, AWS D1.4, Structural Welding
+Code-Reinforcing Steel, and American Institute of Steel Construction (AISC) N690.
+- 5 -

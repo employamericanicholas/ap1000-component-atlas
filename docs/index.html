@@ -338,6 +338,15 @@ function openDrawer(c){
   add("Seismic category",c.seismic_category);
   add("Construction code",c.construction_code);
   add("Comments",c.comments);
+  if(c.supplier_name&&c.supplier_name!=="Not publicly disclosed"){
+    add("Supplier",c.supplier_name);
+    add("Manufacturing location",c.supplier_mfg_location);
+    add("Other supplier locations",c.supplier_other_locations);
+    add("Supplier origin",c.supplier_origin);
+    add("Supplier match basis",c.supplier_basis);
+  }else if(c.supplier_name){
+    add("Supplier","Not publicly disclosed");
+  }
   for(const[k,label]of Object.entries(T1_LABELS)) add(label,c[k]);
   add("In Table 3.2-3",c.in_table_3_2_3?"Yes":"No");
   add("In Tier 1 ITAAC",c.in_tier1?`Yes (${c.tier1_table||""})`:"No");
@@ -347,7 +356,8 @@ function openDrawer(c){
     <h3>${esc(c.description||c.tag)}</h3><div class="tagline">${esc(c.tag)}</div>
     <div>${classBadge(c.ap1000_class)}</div>
     <dl>${rows}</dl>
-    <div style="font-size:12px;color:var(--ink-3)">Source: ${esc(c.source)}<br>${links}</div>`;
+    <div style="font-size:12px;color:var(--ink-3)">Source: ${esc(c.source)}<br>${links}
+    ${c.supplier_source?`<br>Supplier sources: ${c.supplier_source.split("; ").map(u=>`<a href="${esc(u)}" target="_blank" rel="noopener">${esc(u.replace(/^https?:\/\/(www\.)?/,"").slice(0,45))}…</a>`).join(" · ")}`:""}</div>`;
   dr.hidden=false;
   dr.querySelector(".close").addEventListener("click",()=>{dr.hidden=true;});
 }

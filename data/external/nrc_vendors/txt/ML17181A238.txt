@@ -1,0 +1,294 @@
+July 21, 2017
+Mr. Mark Stapleton
+Nuclear Operations Manager
+Greenberry Industrial
+2273 NW Professional Drive, Suite 200
+Corvallis, OR 97330
+SUBJECT: NUCLEAR REGULATORY COMMISSION VENDOR INSPECTION REPORT
+NO. 99901480/2017-201 OF GREENBERRY INDUSTRIAL
+Dear Mr. Stapleton:
+From June 5-9, 2017, the U.S. Nuclear Regulatory Commission (NRC) staff conducted an
+inspection at the Greenberry Industrial (here after referred to as Greenberry) facility in Corvallis,
+Oregon and Vancouver, Washington. The purpose of this limited-scope routine inspection was
+to assess Greenberry’s compliance with provisions of Title 10 of the Code of Federal
+Regulations (10 CFR) Part 21, “Reporting of Defects and Noncompliance,” and selected
+portions of Appendix B, “Quality Assurance Program Criteria for Nuclear Power Plants and Fuel
+Reprocessing Plants,” to 10 CFR Part 50, “Domestic Licensing of Production and Utilization
+Facilities.”
+This technically-focused inspection specifically evaluated Greenberry’s implementation of the
+quality activities associated with the fabrication, assembly, and testing of the safety-related
+AP1000 containment floor modules being supplied for the Westinghouse Electric Company
+(WEC) AP1000 reactor design and that will be delivered to Vogtle Electric Generating Plant
+Units 3 & 4 and V.C. Summer Nuclear Generation Station Units 2 & 3. The inspection also
+evaluated activities related to Section III, “Rules for Construction of Nuclear Power Plant
+Components,” of the American Society of Mechanical Engineers Boiler and Pressure Vessel
+Code, the American Welding Society (AWS) D1.1, “Structural Welding Code – Steel,” 2000
+Edition and AWS D1.6,"Structural Welding Code - Stainless Steel," 1999 Edition. The enclosed
+report presents the results of the inspection. This NRC inspection report does not constitute
+NRC endorsement of Greenberry’s overall quality assurance or Part 21 programs.
+During this inspection, the NRC staff also reviewed activities associated with fabrication of
+structural sub-modules to support closure of inspections, tests, analyses, and acceptance
+criteria (ITAAC) from Revision 19 to the certified AP1000 Design Control Document Tier 1.
+Specifically, these activities are associated with ITAACs 3.3.00.02a.i.a (760) for Vogtle Electric
+Generating Plant Units 3 & 4 and V.C. Summer Nuclear Generation Station Units 2 & 3. The
+NRC inspection team did not identify any findings associated with the ITAAC contained in
+Section (4) of the attachment to this report.
+Based on the results of this inspection, the NRC inspection team found the implementation of
+your QA program met the requirements imposed on you by your customers or NRC licensees.
+No findings of significance were identified.
+
+=== PAGE BREAK ===
+
+M. Stapleton 2
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC’s “Rules of Practice,” the NRC will make available electronically for public inspection
+a copy of this letter, its enclosure, and your response through the NRC Public Document Room
+or from the NRC’s Agencywide Documents Access and Management System, which is
+accessible at http://www.nrc.gov/reading-rm/adams.html. To the extent possible, your response
+(and if applicable), should not include any personal privacy, proprietary, or Safeguards
+Information so that it can be made available to the public without redaction. If personal privacy
+or proprietary information is necessary to provide an acceptable response, please provide a
+bracketed copy of your response that identifies the information that should be protected and a
+redacted copy of your response that deletes such information. If you request that such material
+be withheld from public disclosure, you must specifically identify the portions of your response
+that you seek to have withheld and provide in detail the bases for your claim (e.g., explain why
+the disclosure of information would create an unwarranted invasion of personal privacy or
+provide the information required by 10 CFR 2.390(b) to support a request for withholding
+confidential commercial or financial information). If Safeguards Information is necessary to
+provide an acceptable response, please provide the level of protection described in
+10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA Paul Prescott Acting For/
+Kerri A. Kavanagh, Chief
+Quality Assurance Vendor Inspection Branch-3
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901480
+Enclosure:
+Inspection Report No. 99901480/2017-201
+and Attachment
+
+=== PAGE BREAK ===
+
+M. Stapleton 3
+SUBJECT: NUCLEAR REGULATORY COMMISSION VENDOR INSPECTION REPORT
+NO. 99901480/2017-201 OF GREENBERRY INDUSTRIAL
+Dated July 21, 2017
+DISTRIBUTION:
+RNease
+MMitchell
+ASakadales
+NRO_DCIP_Distribution
+ConE_Resource
+R2DCOB4
+AP1000 Distribution
+Mark.stapleton@greenberry.com
+Ed.reister@greenberry.com
+Dennis.weaver@greenberry.com
+ADAMS Accession No.: ML17181A238 *via e-mail NRO-002
+OFFICE NRO/DCIP NRO/DEI NRO/DCIP
+NAME JHeath JHoncharik* JOrtega-Luciano*
+DATE 07/10/17 07/13/17 07/14/17
+OFFICE RII/DCO NRO/DCIP
+NAME TPonko* KKavanagh (PPrescott for)
+DATE 07/11/17 07/20/17
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS
+VENDOR INSPECTION REPORT
+Docket No.: 99901480
+Report No.: 99901480/2017-201
+Vendor: Greenberry Industrial
+2273 NW Professional Drive, Suite 200
+Corvallis, OR 97330
+Vendor Contact: Mr. Mark Stapleton
+Nuclear Operations Manager
+Mark.stapleton@greenberry.com
+Phone: 1-541-757-8458
+Nuclear Industry Activity: Greenberry Industrial is under contract by Chicago Bridge & Iron
+/WECTEC to fabricate safety-related containment floor section
+modules for the Westinghouse AP1000 reactor plant design.
+Greenberry performs nuclear structural weld work in accordance
+with American Welding Society (AWS) D1.1, “Structural Welding
+Code – Steel,” 2000 Edition and AWS D1.6,"Structural Welding
+Code - Stainless Steel," 1999 Edition.
+Inspection Dates: June 5-9, 2017
+Inspectors: Jermaine Heath NRO/DCIP/QVIB-1 Team Leader
+Jonathan Ortega-Luciano NRO/DCIP/QVIB-2
+John Honcharik NRO/DEI/MCB
+Tony Ponko RII/DCO/IB4
+Approved by: Kerri A. Kavanagh, Chief
+Quality Assurance Vendor Inspection Branch-3
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Enclosure
+
+=== PAGE BREAK ===
+
+EXECUTIVE SUMMARY
+Greenberry Industrial
+99901480/2017-201
+The U.S. Nuclear Regulatory Commission (NRC) staff conducted a vendor inspection at the
+Greenberry Industrial (hereafter referred to as Greenberry) facilities in Corvallis, Oregon and
+Vancouver, Washington, to verify that it had implemented an adequate quality assurance (QA)
+program that complies with the requirements of Appendix B, “Quality Assurance Criteria for
+Nuclear Power Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of Federal
+Regulations (10 CFR) Part 50, “Domestic Licensing of Production and Utilization Facilities.” In
+addition, the NRC inspection team also verified that Greenberry implemented a program under
+10 CFR Part 21, “Reporting of Defects and Noncompliance,” that met the NRC’s regulatory
+requirements. The NRC inspection team conducted the inspection on June 5-9, 2017.
+This technically-focused inspection specifically evaluated Greenberry’s implementation of
+quality activities associated with the design, fabrication, and testing of safety-related AP1000
+containment floor modules that will be delivered to Vogtle Electric Generating Plant (Vogtle)
+Units 3 and 4 and Virgil C. Summer Nuclear Station (V.C. Summer) Units 2 and 3. Specific
+activities observed by the NRC inspection team included:
+• In-process fabrication of sub-modules CA55 GM5 and CA55 GM4 for Vogtle Unit 3 and
+V.C. Summer Unit 2, respectively
+• Inspection of completed sub-modules CA57 GM2 and CA55 GM1, for Vogtle Unit 4 and
+V.C. Summer Unit 3, respectively
+• Welding on structural module CA55 for Vogtle Unit 3
+• Welding on duplex stainless steel structural module CA57, weld numbers 1, 4, and 39
+for V.C. Summer Unit 2
+• Liquid penetrant testing inspection of duplex stainless steel base metal repair on
+structural module CA55 for V.C. Summer Unit 2
+• Magnetic particle testing inspection of structural module CA55, weld numbers 99 through
+105 for Vogtle Unit 3
+• Stud welding on duplex stainless steel structural module CA55 including pre-production
+test welding for V.C. Summer Unit 2
+• Welding on structural module CA58 for Vogtle Unit 4, welds 36 and 37 at Greenberry’s
+Vancouver facility
+• Fit-up inspection of structural module CA55, weld number 1 for Vogtle Unit 4 at
+Greenberry’s Vancouver facility
+• Calibration of a 6 inch digital caliper and a depth gage
+In addition to observing these activities, the NRC inspection team verified that measuring and
+test equipment (M&TE) was properly identified, marked, calibrated, and used within its
+calibrated range.
+These regulations served as the bases for the NRC inspection:
+• Appendix B to 10 CFR Part 50
+• 10 CFR Part 21
+2
+
+=== PAGE BREAK ===
+
+During the course of this inspection, the NRC inspection team implemented the following
+Inspection Procedures (IPs):
+• IP 43002, “Routine Vendor Inspections”
+• IP 43004, “Inspection of Commercial-Grade Dedication Programs”
+• IP 36100, “Inspection of 10 CFR Part 21 and Programs for Reporting Defects and
+Noncompliance”
+• IP 65001.03, “Inspection of ITAAC-Related Installation of Piping”
+• IP 65001.B, “Inspection of the ITAAC-Related Welding Program”
+• IP 65001.F, “Inspection of the ITAAC-Related Design and Fabrication Requirements”
+This was the first NRC inspection of Greenberry’s Corvallis and Vancouver locations. The NRC
+inspection team concluded that Greenberry’s QA policies and procedures comply with the
+applicable requirements of Appendix B to 10 CFR Part 50 and 10 CFR Part 21, and that
+Greenberry’s personnel are implementing these policies and procedures effectively. The results
+of this inspection are summarized below.
+Inspection Areas
+The NRC inspection team determined that Greenberry is implementing its programs for design
+control, commercial-grade dedication, procurement document control, supplier oversight, control
+of special processes, control of M&TE, nonconforming materials, parts or components,
+corrective actions and internal audits in accordance with the applicable regulatory requirements
+of Appendix B to 10 CFR Part 50. Also, Greenberry is implementing its 10 CFR Part 21
+program in accordance with the regulatory requirements. Based on the limited sample of
+documents reviewed and activities observed, the NRC inspection team also determined that
+Greenberry is implementing its policies and procedures associated with these programs. No
+findings of significance were identified.
+3
+
+=== PAGE BREAK ===
+
+REPORT DETAILS
+1. 10 CFR Part 21 Program
+a. Inspection Scope
+The U.S Nuclear Regulatory Commission (NRC) inspection team reviewed Greenberry
+Industrial’s (hereafter referred to as Greenberry) policies and implementing procedures
+that govern Greenberry’s 10 CFR Part 21, “Reporting of Defects and Noncompliance,”
+program to verify compliance with the regulatory requirements. In addition, the NRC
+inspection team evaluated the 10 CFR Part 21 postings and a sample of Greenberry’s
+purchase orders (POs) for compliance with the requirements of 10 CFR 21.21,
+“Notification of Failure to Comply or Existence of a Defect and its Evaluation,” and
+10 CFR 21.31, “Procurement Documents.” The NRC inspection team also verified that
+Greenberry’s nonconformance and corrective action procedures provide a link to the
+10 CFR Part 21 program.
+The NRC inspection team discussed the 10 CFR Part 21 program with Greenberry’s
+management and technical staff. The attachment to this inspection report lists the
+documents reviewed and personnel interviewed by the NRC inspection team.
+b. Observations and Findings
+While inspecting Greenberry's 10 CFR Part 21 program, the NRC inspection team
+specifically concentrated on Part 21 Final Report, “Deviations on Structural Modules
+Vogtle Unit 3 AP1000 Project,” dated September 12, 2016 (ADAMS accession No.
+ML16258A454) involving underbead weld cracking and plasma-cutter-induced
+microcracking in AP1000 containment floor modules delivered to Vogtle Unit 3 and 4.
+The NRC inspection team verified that Greenberry provided interim and final reports
+(with periodic updates) that effectively informed the NRC and affected licensees of the
+identified defect and plans for corrective actions that met regulatory requirements.
+Section 7, "Nonconforming Materials, Parts, or Components and Corrective Action,"
+provides additional details on Greenberry’s actions. As a result of the NRC inspection
+teams review, Greenberry submitted an update to its Part 21 notification dated
+July 6, 2017 indicating that the outstanding evaluation was completed under
+Westinghouse Electric Company’s (WEC’s) corrective action process through WEC’s
+Nonconformance & Disposition (N&D) reports. The attachment to this inspection report
+lists all documents reviewed by the NRC inspection team. No findings of significance
+were identified.
+c. Conclusion
+The NRC inspection team concluded that Greenberry is implementing its Part 21
+program in accordance with the regulatory requirements of 10 CFR Part 21. Based on
+the limited sample of documents reviewed, the NRC inspection team also determined
+that Greenberry is implementing its policies and procedures associated with the 10 CFR
+Part 21 program. No findings of significance were identified.
+4
+
+=== PAGE BREAK ===
+
+2. Design Control
+a. Inspection Scope
+The NRC inspection team reviewed Greenberry’s policies and implementing procedures
+that govern its design control program to verify compliance with the regulatory
+requirements of Criterion III, “Design Control,” of Appendix B , “Quality Assurance
+Program Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to 10 CFR
+Part 50, “Domestic Licensing of Production and Utilization Facilities,” and the
+requirements of Section III, “Rules for Construction of Nuclear Facility Components,” of
+the American Society of Mechanical Engineers (ASME) Boiler and Pressure Vessel
+(B&PV) Code.
+The NRC inspection team reviewed a sample of containment floor structural modules for
+the WEC AP1000 reactor design that were in various stages of fabrication and being
+prepared for delivery to Vogtle Units 3 and 4 and V.C. Summer Units 2 and 3. The NRC
+inspection team reviewed Greenberry's procedures, specifications, shop drawings, shop
+travelers, requests for information (RFIs), and quality assurance practices associated
+with fabrication of structural sub-modules for the AP1000 containment internal structures
+(CISs) to verify that relevant technical requirements associated with fabrication of the
+CIS structural sub-modules had been correctly translated from the construction
+documents into fabrication packages. This review was conducted in order to support
+future closure of Inspections, Tests, Analyses, and Acceptance Criteria (ITAAC)
+3.3.00.02a.i.a (760) for Vogtle Units 3 and 4 and V.C. Summer Units 2 and 3.
+The NRC inspection team discussed the design control program with Greenberry’s
+management and technical staff. The attachment to this inspection report lists the
+documents reviewed and personnel interviewed by the NRC inspection team.
+b. Observations and Findings
+The NRC inspection team verified that the shop drawing prepared by Greenberry for
+fabrication of the structural sub-modules were consistent with the engineering drawings,
+construction specifications, and quality assurance requirements provided by the design
+authority, including any relevant engineering and design coordination reports (E&DCRs).
+The NRC inspection team also confirmed that any inconsistencies or errors on the
+engineering drawings that were identified by the structural detailers during development
+of the shop drawings were addressed through the RFI process and that any required
+design changes were documented by the design authority using the E&DCR process.
+The NRC inspection team observed in-process fabrication of sub-modules CA55 GM5
+and CA55 GM4 for Vogtle Unit 3 and V.C. Summer Unit 2, respectively; and completed
+sub-modules CA57 GM2 and CA55 GM1, for Vogtle Unit 4 and V.C. Summer Unit 3,
+respectively. These sub-modules are fabricated using steel shapes and plates and are
+components of the composite operating floors at elevation 135’-3” of Vogtle Units 3 and
+4 and V.C. Summer Units 2 and 3. The NRC inspection team reviewed the overall
+configuration, sizes of shapes and plates, and dimensions and connection details of the
+sub-modules listed above to verify the sub-modules were being, or had been, fabricated
+in accordance with the engineering drawings and technical requirements, including those
+documented in the respective updated final safety analysis reports (UFSARs). The NRC
+inspection team reviewed a sample of weld travelers to verify that hold points had been
+5

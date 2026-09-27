@@ -1,0 +1,263 @@
+August 22, 2017
+Mr. Samuel B. Mummert
+Quality Assurance Manager
+Vigor Works, LLC
+9700 SE Lawnfield Road
+Clackamas, OR 97015
+SUBJECT: NUCLEAR REGULATORY COMMISSION INSPECTION REPORT OF VIGOR
+WORKS LLC NO. 99901448/2017-201
+Dear Mr. Mummert:
+On July 17-21, 2017, the U.S. Nuclear Regulatory Commission (NRC) staff conducted an
+inspection at the Vigor Works LLC (formerly Oregon Iron Works) facility in Clackamas, Oregon.
+The purpose of this limited-scope routine inspection was to assess Vigor’s compliance with
+provisions of Title 10 of the Code of Federal Regulations (10 CFR) Part 21, “Reporting of
+Defects and Noncompliance,” and selected portions of Appendix B, “Quality Assurance Program
+Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to 10 CFR Part 50, “Domestic
+Licensing of Production and Utilization Facilities.” The enclosed report presents the results of
+this inspection.
+This technically-focused inspection specifically evaluated Vigor’s implementation of the quality
+activities associated with the fabrication, assembly, and testing activities of CB20 Passive
+Containment Cooling Water Tank L modules being supplied to the Westinghouse Electric
+Company (WEC) AP1000 reactor design. This NRC inspection report does not constitute NRC
+endorsement of Vigor’s overall quality assurance (QA) or Part 21 programs.
+In addition, the inspection assessed Vigor’s corrective actions to close previous NRC identified
+nonconformances in NRC Inspection Reports (IR) 99901448/2014-201 and 99901449/2014-201
+(Agencywide Documents Access and Management System (ADAMS) Accession
+No. ML14308A463).
+Within the scope of this inspection, no violations or nonconformances were identified.
+In accordance with 10 CFR 2.390 of the NRC’s “Rules of Practice”, a copy of this letter, its
+enclosures, and your response will be made available electronically for public inspection in the
+NRC Public Document Room or from the NRC’s document system (ADAMS), accessible at
+http://www.nrc.gov/reading-rm/adams.html. To the extent possible, your response, (if
+applicable), should not include any personal privacy, proprietary, or safeguards Information so
+that it can be made available to the public without redaction. If personal privacy or proprietary
+information is necessary to provide an acceptable response, please provide a bracketed copy of
+your response that identifies the information that should be protected and a redacted copy of
+your response that deletes such information. If you request that such material be withheld from
+public disclosure, you must specifically identify the portions of your response that you seek to
+
+=== PAGE BREAK ===
+
+S. Mummert 2
+have withheld and provide in detail the bases for your claim (e.g., explain why the disclosure of
+information would create an unwarranted invasion of personal privacy or provide the information
+required by 10 CFR 2.390(b) to support a request for withholding confidential commercial or
+financial information). If Safeguards Information is necessary to provide an acceptable
+response, please provide the level of protection described in 10 CFR 73.21.
+Sincerely,
+/RA/
+John P. Burke, Chief
+Quality Assurance Vendor Inspection Branch-2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901448
+Enclosure:
+Inspection Report No. 99901448/2017-201
+and Attachment
+
+=== PAGE BREAK ===
+
+S. Mummert 3
+SUBJECT: NUCLEAR REGULATORY COMMISSION INSPECTION REPORT OF VIGOR
+WORKS LLC NO. 99901448/2017-201
+Dated: August 22, 2017
+DISTRIBUTION:
+TJackson
+KKavanagh
+ASakadales
+ConE_Resource
+NRO_DCIP_Distribution
+sam.mummert@vigor.net
+ADAMS Accession No.: ML17226A340 *via e-mail NRO-002
+OFFICE NRO/DCIP NRO/DCIP NRO/DCIP
+NAME RGascot-Lozada RPatel JHeath*
+DATE 08/15/17 08/15/17 08/16/17
+OFFICE NRO/DCIP NRO/DCIP
+NAME JOrtega-Luciano JBurke
+DATE 08/15/17 08/22/17
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS
+VENDOR IMPLEMENTATION INSPECTION REPORT
+Docket No.: 99901448
+Report No.: 99901448/2017-201
+Vendor: Vigor Works, LLC
+9700 SE Lawnfield Road
+Clackamas, OR 97015
+Vendor Contact: Samuel B. Mummert
+Quality Assurance Manager
+sam.mummert@vigor.net
+Phone: (503) 653-6300 x1421
+Nuclear Industry Activity: Vigor Works LLC, is under contract to WECTEC to fabricate,
+assemble, inspect, transport, and deliver CB20 Passive
+Containment Cooling Water Tank L modules for the Westinghouse
+Electric Company AP1000 reactor design.
+Inspection Dates: July 17-21, 2017
+Inspectors: Jonathan Ortega-Luciano NRO/DCIP/QVIB-2, Team Leader
+Raju Patel NRO/DCIP/QVIB-2
+Jermaine Heath NRO/DCIP/QVIB-1
+Ramón L. Gascot NRO/DCIP/QVIB-2
+Approved by: John P. Burke, Chief
+Quality Assurance Vendor Inspection Branch-2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Enclosure
+
+=== PAGE BREAK ===
+
+EXECUTIVE SUMMARY
+Vigor Works LLC.
+99901448/2017-201
+The U.S. Nuclear Regulatory Commission (NRC) staff conducted a vendor inspection at the
+Vigor Works LLC (formerly Oregon Iron Works) at Clackamas, Oregon, to verify that it had
+implemented an adequate quality assurance (QA) program that complies with the requirements
+of Appendix B, “Quality Assurance Criteria for Nuclear Power Plants and Fuel Reprocessing
+Plants,” to Title 10 of the Code of Federal Regulations (10 CFR) Part 50, “Domestic Licensing of
+Production and Utilization Facilities.” In addition, the NRC inspection also verified that Vigor
+implemented a program under 10 CFR Part 21, “Reporting of Defects and Noncompliance,” that
+met the NRC’s regulatory requirements. The NRC inspection team conducted the inspection
+from July 17-21, 2017.
+This technically-focused inspection specifically evaluated Vigor’s implementation of QA
+activities related with the fabrication, assembly, and testing of the CB20 Passive Containment
+Cooling Water Tank L module for the Westinghouse Electric Company (WEC) AP1000
+reactor design.
+Specific activities observed by the NRC inspection team included:
+• Set-up and performed stud welding on Submodule CB20-040 Flat Bottom Ring Module
+0300, SV3 [Southern Vogtle 3]
+• Set-up and performed Magnetic Particle Examination of Shield Building Roof
+Area 8 Module CB20
+• Set-up and perform liquid penetrant testing of weld repair area of angle splice for
+on Shield Building Roof Area 8 Module CB20
+• Set-up and perform visual testing (VT) examination of fillet welds of Full-Bridge of
+CB20 submodule, SV3
+• VT of stud welds on Flat Bottom Rings Module CB20-040, SV3
+• Stud welder qualification in accordance with the American Welding Society
+(AWS) D1.1 standard
+• Set-up and perform semi-automatic robotic flux core arc welding (FCAW) process
+of fillet welds on submodule CB20 bridge, SV3
+In addition to observing these activities, the NRC inspection team verified that measuring and
+test equipment (M&TE) was properly identified, marked, calibrated, and used within its
+calibrated range.
+These regulations served as the bases for the NRC inspection:
+• Appendix B to 10 CFR Part 50
+• 10 CFR Part 21
+2
+
+=== PAGE BREAK ===
+
+During the course of this inspection, the NRC inspection team implemented the following
+Inspection Procedures (IP):
+• IP 36100, “Inspection of 10 CFR Part 21 and Programs for Reporting Defects and
+Noncompliance”, dated February 13, 2012
+• IP 43002, “Routine Vendor Inspections”, dated January 27, 2017
+• IP 43004, “Inspection of Commercial-Grade Dedication Programs”, dated
+January 27, 2017
+This was the second NRC inspection of Vigor’s facility in Clackamas, Oregon. The last NRC
+inspection was conducted in September 2014 and the results are documented in Inspection
+Report (IR) No. 99901448/2014-201 and 99901449/2014-201, dated November 18, 2014. The
+NRC inspection team concluded that Vigor’s QA policies and procedures comply with the
+applicable requirements of 10 CFR Part 21 and Appendix B to 10 CRF Part 50, and that Vigor’s
+personnel are implementing these policies and procedures effectively.
+The results of this inspection are summarized below.
+Corrective Action
+The NRC inspection team reviewed the corrective actions that Vigor had taken to address
+nonconformances identified during the NRC 2014 inspection. The NRC inspection team
+reviewed the documentation that provided the objective evidence that all corrective actions were
+completed and adequately implemented. Based on this review, the NRC inspection team
+closed all of the nonconformances documented in the 2014 IR.
+Inspection Areas
+The NRC inspection team determined that Vigor is implementing its programs for
+commercial-grade dedication, training and qualification of personnel; manufacturing control;
+special process; inspection; M&TE, nonconformance of material, parts or components;
+corrective action; and audits in accordance with the applicable regulatory requirements of
+Appendix B to 10 CFR Part 50. Also, the NRC inspection team concluded that Vigor is
+implementing its 10 CFR Part 21 program in accordance with the regulatory requirements.
+Based on the limited sample of documents reviewed and activities observed, the NRC
+inspection team also determined that Vigor is implementing its policies and procedures
+associated with these programs. No findings of significance were identified.
+3
+
+=== PAGE BREAK ===
+
+REPORT DETAILS
+1. 10 CFR Part 21 Program
+a. Inspection Scope
+The NRC inspection team reviewed Vigor’s policies and implementing procedures that
+govern Vigor’s 10 CFR Part 21, “Reporting of Defects and Noncompliance,” program to
+verify compliance with the regulatory requirements. In addition, the NRC inspection
+team evaluated the 10 CFR Part 21 postings and a sample of Vigor’s purchase orders
+(PO) for compliance with the requirements of 10 CFR 21.21, “Notification of Failure to
+Comply or Existence of a Defect and its Evaluation,” and 10 CFR 21.31, “Procurement
+Documents.” The NRC inspection team also verified that Vigor’s nonconformance and
+corrective action procedures provide a link to the 10 CFR Part 21 program. The
+attachment to this inspection report lists the documents reviewed by the NRC inspection
+team.
+b. Observations and Findings
+No findings of significance were identified.
+c. Conclusion
+The NRC inspection team concluded that Vigor is implementing its 10 CFR Part 21
+program in accordance with the regulatory requirements of 10 CFR Part 21. Based on
+the limited sample of documents reviewed, the NRC inspection team also determined
+that Vigor is implementing its policies and procedures associated with the 10 CFR
+Part 21 program. No findings of significance were identified.
+2. Commercial-Grade Dedication
+a. Inspection Scope
+The NRC inspection team reviewed Vigor’s policies and implementing procedures that
+govern the commercial-grade dedication (CGD) program to verify their compliance with
+the regulatory requirements of Criterion III, “Design Control,” of Appendix B to 10 CFR
+Part 50.
+The NRC inspection team selected a sample of items and services that were dedicated
+by Vigor for use in safety-related applications to verify compliance with the applicable
+technical and regulatory requirements. Specifically, the NRC inspection team evaluated
+Vigor’s technical evaluations and verified that the evaluations appropriately identified the
+critical characteristics and verified the technical attributes necessary to provide
+reasonable assurance that the components being dedicated would perform their
+intended safety function. The NRC inspection team also evaluated the criteria for the
+selection of critical characteristics, the basis for the selection of the sampling plan, and
+the selection and implementation of verification methods to verify effective
+implementation of Vigor’s CGD process.
+4
+
+=== PAGE BREAK ===
+
+The NRC inspection team also discussed the CGD program with Vigor’s management
+and technical staff. The attachment to this inspection report lists the documents
+reviewed and personnel interviewed by the NRC inspection team.
+b. Observations and Findings
+No findings of significance were identified.
+c. Conclusion
+The NRC inspection team concluded that Vigor is implementing its CGD program in
+accordance with the regulatory requirements of Criterion III of Appendix B to
+10 CFR Part 50. Based on the limited sample of documents reviewed, the NRC
+inspection team also determined that Vigor is implementing its policies and procedures
+associated with the CGD program. No findings of significance were identified
+3. Material Traceability
+a. Inspection Scope
+The NRC inspection team reviewed Vigor’s policies and implementing procedures that
+govern material traceability to verify compliance with the regulatory requirements of
+Criterion VIII, “Identification and Control of Material, Parts, and Components,” of
+Appendix B to 10 CFR Part 50.
+The NRC inspection team observed that all materials were marked with unique lot
+number traceable to procurement records. This lot number is unique and assigned once
+the receipt inspection is completed. For a sample of the CB20 submodules, the NRC
+inspection team observed that identification markings were: (1) traceable to design and
+shop drawings, (2) carried and remained legible through the manufacturing process, and
+(3) applied using materials and methods that provided a clear and legible identification
+that did not adversely affect the function or service life of the modules. Also, the NRC
+inspection team verified the controls that Vigor have in place for traceability and storage
+of material between the multiple storage locations. As part of those controls Vigor uses
+Fab-Trol-MRP, an internal computer database system, to track material locations per
+project. This system is also used to track the location of materials between the two
+Vigor facilities.
+The NRC inspection team discussed the material traceability program with Vigor’s
+management and technical staff. The attachment to this inspection report lists the
+documents reviewed by the NRC inspection team.
+b. Observations and Findings
+No findings of significance were identified.
+5

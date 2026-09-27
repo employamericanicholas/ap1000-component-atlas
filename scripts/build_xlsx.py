@@ -45,7 +45,9 @@ rows = [
     ("Systems", str(len(systems))),
     ("", ""),
     ("SHEETS", ""),
-    ("Components", "Master component list. One row per component/equipment item. Columns S-U are YOURS to fill in (yellow)."),
+    ("Components", "Master component list. One row per component/equipment item. Supplier columns S-X are researched assignments (see basis column); yellow columns Y-AA are YOURS to fill in."),
+    ("Suppliers", "Curated supplier list: manufacturer, plant location(s), Domestic/Foreign origin, scope, sources. Applied to Components via documented match rules."),
+    ("Supplier Evidence", "Every raw sourced claim from the research (Georgia PSC Vogtle docket, NRC vendor inspection reports, press/industry) with verbatim quotes and URLs."),
     ("Systems", "One row per plant system, with component counts by class (live COUNTIFS formulas)."),
     ("Structures", "Seismic classification of buildings and structures (Table 3.2-2)."),
     ("Class Definitions", "AP1000 class crosswalk to ASME/ANS/quality group (Table 3.2-1) and Table 3.2-3 notes."),
@@ -56,6 +58,7 @@ rows = [
     ("HOW TO USE FOR DOMESTIC CONTENT WORK", ""),
     ("1.", "Filter the Components sheet (row 1 has AutoFilter) by system, class, or building."),
     ("2.", "Fill the yellow input columns: 'DC Category', 'Supply Origin', 'DC Notes'. Everything else is source data - leave it intact."),
+    ("2b.", "Supplier columns: assignments are package-level (e.g., all SGS-MB tags -> Doosan) and Vogtle 3&4-era; 'Not publicly disclosed' means no public source names a vendor for that tag. Check 'Supplier Match Basis' for confidence before relying on a row."),
     ("3.", "Classes A-C are safety-related (10 CFR 50 App. B nuclear QA) - the hardest to source domestically."),
     ("4.", "Turbine-island systems marked 'Class E' in Systems notes have no itemized parts list in the DCD."),
     ("", ""),
@@ -79,6 +82,8 @@ headers = ["Tag", "Description", "System Code", "System Name", "Location", "Buil
            "AP1000 Class", "Seismic Category", "Construction Code", "Comments",
            "In Table 3.2-3", "In Tier 1", "Tier 1 Table", "ASME III (T1)", "Class 1E/Harsh (T1)",
            "Remote Valve (T1)", "Active Function (T1)", "Loss-of-Power Position (T1)",
+           "Supplier Name", "Supplier Mfg Location", "Supplier Other Locations",
+           "Supplier Origin (Domestic/Foreign)", "Supplier Source URL(s)", "Supplier Match Basis",
            "DC Category", "Supply Origin", "DC Notes",
            "Other Tier 1 Attributes", "Source", "Source Doc URL"]
 ws.append(headers)
@@ -96,6 +101,8 @@ for c in comps:
         c.get("tier1_table"), c.get("tier1_asme_III"), c.get("tier1_class_1E_harsh"),
         c.get("tier1_remote_valve"), c.get("tier1_active_function"),
         c.get("tier1_loss_power_position"),
+        c.get("supplier_name"), c.get("supplier_mfg_location"), c.get("supplier_other_locations"),
+        c.get("supplier_origin"), c.get("supplier_source"), c.get("supplier_basis"),
         "", "", "",
         c.get("tier1_other"), c.get("source"), url,
     ])
@@ -104,11 +111,12 @@ for row in ws.iter_rows(min_row=2, max_row=n):
     for cell in row:
         cell.font = BASE
         cell.border = THIN
-    for j in (19, 20, 21):  # input columns S,T,U
+    for j in (25, 26, 27):  # user input columns Y,Z,AA
         row[j - 1].fill = INPUT_FILL
 ws.auto_filter.ref = f"A1:{get_column_letter(len(headers))}{n}"
 ws.freeze_panes = "C2"
-set_widths(ws, [17, 42, 9, 30, 26, 24, 9, 9, 15, 22, 8, 8, 10, 10, 12, 10, 10, 12, 16, 16, 24, 28, 34, 30])
+set_widths(ws, [17, 42, 9, 30, 26, 24, 9, 9, 15, 22, 8, 8, 10, 10, 12, 10, 10, 12,
+                26, 26, 26, 14, 40, 30, 16, 16, 24, 28, 34, 30])
 
 # ---------------- Systems ----------------
 # Suggested EEDB (Energy Economic Data Base) cost-account mapping for cost/domestic-content
@@ -215,6 +223,36 @@ for i, doc in enumerate(docs, start=2):
 ws.freeze_panes = "A2"
 set_widths(ws, [18, 110, 12])
 
+# ---------------- Suppliers (curated) ----------------
+if "supplier_map" in d:
+    sm = d["supplier_map"]
+    ws = wb.create_sheet("Suppliers", 2)
+    sh = ["Supplier", "Manufacturing Location", "Other Locations", "Origin (Domestic/Foreign)",
+          "Supplies (scope of mapped components)", "Components Matched", "Source URLs", "Key Evidence"]
+    ws.append(sh)
+    style_header(ws, len(sh))
+    # scope text per supplier from rules
+    scope = {}
+    for r in sm["rules"]:
+        scope.setdefault(r["supplier"], []).append(r.get("scope_note") or str(r["match"].get("value", "")))
+    for sid, s in sm["suppliers"].items():
+        srcs = s.get("sources", [])
+        cnt = sum(1 for c in comps if c.get("supplier_name") == s["name"])
+        ws.append([
+            s["name"], s.get("manufacturing_location", ""), s.get("other_locations", ""),
+            s.get("origin", ""), "; ".join(dict.fromkeys(scope.get(sid, []))), cnt,
+            "\n".join(x["url"] for x in srcs),
+            "\n".join(f'{x.get("doc","")}: "{x.get("quote","")}"' for x in srcs if x.get("quote")),
+        ])
+    for row in ws.iter_rows(min_row=2):
+        for cell in row:
+            cell.font = BASE
+            cell.border = THIN
+            cell.alignment = Alignment(vertical="top", wrap_text=True)
+    ws.freeze_panes = "A2"
+    ws.auto_filter.ref = f"A1:H{ws.max_row}"
+    set_widths(ws, [30, 30, 30, 14, 44, 12, 50, 70])
+
 # ---------------- external cost data sheets ----------------
 import csv
 
@@ -246,6 +284,40 @@ def csv_sheet(name, path, note, widths=None, number_cols=()):
     if widths:
         set_widths(ws, widths)
     return ws
+
+# ---------------- Supplier Evidence (raw research rows) ----------------
+import os
+EVIDENCE = [
+    ("Georgia PSC (Vogtle docket)", "data/external/gapsc/ga_psc_suppliers.csv"),
+    ("NRC vendor inspections", "data/external/nrc_vendors/nrc_vendor_suppliers.csv"),
+    ("Press / industry reports", "data/external/press/press_suppliers.csv"),
+]
+ev_rows = []
+for label, path in EVIDENCE:
+    if os.path.exists(path):
+        with open(path, encoding="utf-8-sig") as f:
+            rd = csv.DictReader(f)
+            for r in rd:
+                r["research_source"] = label
+                ev_rows.append(r)
+if ev_rows:
+    ws = wb.create_sheet("Supplier Evidence", 3)
+    cols = ["research_source", "component_or_package", "supplier_name", "manufacturing_location",
+            "other_locations", "origin", "evidence_quote", "source_doc", "source_url", "confidence"]
+    ws.append(["Raw research evidence rows (one per sourced claim); the Suppliers sheet is the curated view applied to the Components sheet."])
+    ws.cell(row=1, column=1).font = Font(name=ARIAL, size=9, italic=True, color="666666")
+    ws.append(cols)
+    style_header(ws, len(cols), row=2)
+    for r in ev_rows:
+        ws.append([r.get(k, "") for k in cols])
+    for row in ws.iter_rows(min_row=3):
+        for cell in row:
+            cell.font = BASE
+            cell.border = THIN
+            cell.alignment = Alignment(vertical="top", wrap_text=True)
+    ws.freeze_panes = "A3"
+    ws.auto_filter.ref = f"A2:J{ws.max_row}"
+    set_widths(ws, [22, 34, 28, 26, 26, 12, 60, 34, 44, 11])
 
 csv_sheet("Cost Accounts (TIMCAT)", "data/external/timcat_ap1000_accounts.csv",
           "MIT TIMCAT (github.com/mit-crpg/TIMCAT): EEDB PWR12-ME cost basis (2018 USD) + LPSR AP1000-surrogate component parameters. "

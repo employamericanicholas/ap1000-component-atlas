@@ -1,0 +1,317 @@
+June 6, 2012
+Richard Kuntz, Quality Assurance Manager
+SPX, Copes-Vulcan
+5620 West Road
+McKean, PA 16426-1504
+SUBJECT: NRC INSPECTION REPORT NO. 99900080/2012-201 AND NOTICE OF
+NONCONFORMANCE
+Dear Mr. Kuntz:
+On February 13, 2012, through February 17, 2012, the U.S. Nuclear Regulatory Commission
+(NRC) staff conducted a limited scope inspection at the SPX, Copes-Vulcan facility (hereafter
+referred to as SPX), in McKean, PA. The purpose of this inspection was to assess SPX
+compliance with Title 10 of the Code of Federal Regulations (10 CFR) Part 21, “Reporting of
+Defects and Noncompliance,” and selected portions of Appendix B, “Quality Assurance Program
+Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to 10 CFR Part 50, “Domestic
+Licensing of Production and Utilization Facilities.” The technically focused inspection
+specifically evaluated quality assurance activities associated with the design and manufacturing
+of the squib valves for the AP1000 reactor design. The enclosed report presents the results of
+this inspection. This inspection report does not constitute the NRC’s endorsement of your
+overall quality assurance or 10 CFR Part 21 programs.
+During this inspection, the NRC inspection team found that implementation of your quality
+assurance program did not meet certain NRC requirements imposed on SPX by its customers
+or NRC licensees. Specifically, the NRC inspection team determined that SPX was not fully
+implementing its quality assurance program in design control, instructions, procedures and
+drawings, control of special processes, and corrective actions consistent with regulatory and
+contractual requirements, and applicable procedures. The specific findings and references to
+the pertinent requirements are identified in the enclosed Notice of Nonconformance (NON) to
+this letter, and the enclosed inspection report describes in detail the circumstances surrounding
+them.
+Information on the design and manufacturing of the squib valves for the AP1000 reactor design
+is summarized in this letter and its enclosures to avoid disclosure of proprietary material. This
+letter and its enclosures will be withheld for 5 days from the date of issuance to allow you to
+identify any information you consider to be proprietary. If you consider any information in this
+letter or its enclosures to be proprietary, you must submit a timely request for to the NRC to
+withhold that information in accordance with 10 CFR 2.390, “Public Inspections, Exemptions,
+Requests for Withholding,” of the NRC's “Rules of Practice."
+Please provide a written explanation or statement within 30 days of this letter in accordance with
+the instructions specified in the enclosed NON. The NRC will consider extending the response
+time if you show good cause to do so.
+
+=== PAGE BREAK ===
+
+R. Kuntz - 2 -
+In accordance with 10 CFR 2.390, the NRC will make a copy of this letter, its enclosure(s), and
+your response available electronically for public inspection in the NRC’s Public Document Room
+or from the NRC’s Agencywide Documents Access and Management System (ADAMS),
+accessible from the NRC Web site at http://www.nrc.gov/reading-rm/adams.html. To the extent
+possible, your response should not include any personal privacy, proprietary, or Safeguards
+Information so that it can be made available to the public without redaction. If personal privacy
+or proprietary information is necessary to provide an acceptable response, please submit a
+bracketed copy of your response that identifies the information that should be protected, along
+with a redacted copy of your response that deletes such information. If you request that such
+material be withheld from public disclosure, you must specifically identify the portions of your
+response that you seek to have withheld and provide in detail the bases for your claim (e.g.,
+explain why the disclosure of information will create an unwarranted invasion of personal
+privacy or provide the information required by 10 CFR 2.390(b) to support a request for
+withholding confidential commercial or financial information). If Safeguards Information is
+necessary to provide an acceptable response, please provide the level of protection described
+in 10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA/
+Edward H. Roach, Chief
+Mechanical Vendor Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99900080
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report No. 99900080/2012-201 and Attachment
+
+=== PAGE BREAK ===
+
+R. Kuntz - 2 -
+In accordance with 10 CFR 2.390, the NRC will make a copy of this letter, its enclosure(s), and
+your response available electronically for public inspection in the NRC’s Public Document Room
+or from the NRC’s Agencywide Documents Access and Management System (ADAMS),
+accessible from the NRC Web site at http://www.nrc.gov/reading-rm/adams.html. To the extent
+possible, your response should not include any personal privacy, proprietary, or Safeguards
+Information so that it can be made available to the public without redaction. If personal privacy
+or proprietary information is necessary to provide an acceptable response, please submit a
+bracketed copy of your response that identifies the information that should be protected, along
+with a redacted copy of your response that deletes such information. If you request that such
+material be withheld from public disclosure, you must specifically identify the portions of your
+response that you seek to have withheld and provide in detail the bases for your claim (e.g.,
+explain why the disclosure of information will create an unwarranted invasion of personal
+privacy or provide the information required by 10 CFR 2.390(b) to support a request for
+withholding confidential commercial or financial information). If Safeguards Information is
+necessary to provide an acceptable response, please provide the level of protection described
+in 10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA/
+Edward H. Roach, Chief
+Mechanical Vendor Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99900080
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report No. 99900080/2012-201 and Attachment
+DISTRIBUTION:
+RRasmussen KKavanagh DTerao TSakadales
+RidsNroDcip RidsNroDcipCMVB RidsNroDcipCEVB RidsNroDcipCQAB
+rick.kuntz@spx.com
+ADAMS Accession No.: ML12158A154 NRC-001
+OFFICE NRO/DCIP/CMVB NRO/DCIP/CEVB NRO/DCIP/CQAB
+NAME YDiaz-Castillo JJacobson TKendzia
+DATE 06/06/2012 04/02/2012 04/02/2012
+OFFICE NRO/DCIP/CEVB NRO/DE/SEB1 RII/DCI/CIB3
+NAME SSmith TScarbrough JBartleman
+DATE 04/02/2012 04/02/2012 04/02/2012
+OFFICE NRO/DCIP/CAEB NRO/DCIP/CMVB
+NAME TFrye ERoach
+DATE 04/02/2012 06/06/2012
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+NOTICE OF NONCONFORMANCE
+SPX, Copes-Vulcan Docket No. 99900080
+5620 West Road Report No. 2012-201
+McKean, PA 16426-1504
+Based on the results of a U.S. Nuclear Regulatory Commission (NRC) inspection conducted at
+the SPX, Copes-Vulcan facility (hereafter referred to as SPX) in McKean, PA, from February 13,
+2012, through February 17, 2012, it appears that certain activities were not conducted in
+accordance with NRC requirements that were contractually imposed upon SPX by its customers
+or by NRC licensees.
+A. Criterion III, “Design Control,” of Appendix B, “Quality Assurance Criteria for Nuclear Power
+Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of Federal Regulations (10
+CFR) Part 50, “Domestic Licensing of Production and Utilization Facilities,” states, in part,
+that “Measures shall also be established for the selection and review for suitability of
+application of materials, parts, equipment, and processes that are essential to the
+safety-related functions of the structures, systems and components. The design control
+measures shall provide for verifying or checking the adequacy of design, such as by the
+performance of design reviews, by the use of alternate or simplified calculational methods,
+or by the performance of a suitable testing program.”
+Contrary to the above, as of February 17, 2012, SPX failed to verify the adequacy of the
+initiator assembly design as part of its commercial-grade dedication program. Specifically,
+the NRC inspection team identified that the initiator assembly was being procured as a
+commercial-grade item and dedicated by SPX for use as a basic component. The design of
+the initiator assembly was performed by the commercial vendor and was not validated by
+SPX as part of its commercial-grade dedication program. Although SPX had identified some
+important design attributes as critical characteristics for the purposes of commercial-grade
+dedication of the initiator assembly, the acceptance criteria specified by SPX for the
+characteristics primarily were restatements of manufacturing tolerances and inspections
+contained in the vendor’s manufacturing procedure. SPX did not obtain the knowledge of
+the initiator assembly design necessary to validate the design parameters or account for any
+material, manufacturing, or assembly tolerances.
+This issue has been identified as Nonconformance 99900080/2012-201-01.
+B. Criterion III of Appendix B to 10 CFR Part 50, states, in part, that “[m]easures shall be
+established to assure that applicable regulatory requirements and the design basis…are
+correctly translated into specifications, drawings, procedures, and instructions. Measures
+shall also be established for the selection and review for suitability of application of
+materials, parts, equipment, and processes that are essential to the safety-related functions
+of the structures, systems, and components. The design control measures shall provide for
+verifying or checking the adequacy of design, such as by the performance of design
+reviews, by the use of alternate or simplified calculational methods, or by the performance of
+a suitable testing program.”
+Contrary to the above, as of February 17, 2012, SPX failed to establish measures to verify
+or check the adequacy of the mechanical design of squib valves with safety functions to be
+used in the AP1000 reactor design. Specifically, SPX failed to adequately justify the design
+and installation of energy absorbing material inside the squib valve. For example, SPX did
+Enclosure 1
+
+=== PAGE BREAK ===
+
+not perform an analysis of the failure modes of the energy absorbing material and its
+installation, and their potentially adverse effects on the operation of the squib valve.
+This issue has been identified as Nonconformance 99900080/2012-201-02.
+C. Criterion III of Appendix B to 10 CFR Part 50 states, in part, that “[m]easures shall be
+established to assure that applicable regulatory requirements and the design basis…are
+correctly translated into specifications, drawings, procedures, and instructions. Measures
+shall also be established for the selection and review for suitability of application of
+materials, parts, equipment, and processes that are essential to the safety-related functions
+of the structures, systems and components. The design control measures shall provide for
+verifying or checking the adequacy of design, such as by the performance of design
+reviews, by the use of alternate or simplified calculational methods, or by the performance of
+a suitable testing program.”
+SPX Procedure No. 50-5.27.79, “Commercial Grade Dedication for Parts Within and
+Attached to the Valve Assembly and for Services,” Revision 9, dated February 2, 2012,
+establishes the processing of commercial grade items and services to justify their use in
+safety-related applications. The procedure states, in part, that “[t]o provide reasonable
+assurance that commercial grade items or services will perform the intended safety function,
+SPX shall verify that the commercial-grade item or service meets the acceptance criteria for
+the identified critical characteristics.”
+Contrary to the above, as of February 17, 2012, SPX failed to establish appropriate
+measures to verify the suitability of the commercial software used to perform finite element
+analyses on aspects of the squib valve design. Specifically, SPX failed to institute adequate
+measures to ensure the suitability of the example models, identify appropriate acceptance
+methods and critical characteristics, and evaluate error notices obtained from the
+manufacturer for potential impact on the analyses being performed.
+This issue has been identified as Nonconformance 99900080/2012-201-03.
+D. Criterion V, “Instructions, Procedures, and Drawings,” of Appendix B to 10 CFR Part 50
+states that “[a]ctivities affecting quality shall be prescribed by documented instructions,
+procedures, or drawings, of a type appropriate to the circumstances and shall be
+accomplished in accordance with these instructions, procedures, or drawings. Instructions,
+procedures, or drawings shall include appropriate quantitative or qualitative acceptance
+criteria for determining that important activities have been satisfactorily accomplished.”
+Contrary to the above, as of February 17, 2012, SPX failed to establish adequate
+procedures for the assembly of the 8-inch and 14-inch squib valves. Specifically, SPX
+Assembly Procedure No. 1.2.446, “14 inch ADS Squib Valve,” Revision 3, dated February 3,
+2012, and SPX Assembly Procedure No. 1.2.453, “8-inch LP Squib Valve,” Revision 5,
+dated February 9, 2012, have several steps in which measuring and test equipment (M&TE)
+data are not recorded. In addition, SPX Assembly Procedure 1.2.446 directed personnel to
+use inside micrometers for final measurement readings which is contrary to the SPX
+standard to not use inside micrometers for final measurement (due to the inherent difficulties
+with the many attachments for inside micrometers) as specified in procedure 50-5.07.01,
+“Control and Inspection of Micrometers and Gages,” Revision 39, dated August 30, 2010.
+Furthermore, SPX Assembly Procedure 1.2.453 directed personnel to perform an activity
+that could have introduced stresses into components of the 8-inch valve potentially causing
+- 2 -
+
+=== PAGE BREAK ===
+
+material weakening, damage, or failure of these components. This issue has been identified
+as Nonconformance 99900080/2012-201-04.
+E. Criterion IX, Control of Special Processes,” of Appendix B to 10 CFR Part 50 states that
+“[m]easures shall be established to assure that special processes, including welding, heat
+treating, and nondestructive testing, are controlled and accomplished by qualified personnel
+using qualified procedures in accordance with applicable codes, standards, specifications,
+criteria, and other special requirements.”
+Step 3.5 of Procedure 1-6.10, “Control of Special Processes,” Revision 1, dated January 14,
+2012, states, in part, that “[a]ll completed welds shall be visually inspected by the Inspector,”
+and step 4.1 states that “SPX nondestructive personnel shall be qualified in accordance with
+the Code and Procedure 1-6.02.” Procedure 1-6.02, “Quality Assurance Administration and
+Responsibilities,” Revision 1, dated January 14, 2012, specifies the requirements for
+training, testing, and qualifying inspectors.
+Contrary to the above, as of February 17, 2012, SPX failed to ensure that the SPX inspector
+had the qualifications and training necessary to successfully perform the inspection.
+Specifically, the NRC inspection team reviewed the training records for the SPX inspector
+and determined that the SPX inspector was not qualified to perform weld inspections,
+particularly inspections of the type of welds in question.
+This issue has been identified as Nonconformance 99900080/2012-201-05.
+F. Criterion XVI, “Corrective Action,” of Appendix B to 10 CFR Part 50 states, in part, that
+“[m]easures shall be established to assure that conditions adverse to quality, such as
+failures, malfunctions, deficiencies, deviations, defective material and equipment, and
+nonconformances are promptly identified and corrected.”
+Step 3.2 6 of Procedure 1-6.17, “Corrective Action,” Revision 1, dated January 14, 2012,
+defines conditions adverse to quality as “any condition that could affect the components
+ability to function within design requirements. This includes safety-related items.”
+Contrary to the above, as of February 17, 2012, SPX failed to provide sufficient guidance to
+identify conditions adverse to quality related to deficiencies, deviations and
+nonconformances. Specifically, key SPX personnel involved in the assembly of the squib
+valves did not identify in the corrective action process, until questioned by the NRC
+inspection team, conditions adverse to quality related to deficiencies, deviations and
+nonconformances.
+This issue has been identified as Nonconformance 99900080/2012-201-06.
+Please submit a written statement or explanation to the U.S. Nuclear Regulatory Commission,
+ATTN: Document Control Desk, Washington, DC 20555-0001, with a copy to the Chief,
+Mechanical Vendor Branch, Division of Construction Inspection and Operational Programs,
+Office of New Reactors, within 30 days of the date of the letter transmitting this Notice of
+Nonconformance. This reply should be clearly marked as a “Reply to a Notice of
+Nonconformance” and should include for each noncompliance (1) the reason for the
+noncompliance or, if contested, the basis for disputing the noncompliance, (2) the corrective
+steps that have been taken and the results achieved, (3) the corrective steps that will be taken
+to avoid noncompliance, and (4) the date the corrective action will be completed. If good cause
+- 3 -
+
+=== PAGE BREAK ===
+
+is shown, the NRC will consider extending the response time. Because your response will be
+made available electronically for public inspection in the NRC Public Document Room or from
+the NRC’s Agencywide Documents Access and Management System, (accessible from the
+NRC Web site at http://www.nrc.gov/reading-rm/adams.html), to the extent possible, do not
+include any personal privacy, proprietary, or Safeguards Information so that it can be made
+available to the public without redaction. If personal privacy or proprietary information is
+necessary to provide an acceptable response, then please provide a bracketed copy of your
+response that identifies the information that should be protected and a redacted copy of your
+response that deletes such information. If you request withholding of such material, you must
+specifically identify the portions of your response that you seek to have withheld and provide in
+detail the bases for your claim of withholding (e.g., explain why the disclosure of information will
+create an unwarranted invasion of personal privacy or provide the information required by 10
+CFR 2.390(b) to support a request for withholding confidential commercial or financial
+information). If Safeguards Information is necessary to provide an acceptable response, please
+provide the level of protection described in 10 CFR 73.21, “Protection of Safeguards
+Information: Performance Requirements.”
+Dated at Rockville, MD, this 4th day of April 2012.
+- 4 -
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION AND
+OPERATIONAL PROGRAMS
+Docket No.: 99900080
+Report No.: 99900080/2012-201
+Vendor: SPX, Copes-Vulcan
+5620 West Road
+McKean, PA 16426-1504
+Vendor Contact: Mr. Richard Kuntz,
+Quality Assurance Manager
+Background: SPX, Copes Vulcan (hereafter referred to as SPX) is a valve
+manufacturer that has been providing valves to the domestic and
+international community since the construction of nuclear power
+plants began. SPX squib valves, as well as other valve designs,
+will be used in new nuclear plant construction of the AP1000
+reactor design at the Vogtle, V.C. Summer, and Levy County
+nuclear plants, as well as in the construction of Chinese AP1000
+nuclear plants.
+Inspection Dates: February 13 - 17, 2012
+Inspection Team: Yamir Diaz-Castillo NRO/DCIP/CMVB Team Leader
+Edward Roach NRO/DCIP/CMVB Branch Chief
+Jeffrey Jacobson NRO/DCIP/CEVB
+Thomas Kendzia NRO/DCIP/CQAB
+Stacy Smith NRO/DCIP/CEVB
+Thomas Scarbrough NRO/DE/CIB
+John Bartleman RII/DCI/CIB1
+Jia Fengcia Observer from the National Nuclear
+Safety Administration (NNSA)
+Ma Xiangrui Observer from NNSA
+Approved by: Edward H. Roach, Chief
+Mechanical Vendor Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Enclosure 2

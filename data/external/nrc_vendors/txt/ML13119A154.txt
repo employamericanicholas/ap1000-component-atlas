@@ -1,0 +1,284 @@
+May 21, 2013
+Mr. David Gobbi, Quality Assurance Manager
+Flowserve Pump Division
+2300 E. Vernon Ave.
+Vernon, CA 90058
+SUBJECT: NUCLEAR REGULATION COMMISSION INSPECTION REPORT
+NO. 99901369/2013-201
+Dear Mr. Gobbi:
+From April 8-12, 2013, the U.S. Nuclear Regulatory Commission (NRC) staff conducted an
+inspection at the Flowserve Pump Division (hereafter referred to as Flowserve) facility in
+Vernon, CA. The purpose of this limited-scope routine inspection was to assess Flowserve’s
+compliance with the provisions of Title 10 of the Code of Federal Regulations (10 CFR) Part 21,
+“Reporting of Defects and Noncompliance,” and selected portions of Appendix B, “Quality
+Assurance Program Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to
+10 CFR Part 50, “Domestic Licensing of Production and Utilization Facilities.”
+This technically-focused inspection evaluated the implementation of Flowserve’s quality
+assurance activities associated with the design, fabrication, assembly, and testing of
+safety-related pumps for the domestic nuclear power plants with a focus on the pumps being
+provided for the Westinghouse Electric Company’s AP1000 reactor design. Some of the
+activities observed by the NRC inspection team are associated with, or directly affect, the
+closure of inspections, tests, analyses, and acceptance criteria (ITAAC) from Revision 19 to the
+certified AP1000 design. The NRC inspection team did not identify any findings associated with
+the ITAAC in Section 4 of the attachment to this report. Currently, the combined licenses of
+Vogtle Electric Generating Plant Units 3 and 4, and Virgil C. Summer Nuclear Station Units 2
+and 3, incorporate these ITAAC. The enclosed report presents the results of this inspection.
+This NRC inspection report does not constitute the NRC’s endorsement of Flowserve’s overall
+quality assurance or 10 CFR Part 21 programs.
+Based on the inspection samples, the NRC inspection team concluded that Flowserve met all
+program requirements and no violations or nonconformances were identified within the scope of
+this inspection. Although the NRC inspection team did identify some issues during the
+inspection, these issues were already identified during the most recent Nuclear Procurement
+Issues Committee audit performed at your facility and are being currently worked on under your
+corrective action program. The NRC inspection team did not identify any new issues of
+significance during the inspection.
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC’s “Rules of Practice,” the NRC will make available electronically for public inspection
+
+=== PAGE BREAK ===
+
+D. Gobbi - 2 -
+a copy of this letter, its enclosure, and your response through the NRC Public Document Room
+or from the NRC’s Agencywide Documents Access and Management System, which is
+accessible at http://www.nrc.gov/reading-rm/adams.html.
+Sincerely,
+/RA/
+Edward H. Roach, Chief
+Mechanical Vendor Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No. 99901369
+Enclosures:
+1. Inspection Report No. 99901369/2013-201
+and Attachment
+
+=== PAGE BREAK ===
+
+D. Gobbi - 2 -
+a copy of this letter, its enclosure, and your response through the NRC Public Document Room
+or from the NRC’s Agencywide Documents Access and Management System, which is
+accessible at http://www.nrc.gov/reading-rm/adams.html.
+Sincerely,
+/RA/
+Edward H. Roach, Chief
+Mechanical Vendor Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No. 99901369
+Enclosures:
+1. Inspection Report No. 99901369/2013-201
+and Attachment
+DISTRIBUTION:
+ASakadales
+RRasmussen
+RidsNroDcipCevb
+dgobbi@flowserve.com
+RidsNroDcip
+RidsNroDcipCqab
+RidsNroDcipCmvb
+ADAMS Accession No.: ML13119A154
+OFFICE NRO/DCIP/CMVB NRO/DCIP/CMVB NRO/DCIP/CMVB NRO/DCIP/CMVB NRR/DE/EPNB
+NAME YDiaz-Castillo JOrtega-Luciano MVaaler PCoco RWolfgang
+DATE 05/09/2013 05/09/2013 05/09/2013 05/09/2013 05/09/2013
+OFFICE NRO/DCIP/CQAB NRO/DCIP/CITB NRO/DCIP/CMVB
+NAME KKavanagh MKowal ERoach
+DATE 05/09/2013 05/14/2013 05/21/2013
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS
+VENDOR INSPECTION REPORT
+Docket No.: 99901369
+Report No.: 99901369/2013-201
+Vendor: Flowserve Pump Division
+2300 E. Vernon Ave.
+Vernon, CA 90058
+Vendor Contact: Mr. David Gobbi
+Quality Assurance Manager
+Telephone: 704-916-3121
+E-mail: dgobbi@flowserve.com
+Nuclear Industry Activity: Flowserve Pump Division (hereafter referred to as Flowserve) is
+an American Society of Mechanical Engineers (ASME) and
+Nuclear Parts certificate holder. Flowserve’s scope of supply for
+the domestic commercial nuclear industry includes the
+manufacturing, repair, and replacement of safety-related ASME
+Class 1, 2, & 3 and non-ASME safety-related pumps, including
+spare and replacement parts, components, and appurtenances;
+associated engineering and field services. Flowserve performs
+the design and manufacture of the pumps and commercial-grade
+dedication of the pump components.
+Inspection Dates: April 8 - 12, 2013
+Inspectors: Yamir Diaz-Castillo NRO/DCIP/CMVB Team Leader
+Jonathan Ortega-Luciano NRO/DCIP/CMVB
+Marlayna Vaaler NRO/DCIP/CMVB
+Paul Coco NRO/DCIP/CMVB
+Robert Wolfgang NRR/DE/EPNB
+Approved by: Edward H. Roach, Chief
+Mechanical Vendor Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Enclosure
+
+=== PAGE BREAK ===
+
+EXECUTIVE SUMMARY
+Flowserve Pump Division
+99901369/2013-201
+The U.S. Nuclear Regulatory Commission (NRC) conducted this inspection to verify that
+Flowserve Pump Division (hereafter referred to as Flowserve) implemented an adequate quality
+assurance (QA) program that complies with the requirements of Appendix B, “Quality Assurance
+Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of
+Federal Regulations (10 CFR) Part 50, “Domestic Licensing of Production and Utilization
+Facilities.” In addition, the NRC inspection verified that Flowserve implemented a program
+under 10 CFR Part 21, “Reporting of Defects and Noncompliance,” that met the NRC’s
+regulatory requirements. The NRC inspection team conducted the inspection at the Flowserve
+facility in Vernon, CA from April 8 - 12, 2013.
+This technically-focused inspection evaluated the implementation of Flowserve’s QA activities
+associated with the design, fabrication, assembly, and testing of safety-related pumps for the
+domestic nuclear power plants with a focus on the pumps being provided for the Westinghouse
+Electric Company AP1000 reactor design.
+Specific activities observed by the NRC inspection team included:
+• commercial-grade dedication (CGD) of a gear case oil gauge 1.250 national pipe thread
+(NPT) taper
+• receipt inspection of a safety-related round bar to be used as a pump shaft
+• welding of a vane guide in the interior of a pump cover for an internal upper pump head
+casing
+• liquid penetrant testing of two welds on a pump rotating assembly
+• normal residual heat removal centrifugal pump performance test setup
+• calibration of a pressure gage
+• Flowserve’s process for categorizing and dispositioning nonconformances and corrective
+actions during the daily Material Review Board meeting
+• implementation of Flowserve’s information and database systems used to evaluate and
+track 10 CFR Part 21 notifications, nonconformance reports, and corrective action
+requests
+In addition to observing these activities, the NRC inspection team verified that measuring and
+test equipment (M&TE) was properly identified, marked, calibrated and used within its calibrated
+range. Furthermore, the NRC inspection team walked down Flowserve’s assembly floor and
+verified that nonconforming components were properly identified, marked, and segregated when
+practical, to ensure that they were not reintroduced into the manufacturing processes.
+- 2 -
+
+=== PAGE BREAK ===
+
+The following regulations served as the bases for the NRC inspection:
+• Appendix B to 10 CFR Part 50
+• 10 CFR Part 21
+During the course of this inspection, the NRC inspection team implemented Inspection
+Procedure (IP) 43002, “Routine Inspections of Nuclear Vendors,” dated April 25, 2011,
+IP 43004, “Inspection of Commercial-Grade Dedication Programs,” dated April 25, 2011, and IP
+36100, “Inspection of 10 CFR Part 21 and Programs for Reporting Defects and
+Noncompliance,” dated February 13, 2012.
+This was the third documented NRC inspection of the Flowserve’s facility in Vernon, CA. The
+last NRC inspection was conducted in September 2011. The results of this inspection were
+documented in Inspection Report No. 99901369/2011-202, dated October 28, 2011. The report
+documented one violation of NRC requirements and one nonconformance to NRC requirements
+that were contractually imposed upon Flowserve by its customers. This inspection report
+documents the NRC’s followup on Flowserve’s implementation of the corrective actions for
+these issues.
+The NRC inspection team concluded that Flowserve’s QA policies and procedures comply with
+the applicable requirements of 10 CFR Part 21 and Appendix B to 10 CFR Part 50, and that
+Flowserve’s personnel are implementing these policies and procedures effectively. The results
+of this inspection are summarized below.
+10 CFR Part 21 Program
+The NRC inspection team concluded that Flowserve is implementing its 10 CFR Part 21
+program in accordance with the regulatory requirements of 10 CFR Part 21. Based on the
+limited sample of documents reviewed, the NRC inspection team also determined that
+Flowserve is implementing its policies and procedures associated with the 10 CFR Part 21
+program. No findings of significance were identified.
+Design Control and Commercial Grade Dedication
+The NRC inspection team concluded that Flowserve is implementing its design control and CGD
+programs in accordance with the regulatory requirements of Criterion III, “Design Control,” of
+Appendix B to 10 CFR Part 50. Based on the limited sample of documents reviewed, the NRC
+inspection team also determined that Flowserve is implementing its policies and procedures
+associated with the design control and CGD programs. No findings of significance were
+identified.
+Oversight of Contracted Activities and Internal Audits
+The NRC inspection team concluded that Flowserve is implementing its oversight of contracted
+activities and internal audits program in accordance with the regulatory requirements of Criterion
+IV, “Procurement Document Control,” Criterion VII, “Control of Purchased Material, Equipment,
+and Services,” and Criterion XVIII, “Audits,” of Appendix B to 10 CFR Part 50. Based on the
+limited sample of documents reviewed, the NRC inspection team also determined that
+Flowserve is implementing its policies and procedures associated with the oversight of
+contracted activities. No findings of significance were identified.
+- 3 -
+
+=== PAGE BREAK ===
+
+Control of Special Processes
+The NRC inspection team concluded that Flowserve is implementing its control of special
+processes program in accordance with the regulatory requirements of Criterion IX, “Control of
+Special Processes,” of Appendix B to 10 CFR Part 50. Based on the limited sample of
+documents reviewed, the NRC inspection team also determined that Flowserve is implementing
+its policies and procedures associated with the control of special processes program. No
+findings of significance were identified.
+Test Control
+The NRC inspection team concluded that Flowserve is implementing its test control program in
+accordance with the regulatory requirements of Criterion XI, “Test Control,” of Appendix B to
+10 CFR Part 50. Based on the limited sample of documents reviewed, the NRC inspection
+team also determined that Flowserve is implementing its policies and procedures associated
+with the test control program. No findings of significance were identified.
+Control of Measuring and Test Equipment
+The NRC inspection team concluded that Flowserve is implementing its M&TE program in
+accordance with the regulatory requirements of Criterion XII, “Control of Measuring and Test
+Equipment,” of Appendix B to 10 CFR Part 50. Based on the limited sample of documents
+reviewed, the NRC inspection team also determined that Flowserve is implementing its policies
+and procedures associated with the M&TE program. No findings of significance were identified.
+Nonconforming Material, Parts, or Components
+The NRC inspection team concluded that Flowserve is implementing its nonconforming
+materials, parts, or components program in accordance with the regulatory requirements of
+Criterion XV, “Nonconforming Materials, Parts, or Components,” of Appendix B to
+10 CFR Part 50. Based on the limited sample of documents reviewed, the NRC inspection
+team also determined that Flowserve is implementing its policies and procedures associated
+with the control of nonconforming materials, parts, or components. No findings of significance
+were identified.
+Corrective Action
+The NRC inspection team concluded that Flowserve is implementing its corrective action
+program in accordance with the regulatory requirements of Criterion XVI, “Corrective Action,” of
+Appendix B to 10 CFR Part 50. Based on the limited sample of documents reviewed, the NRC
+inspection team also determined that Flowserve is implementing its policies and procedures
+associated with the corrective action program. No findings of significance were identified.
+- 4 -
+
+=== PAGE BREAK ===
+
+REPORT DETAILS
+The U.S. Nuclear Regulatory Commission (NRC) inspection team observed various activities
+related to Flowserve’s quality assurance (QA) activities associated with the design, fabrication,
+assembly, and testing of safety-related pumps for the domestic nuclear power plants with a
+focus on the pumps provided for the Westinghouse Electric Company (WEC) AP1000 reactor
+design.
+Specific activities observed by the NRC inspection team included:
+• commercial-grade dedication of a gear case oil gauge 1.250 national pipe thread (NPT)
+taper
+• receipt inspection of a safety-related round bar to be used as a pump shaft
+• welding of a vane guide in the interior of a pump cover for an internal upper pump head
+casing
+• liquid penetrant testing of two welds on a pump rotating assembly
+• normal residual heat removal system (RNS) centrifugal pump performance test setup
+• calibration of a pressure gage
+• Flowserve’s process for categorizing and dispositioning nonconformances and corrective
+actions during the daily Material Review Board (MRB) meeting
+• implementation of Flowserve’s information and database systems used to evaluate and
+track 10 CFR Part 21 notifications, nonconformance reports, and corrective action
+requests
+In addition to observing these activities, the NRC inspection team verified that measuring and
+test equipment (M&TE) was properly identified, marked, calibrated and used within its calibrated
+range. Furthermore, the NRC inspection team walked down Flowserve’s assembly floor and
+verified that nonconforming components were properly identified, marked, and segregated when
+practical, to ensure that they were not reintroduced into the manufacturing processes.
+1. 10 CFR Part 21 Program
+a. Inspection Scope
+The NRC inspection team reviewed Flowserve’s policies and implementing procedures that
+govern Flowserve’s Title 10 of the Code of Federal Regulations (10 CFR) Part 21, “Reporting of
+Defects and Noncompliance,” program to verify compliance with the regulatory requirements. In
+addition, the NRC inspection team evaluated the 10 CFR Part 21 postings and a sample of
+Flowserve’s purchase orders (POs) for compliance with the requirements of 10 CFR 21.6,
+“Posting Requirements,” 10 CFR 21.21, “Notification of Failure to Comply or Existence of a
+Defect and its Evaluation,” and 10 CFR 21.31, “Procurement Documents.”
+- 5 -

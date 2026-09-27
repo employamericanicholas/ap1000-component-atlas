@@ -1,0 +1,224 @@
+YEAR=index_2011.html DATE=09/27/11
+DESC=Westinghouse Electric Company (WEC) LLC, Cranberry Township, PA, Engineering Design Verification inspection of the WEC AP1000 reactor design Vendor Response Letter NRC Acknowledgement Letter NRC Letter Regarding Closure of Open Item Closure of ITAAC Related Findings for WEC Inspection Report 99900404/2011-201
+LINKS=['/docs/ML1124/ML112440588.pdf', '/docs/ML1130/ML11301A247.pdf', '/docs/ML1130/ML11308B379.pdf', '/docs/ML1734/ML17346A937.pdf', '/docs/ML1920/ML19204A233.pdf']
+---
+YEAR=index_2012.html DATE=12/07/12
+DESC=Mangiarotti S.p.A, Monfalcone, Italy, limited scope inspection to assess Mangiarotti's compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs specifically associated with the design, fabrication, assembly, and testing of the accumulators, core make-up tanks, passive residual heat removal heat exchangers, and the pressurizers for the Westinghouse Electric Company AP1000 reactor design. Announcement Letter Vendor Response Letter NRC Request for Additional Information (RAI) Vendor Response to RAI NRC Acknowledgement Letter
+LINKS=['/docs/ML1232/ML12320A661.pdf', '/docs/ML1226/ML12264A295.pdf', '/docs/ML1301/ML13010A008.pdf', '/docs/ML1301/ML13017A166.pdf', '/docs/ML1306/ML13064A421.pdf', '/docs/ML1307/ML13070A436.pdf']
+---
+YEAR=index_2012.html DATE=10/24/12
+DESC=Shaw Modular Solutions (SMS), Charles, LA, limited-scope inspection to assess SMS's compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs. Specifically, this inspection evaluated SMS's implementation of quality activities associated with the fabrication of structural modules for V.C. Summer Units 2 and 3 and Vogtle Units 3 and 4. Unannounced Inspection Vendor Extension Request Letter 1 | 2 NRC Letter Granting Extension Request 1 | 2 Vendor Response Letter NRC Acknowledgement Letter
+LINKS=['/docs/ML1227/ML12279A119.pdf', '/docs/ML1234/ML12345A051.pdf', '/docs/ML1234/ML12349A020.pdf', '/docs/ML1234/ML12345A048.pdf', '/docs/ML1234/ML12349A031.pdf', '/docs/ML1301/ML13011A345.pdf', '/docs/ML1302/ML13023A256.pdf']
+---
+YEAR=index_2012.html DATE=09/07/12
+DESC=Wyle Laboratories, Huntsville, Alabama, limited-scope routine inspection to assess Wyle Laboratories' compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs specifically associated with testing services to support environmental qualification of components being supplied as part of the Westinghouse AP1000 reactor design. Announcement Letter Vendor Response Letter NRC Acknowledgement Letter
+LINKS=['/docs/ML1224/ML12242A459.pdf', '/docs/ML1219/ML12198A311.pdf', '/docs/ML1231/ML12313A161.pdf', '/docs/ML1235/ML12353A591.pdf']
+---
+YEAR=index_2012.html DATE=07/27/12
+DESC=National Technical Systems (NTS) facility in Acton, MA, limited-scope routine inspection to assess NTS's compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs specifically associated with the seismic qualification testing of the tension bolt and position switch of the AP1000 design squib valves. Announcement Letter Vendor Extension Request Letter NRC Letter Granting Extension Request Vendor Response Letter NRC Request for Additional Information (RAI) Vendor Response to RAI NRC Acknowledgement Letter
+LINKS=['/docs/ML1219/ML12192A099.pdf', '/docs/ML1215/ML12153A075.pdf', '/docs/ML1224/ML12243A216.pdf', '/docs/ML1224/ML12241A322.pdf', '/docs/ML1227/ML12278A006.pdf', '/docs/ML1227/ML12271A035.pdf', '/docs/ML1300/ML13008A231.pdf', '/docs/ML1234/ML12345A429.pdf']
+---
+YEAR=index_2012.html DATE=07/03/12
+DESC=Nuclear Logistics, Inc. (NLI) facility in Fort Worth, TX, and at the Nemko Dallas USA, Inc. facility in Lewisville, TX, limited-scope inspection to assess NLI's compliance with selected portions of their quality assurance (QA) program and conformance to Regulatory Guide 1.180, "Guidelines for Evaluating Electromagnetic and Radio-Frequency Interference in Safety-Related Instrumentation and Control Systems," Revision 1, issued October 2003, as committed to in the AP1000 Design Control Document, Tier 2, Revision 19. Announcement Letter Vendor Response Letter NRC Acknowledgement Letter
+LINKS=['/docs/ML1217/ML12179A375.pdf', '/docs/ML1212/ML12124A259.pdf', '/docs/ML1222/ML12223A446.pdf', '/docs/ML1222/ML12229A231.pdf']
+---
+YEAR=index_2012.html DATE=07/02/12
+DESC=Kinectrics facility in Toronto, Ontario, limited-scope routine inspection to review implementation of Kinectric's quality assurance (QA) program and 10 CFR Part 21 program, specifically as it pertains to Kinectrics supply of testing services to support environmental qualification of components being supplied as part of the Westinghouse AP1000 reactor design as well as reviewing selected activities in support of testing and dedication of safety related components to the U.S. nuclear operating fleet. Announcement Letter Vendor Extension Request Letter NRC Letter Granting Extension Request Vendor Response Letter NRC Acknowledgement Letter
+LINKS=['/docs/ML1217/ML12179A413.pdf', '/docs/ML1212/ML12125A366.pdf', '/docs/ML1220/ML12200A052.pdf', '/docs/ML1221/ML12214A324.pdf', '/docs/ML1222/ML12227A685.pdf', '/docs/ML1225/ML12255A306.pdf']
+---
+YEAR=index_2012.html DATE=06/22/12
+DESC=Fauske & Associates, LLC (FAI), Burr Ridge, IL., limited-scope routine inspection was to assess FAI's compliance with quality assurance (QA) program and 10 CFR Part 21 program, specifically associated with QA activities associated with the environmental qualification type testing of instrument cable in support of AP1000 licensing activities, specifically the postulated loss-of-coolant accident design-basis event. These tests, including qualification and functional tests are associated with or directly impact closure of inspections, tests, analyses, and acceptance criteria (ITAAC) from Revision 19 of the certified AP1000 design. Currently, these ITAAC are incorporated into the combined licenses of Vogtle Units 3 and 4 and V.C. Summer Units 2 and 3. Announcement Letter Vendor Response Letter NRC Acknowledgement Letter
+LINKS=['/docs/ML1216/ML12167A107.pdf', '/docs/ML1208/ML12089A144.pdf', '/docs/ML1220/ML12205A297.pdf', '/docs/ML1221/ML12213A605.pdf']
+---
+YEAR=index_2012.html DATE=06/06/12
+DESC=SPX, Copes-Vulcan facility (SPX), McKean, PA., technically-focused, limited scope inspection of SPX's quality assurance (QA) program and 10 CFR Part 21 program, specifically associated with the QA activities associated with the design and manufacturing of the squib valves for the AP1000 reactor design. Announcement Letter Vendor Letter Notifying NRC of Possible Proprietary Information and their Suggested New Language Vendor Request Under 10 CFR 2.390 Vendor Extension Request Letter NRC Letter Granting Extension Request NRC Letter Denying Vendor's 10 CFR 2.390 Request Vendor Response to Notice of Nonconformances NRC Request for Additional Information (RAI) Vendor Response Letter NRC Acknowledgement Letter
+LINKS=['/docs/ML1215/ML12158A154.pdf', '/docs/ML1104/ML110480158.pdf', '/docs/ML1216/ML12160A139.pdf', '/docs/ML1216/ML12160A144.pdf', '/docs/ML1214/ML12143A322.pdf', '/docs/ML1214/ML12143A214.pdf', '/docs/ML1214/ML12143A191.pdf', '/docs/ML1219/ML12192A072.pdf', '/docs/ML1220/ML12206A402.pdf', '/docs/ML1226/ML122630045.pdf', '/docs/ML1224/ML12249A413.pdf']
+---
+YEAR=index_2012.html DATE=05/10/12
+DESC=Clark Dynamics, LLC facility (hereafter referred to as Clark), Jefferson Hills, PA, technically-focused, limited scope inspection of Clark's quality assurance (QA) program and 10 CFR Part 21 program, specifically associated with the vibrational aging and seismic qualification of worm gear actuators and electrical penetrations associated with inspections, tests, analyses, and acceptance criteria (ITAAC) 2.2.01.05.ii, 2.2.02.05a.ii, 2.2.05.05a.ii, 2.3.02.05.ii, 2.3.07.05.ii, and 2.7.01.05.ii from Revision 19 of the Westinghouse AP1000 pressurized-water reactor certified design. Announcement Letter Vendor Response to Notice of Violation Vendor Response to Notice of Nonconformance NRC Request for Additional Information Letter Vendor Response to Request for Additional Information Letter Acknowledgement Letter NRC Closure of ITAAC-Related Findings for Clark Dynamics Inspection Report No. 99901412/2012-201
+LINKS=['/docs/ML1210/ML12108A097.pdf', '/docs/ML1204/ML12045A497.pdf', '/docs/ML1215/ML12157A345.pdf', '/docs/ML1215/ML12157A346.pdf', '/docs/ML1217/ML12170B084.pdf', '/docs/ML1220/ML12205A108.pdf', '/docs/ML1220/ML12200A408.pdf', '/docs/ML1635/ML16357A725.pdf']
+---
+YEAR=index_2013.html DATE=11/01/13
+DESC=SPX, Copes-Vulcan, limited scope inspection to assess SPX, Copes-Vulcan's compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs specifically as they pertain to the design, manufacture, and testing of the explosive cartridges being installed on squib valves for the Westinghouse AP 1000 reactor. The team also plans to review your plan for augmented testing of the squib valve initiators in response to Nonconformance 9990080/201-2012-01. Announcement Letter NRC Letter Postponing Previously Scheduled Inspection Announcement Letter Vendor Extension Request Letter NRC Letter Granting Extension Request Vendor Response Letter NRC Acknowledgement Letter
+LINKS=['/docs/ML1330/ML13302B397.pdf', '/docs/ML1312/ML13122A062.pdf', '/docs/ML1313/ML13137A416.pdf', '/docs/ML1326/ML13262A431.pdf', '/docs/ML1334/ML13340A597.pdf', '/docs/ML1334/ML13343A050.pdf', '/docs/ML1404/ML14041A420.pdf', '/docs/ML1407/ML14073A715.pdf']
+---
+YEAR=index_2013.html DATE=10/02/13
+DESC=Chicago Bridge & Iron (CB&I) (formerly known as B.F. Shaw), Laurens, South Carolina., limited scope inspection to assess CB&I's compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs specifically related to the fabrication of piping for the US AP1000 plants. Announcement Letter NRC Letter Postponing Previously Scheduled Inspection Revised Announcement Letter Vendor Response Letter NRC Request for Additional Information (RAI) Letter Vendor Response to RAI NRC Acknowledgement Letter
+LINKS=['/docs/ML1326/ML13263A411.pdf', '/docs/ML1302/ML13023A163.pdf', '/docs/ML1303/ML13030A225.pdf', '/docs/ML1319/ML13190A397.pdf', '/docs/ML1331/ML13310A551.pdf', '/docs/ML1332/ML13326A982.pdf', '/docs/ML1400/ML14002A401.pdf', '/docs/ML1400/ML14009A352.pdf']
+---
+YEAR=index_2013.html DATE=07/31/13
+DESC=IBF S.p.A., Piacenza, Italy, limited scope inspection to assess IBF S.p.A.'s compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs as they pertain to activities conducted at their facility related to the fabrication of seamless piping for the reactor coolant loop of the AP1000 plants at the Vogtle, V.C. Summer, and Levy sites. Announcement Letter Vendor Response Letter NRC Request for Additional Information (RAI) Letter Vendor Response to RAI NRC Acknowledgement Letter
+LINKS=['/docs/ML1320/ML13200A220.pdf', '/docs/ML1312/ML13126A288.pdf', '/docs/ML1325/ML13252A188.pdf', '/docs/ML1325/ML13255A121.pdf', '/docs/ML1405/ML14055A048.pdf', '/docs/ML1407/ML14071A442.pdf']
+---
+YEAR=index_2013.html DATE=06/28/13
+DESC=General Atomics, Electronics Systems, Inc., (GA-ESI), San Diego, California, limited scope inspection to assess GA-ESI's compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs, specifically related to General Atomics Radiation monitors for the US AP1000s and those to the US operating reactor fleet. Announcement Letter Vendor Response Letter NRC Acknowledgement Letter
+LINKS=['/docs/ML1316/ML13164A351.pdf', '/docs/ML1307/ML13074A579.pdf', '/docs/ML1320/ML13204A402.pdf', '/docs/ML1321/ML13211A444.pdf']
+---
+YEAR=index_2013.html DATE=06/14/13
+DESC=Westinghouse Electric Company (Westinghouse), Madison, PA, limited scope inspection to assess Westinghouse's compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs specifically related to the reactor internals flow-induced vibration analysis for the AP1000 pressurized water reactor design. Vendor Response Letter NRC Acknowledgement Letter Vendor Follow-Up Response NRC Acknowledgement of Follow-Up Response
+LINKS=['/docs/ML1313/ML13134A147.pdf', '/docs/ML1319/ML13198A093.pdf', '/docs/ML1320/ML13206A064.pdf', '/docs/ML1409/ML14090A428.pdf', '/docs/ML1409/ML14094A281.pdf']
+---
+YEAR=index_2013.html DATE=05/21/13
+DESC=Flowserve Pump Division, Vernon, CA, limited scope inspection to assess Flowserve's compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs specifically as they pertain to the design, fabrication, assembly, and testing of safety-related pumps for the domestic nuclear power plants with a focus on the pumps for the Westinghouse AP 1000. Announcement Letter No Response Required
+LINKS=['/docs/ML1311/ML13119A154.pdf', '/docs/ML1305/ML13058A215.pdf']
+---
+YEAR=index_2013.html DATE=03/27/13
+DESC=Westinghouse Electric Company (WEC), Cranberry Township, PA., limited scope inspection to assess WEC's compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs specifically related to design control process and design change process for activities associated with the new construction of US AP1000. Announcement Letter No Response Required
+LINKS=['/docs/ML1307/ML13074A112.pdf', '/docs/ML1234/ML12349A355.pdf']
+---
+YEAR=index_2013.html DATE=03/19/13
+DESC=Cives Steel Company (Cives), Southern Division facility, Thomasville, GA, limited scope inspection to assess Cives' compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs, specifically associated with the fabrication of concrete embedments for AP1000 reactor plants at Vogtle Electric Generating Plant, Units 3 and 4, and Virgil C. Summer Nuclear Station, Units 2 and 3. Unannounced Inspection Vendor Response Letter NRC Request for Additional Information (RAI) Letter Vendor Response to RAI NRC Second RAI Letter Vendor Response to Second RAI NRC Acknowledgement Letter NRC Closure of Inspections, Tests, Analyses, and Acceptance Criteria-Related Findings
+LINKS=['/docs/ML1304/ML13042A397.pdf', '/docs/ML1310/ML13109A020.pdf', '/docs/ML1321/ML13210A130.pdf', '/docs/ML1324/ML13240A039.pdf', '/docs/ML1324/ML13240A315.pdf', '/docs/ML1328/ML13281A243.pdf', '/docs/ML1329/ML13294A149.pdf', '/docs/ML1813/ML18131A260.pdf']
+---
+YEAR=index_2014.html DATE=11/21/14
+DESC=Specialty Maintenance and Construction, Inc. (SMCI), Lakeland, FL, limited scope reactive inspection to assess compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs, as they pertain SMCI's implementation of quality activities associated with the fabrication of the remain-in-place steel formwork modules for concrete, in-containment refueling water storage tank wall and reactor vessel cavity modules for the Westinghouse Electric Company's AP1000 reactor design. No Announcement Letter Vendor Response Letter NRC Request for Additional Information (RAI) Letter Vendor Response Letter NRC Acknowledgement Letter
+LINKS=['/docs/ML1430/ML14308A027.pdf', '/docs/ML1436/ML14365A206.pdf', '/docs/ML1501/ML15016A026.pdf', '/docs/ML1504/ML15042A253.pdf', '/docs/ML1505/ML15054A106.pdf']
+---
+YEAR=index_2014.html DATE=09/18/14
+DESC=Curtiss Wright Flow Control Company, Electro-Mechanical Division (EMD), Cheswick, PA, limited scope inspection to assess their compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs as it pertains to safety-related activities related to the design, manufacture, and qualification testing of the reactor coolant pumps for the AP1000. Announcement Letter NRC Letter Granting Extension Request Vendor Response Letter NRC Acknowledgement Letter
+LINKS=['/docs/ML1424/ML14240A517.pdf', '/docs/ML1411/ML14119A295.pdf', '/docs/ML1429/ML14293A220.pdf', '/docs/ML1432/ML14321A419.pdf', '/docs/ML1431/ML14316A546.pdf']
+---
+YEAR=index_2014.html DATE=06/12/14
+DESC=Carolina Energy Solutions, Rock Hill, South Carolina, limited scope inspection to assess compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs, specifically as it pertains to activities related to the fabrication of piping for the Westinghouse Electric Company AP1000 reactor design Announcement Letter Vendor Response Letter NRC Request for Additional Information (RAI) Letter Vendor Response to RAI NRC Acknowledgement Letter
+LINKS=['/docs/ML1415/ML14155A399.pdf', '/docs/ML1408/ML14084A445.pdf', '/docs/ML1420/ML14209A927.pdf', '/docs/ML1421/ML14213A341.pdf', '/docs/ML1435/ML14350A128.pdf', '/docs/ML1507/ML15072A122.pdf']
+---
+YEAR=index_2014.html DATE=04/25/14
+DESC=Westinghouse Electric Company (WEC), Cranberry Township, PA, limited scope inspection at your Warrendale facility to assess WEC's compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs as it pertains to safety-related activities for US regulated facilities, specifically with the development of aspects of the AP1000 protection and safety monitoring system and subsystems Announcement Letter Revised Announcement Letter No Response Required
+LINKS=['/docs/ML1411/ML14112A168.pdf', '/docs/ML1402/ML14028A192.pdf', '/docs/ML1406/ML14065A452.pdf']
+---
+YEAR=index_2014.html DATE=04/02/14
+DESC=Wyle Laboratories, Huntsville, AL, limited scope inspection to assess Wyle Laboratories' compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs, specifically to observe testing associated with submergence testing of the squib valve actuators being supplied as part of the Westinghouse AP1000 design Announcement Letter No Response Required
+LINKS=['/docs/ML1408/ML14084A516.pdf', '/docs/ML1404/ML14049A257.pdf']
+---
+YEAR=index_2014.html DATE=03/31/14
+DESC=Pentair Valves and Controls, Mansfield, MA, follow-up inspection to observe the re-testing of the pressurizer safety valve (PV-62), for the Westinghouse Electric Company (WEC) AP1000 reactor design No Announcement Letter Vendor Response Letter NRC Acknowledgement Letter
+LINKS=['/docs/ML1407/ML14073A652.pdf', '/docs/ML1412/ML14120A238.pdf', '/docs/ML1412/ML14121A358.pdf']
+---
+YEAR=index_2014.html DATE=03/25/14
+DESC=Westinghouse Electric Company (WEC), Cranberry Township, PA, limited scope inspection at your Warrenton facility to assess WEC's compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs as they pertain to safety-related activities for US regulated facilities. Specifically, the QA program will be reviewed as it pertains to WEC'S implementation of quality activities associated with the development of the AP1000 protection and safety monitoring system and subsystems. Announcement Letter NRC Letter Regarding Possible Cancellation of Previously Announced Vendor Inspection Revised Announcement Letter Vendor Response Letter NRC Acknowledgement Letter
+LINKS=['/docs/ML1405/ML14058A995.pdf', '/docs/ML1325/ML13254A372.pdf', '/docs/ML1327/ML13276A203.pdf', '/docs/ML1332/ML13324B136.pdf', '/docs/ML1411/ML14118A375.pdf', '/docs/ML1414/ML14149A432.pdf']
+---
+YEAR=index_2014.html DATE=03/07/14
+DESC=Enersys, Reading, PA, limited scope inspection at your Hays, Kansas facility to assess Enersys' compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs as they pertain to safety-related activities for US regulated facilities. Specifically, the QA program will be reviewed as it pertains to EnerSys' design process, manufacturing, and testing for batteries supplied to operating nuclear power plants and the design, qualification, and testing program for batteries being qualified for the AP1000 new reactor design. Announcement of Possible Vendor Inspection Revised Announcement Letter 1 | 2 No Response Required
+LINKS=['/docs/ML1405/ML14058A705.pdf', '/docs/ML1327/ML13274A483.pdf', '/docs/ML1330/ML13304B691.pdf', '/docs/ML1400/ML14009A101.pdf']
+---
+YEAR=index_2014.html DATE=01/22/14
+DESC=Wyle Laboratories, Huntsville, Alabama, limited scope inspection to assess Wyle Laboratories' compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 as it pertains to functional and qualification testing of the squib valves for the Westinghouse AP1000 design. The inspectors will also review implementation of your corrective actions to issues identified in Inspection Report 99900905/2012-201 Announcement Letter NRC Letter Regarding Possible Cancellation of Previously Announced Vendor Inspection Revised Announcement Letter No Response Required
+LINKS=['/docs/ML1401/ML14016A447.pdf', '/docs/ML1322/ML13226A424.pdf', '/docs/ML1327/ML13276A404.pdf', '/docs/ML1333/ML13330B763.pdf']
+---
+YEAR=index_2015.html DATE=TBD
+DESC=Curtiss Wright Flow Control Company, Electro-Mechanical Division (EMD), Cheswick, PA, limited scope inspection to review selected portions of their quality assurance (QA) and 10 CFR Part 21 programs as they pertain to activities conducted at their facility related to the design, manufacture, and qualification testing of the reactor coolant pumps for the AP1000 reactor design. Announcement Letter Letter Postponing Previously Scheduled Inspection
+LINKS=['/docs/ML1535/ML15355A062.pdf', '/docs/ML1602/ML16029A068.pdf']
+---
+YEAR=index_2015.html DATE=TBD
+DESC=Curtiss-Wright Flow Control Company, QualTech NP Division, Cincinnati, OH, limited scope inspection to assess compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs specifically as it pertains to testing and qualification of components for the U.S. Advanced Passive 1000 (AP 1000) reactor design. The inspection will focus on qualification activities associated with the AP 1000's Class 1E dc and uninterruptible power supply system. Announcement Letter NRC Postponement of Previously Announced Inspection
+LINKS=['/docs/ML1509/ML15093A161.pdf', '/docs/ML1512/ML15121A817.pdf']
+---
+YEAR=index_2015.html DATE=08/12/15
+DESC=SPX, Copes-Vulcan, McKean, PA, limited scope inspection to assess compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs, specifically as they pertain to activities associated with the testing of initiator explosive cartridges being installed on squib valves for the Westinghouse AP 1000 reactor. This testing is in response to Nonconformance 9990080/201-2012-01. Announcement Letter 1 | 2 No Response Required
+LINKS=['/docs/ML1521/ML15210A806.pdf', '/docs/ML1500/ML15008A156.pdf', '/docs/ML1508/ML15082A394.pdf']
+---
+YEAR=index_2015.html DATE=07/24/15
+DESC=Specialty Maintenance and Construction, Inc. (SMCI), Lakeland, FL, limited scope reactive inspection to assess compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs, as they pertain SMCI's implementation of quality activities associated with the fabrication of the embed plates for the CA-01 (steam generator and refueling canal modules) and CA-02 (independent wall structure connecting CA-1 and CA-03 (in-containment refueling water storage tank module)) modules for the Westinghouse Electric Company's AP1000 reactor design. No Announcement Letter Vendor Response Letter NRC Request for Additional Information (RAI) Letter Vendor Response to RAI NRC Second RAI Letter Vendor Response to Second RAI NRC Acknowledgement Letter Closure of ITAAC Related-Finding for Inspection Report No. 99901439/2015-201
+LINKS=['/docs/ML1517/ML15175A446.pdf', '/docs/ML1523/ML15239A703.pdf', '/docs/ML1525/ML15258A654.pdf', '/docs/ML1535/ML15356A128.pdf', '/docs/ML1600/ML16007A704.pdf', '/docs/ML1602/ML16029A481.pdf', '/docs/ML1531/ML15313A281.pdf', '/docs/ML1810/ML18100A857.pdf']
+---
+YEAR=index_2015.html DATE=07/07/15
+DESC=Westinghouse Electric Company LLC, Cranberry Township, PA, limited scope inspection to assess compliance with selected portions of their quality assurance (QA) program specifically as it pertains to design control, corrective action associated with seismic margin anomalies identified in the DCD and Shield Building Report for the AP1000. The inspection will be conducted at the Westinghouse facility, Rockville Maryland. Announcement Letter No Response Required
+LINKS=['/docs/ML1518/ML15180A061.pdf', '/docs/ML1515/ML15153A132.pdf']
+---
+YEAR=index_2015.html DATE=06/25/15
+DESC=National Technical Systems, Huntsville, AL, limited scope inspection to assess compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs specifically as they pertain to the ASME QME-1-2007 functional and flow qualification testing of the 8-inch squib valves for the Westinghouse AP1000 design. Announcement Letter Vendor Response Letter NRC Request for Additional Information (RAI) Letter Vendor Response to RAI NRC Acknowledgement Letter
+LINKS=['/docs/ML1515/ML15152A080.pdf', '/docs/ML1510/ML15104A143.pdf', '/docs/ML1522/ML15229A302.pdf', '/docs/ML1522/ML15222A263.pdf', '/docs/ML1526/ML15260A548.pdf', '/docs/ML1526/ML15267A836.pdf']
+---
+YEAR=index_2015.html DATE=05/22/15
+DESC=Chicago Bridge & Iron Power, Laurens, SC, limited scope inspection to assess compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs, specifically as they pertain to activities related to the fabrication of piping spools for the Westinghouse Electric Company AP1000 reactor design. Announcement Letter Vendor Request for Extension of Time to Reply NRC Response Regarding Request for Extension of Time Vendor Response Letter NRC Request for Additional Information (RAI) Letter Vendor Request for Extension of Time to Reply NRC Response Regarding Request for Extension of Time Vendor Response to RAI 1 | 2 NRC Acknowledgement Letter
+LINKS=['/docs/ML1513/ML15132A240.pdf', '/docs/ML1503/ML15037A091.pdf', '/docs/ML1517/ML15176A951.pdf', '/docs/ML1517/ML15176A356.pdf', '/docs/ML1522/ML15229A301.pdf', '/docs/ML1520/ML15209A787.pdf', '/docs/ML1527/ML15271A115.pdf', '/docs/ML1527/ML15271A047.pdf', '/docs/ML1530/ML15300A327.pdf', '/docs/ML1533/ML15338A072.pdf', '/docs/ML1532/ML15327A451.pdf']
+---
+YEAR=index_2015.html DATE=05/11/15
+DESC=Westinghouse Electric Company, Warrendale, PA, limited scope inspection to assess compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs specifically as they pertain to safety-related activities associated with the development of aspects of the AP1000 PMS system and subsystems. Announcement Letter Vendor Response Letter NRC Acknowledgement Letter
+LINKS=['/docs/ML1511/ML15113B277.pdf', '/docs/ML1503/ML15030A059.pdf', '/docs/ML1516/ML15163A020.pdf', '/docs/ML1517/ML15177A068.pdf']
+---
+YEAR=index_2015.html DATE=03/26/15
+DESC=National Testing Services, Huntsville, AL, limited scope inspection to assess compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs, specifically as they pertain to reviewing documentation, and observing testing associated with submergence testing of the squib valve actuators being supplied as part of the Westinghouse AP1000 design. Announcement Letter Vendor Response Letter NRC Acknowledgement Letter
+LINKS=['/docs/ML1507/ML15078A379.pdf', '/docs/ML1434/ML14344A708.pdf', '/docs/ML1511/ML15113A338.pdf', '/docs/ML1511/ML15110A421.pdf']
+---
+YEAR=index_2015.html DATE=01/15/15
+DESC=Chicago Bridge & Iron (CB&I), Lake Charles, LA, limited scope inspection to assess CB&I's compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs specifically related to the implementation of quality activities associated with the fabrication and inspection activities of Westinghouse Electric Company's AP1000 reactor design of structural sub-modules for commercial nuclear power. No Announcement Letter Vendor Response to Unresolved Item and Request for Extension of Time to Reply NRC Letter Granting Extension Request Vendor Response Letter NRC Acknowledgement Letter
+LINKS=['/docs/ML1435/ML14352A127.pdf', '/docs/ML1505/ML15050A056.pdf', '/docs/ML1505/ML15051A432.pdf', '/docs/ML1507/ML15077A178.pdf', '/docs/ML1509/ML15092A169.pdf']
+---
+YEAR=index_2016.html DATE=12/21/16
+DESC=Curtiss Wright - Electro-Mechanical Division, Cheswick, PA, limited scope inspection to assess compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs specifically, as they pertain to activities conducted at your facility related to the design, manufacture, and qualification testing of the reactor coolant pumps for the AP1000 reactor design. Announcement Letter Vendor Request for Extension of Time Letter NRC Letter Granting Extension of Time Vendor Response Letter Regarding Contested Notice of Nonconformance (NON) 1 | 2 NRC Letter Regarding Contested NON 1 | 2 Vendor Response Letters 1 | 2 NRC Request for Additional Information (RAI) Letters 1 | 2 Vendor Request for Extension of Time Letter 1 | 2 NRC Letter Granting Extension of Time Vendor Affidavit Under 10 C.F.R. 2.390 and Response Letter NRC Letter Regarding Affidavit Under 10 C.F.R. 2.390(b) NRC Acknowledgement Letter
+LINKS=['/docs/ML1635/ML16350A067.pdf', '/docs/ML1628/ML16280A237.pdf', '/docs/ML1701/ML17013A025.pdf', '/docs/ML1700/ML17006A126.pdf', '/docs/ML1704/ML17047A367.pdf', '/docs/ML1704/ML17047A369.pdf', '/docs/ML1705/ML17054D164.pdf', '/docs/ML1706/ML17069A285.pdf', '/docs/ML1712/ML17124A318.pdf', '/docs/ML1725/ML17251A834.pdf', '/docs/ML1715/ML17150A279.pdf', '/docs/ML1725/ML17257A355.pdf', '/docs/ML1721/ML17213A066.pdf', '/docs/ML1721/ML17213A065.pdf', '/docs/ML1720/ML17208A079.pdf', '/docs/ML1733/ML17339A189.pdf', '/docs/ML1733/ML17335A547.pdf', '/docs/ML1733/ML17335A080.pdf']
+---
+YEAR=index_2016.html DATE=11/29/16
+DESC=General Atomics Electromagnetic Systems (GA-EMS), San Diego, CA, limited scope inspection to assess compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs specifically, as it pertains to GA-EMS's design and manufacturing of radiation monitoring systems supplied for the U.S. AP1000 reactor design and to operating nuclear power plants. Announcement Letter Vendor Request for Extension of Time Letter NRC Letter Granting Extension of Time Vendor Response Letter NRC Acknowledgement Letter
+LINKS=['/docs/ML1630/ML16301A306.pdf', '/docs/ML1623/ML16236A085.pdf', '/docs/ML1634/ML16347A647.pdf', '/docs/ML1634/ML16349A581.pdf', '/docs/ML1703/ML17031A082.pdf', '/docs/ML1703/ML17033B663.pdf']
+---
+YEAR=index_2016.html DATE=11/14/16
+DESC=Westinghouse Electric Company (WEC), PA, limited scope inspection to assess compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs as specifically, as they pertain to the implementation of their QA program, including corrective actions in response to the previous 2015 NRC inspection, resolution of emergent technical issues associated with the AP1000 design, and a select number of other safety-related activities pursuant to Appendix B requirements. Announcement Letter Vendor Response Letter NRC Acknowledgement Letter
+LINKS=['/docs/ML1630/ML16307A159.pdf', '/docs/ML1623/ML16232A634.pdf', '/docs/ML1635/ML16350A111.pdf', '/docs/ML1701/ML17010A074.pdf']
+---
+YEAR=index_2016.html DATE=09/07/16
+DESC=Aecon Industrial, Cambridge, Canada, limited scope inspection to assess compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs specifically, as they pertain to Aecon's fabrication activities of mechanical modules for the Westinghouse Electric Company (WEC) AP1000 reactor design. The inspection will focus on the fabrication, assembly, and testing activities associated with the mechanical modules being supplied to Vogtle Units 3 & 4 and VC Summer Units 2 & 3. Announcement Letter No Response Required
+LINKS=['/docs/ML1622/ML16228A086.pdf', '/docs/ML1616/ML16167A361.pdf']
+---
+YEAR=index_2016.html DATE=08/30/16
+DESC=Westinghouse Electric Company, Warrendale, PA, limited scope inspection to assess compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs as specifically as they pertain to safety-related activities associated with aspects of the AP1000 PMS system and subsystems. Announcement Letter No Response Required
+LINKS=['/docs/ML1623/ML16237A320.pdf', '/docs/ML1616/ML16168A232.pdf']
+---
+YEAR=index_2016.html DATE=08/29/16
+DESC=Namco Controls Corporation, Elizabethtown, NC, limited scope inspection to assess compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs specifically, as it pertains to Namco's design, qualification, fabrication, testing, commercial-grade-dedication, and manufacturing of safety-related limit switches for operating nuclear plants and AP1000 plants. Announcement Letter Vendor Request for Extension of Time and NRC Letter Granting Extension Vendor Response Letter NRC Request for Additional Information (RAI) Letter 2 nd Vendor Response Letter NRC Acknowledgement Letter
+LINKS=['/docs/ML1623/ML16238A509.pdf', '/docs/ML1616/ML16169A283.pdf', '/docs/ML1627/ML16272A091.pdf', '/docs/ML1630/ML16300A089.pdf', '/docs/ML1633/ML16334A522.pdf', '/docs/ML1702/ML17025A385.pdf', '/docs/ML1700/ML17005A178.pdf']
+---
+YEAR=index_2016.html DATE=07/18/16
+DESC=SPX, Copes-Vulcan, McKean, PA, limited scope inspection to assess compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs as specifically as they pertain to the design, manufacturing, and testing of the squib valves for the Westinghouse AP1000 reactor. Announcement Letter No Response Required
+LINKS=['/docs/ML1619/ML16193A630.pdf', '/docs/ML1605/ML16050A145.pdf']
+---
+YEAR=index_2016.html DATE=06/15/16
+DESC=General Electric (GE) Oil & Gas, Pineville, LA, limited scope inspection to assess compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs as they pertain to activities conducted at your facility related to the design, manufacture, and qualification testing of the main steam safety valves for the AP1000 reactor design. Announcement Letter Vendor Request for Extension of Time Letter NRC Letter Granting Extension of Time Vendor Response Letter 1 | 2 | 3 NRC Request for Additional Information (RAI) Letter 1 | 2 | 3 NRC Acknowledgement Letter
+LINKS=['/docs/ML1616/ML16160A176.pdf', '/docs/ML1607/ML16076A371.pdf', '/docs/ML1622/ML16229A154.pdf', '/docs/ML1622/ML16224B124.pdf', '/docs/ML1623/ML16236A064.pdf', '/docs/ML1633/ML16335A308.pdf', '/docs/ML1708/ML17088A126.pdf', '/docs/ML1625/ML16250A753.pdf', '/docs/ML1634/ML16341C855.pdf', '/docs/ML1702/ML17025A388.pdf', '/docs/ML1712/ML17122A366.pdf']
+---
+YEAR=index_2016.html DATE=05/25/16
+DESC=Lisega, Inc., Kodak, TN, limited scope inspection to assess compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs as they pertain to the design and manufacturing of safety-related ASME Section III, Subsection NF, Class 1, 2, 3, and non-code safety related piping supports being manufactured for the AP1000 reactor design. Announcement Letter No Response Required
+LINKS=['/docs/ML1613/ML16137A095.pdf', '/docs/ML1606/ML16069A232.pdf']
+---
+YEAR=index_2016.html DATE=04/15/16
+DESC=ASCO Valve, Inc., Aiken, SC, limited scope inspection to assess compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs as they pertain to ASCO design, fabrication, and commercial-grade dedication of safety-related solenoid valves to operating nuclear power plants. In addition, the staff will review the environmental qualifications performed for AP1000 safety-related solenoid valves. Announcement Letter Vendor Request for Extension of Time Letter NRC Letter Granting Extension of Time 2 nd Vendor Request for Extension of Time Letter 2 nd NRC Letter Granting Extension of Time NRC Letter Regarding Request for Withholding Information from Public Disclosure NRC Acknowledgement of Disputed Notice of Nonconformance Vendor Request for Extension of Time to Response to Request for Withholding Information from Pubic Disclosure NRC Letter Granting Extension of time to Request for Withholding Information from Pubic Disclosure NRC Final Determination Regarding Disputed Notice of Noncomformance Vendor Response Letter NRC Errata Letter Attaching Redacted Inspection Report NRC Letter Approving Request for Withholding Information from Public Disclosure
+LINKS=['/docs/ML1627/ML16273A144.pdf', '/docs/ML1600/ML16006A247.pdf', '/docs/ML1613/ML16134A066.pdf', '/docs/ML1613/ML16133A339.pdf', '/docs/ML1615/ML16153A381.pdf', '/docs/ML1615/ML16153A094.pdf', '/docs/ML1617/ML16176A070.pdf', '/docs/ML1618/ML16180A309.pdf', '/docs/ML1623/ML16238A225.pdf', '/docs/ML1623/ML16238A224.pdf', '/docs/ML1621/ML16210A364.pdf', '/docs/ML1627/ML16273A277.pdf', '/docs/ML1627/ML16273A144.pdf', '/docs/ML1627/ML16273A097.pdf']
+---
+YEAR=index_2016.html DATE=01/28/16
+DESC=SPX, Copes-Vulcan, McKean, PA, limited scope inspection to assess compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs as they pertain to safety-related components supplied to nuclear power plants, specifically associated with the testing of explosive cartridges being installed on squib valves for the Westinghouse AP 1000 reactor in response to Nonconformance 9990080/201-2012-01. Announcement Letter No Response Required
+LINKS=['/docs/ML1602/ML16027A153.pdf', '/docs/ML1531/ML15317A393.pdf']
+---
+YEAR=index_2017.html DATE=12/27/17
+DESC=Newport News Industrial Corporation (NNI), Newport News, VA, limited scope inspection to assess compliance with selected portions of their quality assurance (QA) and Part 21 programs specifically as they pertain to NNI's fabrication activities of safety-related components for the Westinghouse Electric Company (WEC) AP1000 reactor design. The inspection will focus on the fabrication, assembly, and testing activities associated with the safety-related components being supplied to Vogtle Units 3 & 4. Announcement Letter No Response Required
+LINKS=['/docs/ML1735/ML17355A050.pdf', '/docs/ML1728/ML17284A366.pdf']
+---
+YEAR=index_2017.html DATE=09/13/17
+DESC=Aecon Industrial, Ontario, CA, limited scope inspection to assess compliance with selected portions of their quality assurance (QA) and Part 21 programs. Specifically, the QA and Part 21 implementation will be reviewed as they pertain to Aecon's fabrication activities of mechanical modules for the Westinghouse Electric Company (WEC) AP1000 reactor design. The inspection will focus on the fabrication, assembly, and testing activities associated with the mechanical modules being supplied to Vogtle Units 3 & 4 and VC Summer Units 2 & 3. Announcement Letter No Response Required
+LINKS=['/docs/ML1725/ML17254A117.pdf', '/docs/ML1719/ML17191A586.pdf']
+---
+YEAR=index_2017.html DATE=08/22/17
+DESC=Vigor Works, Clackamas, OR, , limited scope inspection to assess compliance with selected portions of their quality assurance (QA) and Part 21 programs as they pertain to fabrication, and testing activities associated with the CB20 Passive Containment Cooling Water Tank L module for the Westinghouse Electric Company AP1000 reactor design. Announcement Letter No Response Required
+LINKS=['/docs/ML1722/ML17226A340.pdf', '/docs/ML1717/ML17178A312.pdf']
+---
+YEAR=index_2017.html DATE=07/21/17
+DESC=Greenberry, Vancouver, WA, limited scope inspection to assess compliance with selected portions of their quality assurance (QA) and Part 21 programs as it pertains to activities conducted at your facility related to the design, manufacture, and qualification testing of safety-related modules for the AP1000 reactor design. Announcement Letter No Response Required
+LINKS=['/docs/ML1718/ML17181A238.pdf', '/docs/ML1713/ML17136A122.pdf']
+---
+YEAR=index_2017.html DATE=05/12/17
+DESC=Westinghouse Electric Company, (WEC) facilities in New Stanton, PA, Warrendale, PA, and at KEMA Labs, Chalfonte, PA, limited scope inspection to assess compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs, to evaluate certain aspects of WEC's programs for the design, implementation, and testing of the Protection and Safety Monitoring System (PMS) for the Vogtle Units 3 and 4 and V.C. Summer Units 2 and 3 currently under construction. No Response Required
+LINKS=['/docs/ML1712/ML17123A085.pdf']
+---
+YEAR=index_2017.html DATE=04/21/17
+DESC=Swagelok Company, Solon, OH, limited scope inspection to assess compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs, as they pertain to activities conducted at their facility related to the design, fabrication, assembly, and testing of components for the Westinghouse Electric Company's AP1000 reactor design and NRC regulated facilities. Announcement Letter Request to Extend Release Date of Inspection Report NRC Response Regarding Request Vendor Affidavit Under 10 C.F.R. 2.390(b) Vendor Letter Regarding Affidavit 1 | 2 | 3 | 4 Vendor Response Letter NRC Letter Regarding Affidavit Under 10 C.F.R. 2.390(b) 1 | 2 NRC Acknowledgement Letter
+LINKS=['/docs/ML1732/ML17320B157.pdf', '/docs/ML1703/ML17038A234.pdf', '/docs/ML1712/ML17121A300.pdf', '/docs/ML1712/ML17122A139.pdf', '/docs/ML1732/ML17320B156.pdf', '/docs/ML1712/ML17129A481.pdf', '/docs/ML1733/ML17331A860.pdf', '/docs/ML1733/ML17331A694.pdf', '/docs/ML1733/ML17331A693.pdf', '/docs/ML1716/ML17165A280.pdf', '/docs/ML1715/ML17152A111.pdf', '/docs/ML1733/ML17338A068.pdf', '/docs/ML1717/ML17171A177.pdf']
+---
+YEAR=index_2017.html DATE=03/30/17
+DESC=Chicago Bridge & Iron (CB&I), Laurens, SC, limited scope inspection to assess compliance with selected portions of their quality assurance (QA) and 10 CFR Part 21 programs, as they pertain to CB&I Laurens' implementation of quality activities associated with the fabrication and testing of safety-related piping for the Westinghouse Electric Company AP1000 reactor design. No Announcement Vendor Request for Extension of Time to Reply 1 | 2 | 3 NRC Letter Granting Extension 1 | 2 Vendor Partial Response Vendor Response Letters 1 | 2 | 3 NRC Request for Additional Information (RAI) Letter NRC Acknowledgement Letter
+LINKS=['/docs/ML1706/ML17067A224.pdf', '/docs/ML1711/ML17111A962.pdf', '/docs/ML1712/ML17124A315.pdf', '/docs/ML1715/ML17156A500.pdf', '/docs/ML1712/ML17124A134.pdf', '/docs/ML1715/ML17152A110.pdf', '/docs/ML1712/ML17124A317.pdf', '/docs/ML1716/ML17165A319.pdf', '/docs/ML1719/ML17191A530.pdf', '/docs/ML1726/ML17268A134.pdf', '/docs/ML1718/ML17187A217.pdf', '/docs/ML1727/ML17270A104.pdf']
+---
+YEAR=index_2017.html DATE=02/07/17
+DESC=WECTEC, Charlotte, NC, Engineering Design Verification (EDV) inspection, specifically, the inspection team will review WECTEC's processes for transferring the design requirements contained in the AP1000 Design Control Document into detailed engineering, procurement, and construction documents. Announcement Letter Vendor Request for Extension of Time Letter NRC Letter Granting Extension of Time Vendor Response Letter NRC Request for Additional Information (RAI) Letter Vendor Response to RAI NRC Acknowledgement Letter NRC Letter to Vendor Regarding Correction to Inspection Report
+LINKS=['/docs/ML1701/ML17013A658.pdf', '/docs/ML1629/ML16299A466.pdf', '/docs/ML1706/ML17060A361.pdf', '/docs/ML1708/ML17081A128.pdf', '/docs/ML1709/ML17094A396.pdf', '/docs/ML1712/ML17122A216.pdf', '/docs/ML1715/ML17156A503.pdf', '/docs/ML1717/ML17173A162.pdf', '/docs/ML1725/ML17255A512.pdf']
+---

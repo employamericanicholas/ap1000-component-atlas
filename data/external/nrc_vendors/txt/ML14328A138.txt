@@ -1,0 +1,297 @@
+December 8, 2014
+Ms. Lisa Plante, Quality Systems Supervisor
+Westinghouse Electric Company, LLC
+Newington Operations
+178 Shattuck Way
+Newington, NH 03801
+SUBJECT: NUCLEAR REGULATORY COMMISSION INSPECTION REPORT
+WESTINGHOUSE ELECTRIC COMPANY LLC, NEWINGTON FACILITY NO.
+99901392/2014-201 AND NOTICE OF NONCONFORMANCE
+Dear Ms. Plante:
+On October 27-31, 2014, the U.S. Nuclear Regulatory Commission (NRC) staff conducted an
+inspection at the Westinghouse Electric Company, Newington facility (hereafter referred to as
+WEC Newington Operations) located in Newington, NH. The purpose of this limited-scope
+reactive inspection was to assess WEC Newington Operations’ compliance with selected
+portions of Appendix B, “Quality Assurance Criteria for Nuclear Power Plants and Fuel
+Reprocessing Plants,” to Title 10 of the Code of Federal Regulations (10 CFR) Part 50,
+“Domestic Licensing of Production and Utilization Facilities.”
+This technically focused inspection specifically evaluated WEC Newington Operations’
+implementation of quality activities associated with the fabrication and inspection of control rod
+drive mechanisms (CRDM) and reactor vessel internals (RVI) for the WEC AP1000 reactor
+design. The enclosed report presents the results of the inspection. This NRC inspection report
+does not constitute an NRC endorsement of WEC Newington Operations overall quality
+assurance (QA) or Part 21 programs. During this inspection, the NRC inspection team looked
+at fabrication and inspection activities associated with inspections, tests, analysis, and
+acceptance criteria (ITAAC) from Revision 19 of the approved certified AP1000 design control
+document. Specifically, these activities were associated with the future closure of ITAAC
+2.1.03.03. The NRC inspection team did not identify any findings associated with the ITAAC
+contained in section 4 of the attachment to this report.
+During this inspection, the NRC inspection team found that the implementation of WEC
+Newington Operations’ QA program failed to meet certain NRC requirements imposed on you
+by your customers. Specifically, the NRC inspection team determined that WEC Newington
+Operations was not fully implementing its QA program in the area of corrective action. The
+specific finding and references to the pertinent requirements are identified in the enclosures to
+this letter. In response to the enclosed notice of nonconformance (NON), WEC Newington
+Operations should document the results of the extent of condition review for this finding and
+determine if there are any effects on other safety-related components.
+
+=== PAGE BREAK ===
+
+L. Plante - 2 -
+Please provide a written explanation or statement within 30 days of this letter in accordance with
+the instructions specified in the enclosed NON. The agency will consider extending the
+response time if you show good cause for us to do so.
+In accordance with 10 CFR 2.390, "Agency Rules of Practice and Procedure," a copy of this
+letter, its enclosure(s), and your response will be made available electronically for public
+inspection in the NRC Public Document Room or from the NRC’s document system
+(Agencywide Documents Access and Management System), accessible at
+http://www.nrc.gov/reading-rm/adams.html. To the extent possible, your response, (if
+applicable), should not include any personal privacy, proprietary, or Safeguards Information so
+that it can be made available to the public without redaction. If personal privacy or proprietary
+information is necessary to provide an acceptable response, then please provide a bracketed
+copy of your response that identifies the information that should be protected and a redacted
+copy of your response that deletes such information. If you request that such material is
+withheld from public disclosure, you must specifically identify the portions of your response that
+you seek to have withheld and provide in detail the bases for your claim (e.g., explain why the
+disclosure of information will create an unwarranted invasion of personal privacy or provide the
+information required by 10 CFR 2.390(b) to support a request for withholding confidential
+commercial or financial information). If Safeguards Information is necessary to provide an
+acceptable response, please provide the level of protection described in 10 CFR 73.21,
+“Protection of Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA/
+Edward H. Roach, Chief
+Mechanical Vendor Inspection Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901392
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report No. 99901392/2014-201
+and Attachment
+
+=== PAGE BREAK ===
+
+L. Plante -2-
+Please provide a written explanation or statement within 30 days of this letter in accordance with
+the instructions specified in the enclosed NON. The agency will consider extending the
+response time if you show good cause for us to do so.
+In accordance with 10 CFR 2.390, "Agency Rules of Practice and Procedure," a copy of this
+letter, its enclosure(s), and your response will be made available electronically for public
+inspection in the NRC Public Document Room or from the NRC’s document system
+(Agencywide Documents Access and Management System), accessible at
+http://www.nrc.gov/reading-rm/adams.html. To the extent possible, your response, (if
+applicable), should not include any personal privacy, proprietary, or Safeguards Information so
+that it can be made available to the public without redaction. If personal privacy or proprietary
+information is necessary to provide an acceptable response, then please provide a bracketed
+copy of your response that identifies the information that should be protected and a redacted
+copy of your response that deletes such information. If you request that such material is
+withheld from public disclosure, you must specifically identify the portions of your response that
+you seek to have withheld and provide in detail the bases for your claim (e.g., explain why the
+disclosure of information will create an unwarranted invasion of personal privacy or provide the
+information required by 10 CFR 2.390(b) to support a request for withholding confidential
+commercial or financial information). If Safeguards Information is necessary to provide an
+acceptable response, please provide the level of protection described in 10 CFR 73.21,
+“Protection of Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA/
+Edward H. Roach, Chief
+Mechanical Vendor Inspection Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901392
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report No. 99901392/2014-201
+and Attachment
+DISTRIBUTION:
+KKavanagh
+RRasmussen
+ASakadales
+mcshanjd@westinghouse.com
+plantelm@westinghouse.com
+ADAMS Accession No.: ML14328A138 *Concurred via email NRO-002
+NRO/DCIP/ NRO/DCIP/ NRO/DCI NRO/DCI RII/DCI/CIB NRO/DCIP/ NRO/DCIP/
+OFC NRO/DCIP
+MVIB MVIB P/MVIB P/QVIB 3 MVIB MVIB
+YDiaz- JOrtega-
+NAME LMicewski* RPatel JHeath EMichel* TFrye* ERoach
+Castillo Luciano
+DATE 12/2/14 12/3/14 12/3/14 12/2/14 11/20/14 12/3/14 12/8/14 12/8/14
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+NOTICE OF NONCONFORMANCE
+Westinghouse Electric Company LLC
+Newington Operations
+178 Shattuck Way
+Newington, NH 03801
+Based on the results of a U.S. Nuclear Regulatory Commission (NRC) inspection conducted at
+the Westinghouse Electric Company, Newington facility (hereafter referred to as WEC
+Newington Operations) located in Newington, NH, on October 27, 2014, through October 31,
+2014, certain activities were not conducted in accordance with NRC requirements which were
+contractually imposed on WEC Newington Operations by its customers or NRC licensees:
+A. Criterion XVI, “Corrective Action,” in Appendix B, “Quality Assurance Program Criteria
+for Nuclear Power Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of
+Federal Regulations (10 CFR) Part 50, “Domestic Licensing of Production and Utilization
+Facilities,” states, in part, that, “Measures shall be established to assure that conditions
+adverse to quality, such as failures, malfunctions, deficiencies, deviations, defective
+material and equipment, and nonconformances are promptly identified and corrected.”
+Section 16, “Corrective Action,” of WEC Quality Assurance Manual, Revision 11, dated
+September 24, 2012, states, in part, that “The purpose of the corrective action program
+is to establish measures to ensure that conditions adverse to quality are promptly
+identified, documented, and reported to appropriate levels of management.”
+Section 7.6, “Timeliness Expectations,” of WEC Newington Operations Procedure 16.2,
+“Westinghouse Corrective Action Program,” Revision 7.0, dated March 31, 2014,
+provides the timeliness expectations for closing corrective actions opened in response to
+conditions adverse to quality. The issue closure due date, for Level 4 corrective action
+request, is 120 days from issue origination.
+Contrary to the above, as of October 31, 2014, WEC Newington Operations failed to
+ensure that conditions adverse to quality were promptly identified and corrected.
+Specifically, in official correspondence with the NRC dated June 2, 2014, WEC
+Newington Operations stated that it had initiated Corrective Action Request (CAR) No.
+17039, “Commercial Grade Dedication of Heat Treatment Services,” on May 14, 2014, to
+address the inadequate commercial-grade dedication of the heat treatment services for
+the reactor vessel internals, such as the core barrel, the core shroud, and the
+instrumentation grid assembly, performed by Team Industrial Services, a commercial
+supplier. However, the NRC inspection team identified that CAR No. 17039 did not
+identify any proposed corrective actions to address the inadequate commercial-grade
+dedication of the heat treatment services and that no action had been taken by WEC
+Newington Operations to correct this issue, 168 days after CAR No. 17039 was initiated.
+This issue has been identified as Nonconformance 99901392/2014-201-01.
+Enclosure 1
+
+=== PAGE BREAK ===
+
+Please provide a written statement or explanation to the U.S. Nuclear Regulatory Commission,
+ATTN: Document Control Desk, Washington, DC 20555-0001 with a copy to the Chief,
+Mechanical Vendor Inspection Branch, Division of Construction and Operational Programs,
+Office of New Reactors, within 30 days of the date of the letter transmitting this notice of
+nonconformance. This reply should be clearly marked as a “Reply to a Notice of
+Nonconformance” and should include for each noncompliance: (1) the reason for the
+noncompliance, or if contested, the basis for disputing the noncompliance, (2) the corrective
+steps that have been taken and the results achieved, (3) the corrective steps that will be taken
+to avoid noncompliance, and (4) the date when your corrective action will be completed. Where
+good cause is shown, consideration will be given to extending the response time.
+Because your response will be made available electronically for public inspection in the NRC
+Public Document Room or from the NRC’s document system (Agencywide Documents Access
+Management System), accessible from the NRC Web site at http://www.nrc.gov/reading-
+rm/adams.html, to the extent possible, it should not include any personal privacy, proprietary, or
+Safeguards Information so that it can be made available to the public without redaction. If
+personal privacy or proprietary information is necessary to provide an acceptable response,
+then please provide a bracketed copy of your response that identifies the information that
+should be protected and a redacted copy of your response that deletes such information. If you
+request withholding of such material, you must specifically identify the portions of your response
+that you seek to have withheld and provide in detail the bases for your claim of withholding (e.g.,
+explain why the disclosure of information will create an unwarranted invasion of personal
+privacy or provide the information required by 10 CFR 2.390(b) to support a request for
+withholding confidential commercial or financial information). If Safeguards Information is
+necessary to provide an acceptable response, please provide the level of protection described
+in 10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.”
+Dated this 8th day of December 2014.
+- 2 -
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS
+VENDOR INSPECTION REPORT
+Docket No.: 99901392
+Report No.: 99901392/2014-201
+Vendor: Westinghouse Electric Company, LLC
+Newington Operations
+178 Shattuck Way
+Newington, NH 03801
+Vendor Contact: Ms. Lisa Plante
+Quality Systems Supervisor
+Telephone: (603) 433-1064
+E-mail: plantelm@westinghouse.com
+Nuclear Industry Activity: The Newington Operations facility of Westinghouse Electric
+Company (WEC) is a major supplier of safety-related control rod
+drive mechanisms and reactor vessel internals for the WEC
+AP1000 pressurized water reactor design.
+Inspection Dates: October 27-31, 2014
+Inspection Team Leader Jonathan Ortega-Luciano NRO/DCIP/MVIB
+Inspection Team Members Yamir Diaz-Castillo NRO/DCIP/MVIB
+Laura Micewski NRO/DCIP/MVIB
+Raju Patel NRO/DCIP/MVIB
+Jermaine Heath NRO/DCIP/QVIB
+Eric Michel RII/DCI/CIB3
+Approved by: Edward H. Roach, Chief
+Mechanical Vendor Inspection Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Enclosure 2
+
+=== PAGE BREAK ===
+
+EXECUTIVE SUMMARY
+Westinghouse Electric Company LLC, Newington Operations.
+99901392/2014-201
+The U.S. Nuclear Regulatory Commission (NRC) staff conducted a vendor inspection at the
+Westinghouse Electric Company LLC, Newington facility(hereafter referred to as WEC
+Newington Operations) to verify that it had implemented an adequate quality assurance (QA)
+program that complies with the requirements of Appendix B, “Quality Assurance Criteria for
+Nuclear Power Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of Federal
+Regulations (10 CFR) Part 50, “Domestic Licensing of Production and Utilization Facilities.” The
+NRC inspection team conducted the inspection from October 27-31, 2014. This was the second
+NRC inspection at the WEC Newington Operations facility.
+This technically-focused inspection specifically evaluated WEC Newington Operations’
+implementation of quality activities associated with the fabrication and inspection of control rod
+drive mechanisms (CRDM) and reactor vessel internals (RVI) for the WEC AP1000 reactor
+design. These CRDMs and RVI are being fabricated for the Vogtle Electric Generating Plant
+(VEGP), Units 3 and 4 and Virgil C. Summer (V.C. Summer) Generating Station, Units 2 and 3.
+Some of the specific activities observed by the NRC inspection team included:
+• Issue Review Committee meeting
+• Heat treatment of instrumentation grid assembly for V.C. Summer Unit 2
+• Receipt inspection of bar stock for use in AP1000 reactor vessel internals
+• Commercial grade dedication of calibration service, machining service, and plating
+services
+• Welding of VEGP Unit 4 core shroud
+• Walk down of the welding material storage room, specifically verification of the rod room
+storage conditions
+• Shift turnover meeting – machinists, 2nd shift
+• Conduct of “free path” control rod guide tube test
+• Inspection of the V.C. Summer Unit 2 upper core plate fuel alignment pin holes
+• Final detail inspection following manufacturing machining of spacer plates for the V.C.
+Summer Unit 1 CRDM latch assembly
+• Quality inspections of the VEGP Unit 4 upper core plate clevis insert modification
+The following regulations served as the bases for the NRC inspection:
+• Appendix B to 10 CFR Part 50
+During the course of this inspection, the NRC inspection team implemented Inspection
+Procedure (IP) 43002, “Routine Inspections of Nuclear Vendors,” and IP 43003, “Reactive
+Inspections of Nuclear Vendors.”
+The information below summarizes the results of this inspection.
+- 2 -
+
+=== PAGE BREAK ===
+
+Corrective Action
+The NRC inspection team issued Nonconformance 99901392/2014-201-01 in association with
+WEC Newington Operations’ failure to implement the regulatory requirements of Criterion XVI,
+“Corrective Actions,” in Appendix B to 10 CFR Part 50. Nonconformance
+99901392/2014-201-01 cites WEC Newington Operations for failing to ensure that conditions
+adverse to quality were promptly identified and corrected. Specifically, in official
+correspondence with the NRC, WEC Newington Operations stated that it had initiated
+Corrective Action Request (CAR) No. 17039, “Commercial Grade Dedication of Heat Treat
+Services,” on May 14, 2014, to address the inadequate commercial-grade dedication of the heat
+treatment services for the reactor vessel internals performed by Team Industrial Services.
+However, the NRC inspection team identified that CAR No. 17039 did not identify any proposed
+corrective actions to address the inadequate commercial-grade dedication of the heat treatment
+services and that no action has been taken by WEC Newington Operations to correct this issue,
+168 days after CAR No. 17039 was initiated.
+Other Inspection Areas
+The NRC inspection team determined that WEC Newington Operations is implementing its
+programs for design control, procurement document control, inspection, external and internal
+audits, manufacturing control, control of special processes, control of measuring and test
+equipment, training, and nonconformance process in accordance with the applicable regulatory
+requirements of Appendix B to 10 CFR Part 50. Based on the limited sample of documents
+reviewed and activities observed, the NRC inspection team also determined that WEC
+Newington Operations is implementing its policies and procedures associated with these
+programs. No findings of significance were identified.
+- 3 -

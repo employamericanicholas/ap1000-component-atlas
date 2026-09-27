@@ -1,0 +1,264 @@
+July 8, 2024
+Mr. Jeongsun Kim
+Quality Assurance General Manager
+Doosan Enerbility, Ltd.
+22, DoosanVolvo-ro, Seongsan-gu, Changwon-si
+Gyeongnam, 51711, Republic of Korea
+SUBJECT: NUCLEAR REGULATORY COMMISSION VENDOR INSPECTION REPORT OF
+DOOSAN ENERBILITY, LTD. NO. 99901373/2024-201, AND NOTICE OF
+VIOLATION
+Dear Mr. Kim:
+On May 20 - 24, 2024, the U.S. Nuclear Regulatory Commission (NRC) staff conducted an
+inspection at the Doosan Enerbility, Ltd.’s facility (hereafter referred to as Doosan) in
+Changwon, Korea. The purpose of this limited-scope routine inspection was to assess Doosan’s
+compliance with the provisions of Title 10 of the Code of Federal Regulations (10 CFR) Part 21,
+“Reporting of Defects and Noncompliance,” and selected portions of Appendix B, “Quality
+Assurance Program Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to 10
+CFR Part 50, “Domestic Licensing of Production and Utilization Facilities,” and of Subpart G,
+“Quality Assurance,” of 10 CFR Part 72, “Licensing Requirements for the Independent Storage
+of Spent Nuclear Fuel, High-Level Radioactive Waste, and Reactor-Related Greater Than Class
+C Waste.”
+This technically-focused inspection specifically evaluated Doosan’s implementation of quality
+activities associated with the construction of safety-related and important to safety components
+for U.S. nuclear power plants. The enclosed report presents the results of the inspection. This
+NRC inspection report does not constitute NRC’s endorsement of Doosan’s overall quality
+assurance (QA) or 10 CFR Part 21 programs.
+Based on the results of this inspection, the NRC has determined that one Severity Level IV
+violation of NRC requirements occurred. The violation is cited in the enclosed Notice of Violation
+(NOV) and the circumstances surrounding it are described in detail in the subject inspection
+report. The violation is being cited in the NOV because Doosan failed to specify that the
+provisions of 10 CFR Part 21 apply in the procurement documents for safety-related and
+important to safety components in accordance with the requirements of 10 CFR 21.31,
+“Procurement documents.”
+You are required to respond to this letter and should follow the instructions specified in the
+enclosed NOV when preparing your response. If you have additional information that you
+believe the NRC should consider, you may provide it in your response to the NOV. The NRC will
+use your response, in part, to determine whether further enforcement action is necessary to
+ensure compliance with regulatory requirements.
+J. Kim 2
+In accordance with 10 CFR 2.390, “Public inspections, exemptions, requests for withholding,” of
+the NRC’s “Rules of Practice,” a copy of this letter, its enclosure(s), and your response will be
+made available electronically for public inspection in the NRC’s Public Document Room or from
+the NRC’s document system (ADAMS), accessible at http://www.nrc.gov/readingrm/
+adams.html. To the extent possible, your response (if applicable), should not include any
+personal privacy, proprietary, or safeguards information so that it can be made available to the
+public without redaction. If personal privacy or proprietary information is necessary to provide an
+acceptable response, please provide a bracketed copy of your response that identifies the
+information that should be protected and a redacted copy of your response that deletes such
+information. If you request that such material be withheld from public disclosure, you must
+specifically identify the portions of your response that you seek to have withheld and provide in
+detail the bases for your claim (e.g., explain why the disclosure of information would create an
+unwarranted invasion of personal privacy or provide the information required by 10 CFR
+2.390(b) to support a request for withholding confidential commercial or financial information).
+If safeguards information is necessary to provide an acceptable response, please provide the
+level of protection described in 10 CFR 73.21, “Protection of Safeguards Information:
+Performance Requirements.”
+Sincerely,
+Signed by Kavanagh, Kerri
+on 07/08/24
+Kerri A. Kavanagh, Chief
+Quality Assurance and Vendor Inspection Branch
+Division of Reactor Oversight
+Office of Nuclear Reactor Regulation
+Docket No.: 99901373
+EPID No.: I-2024-201-0027
+Enclosures:
+1. Notice of Violation
+2. Inspection Report No. 99901373/2024-201
+and Attachment
+J. Kim 3
+SUBJECT: NUCLEAR REGULATORY COMMISSION VENDOR INSPECTION REPORT OF
+DOOSAN ENERBILITY, LTD. NO. 9990137/2024-201, AND NOTICE OF
+VIOLATION DATE: July 8, 2024
+DISTRIBUTION:
+RFelts, NRR
+ABowie, NRR
+MMitchell, NRR
+DJohnson, NRR
+PMcKenna, NRR
+HRodriguez-Luccioni, NMSS
+NRR_DRO_IQVB Distribution
+ADAMS Accession No.: ML24177A154 NRR-106
+OFFICE NRR/DRO/IQVB NRR/DNRL/NPHP NMSS/DFM/IOB
+NAME YDiaz-Castillo JHoncharik MDavis
+DATE 7/1/2024 7/3/2024 6/28/2024
+OFFICE NRR/DRO/IRAB NRR/DRO/IQVB
+NAME BHughes KKavanagh
+DATE 6/26/2024 7/8/2024
+OFFICIAL RECORD COPY
+NOTICE OF VIOLATION
+Doosan Enerbility, Ltd. Docket No. 99901373
+22, DoosanVolvo-ro, Seongsan-gu, Changwon-si Report No. 2024-201
+Gyeongnam, 51711, Republic of Korea
+During a U.S. Nuclear Regulatory Commission (NRC) inspection conducted at the Doosan
+Enerbility, Ltd.’s (hereafter referred to as Doosan) facility in Changwon, Korea, on May 20, 2024
+through May 24, 2024, a violation of NRC requirements was identified. In accordance with the
+NRC’s Enforcement Policy, the violation is listed below:
+Section 21.31, “Procurement documents,” of Title 10 of the Code of Federal
+Regulations (10 CFR) Part 21, requires that “Each individual, corporation,
+partnership, dedicating entity, or other entity subject to the regulations in this part
+shall ensure that each procurement document for a facility, or a basic component
+issued by him, her or it on or after January 6, 1978, specifies, when applicable, that
+the provisions of 10 CFR Part 21 apply.”
+Step 5.9 in Section 5.0, “General,” of Doosan’s Quality Assurance Procedure No.
+PQAP-1602, “Reporting of ‘Defects’ and ‘Failures’ to Comply Pursuant to
+10CFR21,” Revision 13, dated May 10, 2024, states that “Doosan’s procurement
+document shall specify the applicability of 10 CFR 21.”
+Contrary to the above, as of May 24, 2024, Doosan failed to specify in procurement
+documents for suppliers of safety-related services and important to safety materials to be
+procured as basic components that the provisions of 10 CFR Part 21 apply. Specifically,
+for the procurement of safety-related machining services, Doosan invoked in the purchase
+orders (POs) that suppliers meet purchase specification No. CF-MPS-001, “General
+Requirements (for foreign company),” Revision 17, dated January 20, 2023, rather than
+imposing the applicable requirements of 10 CFR Part 21. Doosan developed CF-MPS-001
+to address the fact that Doosan’s suppliers of machining services do not implement a
+program that meets the requirements of 10 CFR Part 21. This procedure relieves
+Doosan’s machining suppliers from their responsibilities under 10 CFR Part 21 and
+requires the suppliers to notify Doosan of any nonconformances identified in the
+machining services supplied to Doosan. In addition, for the procurement of important to
+safety materials for a vertical concrete cask, Doosan did not invoke the requirements of 10
+CFR Part 21 in the POs.
+This issue has been identified as Violation 99901373/2024-201-01.
+This is a Severity Level IV violation (Section 6.9.d of the NRC Enforcement Policy).
+Pursuant to the provisions of 10 CFR Part 2.201, “Notice of Violation,” Doosan is hereby
+required to submit a written statement or explanation to the U.S. Nuclear Regulatory
+Commission, ATTN: Document Control Desk, Washington, DC 20555-0001, with a copy to the
+Chief, Quality Assurance and Vendor Inspection Branch, Division of Reactor Oversight, Office of
+Nuclear Reactor Regulation, within 30 days of the date of the letter transmitting this Notice of
+Violation. This reply should be clearly marked as a “Reply to a Notice of Violation” and should
+include for each violation: (1) the reason for the violation or, if contested, the basis for disputing
+the violation or severity level, (2) the corrective steps that have been taken and the results
+achieved, (3) the corrective steps that will be taken to avoid further violations, and (4) the date
+Enclosure 1
+when full compliance will be achieved. Your response may reference or include previous
+docketed correspondence if the correspondence adequately addresses the required response.
+Where good cause is shown, consideration will be given to extending the response time.
+If you contest this enforcement action, provide a copy of your response, with the basis for your
+denial, to the Director, Office of Enforcement, United States Nuclear Regulatory Commission,
+Washington, DC 20555-0001.
+Because your response will be made available electronically for public inspection in the NRC’s
+Public Document Room or from the NRC’s document system (ADAMS), accessible from the
+NRC’s Web site at http://www.nrc.gov/reading-rm/adams.html, to the extent possible, it should
+not include any personal privacy, proprietary, or safeguards information so that it can be made
+available to the public without redaction. If personal privacy or proprietary information is
+necessary to provide an acceptable response, then please provide a bracketed copy of your
+response that identifies the information that should be protected and a redacted copy of your
+response that deletes such information.
+If you request that such material be withheld, you must specifically identify the portions of your
+response that you seek to have withheld and provide in detail the bases for your claim of
+withholding (e.g., explain why the disclosure of information would create an unwarranted
+invasion of personal privacy or provide the information required by 10 CFR 2.390(b) to support a
+request for withholding confidential commercial or financial information). If safeguards
+information is necessary to provide an acceptable response, please provide the level of
+protection described in 10 CFR 73.21, “Protection of Safeguards Information: Performance
+Requirements.”
+Dated this 8th day of July 2024.
+2
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NUCLEAR REACTOR REGULATION
+DIVISION OF REACTOR OVERSIGHT
+VENDOR INSPECTION REPORT
+Docket No.: 99901373
+Report No.: 99901373/2024-201
+Vendor: Doosan Enerbility Company, Ltd.
+22, DoosanVolvo-ro, Seongsan-gu, Changwon-si
+Gyeongnam, 51711, Republic of Korea
+Vendor Contact: Mr. Kyeongseon Lim
+Quality Assurance Senior Engineer
+Email: Kyeongseon.lim@doosan.com
+Phone: (82) 55-278-3305
+Nuclear Industry Activity: Doosan Enerbility, Ltd. (hereafter referred to as Doosan) is one of
+the largest manufacturers of reactor vessels, steam generators,
+reactor internals, and balance of plant components for the
+worldwide nuclear industry. Doosan provides components to the
+U.S. nuclear power reactors as replacement components and for
+the AP1000 units recently constructed. Doosan was selected by
+Westinghouse Electric Company to manufacture the lower
+assembly forgings of the replacement steam generators for
+the Surry Power Station. Doosan was also selected by NAC
+International to manufacture important to safety materials related
+to a transportable canister for NAC International’s MAGANASTOR
+spent fuel storage system, and a transfer cask for use at Three
+Mile Island as part of decommissioning.
+Inspection Dates: May 20 - 24, 2024
+Inspectors: Yamir Diaz-Castillo NRR/DRO/IQVB Team Leader
+John Honcharik NRR/DNRL/NPHP Technical Specialist
+Marlone Davis NMSS/DFM/IOB Sr. Safety Inspector
+Approved by: Kerri A. Kavanagh, Chief
+Quality Assurance and Vendor Inspection Branch
+Division of Reactor Oversight
+Office of Nuclear Reactor Regulation
+Enclosure 2
+EXECUTIVE SUMMARY
+Doosan Enerbility, Ltd., LLC
+99901373/2024-201
+The U.S. Nuclear Regulatory Commission (NRC) staff conducted a limited-scope routine vendor
+inspection at the Doosan Enerbility, Ltd.’s (hereafter referred to as Doosan) facility in
+Changwon, Korea, to verify that it had implemented an adequate quality assurance (QA)
+program that complies with the requirements of Appendix B, “Quality Assurance Criteria for
+Nuclear Power Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of Federal
+Regulations (10 CFR) Part 50, “Domestic Licensing of Production and Utilization Facilities,” and
+Subpart G, “Quality Assurance,” of 10 CFR Part 72, “Licensing Requirements for the
+Independent Storage of Spent Nuclear Fuel, High-Level Radioactive Waste, and Reactor-
+Related Greater Than Class C Waste.” In addition, the NRC inspection verified that Doosan
+implemented a program under 10 CFR Part 21, “Reporting of Defects and Noncompliance.”
+Furthermore, the NRC inspection verified that Doosan had implemented a program in
+accordance with the applicable requirements of Section III, “Rules for Construction of Nuclear
+Facility Components,” Section V, “Nondestructive Examination,” and Section IX, “Welding and
+Brazing Qualification,” of the American Society of Mechanical Engineers (ASME) Boiler and
+Pressure Vessel (B&PV) Code, and the American Society for Nondestructive Testing (ASNT)
+SNT-TC-1A, “Personnel Qualification and Certification in Nondestructive Testing.” This was the
+5th NRC inspection of Doosan’s facility in Changwon, Korea. The last NRC inspection of
+Doosan occurred in July 2014.
+This technically-focused inspection specifically evaluated Doosan’s implementation of quality
+activities associated with the construction of safety-related and important to safety components
+for U.S. nuclear power plants. Specific activities observed by the NRC inspection team included:
+• Post weld heat treatment of lifting lugs on tubesheet No. F23189-010 for the
+replacement steam generators (RSGs) for Surry Power Station Units 1 and 2 performed
+in accordance with heat treat work order No. 238-300 and heat treatment procedure,
+PTC-NSSS-001, “Heat Treatment Work Procedure Surry 1 & 2,” Revision 0, as
+documented in traveler No. F23189060-2.
+• Ultrasonic non-destructive examination (NDE) on tubesheet forging No. F231890-030 for
+the RSGs for Surry Power Station Units 1 and 2 performed in accordance Process
+Specification No. FN231890, “Process Specification for NDE Procedure for Surry 1 & 2
+Tubesheet,” Revision 7, as documented in traveler No. F23189030.
+• Temporary storage rework for the Watts Bar Nuclear Plant Unit 2 Reactor Closure
+Vessel Head in accordance with traveler No. 101920517 based on revised purchase
+order No. 4500634344.
+• Temporary storage of two transportable storage canisters (TSCs) for the NAC
+MAGNASTOR dry cask storage system. This included temporary packing of completed
+fabricated important to safety components, which also included two TSC closure lids and
+rings related to the canister.
+2
+These regulations served as the bases for the NRC inspection:
+• Appendix B to 10 CFR Part 50
+• 10 CFR Part 21
+• Subpart G to 10 CFR Part 72
+During this inspection, the NRC inspection team implemented Inspection Procedure (IP) 43002,
+“Routine Inspections of Nuclear Vendors,” dated February 10, 2023; IP 43004, “Inspection of
+Commercial-Grade Dedication Programs,” dated February 10, 2023; IP 36100, “Inspection of 10
+CFR Part 21 and Programs for Reporting Defects and Noncompliance,” dated February 10,
+2023, and IP 60852, “ISFSI Component Fabrication by Outside Fabricators,” dated August 17,
+2023.
+With the exception of the violation described below, the NRC inspection team concluded that
+Doosan’s QA policies and procedures comply with the applicable requirements of Appendix B to
+10 CFR Part 50, 10 CFR Part 21, and Subpart G to 10 CFR Part 72, and that Doosan’s
+personnel are implementing these policies and procedures effectively. The results of this
+inspection are summarized below.
+10 CFR Part 21 Program
+The NRC inspection team issued Violation 99901373/2024-201-01 in association with Doosan’s
+failure to implement the regulatory requirements of 10 CFR Part 21. Violation 99901373/2024-
+201-01 cites Doosan for failing to specify in procurement documents for suppliers of safety-
+related services and important to safety materials to be procured as basic components that the
+provisions of 10 CFR Part 21 apply. Doosan initiated Corrective Action Report No. 2440053 to
+address this issue.
+Other Inspection Areas
+The NRC inspection team determined that Doosan established its programs for design control,
+procurement document control, supplier oversight, material traceability, control of special
+processes, test control, control of measuring and test equipment, nonconformances, corrective
+action, and internal audits in accordance with the applicable regulatory requirements of
+Appendix B to 10 CFR Part 50 and Subpart G to10 CFR Part 72, as applicable. Based on the
+limited sample of documents reviewed and activities observed, the NRC inspection team also
+determined that Doosan is implementing its policies and procedures associated with these
+programs. No findings of significance were identified in these areas.
+Att13

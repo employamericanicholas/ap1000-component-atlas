@@ -1,0 +1,316 @@
+July 31, 2013
+Giancarlo Sprenger, Quality Manager
+IBF S.p.A.
+Via E. Berlinguer, 18
+20040 Colnago (MI)
+Italy
+SUBJECT: NUCLEAR REGULATORY COMMISSION INSPECTION REPORT
+NO. 99901428/2013-201 AND NOTICE OF NONCONFORMANCE
+Dear Mr. Sprenger:
+The U.S. Nuclear Regulatory Commission (NRC) staff conducted an inspection at the IBF S.p.A.
+facility (hereafter referred to as IBF) in San Nicolo, Italy, from June 17 to June 21, 2013. The
+purpose of this limited scope inspection was to assess IBF’s compliance with the provisions of
+Title 10 of the Code of Federal Regulations (10 CFR) Part 21, “Reporting of Defects and
+Noncompliance,” and selected portions of Appendix B, “Quality Assurance Criteria for Nuclear
+Power Plants and Fuel Reprocessing Plants,” to 10 CFR Part 50, “Domestic Licensing of
+Production and Utilization Facilities.”
+This inspection evaluated the implementation of IBF’s quality assurance (QA) program, with a
+focus on fabrication of reactor coolant piping for the AP1000 reactors and for other operating
+reactor plants. The enclosed report presents the results of this inspection. This NRC inspection
+report does not constitute the NRC’s endorsement of your overall QA or 10 CFR Part 21
+programs.
+Based on the results of this inspection, the inspectors found that the implementation of your QA
+program failed to meet certain NRC requirements imposed on you by your customers in the
+areas of procurement document control and control of purchased material, equipment, and
+services. These nonconformances are cited in the enclosed notice of nonconformance (NON)
+and the circumstances surrounding them are described in the enclosed report.
+Please provide a written explanation or statement within 30 days of this letter in accordance with
+the instructions specified in the enclosed NON. The NRC will consider extending the response
+time if you show good cause to do so.
+The NRC inspectors determined that overall, the fabrication of the reactor coolant piping for the
+AP1000 fleet and for other operating reactor plants was conducted in accordance with the
+Commission’s rules and regulations and the technical and quality requirements passed down
+from your customers or NRC licensees. The NRC inspectors determined that, with the
+exception of the cited nonconformances, your programs for implementing the requirements of
+10 CFR Part 21 and Appendix B to 10 CFR Part 50 for control of special processes, material
+traceabilty, control of measuring and test equipment, and corrective actions and
+nonconformances generally met the applicable regulations.
+
+=== PAGE BREAK ===
+
+G. Sprenger - 2 -
+The NRC inspection, however, did identify some concerns with the way you qualified suppliers
+of services and procuring services that have and will be used in safety-related applications. The
+circumstances surrounding this issue are described in detail in the subject inspection report.
+This inspection was limited in scope, and it is expected that you will determine the extent to
+which these commercial services were used in safety-related applications, develop and
+implement a commercial-grade dedication program, and then verify that all the appropriate
+critical characteristics for performance of the services were adequately conducted by the
+supplier of the commercial service. These issues warrant your attention and consideration for
+their impact on past and future safety-related work and reportability in accordance with
+10 CFR Part 21.
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC’s “Rules of Practice and Procedure,” the NRC will make available electronically for
+public inspection a copy of this letter, its enclosure, and your response through the NRC Public
+Document Room or from the NRC’s Agencywide Documents Access and Management System,
+which is accessible at http://www.nrc.gov/reading-rm/adams.html. To the extent possible (and if
+applicable), your response should not include any personal privacy, proprietary, or Safeguards
+Information so that the NRC can make it available to the public without redaction. If personal
+privacy or proprietary information is necessary to provide an acceptable response, please
+provide a bracketed copy of your response that identifies the information that should be
+protected and a redacted copy of your response that deletes such information. If you request
+that such material be withheld from public disclosure, you must specifically identify the portions
+of your response that you seek to have withheld and provide in detail the bases for your claim
+(e.g., explain why the disclosure of information would create an unwarranted invasion of
+personal privacy or provide the information required by 10 CFR 2.390(b) to support a request for
+withholding confidential commercial or financial information). If Safeguards Information is
+necessary to provide an acceptable response, please provide the level of protection described
+in 10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA/
+Edward H. Roach, Chief
+Mechanical Vendor Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901428
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report No. 99901428/2013-201
+and attachment
+
+=== PAGE BREAK ===
+
+G. Sprenger - 2 -
+The NRC inspection, however, did identify some concerns with the way you qualified suppliers
+of services and procuring services that have and will be used in safety-related applications. The
+circumstances surrounding this issue are described in detail in the subject inspection report.
+This inspection was limited in scope, and it is expected that you will determine the extent to
+which these commercial services were used in safety-related applications, develop and
+implement a commercial-grade dedication program, and then verify that all the appropriate
+critical characteristics for performance of the services were adequately conducted by the
+supplier of the commercial service. These issues warrant your attention and consideration for
+their impact on past and future safety-related work and reportability in accordance with
+10 CFR Part 21.
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC’s “Rules of Practice and Procedure,” the NRC will make available electronically for
+public inspection a copy of this letter, its enclosure, and your response through the NRC Public
+Document Room or from the NRC’s Agencywide Documents Access and Management System,
+which is accessible at http://www.nrc.gov/reading-rm/adams.html. To the extent possible (and if
+applicable), your response should not include any personal privacy, proprietary, or Safeguards
+Informati/on so that the NRC can make it available to the public without redaction. If personal
+privacy or proprietary information is necessary to provide an acceptable response, please
+provide a bracketed copy of your response that identifies the information that should be
+protected and a redacted copy of your response that deletes such information. If you request
+that such material be withheld from public disclosure, you must specifically identify the portions
+of your response that you seek to have withheld and provide in detail the bases for your claim
+(e.g., explain why the disclosure of information would create an unwarranted invasion of
+personal privacy or provide the information required by 10 CFR 2.390(b) to support a request for
+withholding confidential commercial or financial information). If Safeguards Information is
+necessary to provide an acceptable response, please provide the level of protection described
+in 10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA/
+Edward H. Roach, Chief
+Mechanical Vendor Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901428
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report No. 99901428/2013-201
+and attachment
+DISTRIBUTION:
+RRasmussen
+KKavanagh
+DTerao
+ASakadales
+g.sprenger@ibfgroup.it
+ADAMS Accession No.: ML13200A220 *Via email *concurred via email
+OFFICE NRO/DCIP/CMVB NRO/DCIP/CMVB NRO/DCIP/CMVB NRO/DE/CIB
+NAME SCrane BClarke RMcIntyre EReichelt
+DATE 07/29/2013 07/29/13 07/30/2013 07/29/2013
+OFFICE NRO/DCIP/CAEB NRO/DCIP/CMVB
+NAME TFrye ERoach
+DATE 07/22/2013 07/31/2013
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+NOTICE OF NONCONFORMANCE
+IBF S.p.A. Docket No. 99901428
+San Nicolo, Italy Report No. 2013-201
+Based on the results of a U.S. Nuclear Regulatory Commission (NRC) inspection conducted at the
+IBF S.p.A. (IBF) facility in San Nicolo, Italy, on June 17-21, 2013, certain activities were not
+conducted in accordance with NRC requirements that were contractually imposed on IBF by its
+customers or NRC licensees:
+A. Criterion VII, “Control of Purchased Material, Equipment, and Services,” of Appendix B to
+Title 10 of the Code of Federal Regulations (10 CFR) Part 50, states, in part, that,
+“Measures shall be established to assure that purchased material, equipment, and services,
+whether purchased directly or through contractors and subcontractors, conform to the
+procurement documents. These measures shall include provisions, as appropriate, for
+source evaluation and selection, objective evidence of quality furnished by the contractor or
+subcontractor, inspection at the contractor or subcontractor source, and examination of
+products upon delivery.”
+Contrary to the above, IBF failed to assure that purchased material, equipment, and
+services conformed to the procurement documents through source evaluation and selection,
+objective evidence of quality furnished by the contractor or subcontractor, inspection at the
+contractor or subcontractor source, or examination of products upon delivery. Specifically,
+1. The IBF quality program allows for the procurement and acceptance of materials and
+services from commercial suppliers without performing commercial-grade dedication to
+verify that the material and services will perform their intended safety function. IBF
+procured commercial services from vendors supplying material, forging services,
+machining services, calibration services, chemical analysis services, material pickling
+services, lead auditor services, and nondestructive examination Level III services without
+conducting appropriate oversight and commercial-grade dedication for these
+commercially procured services.
+2. IBF Quality System Manual (QSM) Section 11, “Control of Purchased Material
+Equipment and Services” and IBF Procedure PGQ-N25, “Qualification of Suppliers,”
+allow IBF to procure material and services based on American Society of Mechanical
+Engineers (ASME) certification without verifying implementation of their quality
+assurance program through audit or other actions, as described in NRC Information
+Notice 86-21 and supplements 1 & 2.
+3. IBF QSM Section 11 adopts the provisions of Subsection NCA 3855.3(c) of Section III of
+the ASME Boiler and Pressure Vessel Code that allows for the acceptance of
+commercial calibration services for use in safety-related applications without performing
+commercial-grade dedication, including the use of additional accrediting bodies not
+approved by the NRC, and the use of calibration laboratories outside of the United
+States.
+These issues have been identified as Nonconformance 99901428/2013-201-01.
+B. Criterion IV, “Procurement Document Control,” of Appendix B, “Quality Assurance Criteria
+for Nuclear Power Plants and Fuel Reprocessing Plants,” to 10 CFR Part 50, “Domestic
+Enclosure 1
+
+=== PAGE BREAK ===
+
+Licensing of Production and Utilization Facilities,” states, in part, that “Measures shall be
+established to assure that applicable regulatory requirements, design bases, and other
+requirements which are necessary to assure adequate quality are suitably included or
+referenced in the documents for procurement of material, equipment, and services, whether
+purchased by the applicant or by its contractors or subcontractors.”
+Contrary to the above, as of June 21, 2013, IBF failed to assure that applicable regulatory
+requirements, design bases, and other requirements which are necessary to assure
+adequate quality are suitably included or referenced in the documents for procurement.
+Specifically,
+1. QSM Section 11 describes the control of purchased materials, equipment, and services
+and the ASME Section III NCA-3800 process for utilization of unqualified source
+material. The IBF QSM was written to specifically support ASME Section III NCA-3800
+code implementation activities and includes specific controls that implement the quality
+program requirements to meet ASME requirements. However, the manual does not
+address implementing specific quality assurance requirements to support the supply of
+10 CFR Part 50 Appendix B safety-related basic components as defined 10 CFR
+Part 21.
+2. QSM Section 11 and PGQ-N40 define the requirements for procurement documentation;
+however, neither document requires the invocation of Appendix B to 10 CFR Part 50 or
+10 CFR Part 21 for safety-related purchase orders. In addition, PGQ-N25 defines the
+responsibilities and methods for selection and qualification of materials, source
+materials, and services suppliers for nuclear components under ASME section III
+NCA-3800, but does not identify or reference Appendix B to 10 CFR Part 50 for these
+specific responsibilities and methods for procurement of safety-related basic
+components.
+These issues have been identified as Nonconformance 99901428/2013-201-02.
+Please provide a written statement or explanation to the U.S. Nuclear Regulatory Commission,
+Attn: Document Control Desk, Washington, DC 20555-0001, with a copy to the Chief, Mechanical
+Vendor Branch, Division of Construction Inspection and Operational Programs, Office of New
+Reactors, within 30 days of the date of the letter transmitting this notice of nonconformance. This
+reply should be clearly marked as a “Reply to a Notice of Nonconformance” and should include for
+each noncompliance: (1) the reason for the noncompliance, or if contested, the basis for disputing
+the noncompliance; (2) the corrective steps that have been taken and the results achieved; (3) the
+corrective steps that will be taken to avoid noncompliance; and (4) the date when your corrective
+action will be completed. Where good cause is shown, the NRC will consider extending the
+response time.
+Because your response will be made available electronically for public inspection in the NRC Public
+Document Room or from the NRC’s Agencywide Documents Access and Management System,
+which is accessible from the NRC Web site at http://www.nrc.gov/reading-rm/adams.html, to the
+extent possible, it should not include any personal privacy, proprietary, or Safeguards Information
+so that the NRC can make it available to the public without redaction. If personal privacy or
+proprietary information is necessary to provide an acceptable response, then please provide a
+bracketed copy of your response that identifies the information that should be protected and a
+redacted copy of your response that deletes such information. If you request that such material be
+withheld, you must specifically identify the portions of your response that you seek to have withheld
+- 2 -
+
+=== PAGE BREAK ===
+
+and provide in detail the bases for your claim of withholding (e.g., explain why the disclosure of
+information will create an unwarranted invasion of personal privacy or provide the information
+required by 10 CFR 2.390(b) to support a request for withholding confidential commercial or
+financial information). If Safeguards Information is necessary to provide an acceptable response,
+please provide the level of protection described in 10 CFR 73.21, “Protection of Safeguards
+Information: Performance Requirements.”
+Dated this 31st of July 2013.
+- 3 -
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS
+VENDOR INSPECTION REPORT
+Docket No.: 99901428
+Report No.: 99901428/2013-201
+Vendor: IBF S.p.A.
+Via E. Berlinguer, 18
+20040 Colnago (MI)
+Italy
+Vendor Contact: Mr. Giancarlo Sprenger
+Quality Manager
+Telephone: +39-335-7702107
+E-mail: g.sprenger@ibfgroup.it
+Nuclear Industry Activity: IBF S.p.A., is under contract to fabricate reactor coolant piping for
+the AP1000 fleet and operating reactors.
+Inspection Dates: June 17 - 21, 2013
+Inspectors: Samantha Crane NRO/DCIP/CMVB, Team Leader
+Richard McIntyre NRO/DCIP/CMVB, Inspector
+Brent Clarke NRO/DCIP/CMVB, Inspector
+Eric Reichelt NRO/DE/CIB, Technical Specialist
+Approved by: Edward H. Roach, Chief
+Mechanical Vendor Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Enclosure 2
+
+=== PAGE BREAK ===
+
+EXECUTIVE SUMMARY
+IBF S.p.A.
+99901428/2013-201
+The U.S. Nuclear Regulatory Commission (NRC) staff conducted a vendor inspection at the IBF
+S.p.A. (IBF) facility in San Nicolo, Italy, from June 17 – 21, 2013. The purpose of this inspection
+was to verify that IBF is adequately implementing a quality assurance (QA) program in
+accordance with Appendix B, “Quality Assurance Criteria for Nuclear Power Plants and Fuel
+Reprocessing Plants,” to Title 10 of the Code of Federal Regulations (10 CFR) Part 50,
+“Domestic Licensing of Production and Utilization Facilities,” and 10 CFR Part 21, “Reporting of
+Defects and Noncompliance.”
+During this inspection, the NRC inspectors evaluated the implementation of IBF’s QA program
+activities associated with the fabrication of reactor coolant piping for AP1000 reactor plants and
+operating reactors. Specifically, the NRC inspectors reviewed the procurement, and fabrication
+of reactor coolant piping, as well as IBF’s corrective action, nonconformance, and 10 CFR
+Part 21 programs. The inspectors observed IBF’s staff performing heat treatment,
+nondestructive examination, mechanical testing, dimensional testing, calibration, controlling
+material traceability, and segregating nonconforming items.
+Additionally, the inspection team conducted interviews with responsible IBF personnel and
+reviewed documents to determine if IBF performed activities in accordance with the applicable
+design, quality, and technical requirements of the customer specifications, Section III of the
+American Society of Mechanical Engineers (ASME) Boiler and Pressure Vessel Code, and
+applicable American Society for Testing and Materials standards imposed by IBF’s customers.
+The following regulations served as the bases for the NRC inspection:
+• Appendix B to 10 CFR Part 50
+• 10 CFR Part 21
+During the conduct of this inspection, the inspectors implemented Inspection Procedure
+(IP) 43002, “Routine Inspections of Nuclear Vendors,” dated April 25, 2011, and IP 36100,
+“Inspection of 10 CFR Part 21 and Programs for Reporting Defects and Noncompliance,” dated
+February 13, 2012.
+This was the first NRC vendor inspection performed at IBF in San Nicolo, Italy.
+The inspectors determined that, in general, the manufacturing activities that IBF performed in
+support of safety-related reactor coolant piping was performed in accordance with the
+Commission’s rules and regulations and the technical and quality requirements passed down to
+IBF from NRC licensees or its contractors. The information below summarizes the results of
+this inspection.
+Procurement Document Control and Control of Purchased Material, Equipment, and Services
+The inspectors reviewed the IBF process for controlling purchased materials, source materials,
+and subcontracted services to verify conformance to NRC regulatory requirements, ASME
+Section III code, and customer’s purchase order requirements. The inspectors determined that
+- 2 -

@@ -1,0 +1,336 @@
+March 31, 2014
+Mr. Brian Martin, Quality Assurance Manager
+Pentair Valves and Controls
+55 Cabot Boulevard
+Mansfield, MA 02048
+SUBJECT: NUCLEAR REGULATORY COMMISSION VENDOR INSPECTION OF
+PENTAIR VALVES AND CONTROLS REPORT NO. 99901431/2014-201 AND
+NOTICE OF VIOLATION
+Dear Mr. Martin:
+On February 12 – 13, 2014, the U.S. Nuclear Regulatory Commission (NRC) staff conducted an
+inspection at the Pentair Valves and Controls (Pentair) facility in Mansfield, Massachusetts. The
+purpose of this limited-scope inspection was to assess Pentair’s compliance with provisions of
+selected portions of Appendix B, “Quality Assurance Criteria for Nuclear Power Plants and Fuel
+Reprocessing Plants,” to Title 10 of the Code of Federal Regulations (10 CFR) Part 50,
+“Domestic Licensing of Production and Utilization Facilities,” and 10 CFR Part 21, “Reporting of
+Defects and Noncompliance.”
+This was a follow-up to the June 2013 NRC inspection that specifically evaluated Pentair’s
+quality assurance (QA) activities associated with the testing of the pressurizer safety valve
+(PV-62), for the Westinghouse Electric Company (WEC) AP1000 reactor design and
+implementation of its Part 21 program. The inspection also evaluated activities related to
+Section III, “Rules for Construction of Nuclear Power Plant Components,” of the American
+Society of Mechanical Engineers (ASME) Boiler & Pressure Vessel Code and ASME Standard
+QME-1-2007, “Qualification of Active Mechanical Equipment Used in Nuclear Power Plants.”
+The enclosed report presents the results of the inspection. This NRC inspection report does not
+constitute the NRC endorsement of your overall QA or 10 CFR Part 21 programs.
+During this inspection, the NRC inspectors observed the re-test of the pressurizer safety valve
+(PV-62) on February 12, 2014, for the ASME QME-1 functional qualification in accordance with
+the WEC design certification. This test is associated with inspections, tests, analyses, and
+acceptance criteria (ITAAC) from Revision 19 of the certified AP1000 Design Control Document,
+Tier 1. Specifically, these activities were associated with ITAACs 2.1.2.0.5.a.ii, 2.1.2.08.a.i, and
+2.1.2.08.a.ii. The NRC inspectors did not identify any findings associated with ITAACs
+contained in Section (4) of the attachment to this report with respect to Pentair activities.
+Based on the results of this inspection, the NRC has determined that one Severity Level IV
+violation of NRC requirements occurred. The NRC evaluated the violation in accordance with
+its enforcement policy, which is available on the NRC’s Web site at http://www.nrc.gov/about-
+nrc/regulatory/enforcement/enforce-pol.html.
+The enclosed notice cites the violation, and the subject inspection report details the
+circumstances surrounding it. The violation is cited because Pentair did not evaluate deviations
+documented in corrective action reports (CARs) 673, 674, and 675 to identify defects that could
+
+=== PAGE BREAK ===
+
+B. Martin - 2 -
+be associated with substantial safety hazards within 60 days of discovery or file an interim
+report to inform the NRC that the evaluation would not be completed within 60 days of
+discovery. The NRC inspectors confirmed that Pentair shipped these AP1000 pressurizer
+safety valves (PV-62) to its customers without evaluating the deviations documented in CARs
+673, 674, and 675 that were identified during the NRC June 2013 inspection. The affected
+pressurizer safety valves are N900028-00-0009, N900028-00-0010, N900028-00-0013, and
+N900028-00-0014 for Vogtle Units 3 and 4; and N900028-00-0011, N900028-00-0012,
+N900028-00-0015, and N900028-00-0016 for V.C. Summer Units 2 and 3.
+You are required to respond to this letter and should follow the instructions specified in the
+enclosed notice when preparing your response. If you have additional information that you
+believe the NRC should consider, you may provide it in your response to the notice. The NRC’s
+review of your response to the notice will also determine if further enforcement action is
+necessary to ensure compliance with regulatory requirements.
+Please provide a written statement or explanation within 30 days from the date of this letter in
+accordance with the instructions specified in the enclosed Notice of Violation. Please include
+your assessment of the issue on the quality of previous work. We will consider extending the
+response time if you show good cause for us to do so.
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC's "Rules of Practice," a copy of this letter, its enclosures, and your response will be
+made available electronically for public inspection in the NRC Public Document Room or from
+the NRC’s document system (ADAMS), accessible from the NRC Web site at
+http://www.nrc.gov/reading-rm/adams.html. To the extent possible, your response, (if
+applicable), should not include any personal privacy, proprietary, or safeguards information so
+that it can be made available to the Public without redaction. If personal privacy or proprietary
+information is necessary to provide an acceptable response, then please provide a bracketed
+copy of your response that identifies the information that should be protected and a redacted
+copy of your response that deletes such information. If you request that such material is
+withheld from public disclosure, you must specifically identify the portions of your response that
+you seek to have withheld and provide in detail the bases for your claim (e.g., explain why the
+disclosure of information will create an unwarranted invasion of personal privacy or provide the
+information required by 10 CFR 2.390(b) to support a request for withholding confidential
+commercial or financial information). If Safeguards Information is necessary to provide an
+acceptable response, please provide the level of protection described in 10 CFR 73.21.
+Sincerely,
+/RA/
+Edward H. Roach, Chief
+Mechanical Vendor Inspection Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901431
+
+=== PAGE BREAK ===
+
+B. Martin - 2 -
+be associated with substantial safety hazards within 60 days of discovery or file an interim
+report to inform the NRC that the evaluation would not be completed within 60 days of
+discovery. The NRC inspectors confirmed that Pentair shipped these AP1000 pressurizer
+safety valves (PV-62) to its customers without evaluating the deviations documented in CARs
+673, 674, and 675 that were identified during the NRC June 2013 inspection. The affected
+pressurizer safety valves are N900028-00-0009, N900028-00-0010, N900028-00-0013, and
+N900028-00-0014 for Vogtle Units 3 and 4; and N900028-00-0011, N900028-00-0012,
+N900028-00-0015, and N900028-00-0016 for V.C. Summer Units 2 and 3.
+You are required to respond to this letter and should follow the instructions specified in the
+enclosed notice when preparing your response. If you have additional information that you
+believe the NRC should consider, you may provide it in your response to the notice. The NRC’s
+review of your response to the notice will also determine if further enforcement action is
+necessary to ensure compliance with regulatory requirements.
+Please provide a written statement or explanation within 30 days from the date of this letter in
+accordance with the instructions specified in the enclosed Notice of Violation. Please include
+your assessment of the issue on the quality of previous work. We will consider extending the
+response time if you show good cause for us to do so.
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC's "Rules of Practice," a copy of this letter, its enclosures, and your response will be
+made available electronically for public inspection in the NRC Public Document Room or from
+the NRC’s document system (ADAMS), accessible from the NRC Web site at
+http://www.nrc.gov/reading-rm/adams.html. To the extent possible, your response, (if
+applicable), should not include any personal privacy, proprietary, or safeguards information so
+that it can be made available to the Public without redaction. If personal privacy or proprietary
+information is necessary to provide an acceptable response, then please provide a bracketed
+copy of your response that identifies the information that should be protected and a redacted
+copy of your response that deletes such information. If you request that such material is
+withheld from public disclosure, you must specifically identify the portions of your response that
+you seek to have withheld and provide in detail the bases for your claim (e.g., explain why the
+disclosure of information will create an unwarranted invasion of personal privacy or provide the
+information required by 10 CFR 2.390(b) to support a request for withholding confidential
+commercial or financial information). If Safeguards Information is necessary to provide an
+acceptable response, please provide the level of protection described in 10 CFR 73.21.
+Sincerely,
+/RA/
+Edward H. Roach, Chief
+Mechanical Vendor Inspection Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901431
+DISTRIBUTION
+ASakadales
+brian.martin@pentair.com
+michael.rider@pentair.com
+ADAMS ACCESSION No.: ML14073A652 NRO-002
+OFFICE NRO/DE/MEB NRO/DCIP/MVIB NRO/DCIP NRO/DCIP/MVIB
+NAME TScarbrough JOrtega-Luciano TFrye ERoach
+DATE 03/28/2014 03/28/2014 03/28/2014 03/31/2014
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+NOTICE OF VIOLATION
+Pentair Valves and Controls Docket No.: 99901431
+55 Cabot Boulevard Inspection Report No.: 2014-201
+Mansfield, MA 02048
+During a U.S. Nuclear Regulatory Commission (NRC) inspection conducted at the Pentair
+Valves and Controls (Pentair) facility in Mansfield, MA, on February 12–13, 2014, the NRC
+inspectors identified a violation of NRC requirements. In accordance with the NRC Enforcement
+Policy, the violation is listed below:
+Title 10 of the Code of Federal Regulations (10 CFR), Section 21.21,“Notification of failure to
+comply or existence of a defect and its evaluation,” states, in part, that, “(a) Each individual,
+corporation, partnership, dedicating entity, or other entity…shall adopt appropriate procedures
+to (1) evaluate deviations and failures to comply to identify defects and failures to comply
+associated with substantial safety hazards as soon as practicable, and, except as provided in
+paragraph (a)(2) of this section, in all cases within 60 days of discovery, in order to identify a
+reportable defect or failure to comply that could create a substantial safety hazard, were it to
+remain uncorrected, and (2) Ensure that if an evaluation of an identified deviation or failure to
+comply potentially associated with a substantial safety hazard cannot be completed within 60
+days from discovery of the deviation or failure to comply, an interim report is prepared and
+submitted to the Commission…This interim report must be submitted in writing within 60 days of
+discovery of the deviation or failure to comply.”
+Pentair’s procedure QA-48-3016, “Reporting of Defects and Noncompliance – Section
+III/Nuclear,” Revision 10 dated October 13, 2009, Section 5.2, “Evaluation,” states, in part, that
+“The Evaluation Committee shall complete their evaluation report within 60 days of discovery. If
+an evaluation cannot be completed within 60 days of discovery, an interim report shall be
+prepared and submitted to the NRC within 60 days of discovery. The interim report shall
+describe the deviation or failure to comply being evaluated and state when the evaluation will be
+completed.”
+Contrary to the above, as of February 13, 2014, Pentair failed to evaluate deviations
+documented in corrective action reports 673, 674 and 675 to identify defects that could be
+associated with substantial safety hazards within 60 days of discovery or file an interim report to
+inform the NRC that the evaluation would not be completed within 60 days of discovery.
+Specifically, Pentair failed to evaluate the deviations identified during the NRC June 2013
+inspection associated with the qualification testing of the AP1000 pressurizer safety valve
+(PV-62). Also, Pentair failed to submit an interim report to inform the NRC that the pressurizer
+safety valves (PV-62) shipped to Vogtle Units 3 and 4 and VC Summer Units 2 and 3 had
+deviations that required evaluation and when such evaluations would be completed. The
+affected pressurizer safety valves (PV-62) are N900028-00-0009, N900028-00-0010,
+N900028-00-0013, and N900028-00-0014 for Vogtle Units 3 and 4; and N900028-00-0011,
+N900028-00-0012, N900028-00-0015, and N900028-00-0016 for V.C. Summer Units 2 and 3.
+This issue has been identified as Violation 99901431/2014-201-01.
+This is a Severity Level IV violation (Section 6.9.d of the NRC Enforcement Policy).
+Enclosure 1
+
+=== PAGE BREAK ===
+
+Pursuant to the provisions of 10 CFR 2.201, “Notice of Violation,” Pentair is hereby required to
+submit a written statement or explanation to the U.S. Nuclear Regulatory Commission, ATTN:
+Document Control Desk, Washington, DC 20555-001, with a copy to the Chief, Mechanical
+Vendor Inspection Branch, Division of Construction Inspection and Operational Programs,
+Office of New Reactors, within 30 days of the date of the letter transmitting this Notice of
+Violation. This reply should be clearly marked as a “Reply to a Notice of Violation;” and should
+include for each violation: (1) the reason for the violation, or, if contested, the basis for disputing
+the violation or severity level, (2) the corrective steps that have been taken and the results
+achieved, (3) the corrective steps that will be taken, and (4) the date when full compliance will
+be achieved. Your response may refer to or include previous docketed correspondence if the
+correspondence adequately addresses the required response. Where good cause is shown,
+consideration will be given to extending the response time.
+If you contest this enforcement action, you also should provide a copy of your response, with
+the basis for your denial, to the Director, Office of Enforcement, U.S. Nuclear Regulatory
+Commission, Washington DC 20555-0001.
+Because your response will be made available electronically for public inspection in the NRC
+Public Document Room or from the NRC’s Agencywide Documents Access and Management
+System, accessible from the NRC Web site at http://www.nrc.gov/reading-rm/adams.html, to the
+extent possible, it should not include any private personal or proprietary information or
+Safeguards Information so that it can be made available to the public without redaction. If
+private personal or proprietary information is necessary to provide an acceptable response, then
+please provide a bracketed copy of your response that identifies the information that should be
+protected and a redacted copy of your response that deletes such information. If you request
+withholding of such material, you must specifically identify the portions of your response that
+you seek to have withheld and provide in detail the bases for your claim of withholding (e.g.,
+explain why the disclosure of information will create an unwarranted invasion of personal
+privacy or provide the information required by 10 CFR 2.390(b) to support a request for
+withholding confidential commercial or financial information). If Safeguards Information is
+necessary to provide an acceptable response, please provide the level of protection described
+in 10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.”
+- 2 -
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION & OPERATIONAL PROGRAMS
+VENDOR INSPECTION REPORT
+Docket No.: 99901431
+Report No.: 99901431/2014-201
+Vendor: Pentair Valves and Controls
+55 Cabot Boulevard
+Mansfield, MA 02048
+Vendor Contact: Mr. Brian Martin
+Quality Assurance Manager
+Brian.Martin@Pentair.com
+Nuclear Industry Activity: Pentair Valves and Controls is an American Society of Mechanical
+Engineers (ASME) certificate holder with a scope of supply that
+includes ensuring design as procured; control and testing of
+safety-related ASME Boiler & Pressure Vessel (B&PV) Code
+valves; QME-1, “Qualification of Active Mechanical Equipment
+Used in Nuclear Power Plants,” testing; safety-related
+instrumentation, diagnostic and test equipment, service and
+repair; and engineering services to the nuclear power industry.
+Pentair has been contracted by the Westinghouse Electric
+Company to provide pressurizer safety valves, auxiliary relief
+valves, and vacuum breaker valves for the AP1000 reactor design
+and to complete QME-1 testing for those valves.
+Inspection Dates: February 12-13, 2014
+NRC inspectors: Jonathan Ortega-Luciano NRO/DCIP/MVIB Team Leader
+Thomas Scarbrough NRO/DE/MEB
+Approved: Edward H. Roach, Chief
+Mechanical Vendor Inspection Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Enclosure 2
+
+=== PAGE BREAK ===
+
+EXECUTIVE SUMMARY
+Pentair Valves and Controls
+99901431/2014-201
+The U. S. Nuclear Regulatory Commission (NRC) staff conducted this limited scope inspection
+to verify that Pentair Valves and Controls (Pentair) qualification testing of the pressurizer safety
+valve (PV-62) for the Westinghouse Electric Company’s (WEC) AP1000 reactor design was
+adequate and correct, and met the applicable requirements of Appendix B to 10 CFR Part 50,
+10 CFR Part 21, American Society of Mechanical Engineers (ASME) Boiler & Pressure Vessel
+Code, Section III, “Rules for Construction of Nuclear Facility Components”, and ASME Standard
+QME-1-2007, “Qualification of Active Mechanical Equipment used in Nuclear Power Plants.”
+The NRC inspection team conducted this inspection on February 12 – 13, 2014.
+The following regulations served as the bases for this NRC inspection:
+• Appendix B to 10 CFR Part 50
+• 10 CFR Part 21
+The NRC inspectors used Inspection Procedure (IP) 43003, “Reactive Inspections of Nuclear
+Vendors,” dated October 13, 2013, IP 35034, “Design Certification Testing Inspection,” dated
+January 27, 2010, and IP 65001.E, “Inspection of the ITAAC-Related Qualification Program,”
+dated August 19, 2008, and IP 36100, “Inspection of 10 CFR Part 21 and Programs for
+Reporting Defects and Noncompliance,” dated February 13, 2012.
+The results of the inspection are summarized below.
+Part 21
+The NRC inspectors concluded that Pentair’s implementation of 10 CFR Part 21 did not meet
+the requirements of 10 CFR Part 21. The NRC inspectors identified Violation
+99901431/2014-201-01, for Pentair’s failure to evaluate deviations, documented in corrective
+action reports 673, 674, and 675 to identify defects that could be associated with substantial
+safety hazards within 60 days of discovery or file an interim report to inform the NRC that the
+evaluation would not be completed within 60 days of discovery. Specifically, Pentair failed to
+evaluate the deviations identified during the NRC June 2013 inspection associated with the
+qualification testing of the AP1000 pressurizer safety valve (PV-62). Also, Pentair failed to
+submit an interim report to inform the NRC that the pressurizer safety valves shipped to Vogtle
+Units 3 and 4 and VC Summer Units 2 and 3 had deviations that required evaluation and when
+such evaluations would be completed. The affected pressurizer safety valves (PV-62) are
+N900028-00-0009, N900028-00-0010, N900028-00-0013, and N900028-00-0014 for Vogtle
+Units 3 and 4; and N900028-00-0011, N900028-00-0012, N900028-00-0015, and
+N900028-00-0016 for V.C. Summer Units 2 and 3.
+Design Control
+The NRC inspectors evaluated the implementation of the design control process associated with
+the functional qualification of the AP1000 PV-62 valve. PV-62 is commodity number assigned
+by WEC to make reference and keep track of activities related to the AP1000 pressurizer safety
+valve. Based on the February 2014 inspection, the NRC inspectors concluded that Pentair had
+conducted a re-test of the pressurizer safety valve (PV-62) that satisfied the design control
+- 2 -
+
+=== PAGE BREAK ===
+
+requirements of Criterion III, “Design Control,” of Appendix B to 10 CFR Part 50. Specifically,
+the NRC inspectors concluded that Pentair’s QME-1 qualification testing for the pressurizer
+safety valve conformed to the seismic qualification provisions specified in the Pentair Valve
+Qualification Test Procedure and the WEC design specifications to verify that the AP1000
+pressurizer safety valves will perform their intended safety functions. No findings of significance
+related to Pentair design control activities for the pressurizer safety valve (PV-62) were
+identified.
+Test Control
+The NRC inspectors observed the qualification testing of the pressurizer safety valve (PV-62) at
+Pentair associated with inspections, tests, analyses, and acceptance criteria in the certified
+AP1000 DCD, Tier 1, incorporated in the combined licenses of Vogtle Units 3 and 4, and
+Summer Units 2 and 3. Specifically, the NRC inspectors reviewed Pentair’s test control
+activities to verify that they were being implemented in accordance with the regulatory
+requirements of Criterion XI, “Test Control,” of Appendix B to 10 CFR Part 50. The NRC
+inspectors concluded that the ASME Standard QME-1 re-qualification testing of the pressurizer
+safety valve conformed to the test provisions specified in the Pentair Valve Qualification Test
+Procedure and the WEC AP1000 design specifications. At the time of the inspection, the NRC
+inspectors performed a detailed evaluation of the valve test results and observed the
+disassembly and inspection of the pressurizer safety valve. Pentair plans to perform the
+production test of the pressurizer safety valve in accordance with the Pentair Production Test
+Procedure following minor polishing and reassembly of the valve internals with installation of the
+full size spring. No findings of significance related to Pentair test control activities for the
+pressurizer safety valve (PV-62) were identified.
+Control of Testing Equipment
+The NRC inspectors concluded that Pentair’s control of test equipment were adequate to meet
+the requirements of Criterion XII, “Control of Measuring and Test Equipment,” of Appendix B to
+10 CFR Part 50. No findings of significance related to Pentair control of testing equipment
+activities for the pressurizer safety valve (PV-62) were identified.
+Training and Qualification of Personnel
+The NRC inspectors concluded the qualification records included the necessary education,
+on-the-job training, examinations and annual vision examination for the specific method and
+level for which the individual was qualified, and that the records were current. No findings of
+significance related to Pentair training and qualification activities for the pressurizer safety valve
+(PV-62) were identified.
+- 3 -

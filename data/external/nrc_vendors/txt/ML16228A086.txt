@@ -1,0 +1,299 @@
+September 7, 2016
+Mr. Robert Michiels
+Project Quality Manager
+Aecon Industrial
+150 Sheldon Drive
+Cambridge ON N1R 7K9
+Canada
+SUBJECT: NUCLEAR REGULATORY COMMISSION INSPECTION REPORT OF AECON
+INDUSTRIAL NO. 99901444/2016-201
+Dear Mr. Michiels:
+From July 25-29, 2016, the U.S. Nuclear Regulatory Commission (NRC) staff conducted an
+inspection at the Aecon’s Industrial (here after referred to as Aecon) facility in Cambridge,
+Ontario, Canada. The purpose of this limited-scope routine inspection was to assess Aecon’s
+compliance with provisions of Title 10 of the Code of Federal Regulations (10 CFR) Part 21,
+“Reporting of Defects and Noncompliance,” and selected portions of Appendix B, “Quality
+Assurance Program Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to
+10 CFR Part 50, “Domestic Licensing of Production and Utilization Facilities.”
+This technically-focused inspection specifically evaluated Aecon’s implementation of the quality
+activities associated with the fabrication, assembly, and testing of the Q223: Direct Vessel
+Injection B mechanical module being supplied to the Westinghouse Electric Company (WEC)
+AP1000 reactor design. The inspection also evaluated activities related to Section III, “Rules for
+Construction of Nuclear Power Plant Components,” of the American Society of Mechanical
+Engineers (ASME) Boiler and Pressure Vessel Code (B&PV Code) and the American Welding
+Society D1.1:2000, “Structural Welding Code – Steel”. The enclosed report presents the results
+of the inspection. This NRC inspection report does not constitute NRC endorsement of Aecon’s
+overall quality assurance (QA) or Part 21 programs.
+During this inspection, the NRC staff reviewed qualification tests associated with inspections,
+tests, analyses, and acceptance criteria (ITAAC) from Revision 19 to the certified AP1000
+Design Control Document (DCD) Tier 1. Specifically, these activities were associated with
+ITAAC 2.2.03.02a, ITAAC 2.2.03.02b, and ITAAC 2.2.03.03b for Vogtle Electric Generating
+Plant Unit 3.
+Based on the results of this inspection, the NRC inspection team found that the implementation
+of your QA program met the regulatory requirements imposed on you by your customers or
+NRC licensees. No findings of significance were identified.
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC’s “Rules of Practice,” the NRC will make available electronically for public inspection
+a copy of this letter, its enclosure, and your response through the NRC Public Document Room
+or from the NRC’s Agencywide Documents Access and Management System, which is
+
+=== PAGE BREAK ===
+
+R. Michiels - 2 -
+accessible at http://www.nrc.gov/reading-rm/adams.html. To the extent possible, your response
+(and if applicable), should not include any personal privacy, proprietary, or Safeguards
+Information so that it can be made available to the public without redaction. If personal privacy
+or proprietary information is necessary to provide an acceptable response, please provide a
+bracketed copy of your response that identifies the information that should be protected and a
+redacted copy of your response that deletes such information. If you request that such material
+be withheld from public disclosure, you must specifically identify the portions of your response
+that you seek to have withheld and provide in detail the bases for your claim (e.g., explain why
+the disclosure of information would create an unwarranted invasion of personal privacy or
+provide the information required by 10 CFR 2.390(b) to support a request for withholding
+confidential commercial or financial information). If Safeguards Information is necessary to
+provide an acceptable response, please provide the level of protection described in
+10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA/ (KKavanagh for)
+Richard P. McIntyre, Acting Chief
+Quality Assurance Vendor Inspection Branch-2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901444
+Enclosure:
+Inspection Report No. 99901444/2016-201
+and Attachment
+
+=== PAGE BREAK ===
+
+R. Michiels - 2 -
+accessible at http://www.nrc.gov/reading-rm/adams.html. To the extent possible, your response
+(and if applicable), should not include any personal privacy, proprietary, or Safeguards
+Information so that it can be made available to the public without redaction. If personal privacy
+or proprietary information is necessary to provide an acceptable response, please provide a
+bracketed copy of your response that identifies the information that should be protected and a
+redacted copy of your response that deletes such information. If you request that such material
+be withheld from public disclosure, you must specifically identify the portions of your response
+that you seek to have withheld and provide in detail the bases for your claim (e.g., explain why
+the disclosure of information would create an unwarranted invasion of personal privacy or
+provide the information required by 10 CFR 2.390(b) to support a request for withholding
+confidential commercial or financial information). If Safeguards Information is necessary to
+provide an acceptable response, please provide the level of protection described in
+10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA/ (KKavanagh for)
+Richard P. McIntyre, Acting Chief
+Quality Assurance Vendor Inspection Branch-2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901444
+Enclosure:
+Inspection Report No. 99901444/2016-201
+and Attachment
+DISTRIBUTION:
+RMusser
+KKavanagh
+TJackson
+MMitchell
+ASakadales
+ALerch
+MKowal
+NRO_DCIP_Distribution
+ConE_Resource
+R2CIB_3 Resource
+AP1000 Distribution
+rmichiels@aecon.com
+ADAMS Accession No.: ML16228A086 *via e-mail NRO-002
+OFFICE NRO/DCIP/QVIB-2 NRO/DEIA/MCB RII/DCI/CIB3 NRO/DCIP/QVIB-2 NRO/DCIP/QVIB-2
+NAME YDiaz-Castillo JHoncharik AArtayet* JOrtega-Luciano RMcIntyre (KKavanagh for)
+DATE 08/17/16 08/17/16 08/17/16 08/17/16 09/07/16
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS
+VENDOR INSPECTION REPORT
+Docket No.: 99901444
+Report No.: 99901444/2016-201
+Vendor: Aecon Industrial
+150 Sheldon Drive
+Cambridge ON N1R 7K9
+Canada
+Vendor Contact: Robert Michiels
+Project Quality Manager
+rmichiels@aecon.com
+(519) 740-7477 x3873
+Nuclear Industry Activity: Aecon Industrial is located in Cambridge, Ontario and it supplies
+mechanical modules to Vogtle Electric Generating Plant Units 3
+and 4 and Virgil C. Summer Nuclear Station Units 2 and 3. Aecon
+has a NCA 4000 Quality Assurance Manual approved by the
+American Society of Mechanical Engineers (ASME) Boiler and
+Pressure Vessel Code. Aecon also has an ASME NA and NPT
+Certificate of Authorization for Class 1, 2, and 3 fabrication without
+design responsibility and an NS Certificate.
+Inspection Dates: July 25-29, 2016
+Inspectors: Jonathan Ortega-Luciano NRO/DCIP/QVIB-2 Team Leader
+Yamir Diaz-Castillo NRO/DCIP/QVIB-2
+John Honcharik NRO/DEIA/MCB
+Alain Artayet RII/DCI/CIB3
+Approved by: Richard P. McIntyre, Acting Chief
+Quality Assurance Vendor Inspection Branch-2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Enclosure
+
+=== PAGE BREAK ===
+
+EXECUTIVE SUMMARY
+Aecon Industrial
+99901444/2016-201
+The U.S. Nuclear Regulatory Commission (NRC) staff conducted a bagman trip at the Aecon
+Industrial (hereafter referred to as Aecon) facility in Cambridge, Ontario on May 18, 2016.
+Aecon is currently under contract with WECTEC, formally Chicago Bridge and Iron, to supply
+mechanical modules that meet the requirements of Section III to the American Society of
+Mechanical Engineers (ASME) Boiler and Pressure Vessel Code for the Vogtle Electric
+Generating Station (hereafter referred to as Vogtle) Units 3 and 4 and Virgil C. Summer Nuclear
+Station (hereafter referred to as V.C. Summer) Units 2 and 3 projects. Discussions with Aecon
+included the fabrication schedule and the manufacturing processes and procedures being
+utilized on the Westinghouse Electric Company (WEC) AP1000 projects for Vogtle and
+V.C. Summer. During the walkthrough of the fabrication shop, the NRC staff observed
+two 10-inch piping spools supplied by Chicago Bridge and Iron (CB&I) in Laurens,
+South Carolina that had abrupt weld contours that did not meet Section III, “Rules for
+Construction of Nuclear Power Plant Components,” of the ASME B&PV Code, which requires
+offsets to have at least a 3:1 taper over the width of the finished weld or, if necessary, by adding
+additional weld metal beyond what would otherwise be the edge of the weld. The NRC staff
+noted that the outside diameter offset was visible for approximately half of the pipe weld
+circumference, and acts as a stress concentration and could affect the design stresses and
+piping integrity. As a result of this observation, Aecon issued Non-conformance report
+(NCR) –No. A00002-000-0206, dated June 30, 2016.
+Subsequently, the NRC staff conducted a technically focused inspection at the Aecon’s facility
+to verify that it had implemented an adequate quality assurance (QA) program that complies
+with the requirements of Appendix B, “Quality Assurance Criteria for Nuclear Power Plants and
+Fuel Reprocessing Plants,” to Title 10 of the Code of Federal Regulations (10 CFR) Part 50,
+“Domestic Licensing of Production and Utilization Facilities.” In addition, the NRC inspection
+team also verified that Aecon implemented a program under 10 CFR Part 21, “Reporting of
+Defects and Noncompliance,” that met the NRC’s regulatory requirements. The NRC inspection
+team conducted the inspection from July 25-29, 2016. This was the initial NRC inspection at the
+Aecon facility.
+A representative from the Canadian Nuclear Safety Commission (CNSC) participated as an
+observer of this inspection. These observations foster the sharing of international experiences
+with the construction of new reactors, oversight of vendors, and modular construction
+techniques consistent with the objectives of the Multinational Design Evaluation Program.
+During the July 25- 29, 2016 inspection the NRC inspection team verified that Aecon adequately
+disposition NCR –No. A00002-000-0206, and that non-conforming material was repaired as
+dispositioned by the designer (WEC). The NRC inspection team observed that the welds had
+been repaired to meet the requirements of the ASME B&PV Code and the WEC design
+specification. After observing the repairs, the NRC inspection team inspected other welds and
+identified seven additional welds that did not meet the requirements of the ASME B&PV Code
+and the applicable design specification. Aecon issued NCR –No. A00002-000-0259 that will
+require WECTEC Source Inspectors to perform 100 percent inspection on all of the piping spool
+welds manufactured by CB&I Laurens that are currently being installed into the mechanical
+modules at Aecon. Since WEC has responsibility for the piping spools, WEC will take
+ownership of the corrective actions to be performed by Aecon. The NRC will evaluate WEC’s
+- 2 -
+
+=== PAGE BREAK ===
+
+corrective actions for the piping spool welds that did not meet the ASME B&PV Code and the
+design specification requirements during the next scheduled inspection at WEC’s headquarter
+offices.
+Some activities observed by the NRC inspection team are associated with or directly affect
+closure of inspections, tests, analyses, and acceptance criteria (ITAAC) from Revision 19 of the
+certified AP1000 design. These ITAAC are included in the combined licenses of Vogtle Units 3
+and 4, and V. C. Summer Units 2 and 3.
+Specific activities observed by the NRC inspection team included:
+• Manual Gas Tungsten Arc Welding (GTAW) for the root and hot passes on Class 1
+(BTA) shop weld-No. W4 joining a short radius 90° elbow fitting to 8-inch NPS schedule
+160 pipe spool S/N Q223-PXS-PLW-01-B
+• Remote up/downhill machine GTAW for intermediate weld passes on shop weld-No. W1
+to the inlet side of the tee fitting for an 8-inch NPS schedule 160 pipe spool shown on
+drawing No. SV3-Q223-PXS-PLW-02
+• Receipt inspection of two gate valves, 8-inch, CL 1500 INT, stainless steel, motor
+operated, butt weld, Schedule 160S, active, Class 1, for the Reactor Coolant System for
+Vogtle Unit 3
+• Borescope inspection of weld 17 on piping spool Serial Number VS2-RNS-PLW-014-1D,
+for Residual Heat Removal system for V.C. Summer, Unit 2.
+• Corrective Action Screening Committee meeting to determine the level of significance for
+corrective actions requests (CARs) opened in response to issues identified by the NRC
+during the inspection
+• Calibration of an A/C Yoke (40-063) and a 12-inch Vernier Caliper (10-022)
+In addition to observing these activities, the NRC inspection team verified that measuring and
+test equipment (M&TE) was properly identified, marked, calibrated, and used within its
+calibrated range.
+These regulations served as the bases for the NRC inspection:
+• Appendix B to 10 CFR Part 50
+• 10 CFR Part 21
+- 3 -
+
+=== PAGE BREAK ===
+
+During the course of this inspection, the NRC inspection team implemented the following
+Inspection Procedures (IP):
+• IP 36100, “Inspection of 10 CFR Part 21 and Programs for Reporting Defects and
+Noncompliance”
+• IP 43002, “Routine Vendor Inspections”
+• IP 43004, “Inspection of Commercial-Grade Dedication Programs”
+• IP 65001.03, “Inspection of ITAAC-Related Installation of Piping”
+• IP 65001.B, “Inspection of the ITAAC-Related Welding Program”
+• IP 65001.F, “Inspection of the ITAAC-Related Design and Fabrication Requirements”
+The NRC inspection team concluded that Aecon’s QA policies and procedures comply with the
+applicable requirements of Appendix B to 10 CFR Part 50 and 10 CFR Part 21, and that
+Aecon’s personnel are implementing these policies and procedures effectively. The results of
+this inspection are summarized below.
+Inspection Areas
+The NRC inspection team determined that Aecon is implementing its programs for design
+control, commercial-grade dedication, supplier oversight, internal audits, manufacturing control,
+inspection, control of special processes, control of M&TE, nonconforming material parts, and
+components, and corrective action in accordance with the applicable regulatory requirements of
+Appendix B to 10 CFR Part 50. Also, Aecon is implementing its 10 CFR Part 21 program in
+accordance with the regulatory requirements. Based on the limited sample of documents
+reviewed and activities observed, the NRC inspection team also determined that Aecon is
+implementing its policies and procedures associated with these programs and no findings of
+significance were identified.
+- 4 -
+
+=== PAGE BREAK ===
+
+REPORT DETAILS
+1. 10 CFR Part 21 Program
+a. Inspection Scope
+The NRC inspection team reviewed Aecon’s policies and implementing procedures that
+govern Aecon’s 10 CFR Part 21, “Reporting of Defects and Noncompliance,” program to
+verify compliance with the regulatory requirements. In addition, the NRC inspection
+team evaluated the 10 CFR Part 21 postings and a sample of Aecon’s purchase orders
+(PO) for compliance with the requirements of 10 CFR 21.21, “Notification of Failure to
+Comply or Existence of a Defect and its Evaluation,” and 10 CFR 21.31, “Procurement
+Documents.” The NRC inspection team also verified that Aecon’s nonconformance and
+corrective action procedures provide a link to the 10 CFR Part 21 program.
+The NRC inspection team discussed the 10 CFR Part 21 program with Aecon’s
+management and technical staff. The attachment to this inspection report lists the
+documents reviewed by the NRC inspection team.
+b. Observations and Findings
+No findings of significance were identified.
+c. Conclusion
+The NRC inspection team concluded that Aecon is implementing its 10 CFR Part 21
+program in accordance with the regulatory requirements of 10 CFR Part 21. Based on
+the limited sample of documents reviewed, the NRC inspection team also determined
+that Aecon is implementing its policies and procedures associated with the 10 CFR
+Part 21 program. No findings of significance were identified.
+2. Design Control
+a. Inspection Scope
+The NRC inspection team reviewed Aecon’s policies and implementing procedures that
+govern the design control program to verify compliance with the regulatory requirements
+of Criterion III, “Design Control,” of Appendix B , “Quality Assurance Program Criteria for
+Nuclear Power Plants and Fuel Reprocessing Plants,” to 10 CFR Part 50, “Domestic
+Licensing of Production and Utilization Facilities,” and the requirements of Section III,
+“Rules for Construction of Nuclear Facility Components,” of the ASME B&PV Code.
+Although Aecon does not have responsibility for any design activities, the NRC
+inspection team reviewed Aecon’s processes for preparing fabrication drawings and
+work travelers, including translation of technical and quality requirements into Aecon’s
+procedures and process controls. The NRC inspection team examined Aecon’s
+standard operating procedures (SOPs) and associated forms that control design
+changes, as well as a sample of engineering drawings, design reports and inspection
+plans.
+- 5 -

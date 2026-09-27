@@ -1,0 +1,276 @@
+March 7, 2014
+Mr. Bill Ross, Quality Assurance Manager
+EnerSys
+2366 Bernville Rd.
+Reading, PA 19605
+SUBJECT: NUCLEAR REGULATORY COMMISSION INSPECTION OF ENERSYS REPORT
+NO. 99901435/2013-201
+Dear Mr. Ross:
+From February 10 to February 13, 2014, the U.S. Nuclear Regulatory Commission (NRC)
+conducted an inspection at the EnerSys’s manufacturing facility in Hays, KS. The purpose of
+the limited-scope inspection was to assess Enersys’ compliance with the provisions of selected
+portions of Appendix B, “Quality Assurance Criteria for Nuclear Power Plants and Fuel
+Reprocessing Plants,” to Title 10 of the Code of Federal Regulations (10 CFR) Part 50,
+“Domestic Licensing of Production and Utilization Facilities,” and 10 CFR Part 21, “Reporting of
+Defects and Noncompliance.”
+This inspection specifically evaluated EnerSys’s design, qualification, and commercial-grade
+dedication of safety-related batteries supplied to U.S. operating reactor plants. The enclosed
+report presents the results of this inspection. This NRC inspection report does not constitute
+NRC endorsement of your overall quality assurance (QA) or 10 CFR Part 21 programs.
+Based on the results of this inspection, the NRC inspection team found that the implementation
+of your QA program meets NRC requirements imposed on you by your customers or NRC
+licensees. Within the scope of this inspection, no violations or nonconformances were
+identified. No response is required.
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC’s Rules of Practice, a copy of this letter and its enclosures will be made available
+electronically for public inspection in the NRC Public Document Room or from the NRC’s
+document system, Agencywide Documents Access and Management System, which is
+accessible from the NRC Web site at http://www.nrc.gov/reading-rm/adams.html.
+Sincerely,
+/RA/
+Richard A. Rasmussen, Chief
+Electrical Vendor Inspection Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901435
+
+=== PAGE BREAK ===
+
+March 7, 2014
+Mr. Bill Ross, Quality Assurance Manager
+EnerSys
+2366 Bernville Rd.
+Reading, PA 19605
+SUBJECT: NUCLEAR REGULATORY COMMISSION INSPECTION OF ENERSYS REPORT
+NO. 99901435/2013-201
+Dear Mr. Ross:
+From February 10 to February 13, 2014, the U.S. Nuclear Regulatory Commission (NRC)
+conducted an inspection at the EnerSys manufacturing facility in Hays, KS. The purpose of the
+limited-scope inspection was to assess Enersys’s compliance with the provisions of selected
+portions of Appendix B, “Quality Assurance Criteria for Nuclear Power Plants and Fuel
+Reprocessing Plants,” to Title 10 of the Code of Federal Regulations (10 CFR) Part 50,
+“Domestic Licensing of Production and Utilization Facilities,” and 10 CFR Part 21, “Reporting of
+Defects and Noncompliance.”
+This inspection specifically evaluated EnerSys’s design, qualification, and commercial-grade
+dedication of safety-related batteries supplied to U.S. operating reactor plants. The enclosed
+report presents the results of this inspection. This NRC inspection report does not constitute
+NRC endorsement of your overall quality assurance (QA) or 10 CFR Part 21 programs.
+Based on the results of this inspection, the NRC inspection team found that the implementation
+of your QA program meets NRC requirements imposed on you by your customers or NRC
+licensees. Within the scope of this inspection, no violations or nonconformances were
+identified. No response is required.
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC’s Rules of Practice, a copy of this letter and its enclosures will be made available
+electronically for public inspection in the NRC Public Document Room or from the NRC’s
+document system, Agencywide Documents Access and Management System, which is
+accessible from the NRC Web site at http://www.nrc.gov/reading-rm/adams.html.
+Sincerely,
+/RA/
+Richard A. Rasmussen, Chief
+Electrical Vendor Inspection Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901435
+DISTRIBUTION:
+See next page
+ADAMS Accession No.: ML14058A705 *Concurred via email NRO-002
+OFFICE NRO/DCIP/EVIB NRO/DCIP/EVIB NRO/DCIP/QVIB
+NAME ARamirez* JJimenez FTalbot*
+DATE 02/26/2014 02/25/2014 02/25/2014
+OFFICE NRO/DCIP/EVIB NRO/DCIP/EVIB
+NAME SSmith RRasmussen
+DATE 02/27/2014 03/07/2014
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+DISTRIBUTION:
+ASakadales
+ERoach
+KKanagh
+JJimenez
+ARamirez
+FTalbot
+bill.ross@enersys.com
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS
+VENDOR INSPECTION REPORT
+Docket No.: 99901435
+Report No.: 99901435/2013-201
+Vendor: EnerSys
+1 Enersys Rd.
+Hays, KS 67601
+Vendor Contact: Mr. Bill Ross, Quality Assurance Manager
+bill.ross@enersys.com
+Background: The EnerSys manufacturing facility is located in Hays, Kansas.
+This facility provides Class 1E batteries for safety-related
+applications to U.S. nuclear power plants. This facility is qualifying
+the batteries for the AP1000. This inspection will be the first at
+this EnerSys manufacturing facility in Hays, Kansas and will only
+focus on batteries being supplied to operating reactors (EnerSys
+GN product type).
+Inspection Dates: February 10-13, 2014
+Inspection Team Leader: Stacy Smith, NRO/DCIP/EVIB
+Inspectors: Jose Jimenez, NRO/DCIP/EVIB
+Annie Ramirez, NRO/DCIP/EVIB
+Frank Talbot, NRO/DCIP/QVIB
+Approved by: Richard A. Rasmussen, Chief
+Electrical Vendor Inspection Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Enclosure 1
+
+=== PAGE BREAK ===
+
+EXECUTIVE SUMMARY
+EnerSys
+99901435/2013-201
+The U.S. Nuclear Regulatory Commission (NRC) conducted this vendor inspection to verify that
+EnerSys implemented an adequate quality assurance (QA) program that complies with the
+requirements of Appendix B, “Quality Assurance Criteria for Nuclear Power Plants and Fuel
+Reprocessing Plants,” to Title 10 of the Code of Federal Regulations (10 CFR) Part 50,
+“Domestic Licensing of Production and Utilization Facilities,” and 10 CFR Part 21, “Reporting of
+Defects and Noncompliance.”
+This inspection specifically evaluated EnerSys’s design, qualification, and commercial-grade
+dedication of safety-related batteries, the EnerSys GN product type, supplied to U.S. operating
+reactor plants. The NRC inspection team reviewed the initial qualification of the GN product
+type, design changes since the initial qualification, and testing performed during the inspection.
+In addition, the inspection team reviewed EnerSys’s nonconformance, corrective action, and
+10 CFR Part 21 programs. The NRC conducted this inspection at EnerSys’s facility in
+Hays, KS.
+The following regulations served as the bases for this NRC inspection:
+• Appendix B to 10 CFR Part 50
+• 10 CFR Part 21
+Inspection procedures (IP) to be used include IP 43002, "Routine Inspections of Nuclear
+Vendors,” IP 43004, “Inspection of Commercial-Grade Dedication Programs,” and IP 36100,
+“Inspection of 10 CFR Part 21 and Programs for Reporting Defects and Noncompliance."
+The information below summarizes the results of this inspection.
+10 CFR Part 21
+The inspectors determined that EnerSys appropriately translated the requirements of 10 CFR
+Part 21 into their implementing procedures and, for those activities that the inspectors reviewed,
+implemented them as required. No findings of significance were identified.
+Design Control and Qualification
+The NRC inspectors determined that EnerSys’s policy and procedures for design control and
+battery qualification satisfy the regulatory requirements set forth in Criterion III, “Design Control,”
+and Criterion XI, “Test Control,” of Appendix B to 10 CFR Part 50. No findings of significance
+were identified.
+Commercial-Grade Dedication and the Manufacturing Process
+The inspectors determined that the implementation of EnerSys’s programs for the assembly,
+inspection, testing, and commercial-grade dedication activities were consistent with the
+regulatory requirements of Criterion III, “Design Control,” Criterion X, “Inspection,” and Criterion
+XI, “Test Control,” of Appendix B to 10 CFR Part 50.
+- 2 -
+
+=== PAGE BREAK ===
+
+Measuring and Test Equipment
+The NRC inspectors concluded that EnerSys has established a program that adequately
+controls calibration and use of measuring and test equipment in accordance with the regulatory
+requirements of Criterion XII, “Control of Measuring and Test Equipment,” of Appendix B to
+10 CFR Part 50. No findings of significance were identified.
+Nonconformances and Corrective Actions
+The inspectors determined that the implementation of EnerSys’s programs for control of
+nonconforming material, parts, or components and corrective action were consistent with the
+regulatory requirements in Criterion XV, “Nonconforming Materials, Parts, or Components,” and
+Criterion XVI, “Corrective Action,” of Appendix B to 10 CFR Part 50. No findings of significance
+were identified.
+Internal Audits
+The NRC inspection team determined that EnerSys established a program that adequately
+controls audit activities in accordance with the regulatory requirements of Criterion XVIII,
+“Audits,” of Appendix B to 10 CFR Part 50. The NRC inspection team determined that EnerSys
+is effectively implementing its internal audit program. No findings of significance were identified.
+- 3 -
+
+=== PAGE BREAK ===
+
+REPORT DETAILS
+1. 10 CFR Part 21 Program
+a. Inspection Scope
+The inspectors reviewed EnerSys’s policies and implementing procedures that govern its
+Title 10 of the Code of Federal Regulations (10 CFR) Part 21 program to verify compliance
+with the requirements of 10 CFR Part 21. The inspectors also reviewed EnerSys’s
+procedures that govern corrective actions and the control and correction of nonconforming
+items to verify an adequate link to the 10 CFR Part 21 process. Quality Assurance
+Procedure (QAP) 80.0, “10 CFR Part 21 Reporting Non-conforming Material,” and EnerSys’s
+Quality Assurance Manual establish the requirements for compliance with the requirements
+in 10 CFR Part 21. The inspectors reviewed EnerSys’s 10 CFR Part 21 policy and
+procedures and related documentation, and interviewed quality assurance (QA) staff
+members. The inspection team verified that QAP 62.0, “Material Review Report (MRR)
+Procedure,” and QAP 73.0, “Corrective Action Procedure,” provide adequate links to the
+Part 21 procedure. Specifically, the NRC inspection team evaluated implementation of the
+10 CFR Part 21 reporting program by sampling 40 MRR forms (Form 5-137A) and
+Corrective Action Request (CAR) forms (Form 5-249) which required evaluations of
+deviations from technical requirements that could create a substantial safety hazard.
+b. Observations and Findings
+No findings of significance in this area were identified.
+c. Conclusions
+The inspectors determined that EnerSys appropriately translated the requirements of
+10 CFR Part 21 into their implementing procedures and, for those activities that the
+inspectors reviewed, implemented them as required. No findings of significance were
+identified.
+2. Design Control and Qualification
+a. Inspection Scope
+The inspectors reviewed EnerSys’s policies and procedures for design control and battery
+qualification to verify compliance with Criterion III, “Design Control,” and Criterion XI, “Test
+Control,” of Appendix B to 10 CFR Part 50. The inspectors evaluated EnerSys’s design
+change control process and procedures established in EnerSys’s Quality Assurance
+Manual. Specifically, the inspectors reviewed design changes to ensure they would not
+invalidate the qualified GN product type with respect to seismic, aging, radiation, and
+electrical properties. In addition, the inspectors reviewed EnerSys’s 50.59 like evaluation
+performed for each design change. The inspectors reviewed GN product type qualification
+in Wyle Test Report 46647-1 to verify qualification per ANSI/IEEE-535-1986, “IEEE
+Standard for Qualification of Class 1E Lead Storage Batteries for Nuclear Power Generating
+Stations.” The inspectors also reviewed purchase order (PO) No. 45438333, for GN-13
+battery systems for First Energy, and PO No. 4500005970, GN-23 battery systems for
+Dominion, to ensure they included the appropriate regulatory requirements and product
+qualification specified by the customers.
+- 4 -
+
+=== PAGE BREAK ===
+
+b. Observations and Findings
+No findings of significance in this area were identified.
+c. Conclusions
+The NRC inspectors determined that EnerSys’s policy and procedures for design control
+and battery qualification satisfy the regulatory requirements set forth in Criterion III, “Design
+Control,” and Criterion XI, “Test Control,” of Appendix B to 10 CFR Part 50. No findings of
+significance were identified.
+3. Commercial-Grade Dedication and the Manufacturing Process
+a. Inspection Scope
+The NRC inspectors reviewed EnerSys’s policies and procedures governing the
+implementation of its commercial-grade dedication program, including assembly and testing,
+to verify compliance with Criterion III, “Design Control,” Criterion X, “Inspection,” Criterion XI,
+“Test Control,” of Appendix B to 10 CFR Part 50.
+The NRC inspection team reviewed QAP-70, “Dedication of Commercial Grade Items (CGI)
+for Nuclear Safety Related Items” which provides the methodology for dedicating
+commercial-grade items/services to be installed in Class 1E batteries, including the
+development for critical characteristics and acceptance criteria and methods. The NRC
+inspection team reviewed the nuclear-qualified battery (GN product type) process
+characteristic control plan that included critical characteristics. In addition, the inspectors
+reviewed a sample of inputs to the dedication process, including: 1) customer purchase
+orders, 2) development of critical characteristics, and 3) acceptance process. The
+inspectors noted that EnerSys was in the process of updating their commercial-grade
+dedication process for GN batteries and formalizing the method they already use for
+technical evaluations; therefore, the NRC was not able to verify the adequacy of those these
+changes at the time of the inspection.
+The NRC inspection team observed the acceptance discharge testing for PO No. 45438333,
+for GN-13 battery systems for First Energy, and specifically verified that the requirements
+listed in the purchase order were adequately translated to the test plan. The inspectors
+evaluated the setup and implementation of the testing. During the test, the inspectors
+verified that the batteries’ discharge characteristics and the amp-voltage profile were in
+accordance with the as-built design characteristics.
+b. Observations and Findings
+No findings of significance in this area were identified.
+c. Conclusions
+The inspectors determined that the implementation of EnerSys’s programs for the assembly,
+inspection, testing, and commercial-grade dedication activities were consistent with the
+regulatory requirements of Criterion III, “Design Control,” Criterion X, “Inspection,” and
+Criterion XI, “Test Control,” of Appendix B to 10 CFR Part 50.
+- 5 -

@@ -1,0 +1,278 @@
+June 28, 2013
+Mr. Matthew Siegel, President
+General Atomics Electronics Systems, Inc.
+4990 Greencraig Lane
+San Diego, CA 92123
+SUBJECT: NUCLEAR REGULATORY COMMISSION INSPECTION REPORT
+NO. 99900265/2013-201 AND NOTICE OF NONCONFORMANCE
+Dear Mr. Siegel:
+From May 13 to May 16, 2013, the U.S. Nuclear Regulatory Commission (NRC) staff conducted
+an inspection at the General Atomics Electronics Systems, Inc. (GA-ESI), facility in San Diego,
+CA. The purpose of the limited-scope inspection was to assess GA-ESI’s compliance with the
+provisions of selected portions of Appendix B, “Quality Assurance Criteria for Nuclear Power
+Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of Federal Regulations (10 CFR)
+Part 50, “Domestic Licensing of Production and Utilization Facilities,” and 10 CFR Part 21,
+“Reporting of Defects and Noncompliance.”
+This inspection specifically evaluated GA-ESI’s production of radiation monitoring systems
+(RMS) for the U.S. AP1000 fleet, and for other operating reactor plants. The enclosed report
+presents the results of the inspection. This NRC inspection report does not constitute NRC
+endorsement of your overall quality assurance (QA) or 10 CFR Part 21 programs.
+Based on the results of this inspection, the NRC inspection team found that the implementation
+of your QA program did not meet certain NRC requirements imposed on you by your customers
+or NRC licensees. Specifically, GA-ESI failed to identify critical characteristics for a radioiodine
+filter used in its RMS systems and failed to verify critical material characteristics of an Amphenol
+connection. The enclosed notice of nonconformance (NON) cites these nonconformances, and
+the circumstances surrounding them are described in detail in the enclosed inspection report.
+Please provide a written statement or explanation within 30 days from the date of this letter in
+accordance with the instructions specified in the enclosed NON. The NRC will consider
+extending the response time if you show good cause for the agency to do so.
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC’s “Rules of Practice,” the NRC will make a copy of this letter, its enclosures, and
+your response available electronically for public inspection in the NRC’s Public Document Room
+or through the NRC’s document system, Agencywide Documents Access and Management
+System (ADAMS), which is accessible from the NRC Web site at
+http://www.nrc.gov/reading-rm/adams.html. To the extent possible, your response should not
+include any personal privacy, proprietary, or Safeguards Information so that it can be made
+available to the public without redaction.
+
+=== PAGE BREAK ===
+
+M. Siegel - 2 -
+If personal privacy or proprietary information is necessary to provide an acceptable response,
+then please provide a bracketed copy of your response that identifies the information that
+should be protected and a redacted copy of your response that deletes such information. If you
+request that such material be withheld from public disclosure, you must specifically identify the
+portions of your response that you seek to have withheld and provide in detail the bases for your
+claim (e.g., explain why the disclosure of information will create an unwarranted invasion of
+personal privacy or provide the information required by 10 CFR 2.390(b) to support a request for
+withholding confidential commercial or financial information). If the inclusion of Safeguards
+Information is necessary to provide an acceptable response, please provide the level of
+protection described in 10 CFR 73.21, “Protection of Safeguards Information: Performance
+Requirements.”
+Sincerely,
+/RA/
+Richard A. Rasmussen, Chief
+Electrical Vendor Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99900265
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report 99900265/2013-201
+
+=== PAGE BREAK ===
+
+M. Siegel - 2 -
+If personal privacy or proprietary information is necessary to provide an acceptable response,
+then please provide a bracketed copy of your response that identifies the information that
+should be protected and a redacted copy of your response that deletes such information. If you
+request that such material is withheld from public disclosure, you must specifically identify the
+portions of your response that you seek to have withheld and provide in detail the bases for your
+claim (e.g., explain why the disclosure of information will create an unwarranted invasion of
+personal privacy or provide the information required by 10 CFR 2.390(b) to support a request for
+withholding confidential commercial or financial information). If safeguards information is
+necessary to provide an acceptable response, please provide the level of protection described
+in 10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA/
+Richard A. Rasmussen, Chief
+Electrical Vendor Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99900265
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report 99900265/2013-201
+DISTRIBUTION:
+ASakadales
+ERoach
+KKavanagh
+RidsNroDcip
+RidsNroDcipCMVB
+RidsNroDcipCEVB
+John.Morris@ga-esi.com
+Kevin.Bonser@ga-esi.com
+keith.asmussen@ga.com
+ADAMS Accession No.: ML13164A351 *Concurred via email NRC-001
+OFFICE NRO/DCIP/CEVB NRO/DCIP/CEVB NRO/DCIP/CQAB NRO/DCIP/CQAB
+NAME DBollock GGalletti PPrescott ABelen
+DATE 6/13/2013 6/13/2013 6/18/2013 6/13/2013
+OFFICE NRO/DCIP/CAEB NRO/DCIP/CEVB
+NAME TFrye RRasmussen
+DATE 6/20/2013 6/28/2013
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+NOTICE OF NONCONFORMANCE
+General Atomics Electronic Systems, Inc. Docket No.: 99900265
+San Diego, CA Inspection Report No.: 99900265/2013-201
+Based on the results of a U.S. Nuclear Regulatory Commission (NRC) inspection conducted at
+the General Atomics Electronic Systems, Inc. (GA-ESI) facility in San Diego, CA, on
+May 13–16, 2013, certain activities were not conducted in accordance with NRC requirements
+that NRC licensees contractually imposed on GA-ESI:
+A. Criterion III, “Design Control,” of Appendix B, “Quality Assurance Criteria for Nuclear
+Power Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of Federal
+Regulations (10 CFR) Part 50, “Domestic Licensing of Production and Utilization
+Facilities,” states, in part, “measures shall also be established for the selection and
+review for suitability of application of materials, parts, equipment, and processes that are
+essential to the safety-related functions of the structures, systems, and components.”
+General Atomics procedure OP-7.3-240, “Safety-Related Commercial Grade Item Parts
+Acceptance,” Rev L, dated January 3, 2013, Section 4.a, states, in part, that the critical
+characteristics shall be verified by a documented critical characteristics acceptance plan
+(CCAP) or checklist. It shall include:
+1. tests and inspections to be performed according to CCAP
+2. test methods and inspection techniques to be used
+3. acceptance criteria previously derived from the technical evaluation
+4. documentation requirements for inspection and test results
+The documentation as a result of the tests and inspections shall become part of the
+documentation package that is stored with the purchase order.
+Contrary to the above, as of May 16, 2013, NRC staff identified two examples where
+GA-ESI failed to establish adequate measures for the selection and review for suitability
+of application of materials, parts, equipment, and processes that are essential to the
+safety-related functions of the structures, systems, and components. Specifically:
+1. GA-ESI procured commercial grade items for use in safety-related applications
+without verifying the functional critical characteristic of the radioiodine cartridge filter
+to demonstrate that it can collect particulates from an air sample.
+2. GA-ESI’s Amphenol connector documentation did not provide technical justification
+for the acceptance criteria for the critical characteristics regarding material
+composition.
+This issue has been identified as Nonconformance 99900265/2013-201-01.
+Please provide a written statement or explanation to the U.S. Nuclear Regulatory Commission,
+ATTN: Document Control Desk, Washington, DC 20555-0001, with a copy to the Chief,
+Construction Electrical Vendor Branch, Division of Construction Inspection and Operational
+Programs, Office of New Reactors, within 30 days of the date of the letter transmitting this
+notice of nonconformance. This reply should be clearly marked as a “Reply to a Notice of
+Nonconformance” and should include for each noncompliance: (1) the reason for the
+Enclosure 1
+
+=== PAGE BREAK ===
+
+noncompliance, or if contested, the basis for disputing the noncompliance, (2) the corrective
+steps that have been taken and the results achieved, (3) the corrective steps that will be taken
+to avoid noncompliance, and (4) the date when the corrective action will be completed. Where
+good cause is shown, the NRC will consider extending the response time.
+Because your response will be made available electronically for public inspection in the NRC’s
+Public Document Room or through the NRC’s Agencywide Documents Access and
+Management System, which is accessible from the NRC Web site at
+http://www.nrc.gov/reading-rm/adams.html, to the extent possible, it should not include any
+personal privacy, proprietary, or Safeguards Information so that it can be made available to the
+public without redaction. If personal privacy or proprietary information is necessary to provide
+an acceptable response, then please provide a bracketed copy of your response that identifies
+the information that should be protected and a redacted copy of your response that deletes such
+information. If you request that such material be withheld, you must specifically identify the
+portions of your response that you seek to have withheld and provide in detail the bases for your
+claim of withholding (e.g., explain why the disclosure of information will create an unwarranted
+invasion of personal privacy or provide the information required by 10 CFR 2.390(b) to support a
+request for withholding confidential commercial or financial information). If Safeguards
+Information is necessary to provide an acceptable response, please provide the level of
+protection described in 10 CFR 73.21, “Protection of Safeguards Information: Performance
+Requirements.”
+Dated this the 28th day of June 2013.
+- 2 -
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS
+VENDOR INSPECTION REPORT
+Docket No.: 99900265
+Report No.: 99900265/2013-201
+Vendor: General Atomics Electronics Systems Inc.
+4990 Greencraig Lane
+San Diego, CA 92123
+Vendor Contact: John Morris, Director, RMS Programs
+Telephone: 858-522-8425
+E-mail: john.morris@ga-esi.com
+Background: General Atomics Electronics Systems, Inc., is a provider of
+radiation monitoring systems and replacement parts of those
+systems for the U.S. commercial nuclear fleet. They are also
+producing the radiation monitoring systems for the U.S. AP1000
+new reactors.
+Inspection Dates: May 13–16, 2013
+Inspection Team Leader: Douglas Bollock, NRO/DCIP/CEVB
+Inspectors: Paul Prescott, NRO/DCIP/CQAB
+Greg Galletti, NRO/DCIP/CEVB
+Aixa Belen, NRO/DCIP/CQAB
+Approved by: Richard A. Rasmussen, Chief
+Electrical Vendor Branch
+Division of Construction Inspection and Operational Programs
+Office of New Reactors
+Enclosure 2
+
+=== PAGE BREAK ===
+
+EXECUTIVE SUMMARY
+General Atomics Electronics Systems Inc.
+99900265/2013-201
+The U.S. Nuclear Regulatory Commission (NRC) conducted this vendor inspection to verify
+aspects of the implementation by General Atomics Electronics Systems Inc. (GA-ESI), of its
+quality assurance (QA) program as required by Appendix B, “Quality Assurance Criteria for
+Nuclear Power Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of Federal
+Regulations (10 CFR) Part 50, “Domestic Licensing of Production and Utilization Facilities,” and
+10 CFR Part 21, “Reporting of Defects and Noncompliance.”
+This inspection specifically evaluated GA-ESI’s design, production, and dedication of
+safety-related radiation monitoring systems (RMS) for the U.S. AP1000 new reactors. GA-ESI
+also produces other RMSs for operating commercial nuclear plants in the United States and
+provides repair and replacement of those systems. The NRC inspection team reviewed the
+procurement, design, production, commercial grade dedication, and testing of the GA-ESI RMS
+systems, along with reviewing GA-ESI’s 10 CFR Part 21 program. The NRC conducted this
+inspection at GA-ESI’s facility in San Diego, CA.
+The following regulations served as the bases for this NRC inspection:
+• Appendix B to 10 CFR Part 50
+• 10 CFR Part 21
+The inspectors used Inspection Procedure (IP) 43002, “Routine Inspections of Nuclear
+Vendors,” dated April 25, 2011, IP 43004, “Inspection of Commercial-Grade Dedication
+Programs,” dated April 25, 2011, and IP 36100, “Inspection of 10 CFR Part 21 and Programs for
+Reporting Defects and Noncompliance,” dated February 13, 2012.
+The information below summarizes the results of this inspection.
+10 CFR Part 21
+The inspectors determined that GA-ESI appropriately translated the requirements of
+10 CFR Part 21 into implementing procedures and, for those activities that the inspectors
+reviewed, implemented them as required by GA-ESI procedures. No findings of significance
+were identified.
+Commercial Grade Dedication
+The inspectors reviewed GA-ESI’s implementing procedures governing the commercial-grade
+dedication program to verify compliance with the requirements of Criterion III, “Design Control,”
+and Criterion VII, “Control of Purchased Material, Equipment, and Services,” of Appendix B to
+10 CFR Part 50.
+Based on this review, the inspectors issued Nonconformance 99900265/2013-201-01 for
+GA-ESI’s failure to implement the regulatory requirements of Criterion III, “Design Control,” of
+Appendix B to 10 CFR Part 50. Specifically, GA-ESI failed to verify critical characteristics
+related to flow and efficiency of a radioiodine filter cartridge and electrical connector material to
+demonstrate that the components would be able to perform their safety function.
+- 2 -
+
+=== PAGE BREAK ===
+
+Design Control
+The inspectors determined, based on the samples reviewed, that the vendor design control
+process met the requirements of Criterion III, “Design Control,” of Appendix B to
+10 CFR Part 50. With the exception of Nonconformance 99900265/2013-201-01, in section 2
+Commercial Grade Dedication of this report, no findings of significance were identified.
+Procurement
+The inspectors determined that GA-ESI’s procurement processes conformed to the
+requirements of Criteria IV, “Procurement Document Control,” and VII, “Control of Purchased
+Material, Equipment, and Services,” of Appendix B to 10 CFR Part 50 and that GA-ESI’s QA
+policy and procedures were being effectively implemented for the AP1000 RMS work. No
+findings of significance were identified.
+Testing
+The inspectors determined that GA-ESI’s testing quality controls conformed to the requirements
+of Criteria XI, “Test Control” of Appendix B to 10 CFR Part 50 and that GA-ESI’s QA policy and
+procedures were being effectively implemented for the AP1000 RMS work. No findings of
+significance were identified.
+Measuring and Test Equipment
+The inspectors determined that GA-ESI has established a program that adequately controls
+calibration and use of measuring and test equipment (M&TE) in accordance with the regulatory
+requirements of Criterion XII, “Control of Measuring and Test Equipment,” of Appendix B to
+10 CFR Part 50. No findings of significance were identified.
+Nonconformances and Corrective Actions
+The inspectors determined that the implementation of GA-ESI’s programs for control of
+nonconforming material, parts, or components and corrective action were consistent with the
+regulatory requirements in Criterion XV, “Nonconforming Materials, Parts, or Components,” and
+Criterion XVI, “Corrective Action,” of Appendix B to 10 CFR Part 50. No findings of significance
+were identified.
+- 3 -

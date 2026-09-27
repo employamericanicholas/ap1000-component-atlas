@@ -1,0 +1,270 @@
+June 8, 2017
+Mr. Russell Bastyr, Vice President
+NF&CM Quality and Performance Improvement
+Westinghouse Electric Company
+5801 Bluff Road
+Hopkins, SC 29601
+SUBJECT: NUCLEAR REGULATORY COMMISSION INSPECTION REPORT OF
+MANGIAROTTI S.P.A NO. 99901416/2016-201, AND NOTICE OF
+NONCOMFORMANCE
+Dear Mr. Bastyr:
+On July 19-21 2016, the U.S. Nuclear Regulatory Commission (NRC) staff conducted an
+inspection at the Mangiarotti S.p.A (hereafter referred to as Mangiarotti) facility in Monfalcone
+Italy. The purpose of this limited-scope routine inspection was to assess Mangiarotti’s
+compliance with provisions of Title 10 of the Code of Federal Regulations (10 CFR) Part 21,
+“Reporting of Defects and Noncompliance,” and selected portions of Appendix B, “Quality
+Assurance Program Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to
+10 CFR Part 50, “Domestic Licensing of Production and Utilization Facilities.” Mangiarotti was
+acquired by Westinghouse Electric Company (WEC) on September 23, 2014. During the
+acquisition process, WEC performed an audit of Mangiarotti. The results of the audit concluded
+that Mangiarotti had failed to adequately qualify its suppliers, thus resulting in the release of
+product of indeterminate quality. On April 24-27, 2017, the NRC staff continued the inspection
+of Mangiarotti at the WEC facility in Rockville, MD and extended the scope of the inspection to
+include the corrective actions taken by WEC to address the issues identified at the Monfalcone
+facility related to oversight of suppliers, and controls for the purchase of material and services.
+This technically-focused inspection evaluated Mangiarotti’s implementation of quality activities
+associated with the fabrication of safety-related structures, systems, and components (SSCs)
+for the WEC AP1000 reactor design. Additionally, this inspection evaluated the implementation
+of corrective actions taken by WEC to address the supplier oversight issues identified at
+Mangiarotti. This inspection report does not constitute NRC endorsement of Mangiarotti’s or
+WEC’s overall quality assurance (QA) programs.
+The NRC inspection team found that the implementation of WEC’s QA program did not meet
+certain regulatory requirements. Specifically, the NRC inspection team determined that WEC
+was not fully implementing its QA program in the area of corrective action associated with
+incorrect use of material for the Passive Residual Heat Removal Heat Exchanger (PRHR HXH)
+lower support stiffener plates. The specific findings and references to the pertinent
+requirements are identified in the enclosures to this letter. In response to the enclosed Notice of
+Nonconformance (NON), WEC should document the results of the extent of condition review for
+the finding and determine if there are any effects on other safety-related components.
+R. Bastyr 2
+The NRC has identified repeated findings at WEC in the area of Criterion XVI, “Corrective
+Action,” of Appendix B to 10 CFR Part 50. For example, on January 26-30, 2015, the NRC staff
+conducted Inspection 99900404/2015-202 at the WEC facility in Cranberry Township, PA. The
+NRC inspection team identified Nonconformance 99900404/2015-202-01 for WEC’s failure to
+take timely and effective corrective actions to address significant conditions adverse to quality.
+In addition, this inspection also identified Nonconformance 99900404/2015-202-02 for WEC’s
+failure to establish measures to assure that conditions adverse to quality were promptly
+corrected, and for significant conditions adverse to quality, corrective actions were taken to
+preclude repetition with multiple examples (Agencywide Documents Access and Management
+System (ADAMS) Accession No: ML15070A213).
+Additionally, on September 26-30, 2016, the NRC staff conducted Inspection,
+99900404/2016-204, at WEC facility in Cranberry Township, PA (ADAMS Accession
+No: ML16307A159). During this inspection the NRC inspection team identified
+Nonconformance 99900404/2016-204-01 for WEC’s failure to ensure that a condition adverse to
+quality was promptly identified and corrected. WEC determined that the design of a population
+of safety-related AP1000 valves were not designed so that access is provided to perform the
+examinations required by American Society of Mechanical Engineers (ASME) Boiler and
+Pressure Vessel Code, Section XI, “Rules for In-service Inspection of Nuclear Power Plant
+Components.” However, despite identifying this inaccessibility issue as early as January 2011,
+WEC did not enter the issue into its corrective action program until February 2016.
+In the inspection report included as an enclosure to this letter, the NRC has again identified a
+finding regarding WEC’s failure to implement timely and effective corrective actions for a
+significant condition adverse to quality, and to take actions to preclude repetition. Specifically,
+the NRC inspection team identified that WEC failed to promptly correct a significant condition
+adverse to quality, determine the cause of the condition, and ensure the corrective action taken
+will preclude repetition. WEC’s CAPAL 100391094 was still open, 90 days over the 180-day
+time period allowed for closure of a Significance Level 1 CAPAL. Additionally, WEC had not yet
+completed the RCA to determine the cause of the condition, nor identified the corrective actions
+required to preclude repetition.
+The examples in Inspection Reports 99900404/2015-202, 99900404/2016-204 and
+99901416/2016-201, support a potential programmatic weakness in WEC’s Quality Assurance
+Program. WEC should assess this weakness to ensure compliance with regulatory
+requirements.
+Please provide a written explanation or statement within 30 days from the date of this letter in
+accordance with the instructions specified in the enclosed NON. We will consider extending the
+response time if you show good cause for us to do so.
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC’s “Rules of Practice,” the NRC will make available electronically for public inspection
+a copy of this letter, its enclosure, and your response through the NRC Public Document Room
+or from the NRC’s Agencywide Documents Access and Management System, which is
+accessible at http://www.nrc.gov/reading-rm/adams.html. To the extent possible (and if
+applicable), your response should not include any personal privacy, proprietary, or Safeguards
+Information so that it can be made available to the public without redaction. If personal privacy
+or proprietary information is necessary to provide an acceptable response, please provide a
+bracketed copy of your response that identifies the information that should be protected and a
+redacted copy of your response that deletes such information. If you request that such material
+R. Bastyr 3
+be withheld from public disclosure, you must specifically identify the portions of your response
+that you seek to have withheld and provide in detail the bases for your claim (e.g., explain why
+the disclosure of information would create an unwarranted invasion of personal privacy or
+provide the information required by 10 CFR 2.390(b) to support a request for withholding
+confidential commercial or financial information). If Safeguards Information is necessary to
+provide an acceptable response, please provide the level of protection described in
+10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA Paul Prescott Acting for/
+Kerri A. Kavanagh, Chief
+Quality Assurance Vendor Inspection Branch-3
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901416
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report No. 99901416/2016-201
+and Attachment
+R. Bastyr 4
+SUBJECT: NUCLEAR REGULATORY COMMISSION INSPECTION REPORT OF
+MANGIAROTTI S.P.A NO. 99901416/2016-201, AND NOTICE OF
+NONCOMFORMANCE
+Dated: June 8, 2017
+DISTRIBUTION:
+JBurke
+ASakadales
+TJackson
+bastyrra@westinghouse.com
+ConE_Resource
+NRO_DCIP_Distribution
+ADAMS Accession No.: ML17156A386 *via e-mail NRO-002
+OFFICE NRO/DCIP NRO/DCIP NRO/DCIP
+NAME AArmstrong AFerguson TLamb (PPrescott for)*
+DATE 06/06/2017 06/07/2017 06/07/2017
+OFFICE NRO/DCIP NRO/DCIP NRO/DCIP
+NAME PPrescott* SSmith (CWeber for)* KKavanagh (PPrescott for)*
+DATE 06/07/2017 06/05/2017 06/07/2017
+OFFICIAL RECORD COPY
+NOTICE OF NONCONFORMANCE
+Westinghouse Electric Company Docket No. 99901416
+5801 Bluff Road Report No. 2016-201
+Hopkins, SC 29601
+Based on the results of a U.S. Nuclear Regulatory Commission (NRC) inspection of
+Westinghouse Electric Company and Mangiarotti S.p.A (hereafter referred to as WEC and
+Mangiarotti, respectively) conducted at the Monfalcone, Italy facility and the WEC facility located
+in Rockville, MD, from July 19-21, 2016 and April 24-28, 2017, respectively. The NRC
+inspection team determined that WEC did not conduct certain activities in accordance with NRC
+requirements:
+A. Criterion XVI, “Corrective Action,” of Appendix B, “Quality Assurance Criteria for Nuclear
+Power Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of Federal Regulations
+(10 CFR) Part 50, “Domestic Licensing of Production and Utilization Facilities,” states that
+“Measures shall be established to assure that conditions adverse to quality, such as failures,
+malfunctions, deficiencies, deviations, defective material and equipment, and
+nonconformances are promptly identified and corrected. In the case of significant conditions
+adverse to quality, the measures shall assure that the cause of the condition is determined
+and corrective action taken to preclude repetition. The identification of the significant
+condition adverse to quality, the cause of the condition, and the corrective action taken shall
+be documented and reported to appropriate levels of management.”
+W2-5.1-101, “Westinghouse Corrective Action Program Procedure,” Revision 3.0, dated
+March 1, 2017, states in part, that, “The Issue owner shall ensure that the appropriate level
+of causal analysis or extent of condition evaluation is completed as a root cause analysis
+(RCA). For Significance Level 1 issues, the issue closure review requires all actions are
+complete (but the effectiveness reviews are pending) and the completion is within 180 days
+from the issue submittal.”
+Contrary to the above, as of April 27, 2017, WEC failed to promptly correct a significant
+condition adverse to quality, determine the cause of the condition, and ensure the corrective
+action taken will preclude repetition. Specifically, WEC opened CAPAL 100391094,
+“Material Identification and Tractability,” dated June 10, 2016, for Mangiarotti’s incorrect use
+of material in the manufacturing of the Lower Support Stiffener Passive Residual Heat
+Removal Heat Exchanger (PRHR HXH). Testing identified the material used was SA 240
+Type 321, instead of the required Type 304/304L stainless steel. CAPAL 100391094 was
+upgraded from a Significance Level 2 to a Significance Level 1 on July 28, 2016. As of
+April 27, 2017, WEC’s CAPAL 100391094 was still open, which is 90 days over the 180-day
+time period allowed for closure of a Significance Level 1 CAPAL. Additionally, WEC had not
+yet completed the RCA to determine the cause of the condition, nor identified the corrective
+actions required to preclude its repetition.
+This issue has been identified as Nonconformance 99901416/2016-201-01.
+Please provide a written statement or explanation to the U.S. Nuclear Regulatory Commission,
+ATTN: Document Control Desk, Washington, DC 20555-0001, with a copy to the Chief, Quality
+Assurance Vendor Inspection Branch-3, Division of Construction Inspection and Operational
+Programs, Office of New Reactors, within 30 days of the date of the letter transmitting this
+Notice of Nonconformance. This reply should be clearly marked as a “Reply to a Notice of
+Enclosure 1
+Nonconformance” and should include for each noncompliance: (1) the reason for the
+noncompliance or, if contested, the basis for disputing the noncompliance; (2) the corrective
+steps that have been and the results achieved; (3) the corrective steps that will be to avoid
+further noncompliance; and (4) the date when the corrective action will be completed. Where
+good cause is shown, the NRC will consider extending the response time.
+Because your response will be made available electronically for public inspection in the NRC
+Public Document Room or from the NRC’s Agencywide Documents Access and Management
+System, which is accessible from the NRC Web site at http://www.nrc.gov/reading-
+rm/adams.html, to the extent possible, it should not include any personal privacy, proprietary, or
+Safeguards Information (SGI) so that the NRC can make it available to the public without
+redaction. If personal privacy or proprietary information is necessary to provide an acceptable
+response, then please provide a bracketed copy of your response that identifies the information
+that should be protected and a redacted copy of your response that deletes such information. If
+you request that such material be withheld, you must specifically identify the portions of your
+response that you seek to have withheld and provide in detail the bases for your claim of
+withholding (e.g., explain why the disclosure of information would create an unwarranted
+invasion of personal privacy or provide the information required by 10 CFR 2.390(b) to support a
+request for withholding confidential commercial or financial information). If Safeguards SGI is
+necessary to provide an acceptable response, please provide the level of protection described
+in 10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.”
+Dated this the 8th day of June 2017.
+2
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS
+VENDOR INSPECTION REPORT
+Docket No.: 99901416
+Report No.: 99901416/2016-201
+Vendor: Mangiarotti S.p.A
+Via Timavo, 59
+34074 Monfalcone
+Gorizia - Italy
+Tel: (+39) 0481 – 254500
+Westinghouse Electric Company
+11333 Woodglen Drive, Suite 202
+Rockville, MD 20852
+(301) 881-7040
+Vendor Contact: Mr. Russell Bastyr, Vice President
+NF&CM Quality and Performance Improvement
+Westinghouse Electric Company
+5801 Bluff Road
+Hopkins, SC 29601
+(803) 647-1843
+Nuclear Industry Activity: Mangiarotti manufactures and tests nuclear island equipment,
+pressurizers, steam generators and heat exchangers for the
+Vogtle and VC Summer construction sites. Mangiarotti is located
+in Monfalcone (Gorizia), Italy.
+Inspection Dates: July 19-22, 2016 and April 24-27, 2017
+Inspection Team Leader Aaron Armstrong NRO/DCIP/QVIB-1 (Westinghouse Lead)
+(Mangiarotti Team)
+Inspectors: Paul Prescott NRO/DCIP/QVIB-3 (Mangiarotti Lead)
+Ashley Ferguson NRO/DCIP/QVIB-3 (Westinghouse Team)
+Taylor Lamb NRO/DCIP/QVIB-3 (Westinghouse Team)
+Approved by: Kerri A. Kavanagh, Chief
+Quality Assurance Vendor Inspection Branch-3
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Enclosure 2
+EXECUTIVE SUMMARY
+Mangiarotti S.p.A.
+99901416/2016-201
+The U.S. Nuclear Regulatory Commission (NRC) staff conducted a vendor inspection at the
+Mangiarotti S.p.A. (hereafter referred to as Mangiarotti) facility to verify that it had implemented
+an adequate quality assurance (QA) program that complies with the requirements of
+Appendix B, “Quality Assurance Criteria for Nuclear Power Plants and Fuel Reprocessing
+Plants,” to Title 10 of the Code of Federal Regulations (10 CFR) Part 50, “Domestic Licensing of
+Production and Utilization Facilities.” In addition, the NRC inspection also verified that
+Mangiarotti implemented a program under 10 CFR Part 21, “Reporting of Defects and
+Noncompliance,” that met the NRC’s regulatory requirements. The NRC inspection team
+conducted an inspection from July 19 through July 22, 2016. This inspection was held open to
+allow Westinghouse Electric Company (WEC) time to complete the corrective actions
+associated with issues related to Mangiarotti’s control of purchased material and services
+identified during an audit by WEC for the acquisition of Mangiarotti. The NRC conducted a
+closeout inspection at the WEC facility in Rockville, MD from April 24 through April 27, 2017.
+This was the second inspection of the Monfalcone facility.
+This technically-focused inspection specifically evaluated the fabrication activities for
+safety-related systems, structures, and components at Mangiarotti for the WEC AP1000 reactor
+design. Additionally this inspection focused on the implementation of corrective actions by WEC
+to address issues regarding Mangiarotti’s controls for purchased of materials and services.
+Some of the specific activities observed for the AP1000 Passive Residual Heat Removal Heat
+Exchanger by the NRC inspection team included:
+• Welding per Mangiarotti’s W1-DFW-18-00-002, Revision 5, dated March 14, 2014,
+“AP1000 Passive Residual Heat Removal Heat Exchanger [PRHR HXH]”
+• Nondestructive Examination (NDE) Visual Examination testing per Mangiarotti’s
+W1-SPG-00-00-001, Revision 1, dated November 9, 2010, “AP1000 Passive Residual
+Heat Removal Heat Exchanger PRHR: Visual Examination.”
+• NDE Liquid Penetrant testing per Mangiarotti’s W1-SPG-00-00-003, Revision 1, dated
+November 12, 2010, “AP1000 Passive Residual Removal Heat Exchanger Liquid
+Penetrant Examination on Material and Welds.”
+These regulations served as the bases for the NRC inspection:
+• Appendix B to 10 CFR Part 50
+• 10 CFR Part 21
+During the course of this inspection, the NRC inspection team implemented Inspection
+Procedure (IP) 43002, “Routine Inspections of Nuclear Vendors,” dated January 27, 2017,
+IP 43003, “Reactive Inspections of Nuclear Vendors,” dated December 14, 2015, IP 43004,
+“Inspection of Commercial-Grade Dedication Programs,” dated January 1, 2017, and IP 36100,
+“Inspection of 10 CFR Part 21 and Programs for Reporting Defects and Noncompliance,” dated
+February 13, 2012.
+2

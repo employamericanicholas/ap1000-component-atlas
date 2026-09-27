@@ -1,0 +1,265 @@
+June 1, 2015
+Mr. Mathew Burke, Quality Assurance Manager
+Premier Technology, Inc.
+1858 West Bridge Street
+Blackfoot, ID 83221
+SUBJECT: NUCLEAR REGULATORY COMMISSION VENDOR INSPECTION REPORT OF
+PREMIER TECHNOLOGY, INC NO. 99901394/2015-201
+Dear Mr. Burke,
+On April 13-17, 2015, the U.S. Nuclear Regulatory Commission (NRC) staff conducted an
+inspection at the Premier Technology, Inc. facility (hereafter referred to as PTI) in Blackfoot, ID.
+The purpose of this limited-scope routine inspection was to assess PTI’s compliance with
+provisions of Title 10 of the Code of Federal Regulations (10 CFR) Part 21, “Reporting of
+Defects and Noncompliance,” and selected portions of Appendix B, “Quality Assurance Criteria
+for Nuclear Power Plants and Fuel Reprocessing Plants,” to 10 CFR Part 50, “Domestic
+Licensing of Production and Utilization Facilities.”
+This inspection specifically evaluated PTI’s implementation of quality activities associated with
+the fabrication and inspection of the Integrated Head Package and Reactor Vessel Internal
+Lifting Rig for the Westinghouse Electric Company AP1000 reactor design. The enclosed report
+presents the results of the inspection. This NRC inspection report does not constitute NRC
+endorsement of your overall quality assurance (QA) or Part 21 programs.
+Within the scope of this inspection, no violations or nonconformances were identified.
+In accordance with 10 CFR 2.390 of the NRC’s “Rules of Practice,” a copy of this letter, its
+enclosures, and your response will be made available electronically for public inspection in the
+NRC Public Document Room or from the NRC’s document system (ADAMS), accessible at
+http://www.nrc.gov/reading-rm/adams.html. To the extent possible, your response, (if
+applicable), should not include any personal privacy, proprietary, or safeguards information so
+that it can be made available to the Public without redaction. If personal privacy or proprietary
+information is necessary to provide an acceptable response, then please provide a bracketed
+copy of your response that identifies the information that should be protected and a redacted
+copy of your response that deletes such information. If you request that such material is
+withheld from public disclosure, you must specifically identify the portions of your response that
+you seek to have withheld and provide in detail the bases for your claim (e.g., explain why the
+disclosure of information will create an unwarranted invasion of personal privacy or provide the
+information required by 10 CFR 2.390(b) to support a request for withholding confidential
+commercial or financial information).
+
+=== PAGE BREAK ===
+
+M. Burke - 2 -
+If Safeguards Information is necessary to provide an acceptable response, please provide the
+level of protection described in 10 CFR 73.21.
+Sincerely,
+/RA/
+Edward H. Roach, Chief
+Mechanical Vendor Inspection Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901394
+Enclosure:
+Inspection Report No. 99901394/2015-201
+and Attachment
+
+=== PAGE BREAK ===
+
+M. Burke - 2 -
+If Safeguards Information is necessary to provide an acceptable response, please provide the
+level of protection described in 10 CFR 73.21.
+Sincerely,
+/RA/
+Edward H. Roach, Chief
+Mechanical Vendor Inspection Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901394
+Enclosure:
+Inspection Report No. 99901394/2015-201
+and Attachment
+DISTRIBUTION:
+ASakadales
+KKavanagh
+RRasmussen
+NRO_DCIP_Distribution
+ADAMS Accession No.: ML15132A142 *Concurred via email NRO-002
+OFC NRO/DCIP/MVIB NRO/DCIP/MVIB RII/DCI/CIB3 NRO/DCIP/QVIB
+NAME BClarke YDiaz-Castillo DHarmon* TKendzia
+DATE 05/28/15 05/26/15 05/21/15 05/20/15
+OFC NRO/DCIP/MVIB NRO/DCIP/MVIB NRO/DCIP/MVIB
+NAME ETorres LMicewski ERoach
+DATE 05/20/15 05/28/15 06/01/15
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS
+VENDOR INSPECTION REPORT
+Docket No.: 99901394
+Report No.: 99901394/2015-201
+Vendor: Premier Technology, Inc.
+1858 West Bridge Street
+Blackfoot, ID 83221
+Vendor Contact: Mr. Mathew Burke
+Quality Assurance Manager
+E-mail: mburke@ptius.net
+Phone: (208) 782-9122
+Nuclear Industry Activity: Premier Technology, Inc. (PTI) manufactures the Integrated Head
+Package (IHP) and Reactor Vessel Internal Lifting Rig (RVILR) for
+the Westinghouse Electric Company AP1000 reactor design.
+Inspection Dates: April 13 - 17, 2015
+Inspectors: Laura Micewski NRO/DCIP/MVIB Team Leader
+Brent Clarke NRO/DCIP/MVIB
+Yamir Diaz-Castillo NRO/DCIP/MVIB
+David Harmon RII/DCI/CIB3
+Thomas Kendzia NRO/DCIP/QVIB
+Edgardo Torres NRO/DCIP/MVIB
+Approved by: Edward H. Roach, Chief
+Mechanical Vendor Inspection Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Enclosure
+
+=== PAGE BREAK ===
+
+EXECUTIVE SUMMARY
+Premier Technology, Inc.
+99901394/2015-201
+The U.S. Nuclear Regulatory Commission (NRC) staff conducted a vendor inspection at the
+Premier Technology, Inc. facility (hereafter referred to as PTI) to verify that it had implemented
+an adequate quality assurance (QA) program that complies with the requirements of
+Appendix B, “Quality Assurance Criteria for Nuclear Power Plants and Fuel Reprocessing
+Plants,” to Title 10 of the Code of Federal Regulations (10 CFR) Part 50, “Domestic Licensing of
+Production and Utilization Facilities.” In addition, the inspectors also verified that PTI
+implemented a program under 10 CFR Part 21, “Reporting of Defects and Noncompliance,” that
+met the NRC’s regulatory requirements. The inspectors conducted the inspection from
+April 13-17, 2015. This was the initial NRC vendor inspection at the PTI facility.
+Some of the specific activities observed by the inspectors included:
+• Liquid penetrant test (PT) inspection of Virgil C. (VC) Summer Unit 2 Lift Leg G02-a
+• Dimensional and visual test (VT) for welds on VC Summer Unit 2 Lift Leg G02-a
+• Flux core arc welding of VC Summer Unit 2 Lift Leg G02-b
+• Walkdown of the welding material storage area, specifically, verifying weld rod storage
+conditions
+• Walkdown of coating application facilities, including three coating bays, coating storage
+room and blasting facilities
+• Application activity of safety-related Carboline 890N coating to Zone PIC-II/Zone 3 3-II
+containment materials.
+• Material testing (spectrometer, N2 analysis, and tensile strength testing) for
+commercial-grade dedication of ASTM A240 plate material
+The following regulations served as the bases for the NRC inspection:
+• Appendix B to 10 CFR Part 50
+• 10 CFR Part 21
+During the course of this inspection, the inspectors implemented Inspection
+Procedure (IP) 43002, “Routine Inspections of Nuclear Vendors”; IP 43004, “Inspection of
+Commercial-Grade Dedication Programs”; and IP 36100, “Inspection of 10 CFR Part 21 and
+Programs for Reporting Defects and Noncompliance.”
+The information below summarizes the results of this inspection.
+- 2 -
+
+=== PAGE BREAK ===
+
+Design Control and Commercial-Grade Dedication
+The inspectors concluded that PTI established a program that adequately controls design
+changes and commercial-grade dedication (CGD) in accordance with the regulatory
+requirements of Criterion III, “Design Control,” of Appendix B to 10 CFR Part 50. Based on the
+limited sample of documents reviewed, the inspectors also determined that PTI is effectively
+implementing its design control and CGD. No findings of significance were identified.
+Nonconforming Materials, Parts, or Components
+The inspectors concluded that PTI established a program for nonconformance control in
+accordance with the regulatory requirements of Criterion XV, “Nonconforming Material, Parts
+and Components,” of Appendix B to 10 CFR Part 50. Based on the limited sample of
+documents reviewed, the inspectors also determined that PTI is effectively implementing its
+nonconformance program. No findings of significance were identified.
+10 CFR Part 21 Program
+The inspectors concluded that PTI established a program for reporting of defects and
+noncompliance in accordance with the regulatory requirements of 10 CFR Part 21. Based on
+the limited sample of documents reviewed, the inspectors also determined that PTI is
+implementing its policies and procedures associated with the 10 CFR Part 21 program.
+No findings of significance were identified.
+Manufacturing Control
+The inspectors concluded that PTI established a special processes control program in
+accordance with the regulatory requirements of Criterion IX, “Control of Special Processes,” of
+Appendix B to 10 CFR Part 50. Based on the limited sample of documents reviewed and
+special processes observed, the inspectors also determined that PTI is implementing its policies
+and procedures associated with special process control. No findings of significance were
+identified.
+Corrective Action Program
+The inspectors concluded that PTI established a corrective action program (CAP) in accordance
+with the regulatory requirements of Criterion XVI, “Corrective Action,” of Appendix B to 10 CFR
+Part 50. Based on the limited sample of documents reviewed, the inspectors also determined
+that PTI is implementing its policies and procedures associated with its. No findings of
+significance were identified.
+Oversight of Contracted Activities
+The inspectors concluded that PTI established a program that adequately controls procurement
+of equipment and services in accordance with the regulatory requirements of Criterion IV,
+“Procurement Document Control,” Criterion VII, “Control of Purchased Material, Equipment, and
+Services,” and Criterion XVIII, “Audits” of Appendix B to 10 CFR Part 50. Based on the limited
+- 3 -
+
+=== PAGE BREAK ===
+
+sample of documents reviewed, the inspectors also determined that PTI is effectively
+implementing its procurement program. No findings of significance were identified.
+Inspection
+The inspectors concluded that PTI established a program that adequately controls inspection in
+accordance with the regulatory requirements of Criterion X, “Inspection” of Appendix B to 10
+CFR Part 50. Based on the limited sample of documents reviewed, the inspectors also
+determined that PTI is effectively implementing its inspection program. No findings of
+significance were identified.
+Control of Measuring and Test Equipment
+The inspectors concluded that PTI established a program that adequately controls measuring
+and test equipment in accordance with the regulatory requirements of Criterion XII, “Control of
+Measuring and Test Equipment” of Appendix B to 10 CFR Part 50. Based on the limited sample
+of documents reviewed, the inspectors also determined that PTI is effectively implementing its
+measuring and test equipment program. No findings of significance were identified.
+Training and Qualification of Personnel
+The inspectors concluded that PTI established a program that adequately controls training and
+qualification of personnel in accordance with the regulatory requirements of Criterion II, “Quality
+Assurance Program” of Appendix B to 10 CFR Part 50. Based on the limited sample of
+documents reviewed, the inspectors also determined that PTI is effectively implementing its
+training and qualification program. No findings of significance were identified.
+Internal Audits
+The inspectors concluded that PTI established a program that adequately controls internal
+audits in accordance with the regulatory requirements of Criterion XVIII, “Audits” of Appendix B
+to 10 CFR Part 50. Based on the limited sample of documents reviewed, the inspectors also
+determined that PTI is effectively implementing its audit program. No findings of significance
+were identified.
+- 4 -
+
+=== PAGE BREAK ===
+
+REPORT DETAILS
+1. Design Control and Commercial-Grade Dedication
+a. Inspection Scope
+The inspectors reviewed Premier Technology, Inc.’s (hereafter referred to as PTI)
+policies and implementing procedures that govern the design control program to verify
+their compliance with the regulatory requirements of Criterion III, “Design Control,” of
+Appendix B to 10 CFR Part 50. Specifically the inspectors reviewed Sections QA 3.1,
+“Design Control,” and QA 5.1, “Preparation, Review, and Approval of Instructions,
+Procedures, and Drawings,” of the NQA-1 Quality Assurance Manual, Revision 3, dated
+July 29, 2014. The inspectors reviewed Technical Procedure (TP) 2.1, “Drawing
+Preparation and Control,” Revision 4, dated March 2, 2015, and TP 2.2, “Engineering
+Design,” Revision 10, dated February 27, 2015.
+The inspectors verified that PTI is using Westinghouse Electric Company (WEC)
+specifications and drawings for the work associated with the AP1000. The inspectors
+verified that PTI is not performing any safety-related design work, except as part of the
+commercial-grade dedication (CGD) process, for the AP1000, and is not performing any
+other safety-related design work at the current time. For the manufacturing process
+work travelers (which are used to build safety-related components), the inspectors
+reviewed Sections QA 2.2, “Preparation of Travelers” of the NQA-1 Quality Assurance
+Manual, Revision 3, dated July 29, 2014, and TP 2.6, “Review of Travelers,” Revision 2,
+dated August 27, 2014. The inspectors verified that the travelers used WEC design
+specifications, including technical and quality requirements, and WEC drawings.
+The inspectors also reviewed TP 2.14, “Commercial Grade Dedication,” Revision 2,
+dated March 6, 2015, which provides the methodology for dedicating commercial-grade
+items and services for use in safety-related applications, including performing a technical
+evaluation to identify all safety functions, the development of critical characteristics,
+determination of dedication methods, and the acceptance criteria. The inspectors
+reviewed the commercial-grade dedication logs for the AP1000 Integrated Head
+Package (IHP) and Reactor Vessel Internal Lifting Rig (RVILR) and selected 22 of
+155 CGD packages for a detailed review, based on importance of the item or service,
+uniqueness of the item or service, including material upgrades (which were the majority
+of PTIs CGD packages) and spanning from 2010 to 2015. For all the packages
+reviewed, the inspectors verified that a technical evaluation was documented, critical
+characteristics developed, dedication methods determined, and acceptance criteria
+specified. The inspectors also verified that the CGD packages reviewed were reviewed
+and approved by WEC, since WEC was the design authority. The inspectors verified
+supporting documentation, such as vendor survey reports, testing documentation,
+purchase orders (POs), and vendor Certificates of Conformance, documented
+implementation of the CGD package requirements. The inspectors reviewed the
+dedication of calibration services to verify how PTI developed its commercial-grade
+dedication plan for third-party calibration services.
+- 5 -

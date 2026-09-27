@@ -1,0 +1,310 @@
+December 7, 2012
+Mr. Gian Marco Lupi, Quality Assurance Manager
+Mangiarotti S.p.A
+Via Timavo, 59
+34704 - Monfalcone (GORIZIA) - Italy
+SUBJECT: NUCLEAR REGULATORY COMMISSION INSPECTION REPORT
+NO. 99901416/2012-201 AND NOTICE OF NONCONFORMANCE
+Dear Mr. Lupi:
+From October 22 - 26, 2012, the U.S. Nuclear Regulatory Commission (NRC) staff conducted
+an inspection at the Mangiarotti S.p.A (hereafter referred to as Mangiarotti) facility in
+Monfalcone, Italy. The purpose of this limited-scope routine inspection was to assess
+Mangiarotti’s compliance with the provisions of Title 10 of the Code of Federal Regulations
+(10 CFR) Part 21, “Reporting of Defects and Noncompliance,” and selected portions of
+Appendix B, “Quality Assurance Criteria for Nuclear Power Plants and Fuel Reprocessing
+Plants,” to 10 CFR Part 50, “Domestic Licensing of Production and Utilization Facilities.”
+This technically focused inspection evaluated Mangiarotti’s quality assurance activities
+associated with the design, fabrication, assembly, and testing of the accumulators, core makeup
+tank, passive residual heat removal heat exchanger, and pressurizer for the Westinghouse
+Electric Company AP1000 reactor design. Some of the activities observed by the NRC
+inspection team are associated with or directly affect closure of inspections, tests, analyses, and
+acceptance criteria from Revision 19 of the certified AP1000 design. The NRC inspection team
+did not identify any findings associated with the ITAAC contained in Section 4 of the attachment
+to this report. Currently, these ITAAC are incorporated into the combined licenses of Vogtle
+Units 3 and 4 and V. C. Summer Units 2 and 3. The enclosed report presents the results of this
+inspection. This NRC inspection report does not constitute the NRC’s endorsement of
+Mangiarotti’s overall quality assurance or 10 CFR Part 21 programs.
+During this inspection, the NRC inspection team found that Mangiarotti’s quality assurance
+program complies with the applicable requirements of 10 CFR Part 21 and Appendix B to
+10 CFR Part 50; however, it did not meet certain NRC requirements that were contractually
+imposed on Mangiarotti by its customers or NRC licensees. Specifically, the NRC inspection
+team determined that Mangiarotti was not implementing aspects of its control of purchased
+equipment, materials, and services program consistent with regulatory requirements. The
+specific finding and references to the pertinent requirements are identified in the enclosed notice
+of nonconformance (NON) to this letter, and the enclosed inspection report describes in detail
+the circumstances surrounding it.
+Please provide a written statement or explanation within 30 days from the date of this letter in
+accordance with the instructions specified in the enclosed NON. The NRC will consider
+extending the response time if Mangiarotti shows good cause for the agency to do so.
+
+=== PAGE BREAK ===
+
+G. Lupi - 2 -
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC’s “Rules of Practice,” a copy of this letter, its enclosures, and your response will be
+made available electronically for public inspection in the NRC Public Document Room or from
+the NRC’s Agencywide Documents Access and Management System, which is accessible from
+the NRC Web site at: http://www.nrc.gov/reading-rm/adams.html.
+To the extent possible (and if applicable), your response should not include any personal
+privacy, proprietary, or Safeguards Information (SGI) so that it can be made available to the
+public without redaction. If personal privacy or proprietary information is necessary to provide
+an acceptable response, please provide a bracketed copy of your response that identifies the
+information that should be protected, as well as a redacted copy of your response that deletes
+such information. If you request that such material be withheld from public disclosure, you must
+specifically identify the portions of your response that you seek to have withheld and provide in
+detail the bases for your claim (e.g., explain why the disclosure of information will create an
+unwarranted invasion of personal privacy or provide the information required by
+10 CFR 2.390(b) to support a request for withholding confidential commercial or financial
+information). If SGI is necessary to provide an acceptable response, please provide the level of
+protection described in 10 CFR 73.21, “Protection of Safeguards Information: Performance
+Requirements.”
+Sincerely,
+/RA/
+Edward H. Roach, Chief
+Mechanical Vendor Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901416
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report No. 99901416/2012-201 and Attachment
+
+=== PAGE BREAK ===
+
+G. Lupi - 2 -
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC’s “Rules of Practice,” a copy of this letter, its enclosures, and your response will be
+made available electronically for public inspection in the NRC Public Document Room or from
+the NRC’s Agencywide Documents Access and Management System, which is accessible from
+the NRC Web site at: http://www.nrc.gov/reading-rm/adams.html.
+To the extent possible (and if applicable), your response should not include any personal
+privacy, proprietary, or Safeguards Information (SGI) so that it can be made available to the
+public without redaction. If personal privacy or proprietary information is necessary to provide
+an acceptable response, please provide a bracketed copy of your response that identifies the
+information that should be protected, as well as a redacted copy of your response that deletes
+such information. If you request that such material be withheld from public disclosure, you must
+specifically identify the portions of your response that you seek to have withheld and provide in
+detail the bases for your claim (e.g., explain why the disclosure of information will create an
+unwarranted invasion of personal privacy or provide the information required by
+10 CFR 2.390(b) to support a request for withholding confidential commercial or financial
+information). If SGI is necessary to provide an acceptable response, please provide the level of
+protection described in 10 CFR 73.21, “Protection of Safeguards Information: Performance
+Requirements.”
+Sincerely,
+/RA/
+Edward H. Roach, Chief
+Mechanical Vendor Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901416
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report No. 99901416/2012-201
+and Attachment
+DISTRIBUTION:
+KKavanagh TSakadales RRasmussen AP1000 CONTACTS
+RidsNroDcipCmvb RidsNroDcipCqab RidsNroDcip RidsNroDcipCevb
+castleton.christopher@mangiarotti.it lupi.gianmarco@mangiarotti.it
+ADAMS Accession No.: ML12320A661 NRO-002
+OFFICE NRO/DCIP/CMVB NRO/DCIP/CMVB NRO/DCIP/CEVB RII/CPD/CPB4
+NAME YDiaz-Castillo AArmstrong DBollock TSteadham
+DATE 11/26/2012 11/26/2012 11/26/2012 11/26/2012
+OFFICE NRO/DCIP/CAEB NRO/DCIP/CITB NRO/DCIP/CMVB
+NAME TFrye MKowal ERoach
+DATE 11/29/2012 12/07/2012 12/04/2012
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+NOTICE OF NONCONFORMANCE
+Mangiarotti S.p.A Docket No. 99901416
+Via Timavo, 59 Report No. 2012-201
+34074 - Monfalcone (GORIZIA) - Italy
+Based on the results of a U.S. Nuclear Regulatory Commission (NRC) inspection conducted at
+the Mangiarotti S.p.A (hereafter referred to as Mangiarotti) facility in Monfalcone, Italy, from
+October 22 through October 26, 2012, it appears that Mangiarotti did not conduct certain
+activities in accordance with NRC requirements that were contractually imposed upon
+Mangiarotti by its customers or by NRC licensees.
+Criterion VII, “Control of Purchased Material, Equipment, and Services,” of Appendix B,
+“Quality Assurance Program Criteria for Nuclear Power Plants and Fuel Reprocessing
+Plants,” to Title 10 of the Code of Federal Regulations (10 CFR) Part 50, “Domestic
+Licensing of Production and Utilization Facilities,” states, in part, that “measures shall be
+established to ensure that purchased material, equipment, and services conform to the
+procurement documents. These measures shall include provisions, as appropriate, for
+source evaluation and selection, objective evidence of quality furnished by the contractor or
+subcontractor, inspection at the contractor or subcontractor source, and examination of
+products upon delivery. The effectiveness of the control of quality by contractors and
+subcontractors shall be assessed by the applicant or designee at intervals consistent with
+the importance, complexity, and quantity of the product or services.”
+Criterion XVIII, “Audits,” of Appendix B to 10 CFR Part 50 states, in part, that “a
+comprehensive system of planned and periodic audits shall be carried out to verify
+compliance with all aspects of the quality assurance program and to determine the
+effectiveness of the program.”
+Contrary to the above, as of October 26, 2012, Mangiarotti failed to perform an adequate
+evaluation of its commercial calibration suppliers and failed to adequately verify that its
+suppliers complied with all aspects of its quality assurance program.
+Specifically,
+1. Mangiarotti placed its international commercial calibration suppliers on its
+safety-related qualified vendors list based on the accreditation provided through
+ISO/IEC 17025, “General Requirements for the Competence of Testing and
+Calibration Laboratories,” by the American Association for Laboratory Accreditation
+or another domestic accrediting body. ISO/IEC 17025 accreditation shall not be
+used as the sole basis for qualifying safety-related calibration services. As stated in
+Section L.8.h of NRC’s “Standard Review Plan for the Review of Safety Analysis
+Reports for Nuclear Power Plants: LWR Edition – Quality Assurance,” dated
+March 2007, NRC’s recognition of the International Laboratory Accreditation
+Cooperation accreditation process is only limited to U.S. domestic calibration service
+suppliers, not to international calibration suppliers.
+2. Mangiarotti did not document the objective evidence necessary to confirm that the
+relevant quality criteria of external audits performed of a filler material and two
+forging providers were adequately verified.
+Enclosure 1
+
+=== PAGE BREAK ===
+
+These issues have been identified as Nonconformance 99901416/2012-201-01.
+Please provide a written statement or explanation to the U.S. Nuclear Regulatory Commission,
+ATTN: Document Control Desk, Washington, DC 20555-0001, with a copy to the Chief,
+Construction Mechanical Vendor Branch, Division of Construction Inspection and Operational
+Programs, Office of New Reactors, within 30 days of the date of the letter transmitting this
+Notice of Nonconformance. This reply should be clearly marked as a “Reply to a Notice of
+Nonconformance” and should include for each noncompliance: (1) the reason for the
+noncompliance or, if contested, the basis for disputing the noncompliance; (2) the corrective
+steps that have been taken and the results achieved; (3) the corrective steps that will be taken
+to avoid further noncompliance; and (4) the date when the corrective action will be completed.
+Where good cause is shown, the NRC will consider extending the response time.
+Because your response will be made available electronically for public inspection in the NRC
+Public Document Room or from the NRC’s Agencywide Documents Access and Management
+System, which is accessible from the NRC Web site at http://www.nrc.gov/reading-
+rm/adams.html, to the extent possible it should not include any personal privacy, proprietary, or
+Safeguards Information (SGI) so that the agency can make it available to the public without
+redaction. If personal privacy or proprietary information is necessary to provide an acceptable
+response, then please provide a bracketed copy of your response that identifies the information
+that should be protected and a redacted copy of your response that deletes such information. If
+you request that such material be withheld, you must specifically identify the portions of your
+response that you seek to have withheld and provide in detail the bases for your claim of
+withholding (e.g., explain why the disclosure of information would create an unwarranted
+invasion of personal privacy or provide the information required by 10 CFR 2.390(b) to support a
+request for withholding confidential commercial or financial information). If SGI is necessary to
+provide an acceptable response, please provide the level of protection described in
+10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements”
+Dated this 7th day of December 2012.
+- 2 -
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS
+VENDOR INSPECTION REPORT
+Docket No.: 99901416
+Report No.: 99901416/2012-201
+Vendor: Mangiarotti S.p.A
+Via Timavo, 59
+34074 - Monfalcone (GORIZIA) - Italy
+Vendor Contact: Mr. Gian Marco Lupi, Quality Manager
+E-mail: lupi.gianmarco@mangiarotti.it
+Phone: (+39) 0481-254628
+Nuclear Industry Activity: Mangiarotti S.p.A (hereafter referred to as Mangiarotti) is an
+American Society of Mechanical Engineers (ASME) Nuclear
+Stamp Holder currently manufacturing ASME Class 1 components
+under contract to Westinghouse Electric Company for use in
+future AP1000 commercial nuclear power plants in the United
+States. Previously, Mangiarotti provided replacement steam
+generators and other components to U.S. utilities.
+Inspection Dates: October 22 - 26, 2012
+Inspection Team Leader: Yamir Diaz-Castillo NRO/DCIP/CMVB
+Inspection Team Members: Aaron R. Armstrong NRO/DCIP/CMVB
+Douglas R. Bollock NRO/DCIP/CEVB
+Timothy Steadham RGN II/DCP/CPB4
+Approved by: Edward H. Roach, Chief
+Mechanical Vendor Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Enclosure 2
+
+=== PAGE BREAK ===
+
+EXECUTIVE SUMMARY
+Mangiarotti S.p.A
+99901416/2012-201
+The U.S. Nuclear Regulatory Commission (NRC) conducted this inspection to verify that
+Mangiarotti S.p.A (hereafter referred to as Mangiarotti) implemented an adequate quality
+assurance (QA) program that complies with the requirements of Appendix B, “Quality Assurance
+Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of
+Federal Regulations (10 CFR) Part 50, “Domestic Licensing of Production and Utilization
+Facilities.” In addition, the NRC inspection also verified that Mangiarotti implemented a program
+under 10 CFR Part 21, “Reporting of Defects and Noncompliance,” that met the NRC’s
+regulatory requirements. The NRC inspection team conducted the inspection at the Mangiarotti
+facility in Monfalcone, Italy from October 22 - 26, 2012.
+This technically focused inspection evaluated Mangiarotti’s quality assurance activities
+associated with the design, fabrication, assembly, and testing of the accumulators (ACC), core
+makeup tank (CMT), passive residual heat removal heat exchanger (PRHRHX), and pressurizer
+(PZR) for the Westinghouse Electric Company (WEC) AP1000 reactor design. Some of the
+activities observed by the NRC inspection team are associated with or directly affect closure of
+inspections, tests, analyses, and acceptance criteria (ITAAC) from Revision 19 of the certified
+AP1000 design. The NRC inspection team did not identify any findings associated with the
+ITAAC contained in Section 4 of the attachment to this report. Currently, these ITAAC are
+incorporated into the combined licenses of Vogtle Units 3 and 4 and V. C. Summer Units 2 and
+3.
+Some of the specific activities observed by the NRC inspection team include:
+• Daily CMT production meeting in which the nonconformances or hold points on each
+CMT component currently being manufactured are reviewed
+• Receipt inspection of the PZR’s shell components for Levy County Nuclear Power Plant
+(hereafter referred to as Levy County) Unit 1
+• Manual gas tungsten arc welding (GTAW) of the CMT’s closure port of the cap and
+nozzle for VC Summer Nuclear Generating Station (hereafter referred to as VC
+Summer) Unit 2
+• Manual shield metal arc welding (SMAW) of the PRHRHX’s lower tube sheet for VC
+Summer Unit 3
+• Mechanized GTAW of the PZR’s shell head for Levy County Unit 1
+• Nozzle welding of the CMT for Levy County Unit 2
+• Tensile test of a sample of stainless steel material used in the PRHRHX
+• Dye penetrant testing of the ACC’s manway nozzle internal surface after machining for
+VC Summer Unit 3
+- 2 -
+
+=== PAGE BREAK ===
+
+• Dye penetrant testing of the internal cladding for the Vogtle Electric Generating Plant
+(hereafter referred to as Vogtle) Unit 4 CMT
+• Magnetic particle testing of the circumferential shell weld for the Vogtle Unit 3 ACC
+In addition to observing these activities, the NRC inspection team verified that measuring and
+test equipment (M&TE) was properly identified, marked, calibrated and used within its calibrated
+range. In addition, the NRC inspection team walked down Mangiarotti’s assembly floor and
+verified that nonconforming components were properly identified, marked, and segregated when
+practical, to ensure that they were not reintroduced into the manufacturing processes.
+The following regulations served as the bases for the NRC inspection:
+• Appendix B to 10 CFR Part 50
+• 10 CFR Part 21
+During the course of this inspection, the NRC inspection team implemented Inspection
+Procedure (IP) 43002, “Routine Inspections of Nuclear Vendors,” dated April 25, 2011, and
+IP 36100, “Inspection of 10 CFR Part 21 Programs for Reporting Defects and Noncompliance,”
+dated February 13, 2012.
+This was the first NRC inspection of Mangiarotti’s facility in Monfalcone, Italy. The NRC
+conducted an inspection at Mangiarotti’s facility in Sedegliano, Italy, in July 2010, and it
+documented the results in Inspection Report 99901393/2010-201, dated September 29, 2010.
+The report documented three nonconformances to NRC requirements that were contractually
+imposed upon Mangiarotti by its customers. This inspection report documents the NRC’s
+followup on Mangiarotti’s implementation of corrective actions for these issues.
+With the exception of the nonconformance described below, the NRC inspection team
+concluded that Mangiarotti’s quality assurance policies and procedures comply with the
+applicable requirements of 10 CFR Part 21 and Appendix B to 10 CFR Part 50, and that
+Mangiarotti’s personnel are implementing these policies and procedures effectively. The results
+of this inspection are summarized below.
+10 CFR Part 21 Program
+The NRC inspection team concluded that Mangiarotti is implementing its 10 CFR Part 21
+program in accordance with the regulatory requirements of 10 CFR Part 21. Based on the
+limited sample of documents reviewed, the NRC inspection team also determined that
+Mangiarotti is implementing its policies and procedures associated with the 10 CFR Part 21
+program. No findings of significance were identified.
+Design Control
+The NRC inspection team concluded that Mangiarotti is implementing its design control program
+in accordance with the regulatory requirements of Criterion III, “Design Control,” of Appendix B
+to 10 CFR Part 50. Based on the limited sample of documents reviewed, the NRC inspection
+team also determined that Mangiarotti is implementing its policies and procedures associated
+with the design control program. No findings of significance were identified.
+- 3 -

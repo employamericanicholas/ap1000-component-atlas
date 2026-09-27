@@ -1,0 +1,287 @@
+June 15, 2016
+Ms. Anne Sullivan, Quality Manager
+GE Oil & Gas
+8011 Shreveport Highway
+Pineville, LA 71360
+SUBJECT: NUCLEAR REGULATORY COMMISSION VENDOR INSPECTION OF GE OIL &
+GAS REPORT NO. 99901468/2016-201
+Dear Ms. Sullivan,
+On May 2-6, 2016, the U.S. Nuclear Regulatory Commission (NRC) staff conducted an
+inspection at the GE Oil & Gas facility in Pineville, LA. The purpose of this limited-scope routine
+inspection was to assess GE Oil & Gas’s compliance with provisions of Title 10 of the Code of
+Federal Regulations (10 CFR) Part 21, “Reporting of Defects and Noncompliance,” and selected
+portions of Appendix B, “Quality Assurance Criteria for Nuclear Power Plants and Fuel
+Reprocessing Plants,” to 10 CFR Part 50, “Domestic Licensing of Production and Utilization
+Facilities.”
+This inspection specifically evaluated GE Oil & Gas’s implementation of quality activities
+associated with the fabrication and inspection of the PV-65 Main Steam Safety Valves for the
+Westinghouse Electric Company AP1000 reactor design, as well as relief valves for the
+operating reactor fleet. The enclosed report presents the results of the inspection.
+During this inspection, the NRC staff looked at documents, drawings, and procedures
+associated with the inspections, tests, analyses, and acceptance criteria (ITAAC) from
+Revision 19 of the approved AP1000 Design Control Document (DCD), Tier 1. Specifically,
+these activities were associated with ITAAC 2.2.04.02a, 2.2.04.04a, 2.2.04.08a.i, and
+2.2.04.08a.ii. The inspectors did not identify any findings associated with the ITAAC contained
+in Section 4 of the attachment to this report. This NRC inspection report does not constitute
+NRC endorsement of your overall quality assurance (QA) or Part 21 programs.
+During this inspection, NRC inspectors found that the implementation of your QA program failed
+to meet certain NRC requirements imposed on you by your customers. The inspectors
+determined that GE Oil & Gas was not fully implementing its QA program in the areas of design
+control, related to commercial-grade dedication. Specifically, GE Oil & Gas failed to adequately
+identify and verify the specified critical characteristic of tensile strength during the dedication of
+valve spindles. The specific findings and references to the pertinent requirements are identified
+in the enclosures to this letter. In response to the enclosed notice of nonconformance (NON),
+GE Oil & Gas should document the results of the extent of condition review for these findings
+and determine if there are any effects on other safety-related components.
+Please provide a written explanation or statement within 30 days of this letter in accordance with
+the instructions specified in the enclosed NONs. We will consider extending the response time
+if you show good cause for us to do so.
+
+=== PAGE BREAK ===
+
+A. Sullivan - 2 -
+In accordance with 10 CFR 2.390 of the NRC’s “Rules of Practice,” a copy of this letter, its
+enclosures, and your response will be made available electronically for public inspection in the
+NRC Public Document Room or from the NRC’s document system (ADAMS), accessible at
+http://www.nrc.gov/reading-rm/adams.html. To the extent possible, your response, (if
+applicable), should not include any personal privacy, proprietary, or safeguards information so
+that it can be made available to the Public without redaction. If personal privacy or proprietary
+information is necessary to provide an acceptable response, then please provide a bracketed
+copy of your response that identifies the information that should be protected and a redacted
+copy of your response that deletes such information. If you request that such material is
+withheld from public disclosure, you must specifically identify the portions of your response that
+you seek to have withheld and provide in detail the bases for your claim (e.g., explain why the
+disclosure of information will create an unwarranted invasion of personal privacy or provide the
+information required by 10 CFR 2.390(b) to support a request for withholding confidential
+commercial or financial information). If Safeguards Information is necessary to provide an
+acceptable response, please provide the level of protection described in 10 CFR 73.21.
+Sincerely,
+/RA/
+Richard P. McIntyre, Acting Chief
+Quality Assurance Vendor Inspection Branch-2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901468
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report No. 99901468/2016-201
+and Attachment
+
+=== PAGE BREAK ===
+
+A. Sullivan - 2 -
+In accordance with 10 CFR 2.390 of the NRC’s “Rules of Practice,” a copy of this letter, its
+enclosures, and your response will be made available electronically for public inspection in the
+NRC Public Document Room or from the NRC’s document system (ADAMS), accessible at
+http://www.nrc.gov/reading-rm/adams.html. To the extent possible, your response, (if
+applicable), should not include any personal privacy, proprietary, or safeguards information so
+that it can be made available to the Public without redaction. If personal privacy or proprietary
+information is necessary to provide an acceptable response, then please provide a bracketed
+copy of your response that identifies the information that should be protected and a redacted
+copy of your response that deletes such information. If you request that such material is
+withheld from public disclosure, you must specifically identify the portions of your response that
+you seek to have withheld and provide in detail the bases for your claim (e.g., explain why the
+disclosure of information will create an unwarranted invasion of personal privacy or provide the
+information required by 10 CFR 2.390(b) to support a request for withholding confidential
+commercial or financial information). If Safeguards Information is necessary to provide an
+acceptable response, please provide the level of protection described in 10 CFR 73.21.
+Sincerely,
+/RA/
+Richard P. McIntyre, Acting Chief
+Quality Assurance Vendor Inspection Branch-2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901468
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report No. 99901468/2016-201
+and Attachment
+DISTRIBUTION:
+ASakadales
+KKavanagh
+TJackson
+NRO_DCIP_Distribution
+ConE_Resource
+Anne.Sullivan@ge.com
+ADAMS Accession No.: ML16160A176 *via e-mail NRO-002
+OFC NRO/DCIP/QVIB-2 NRO/DCIP/QVIB-3 RII/DCI/CIB3
+NAME RPatel AThomas PCarman*
+DATE 06/10/16 06/10/16 06/14/16
+OFC NRO/DCIP/QVIB-2 NRO/DCIP NRO/DCIP/QVIB-2
+NAME LMicewski TFrye* RMcIntyre
+DATE 06/13/16 06/13/16 06/14/16
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+NOTICE OF NONCONFORMANCE
+GE Oil & Gas Docket No. 99901468
+8011 Shreveport Highway
+Pineville, LA 71360
+Based on the results of a U.S. Nuclear Regulatory Commission (NRC) inspection conducted at
+the GE Oil & Gas facilities located in Pineville, LA, on May 2, 2016, through May 6, 2016,
+certain activities were not conducted in accordance with NRC requirements which were
+contractually imposed on GE Oil & Gas by its customers or NRC licensees.
+A. Criterion III, “Design Control,” of Appendix B, “Quality Assurance Criteria for Nuclear
+Power Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of Federal
+Regulations (10 CFR) Part 50, “Domestic Licensing of Production and Utilization
+Facilities,” states, in part, that “measures shall be established for the selection and
+review for suitability of application of materials, parts, equipment, and processes that are
+essential to the safety-related functions of the structures, systems, and components.”
+Contrary to the above, as of May 6, 2016, GE Oil & Gas failed to adequately review
+certain parts that are essential to the safety-related functions of components for
+suitability of application, as evidenced by the following examples. Specifically GE Oil &
+Gas:
+1. Failed to adequately verify the material property critical characteristic of tensile
+strength during the commercial-grade dedication of valve spindles. For
+safety-related valve spindles supplied on purchase order (PO) SNG10078319 with
+Georgia Power for Edwin I. Hatch Nuclear Plant, PO 00713094 with Duke Energy
+Corporation for H.B. Robinson Steam Electric Plant, and one spare spindle on
+GE/Dresser production order 20040774, the value of tensile strength, a critical
+characteristic, was calculated rather than tested. This calculation was performed
+using a formula that correlates the measured Brinell hardness test value to tensile
+strength. This methodology is commonly used for steel materials, but the formula is
+not applicable for the ASTM B637 Type 2 (Inconel) material specified in the above
+examples. GE Oil & Gas did not perform a technical evaluation to justify the use of
+the calculation formula for stainless steel in an Inconel alloy application. This
+resulted in inadequate verification of the material’s tensile strength property to
+provide reasonable assurance that the spindles have sufficient mechanical strength
+to perform the intended safety function. GE Oil & Gas has fabricated and shipped
+four spindles as part of safety-related valves and has one spindle fabricated and in
+stock that is available for a future customer order.
+2. Failed to provide a technical evaluation to justify the hardness margin tolerance,
+used to accept a hardness value, a critical characteristic used during
+commercial-grade dedication for a valve spindle. GE Oil & Gas applied a 10 percent
+margin tolerance, with no technical justification. This resulted in inadequate
+verification of the material’s hardness property to provide reasonable assurance that
+the spindle has sufficient hardness to perform its intended safety function. The
+spindle is in stock that is available for a future customer order.
+These issues have been identified as Nonconformance 99901468/2016-201-01.
+Enclosure 1
+
+=== PAGE BREAK ===
+
+Please provide a written statement or explanation to the U.S. Nuclear Regulatory Commission,
+ATTN: Document Control Desk, Washington, DC 20555-0001 with a copy to the Chief,
+Mechanical Vendor Inspection Branch, Division of Construction and Operational Programs,
+Office of New Reactors, within 30 days of the date of the letter transmitting this Notice of
+Nonconformance. This reply should be clearly marked as a “Reply to a Notice of
+Nonconformance” and should include for each noncompliance: (1) the reason for the
+noncompliance, or if contested, the basis for disputing the noncompliance, (2) the corrective
+steps that have been taken and the results achieved, (3) the corrective steps that will be taken
+to avoid noncompliances, and (4) the date when your corrective action will be completed.
+Where good cause is shown, consideration will be given to extending the response time.
+Because your response will be made available electronically for public inspection in the NRC
+Public Document Room or from the NRC’s document system (ADAMS), accessible from the
+NRC Web site at http://www.nrc.gov/reading-rm/adams.html, to the extent possible, it should not
+include any personal privacy, proprietary, or safeguards information so that it can be made
+available to the public without redaction. If personal privacy or proprietary information is
+necessary to provide an acceptable response, then please provide a bracketed copy of your
+response that identifies the information that should be protected and a redacted copy of your
+response that deletes such information.
+If you request withholding of such material, you must specifically identify the portions of your
+response that you seek to have withheld and provide in detail the bases for your claim of
+withholding (e.g., explain why the disclosure of information will create an unwarranted invasion
+of personal privacy or provide the information required by 10 CFR 2.390(b) to support a request
+for withholding confidential commercial or financial information). If safeguards information is
+necessary to provide an acceptable response, please provide the level of protection described
+in 10 CFR 73.21.”
+Dated this the 15th day of June 2016.
+- 2 -
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS
+VENDOR INSPECTION REPORT
+Docket No.: 99901468
+Report No.: 99901468/2016-201
+Vendor: GE Oil & Gas
+8011 Shreveport Highway
+Pineville, LA 71360
+Vendor Contact: Ms. Anne Sullivan, Quality Manager
+E-mail: anne.sullivan@ge.com
+Phone: (318) 640-6013
+Nuclear Industry Activity: GE Oil & Gas manufactures the PV-65 Main Steam Safety Valves
+for the Westinghouse Electric Company AP1000 reactor design,
+as well as relief valves for operating nuclear reactors.
+Inspection Dates: May 2-6, 2016
+Inspectors: Laura Micewski NRO/DCIP/QVIB-2 Team Leader
+Raju Patel NRO/DCIP/QVIB-2
+Ashley Thomas NRO/DCIP/QVIB-3
+Paul Carman RII/DCI/CIB3
+Approved by: Richard P. McIntyre, Acting Chief
+Quality Assurance Vendor Inspection Branch-2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Enclosure 2
+
+=== PAGE BREAK ===
+
+EXECUTIVE SUMMARY
+GE Oil & Gas
+99901468/2016-201
+The U.S. Nuclear Regulatory Commission (NRC) staff conducted a vendor inspection at the
+GE Oil & Gas facility to verify that it had implemented an adequate quality assurance (QA)
+program that complies with the requirements of Appendix B, “Quality Assurance Criteria for
+Nuclear Power Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of Federal
+Regulations (10 CFR) Part 50, “Domestic Licensing of Production and Utilization Facilities.” In
+addition, the inspectors also verified that GE Oil & Gas implemented a program under
+10 CFR Part 21, “Reporting of Defects and Noncompliance,” that met the NRC’s regulatory
+requirements. The inspectors conducted the inspection from May 2-6, 2016. This was the
+second NRC vendor inspection at this facility, the previous inspection was in 2009 when the
+facility was owned and operated by Dresser, Inc.
+This inspection specifically evaluated GE Oil & Gas’s implementation of quality activities
+associated with the fabrication and inspection of the PV-65 Main Steam Safety Valves for the
+Westinghouse Electric Company AP1000 reactor design, as well as relief valves for the
+operating reactor fleet.
+Some of the specific activities observed by the inspectors included:
+• Functional test of a ¾-inch relief valve
+• Hydrostatic pressure test of a disc for a 6-inch main steam safety valve
+• Liquid penetrant test (PT) examination of discs for 6-inch main steam safety valves
+• Shielded metal arc welding of an outlet flange assembly for a 6-inch solenoid operated
+valve
+• Walkdown of the welding material storage area and verification of weld rod storage
+conditions
+The following regulations served as the bases for the NRC inspection:
+• Appendix B to 10 CFR Part 50
+• 10 CFR Part 21
+During the course of this inspection, the inspectors implemented Inspection
+Procedure (IP) 43002, “Routine Inspections of Nuclear Vendors”; IP 43004, “Inspection of
+Commercial-Grade Dedication Programs”; and IP 36100, “Inspection of 10 CFR Part 21 and
+Programs for Reporting Defects and Noncompliance.”
+The information below summarizes the results of this inspection.
+- 2 -
+
+=== PAGE BREAK ===
+
+Commercial-Grade-Dedication
+The inspectors issued Nonconformance 99901468/2016-201-01 for failure to implement the
+requirements of Criterion III, “Design Control,” to provide objective evidence that technical
+evaluations had been performed to justify that the associated acceptance methods selected for
+valve spindles would provide reasonable assurance that the valves would perform their intended
+safety functions. Specifically, GE Oil & Gas failed to perform a technical evaluation to justify the
+use of a formula to calculate critical characteristic of tensile strength for components made of
+ASTM B637 Type 2 (Inconel), for which the formula is not applicable. GE Oil & Gas also failed
+to perform a technical evaluation to justify the margin used to accept an out-of-tolerance tested
+value of hardness, a critical characteristic used during commercial-grade dedication, of a
+safety-related valve spindle.
+Other Inspection Areas
+The inspectors determined that GE Oil & Gas is implementing its design control; supplier
+oversight of contracted activities; control of special processes; inspection; test control; control of
+measuring and test equipment; nonconforming material, parts, or components; corrective action;
+and internal audit programs in accordance with the applicable regulatory requirements of
+Appendix B to 10 CFR Part 50. In addition, the inspectors determined that GE Oil & Gas is
+implementing its 10 CFR Part 21 program for evaluating deviations and reporting defects that
+could create a substantial safety hazard in accordance with regulatory requirements. No
+findings of significance were identified.
+Inspections, Tests, Analyses, and Acceptance Criteria (ITAAC)
+The inspectors reviewed documents, drawings, and procedures associated with the ITAAC from
+revision 19 of the approved AP1000 Design Control Document (DCD), Tier 1. Specifically,
+these activities were associated with ITAAC 2.2.04.02a, 2.2.04.04a, 2.2.04.08a.i, and
+2.2.04.08a.ii. The inspectors did not identify any findings associated with these ITAAC.
+- 3 -

@@ -1,0 +1,1000 @@
+Vogtle
+units 3 & 4
+Ninth/Tenth Semi-annual
+Vogtle Construction Monitoring Report
+February 2014 • Docket No. 29849
+U.S. Secretary of Energy
+Dr. Ernest Moniz and Georgia
+Power representatives finalize
+the Vogtle 3 and 4 loan guar-
+antees on Feb. 20, 2014.
+
+Vogtle Units 3 and 4
+Ninth/Tenth Semi-Annual Construction Monitoring Report
+Table of Contents
+Page
+Executive Summary
+I. Introduction 4
+II. Highlights 4
+Status of the Facility
+III. Safe, Quality, Compliant Construction 9
+IV. Transition to Operations 23
+V. Facility Capital Cost Overview 26
+Responses to Stipulated Questions 30
+
+2
+Unit 3 Nuclear and Turbine Islands
+3
+EXECUTIVE SUMMARY
+I. Introduction
+This combined Ninth/Tenth Vogtle Construction Monitoring (“VCM”) Report is submitted by Georgia
+Power Company (“Georgia Power” or the “Company”) to the Georgia Public Service Commission
+(“Commission”) for the period of January 1, 2013 through December 31, 2013 (the “Reporting
+Period”) pursuant to the stipulation adopted by the Commission on September 3, 2013. The Company
+reports on significant construction progress achieved in 2013 as we advance toward the goal of
+providing a safe, reliable, clean, and affordable source of electricity to customers that will bring value
+to Georgia for 60 years or longer. The Vogtle Units 3 and 4 nuclear facility (“Facility”) continues to be
+well-managed to the current cost and schedule forecasts that have remained unchanged since the
+Eighth VCM Report filed in February 2013.
+In this Ninth/Tenth VCM Report, the Company requests that pursuant to O.C.G.A. 46-3A-7 the
+Commission verify and approve the expenditures made during the Reporting Period, which total $389
+million, as having been made in compliance with the Certificate of Public Convenience and Necessity
+(“Certificate”). The cumulative Construction and Capital costs for the Facility through this Reporting
+Period total $2.6 billion.
+II. Highlights
+• The Company continues to demonstrate its uncompromised commitment to safe, quality, and
+compliant construction of the Facility. Through its compliance monitoring program, the
+Company’s oversight efforts are evident in successful Nuclear Regulatory Commission (“NRC”)
+inspection results and the Company’s preservation of green status in the NRC Construction Reactor
+Oversight Process.
+• The Total Construction and Capital Cost forecast remains unchanged since the Eighth VCM
+Report. The financing costs are reduced by $91 million. The economic value brought to customers
+over the life cycle of this Facility continues to increase.
+• The forecasts for Units 3 and 4 commercial operation dates have not changed; they remain
+fourth quarter 2017 and 2018, respectively. Fuel load for Unit 3 will begin in mid-year 2017 and
+the unit will be connected to the grid during start-up testing in third quarter of 2017. Unit 4
+activities will occur approximately one year later.
+• Historic construction progress occurred at the Facility during 2013. Visible progress can be
+seen in all areas of the Facility including the nuclear islands, onsite module fabrication, turbine
+islands, cooling towers, and several other permanent Facility buildings.
+• The Company is commencing its transition to operations well ahead of start-up. Planning is
+underway and on track for operator training, the initial test program, start-up, and integration into a
+four unit site as we prepare to connect to the grid and begin commercial operation.
+4
+• The value to customers of completing the Facility remains overwhelmingly positive.
+In order to meet future energy needs of our customers, the Commission, whose role is to review
+and certify necessary capital investments for new plants, together with the Company, recognized
+the need to bring safe, clean, affordable energy through construction of a new base-load generation
+source. The economic analysis, performed by the Company and reviewed and approved by the
+Commission during the Certification proceeding, demonstrated the Facility was the most economic
+choice when compared to the next best alternative generation source. This analysis recognized fuel
+savings over the 60 year life-cycle that are associated with investing in nuclear generation. Since
+that time, the Commission’s and the Company’s actions have decreased the impact this important
+capital investment will have on customers, including the Commission’s order in the First VCM
+proceeding to lower the in-service cost of the Facility through inclusion of Construction Work in
+Progress (“CWIP”) in rate base. In a historic moment for the utility industry, on February 20, 2014,
+the Company and the Department of Energy (“DOE”) entered into the DOE Loan Guarantee
+Agreement, providing an additional $250 million in financing cost savings for customers over the
+life of the loan. Lastly, the Company has submitted its applications to the Internal Revenue Service
+for approximately $800 million in Production Tax Credits (“PTCs”) as a result of reaching the
+major milestones of placing first nuclear concrete in both Units 3 and 4 in 2013.
+Economic analyses by the Company continue to demonstrate that completing this Facility
+represents the best cost option for our customers by an overwhelming margin. Similar analyses by
+the Staff of the Commission through the Eighth VCM Report have also demonstrated that
+completing the Facility represents the best cost option for our customers. Under the Company’s
+current schedule assumptions, completing the Facility provides approximately $5.0 billion in value
+today to customers as compared to alternative generation. Even in extended delay scenarios and
+cost increase sensitivities performed at the Commission’s request, the Facility remains the most
+economic option. The Company notes that the recent short-term natural gas price volatility
+underscores the need for fuel diversity, especially new nuclear, with its historically stable fuel
+prices.
+The Facility represents at least a 60-year investment in Georgia’s critical energy infrastructure. As
+one of the largest and most capital-intensive infrastructure projects currently underway in the
+United States, the Facility continues along a path to success that is vital to the local and state
+economy. Over 5,000 jobs are being created, with approximately 3,200 workers on the Vogtle site
+today. The Facility has increased the tax base of Burke County as well as the state of Georgia and
+will continue to do so by creating over 800 full-time, highly skilled and highly paid careers, which
+will have a compounding effect on the local economy. Georgia’s electric supply will continue to
+have diverse generation, helping to keep prices stable and competitive for many decades to come,
+thus providing the foundation for a strong, vibrant, and attractive economy.
+5
+• The Company is bringing customers over $2 billion in benefits as a result of constructive
+regulation, federal government incentives, and a proactive Company financing strategy.
+Figure A shows the customer benefits as a result of CWIP in rate base, Amendment No. 3 to the
+Engineering, Procurement and Construction (“EPC”) Agreement, PTCs, the DOE Loan Guarantee
+and other interest savings that total $2.3 billion.
+Figure A - Summary of Customer Benefits
+Approximate 2018 Value
+Revenue Requirements
+• The Energy Policy Act of 2005 included the DOE Loan Guarantee program and PTCs as
+“Incentives for Innovative Technologies,” which total $1.05 billion in customer benefits.
+These programs were designed to offset cost impacts that may arise when constructing the
+first nuclear operating facilities in a generation and will lessen costs to our customers for this
+first-of-a-kind construction project. Figure B, shown in two parts, shows the current forecasted
+capital cost and financing and separately shows the total $2.3 billion in customer benefits.
+Figure B – Capital Costs, Financing, and Customer Benefits
+Forecasted Capital and Financing Customer Benefits
+(Revenue Requirements)
+The customer benefits, stated on a 2018 present value basis
+to reflect the current forecasted commercial operation
+dates, will more than offset the equivalent revenue
+requirement impacts arising from the increase in costs
+projected for the successful completion of this Facility.
+6
+• Fuel savings associated with investing in nuclear generation, along with the additional
+customer benefits described above, significantly lessen the overall rate impact to customers at
+the time the units are put into service. Without these savings and benefits, the certified capital
+investment would have resulted in a more significant rate increase at the commercial operation
+dates (or “CODs”), and rates would have remained substantially higher than those currently
+projected. One of the key factors in mitigating the initial rate impact to customers at the COD was
+the Commission’s approval to include CWIP in rate base, which effectively phases in rates over
+time. The life-cycle fuel savings from nuclear generation significantly lessens the rate impacts in
+future years as shown in Figure C. In addition, the overall rate impact has been further reduced by
+other benefits to customers through interest savings, including securing the DOE Loan Guarantee,
+and the Company’s earned eligibility for PTCs. After considering these life-cycle fuel savings and
+additional customer benefits, the Facility’s total rate impact is projected to be about 6 to 8 percent.
+Figure C shows the benefit to rates resulting from the constructive regulation administered by this
+Commission together with the federal government incentives for new nuclear construction and the
+proactive Company financing strategy that have in total provided more value to customers than
+expected at the time of original Certification.
+Figure C – Facility Projected Cumulative Rate Impacts
+With 4 percent already in rates, Figure C also shows that the remaining projected rate impact
+for customers is only 2 to 4 percent. Following COD of Units 3 and 4 in the years 2017 and 2018,
+respectively, the fuel efficiencies from nuclear generation, together with the ongoing customer
+benefits, are fully expected to put downward pressure on customer rates, as shown above in the
+downward slope of the graph.
+7
+• The actual expenditures to date are below the original capital cost forecast contemplated at
+Certification, representing the Company’s oversight and cost control efforts and the value of the
+EPC Agreement, which has mitigated construction risks of a typical project of this magnitude and
+complexity. Figure D shows the increase in capital costs since original Certification, which is
+largely a result of the schedule extension reflected in the Eighth VCM Report from April 2016 and
+2017 to the fourth quarter 2017 and 2018 for Units 3 and 4, respectively.
+Figure D – Certification versus Current Forecast
+Figures D also demonstrates that the protections included in the EPC Agreement are working to
+mitigate construction cost risks that were typical in the previous generation of nuclear construction
+projects. The incremental capital costs as reported in the Eighth VCM Report are primarily
+associated with federal regulation changes, taxes, operational readiness, owners’ quality and
+compliance, transmission, and legal/environmental permitting. While capital spending has been
+shifted into later years of construction than that contemplated at the time of original Certification,
+this does not diminish the value the Facility brings to our customers over at least 60 years.
+8
+
+STATUS OF THE FACILITY
+III. Safe, Quality, Compliant Construction
+Substantial progress has been made during 2013 at the Vogtle 3 and 4 Facility. Many major milestones
+were achieved as a result of Westinghouse Electric Company and Stone & Webster (collectively, the
+“Contractor”) performance with Company oversight in the areas of Construction, Engineering and
+Procurement. In February 2013, Chicago Bridge & Iron (“CB&I”) acquired Shaw Group and
+immediately transitioned as Westinghouse Electric Cooperation’s (“Westinghouse”) consortium
+partner at the Vogtle 3 and 4 site. This change resulted in key leadership changes and the Company has
+seen overall improvement in the Contractor’s transparency, cooperation and communication as well as
+execution with a focus on quality and schedule. Together, the Facility management team, which
+includes Westinghouse, CB&I and the Company, remains committed to meeting the current schedule
+forecast while maintaining the appropriate nuclear safety focus and culture of compliance associated
+with all applicable standards.
+The Company and Contractor are dedicated to maintaining a culture where the commitment to
+personnel safety is a core value. With over 3,200 personnel onsite and over 5 million man-hours
+worked in 2013, the site remains a very safe place to work.
+The Company continues to align its oversight efforts to ensure it is most effectively fulfilling its role as
+the Licensee. During this Reporting Period, the Company successfully expanded and enhanced its
+compliance monitoring program increasing the number of trained and qualified oversight personnel to
+perform and document their oversight results as quality surveillances. This process has improved the
+Company’s ability to verify design and licensing basis requirements are met and use the results to
+systematically determine the appropriate focus and application of resources. The Company remains in
+favorable standing with the NRC as indicated by its green status under the NRC’s Construction
+Reactor Oversight Process. The NRC provides oversight of the Company on a daily basis through its
+resident inspectors, and in 2013 conducted quarterly inspections, 15 region inspections, and several
+other site visits. The Company ended 2013 with no open Notices of Violation as reported in the NRC’s
+fourth quarter inspection report. The NRC also performed several vendor branch inspections at various
+supplier facilities as a part of their oversight of the Contractor. In March 2013, the NRC reviewed and
+accepted the Facility’s Integrated Corrective Action Program, which demonstrates the cooperative
+effort between the Company and the Contractor to effectively implement continuous problem
+identification and resolution consistent with nuclear industry requirements and standards.
+The Company is also submitting Inspections, Tests, Analyses, and Acceptance Criteria (“ITAAC”)
+Closure Notifications (“ICNs”) to the NRC for verification and ultimate approval prior to fuel load.
+The Company and the Contractor are working side-by-side in an integrated team setting to ensure
+alignment through the development of ITAAC Project Plans. This integration fosters a positive
+working relationship as the Contractor performs the ITAAC activities and the Company submits the
+final ICNs to the NRC. Eleven ICNs have been successfully submitted to date and the Company
+expects to submit approximately 34 in 2014.
+9
+A. Construction Activities
+Nuclear Island
+On March 14, 2013, a major construction milestone was completed with the placement of Unit 3
+basemat concrete in the nuclear island, which will serve as the foundation for the nuclear island
+structures. The 41-hour continuous placement consisted of approximately 7,000 cubic yards and
+required meticulous planning.
+In April, the CR10 module was placed in the Unit 3 nuclear island as a support and alignment structure
+for the containment vessel bottom head (“CVBH”) and the first of several concrete placements was
+made under CR10 in May. The 909-ton CVBH was subsequently placed in the nuclear island on June
+1, 2013. The first concrete placement inside the CVBH was made in early October allowing for
+placement of the reactor vessel cavity module, CA04, which was placed in early December.
+The first pieces of permanent plant equipment, four liquid processing tanks, were placed in the Unit 3
+auxiliary building on August 5, 2013. Rebar installation for the Unit 3 auxiliary building walls began
+in May and the first wall concrete placement was made in mid-August. Currently, all exterior auxiliary
+building walls have been completed up to elevation 82 ft 6 in. As of December 31, 2013,
+approximately 1,900 tons of rebar and 8,500 cubic yards of concrete have been installed in the Unit 3
+nuclear island to date.
+The Unit 4 nuclear island basemat rebar installation began on June 21, 2013. With the successful
+implementation of lessons learned from Unit 3, basemat rebar installation was successfully completed
+to support placement of the Unit 4 basemat concrete that began on November 19, 2013. This major
+milestone was successfully executed in just under 41 hours with no findings from the NRC and was the
+first major activity to be coordinated through the Contractor Operations Control Center (“OCC”). The
+Contractor initiated the OCC for this major construction evolution and put it into full operation in
+January 2014. It is an on-site facility staffed 24 hours a day, 7 days a week to provide a central point
+for reporting, analysis and resolution of project challenges affecting quality and progress. It is staffed
+with full-time representatives from all disciplines of the Contractor organization as well as
+representation from the Company.
+Reinforced concrete walls are now being installed above the basemat in the Unit 4 nuclear island. Also
+utilizing lessons learned from Unit 3, the Unit 4 CR10 module, that forms the cradle for the
+containment vessel, assembly was completed and lifted into place with the heavy lift derrick in
+February 2014.
+10
+Photo 1 – Unit 3 Nuclear Island in January 2013
+Photo 2 – Unit 3 Nuclear Island in February 2014
+11
+Turbine Island
+Photo 3 – Unit 3 Turbine Island in January 2013
+Photo 4 – Unit 3 Turbine Island in February 2014
+12
+Vertical construction began in the Unit 3 turbine island with the installation of the first structural steel
+module, CH80, in late July. Additional structural steel modules, CH81A, CH81C and CH82, have
+since been installed and will support the turbine deck. The lower and upper shells for the Unit 3
+Condenser A have been installed as well as the lower shell for Condenser C. Assembly of the
+remaining condenser components continues and supports the overall project schedule. The Unit 3
+condensate pumps, auxiliary steam supply boiler and flash tank, and other equipment have been
+installed in the lower elevation of the turbine island. Additional deliveries of the structural steel for the
+turbine building have arrived to support erection in 2014. Through December 2013, almost 2,300 tons
+of rebar and 13,500 cubic yards of concrete have been installed in the Unit 3 turbine island.
+The foundation slab for Unit 4 turbine island is complete with seven of 10 concrete walls placed for
+elevation 82 ft 9 in. to 94 ft. Onsite condenser assembly for Unit 4 continues and will meet overall
+project schedule. As of December 31, 2013, about 1,100 tons of rebar and 7,000 cubic yards of
+concrete have been installed in the Unit 4 turbine island.
+Containment Vessel Assembly
+All containment vessel fabrication and assembly is on schedule to meet project needs. Assembly of the
+Unit 3 containment vessel lower ring and middle ring is essentially complete with attachments and
+coating work remaining. The assembly of the CVBH for Unit 4 is essentially complete and is expected
+to be lifted into the nuclear island in second quarter 2014. The Unit 4 lower ring assembly continues to
+meet overall project schedule.
+Photo 5 – Units 3 and 4 Containment Vessel Assembly in February 2014
+13
+Cooling Towers
+Photo 6 – Unit 3 Cooling Tower in January 2013
+Photo 7 – Unit 3 Cooling Tower in January 2014
+14
+Veil placement for the cooling tower is now underway and as of December 31, 2013, 26 concrete veil
+placements were complete that reach 183 ft above ground. More than 5,500 tons of rebar and about
+52,000 cubic yards of concrete were placed through December 2013 on the Unit 3 cooling tower.
+Installation of the capital columns for the Unit 4 cooling tower is complete and the Contractor is
+preparing to make the first concrete veil placement.
+Balance of Plant
+Permanent Facility buildings and structures are progressing well and will meet overall project
+schedule. Site development is underway to support dewatering of the area for the River Water Intake
+Structure (Building 326) and concrete structure work is planned to start in the second quarter of 2014.
+The Pumphouse and Switchgear Building (Building 315) is complete and installation of the
+mechanical and electrical systems is in progress. The Material Storage Building (Building 322) and the
+Rotor Storage Building (Building 324) are complete. As of December 31, 2013, the Office Building
+(Building 301) was about 75 percent complete and the Engineering and Administrative Building
+(Building 302) was approximately 20 percent complete. Construction has just begun on the
+Maintenance Support Building as well. In total, there are about 260,000 square ft (6 acres) of above-
+ground, permanent building construction currently in progress.
+Transmission
+The construction of new switchyards and modifications to the existing units’ switchyards are
+progressing to meet overall project schedule. All modification work performed in the Unit 1 and 2
+switchyard during 2013 was accomplished with no impact to the existing operating units. Design
+engineering is more than 75 percent complete for the tie lines that will connect to the completed new
+230 kV switchyard, which is expected to be commissioned in late 2014. Land preparation and design
+for a new 500 kV switchyard was also completed and construction is projected to begin in the third
+quarter of 2014. The land acquisition for the new 55-mile 500-kV transmission line was completed and
+land clearing began in September to make way for erection of more than 200 tower foundations and
+structures.
+15
+B. Engineering
+The Contractor continues to issue Certified for Construction (“CFC”) design documents, to support
+procurement and construction needs. Timeliness of CFC design document issuance has improved over
+2013 but does not consistently meet the objective of document issuance six months prior to the
+scheduled construction start. As a result of the Company’s continuous analysis and challenge of the
+Integrated Project Schedule (“IPS”), the Contractor is adding detail to further integrate design
+engineering activities in the IPS with downstream procurement and construction needs.
+During the Reporting Period, the Company provided oversight through the review of Contractor-
+initiated design changes and completed a comprehensive review of all previously issued nuclear island
+civil/structural design and design changes to ensure compliance with the license documents. The
+Company also completed design assessments for significant upcoming construction activities including
+the CA01 structural module, the shield building, required piping analysis and auxiliary building
+structural design. These reviews concluded that licensing requirements and applicable codes and
+standards are being met through the Contractor’s detailed design. Improved Contractor design
+processes, such as the use of the Structural Review Board to review module and auxiliary building
+design, have resulted in improvement in the quality of engineering deliverables. Changes in
+Westinghouse management as well as changes to Contractor engineering processes have resulted in
+improved interaction with the Company oversight team.
+C. Procurement
+Fabrication of all major components is either complete or on schedule to meet project requirements.
+Completion and shipment of several major components during 2013 highlights a significant
+accomplishment for the Facility. The Company is overseeing fabrication of major Facility equipment
+all over the world as well as in the United States, and many of the nuclear specific components have
+been successfully completed. The Company’s subject matter experts in equipment and fabrication
+processes are observing witness and hold points at vendor facilities, including testing activities, to
+assure compliance with equipment specifications and design requirements. Technical and quality
+issues have occurred as nuclear components are fabricated for the first time in three decades for
+domestic nuclear units; however, to date these issues have been adequately resolved by the Contractor
+to support the current construction schedule.
+Doosan Components
+The Unit 3 reactor vessel and head were delivered to the Vogtle 3 and 4 site in April 2013 and the
+hydrostatic testing has been completed satisfactorily for the Unit 4 reactor vessel. Both Unit 3 steam
+generators are complete and awaiting preparation for welding to the reactor coolant pump casings later
+in 2014. Fabrication of the Unit 4 steam generators is progressing with no identified quality issues.
+16
+Photo 8 – Unit 4 Steam Generator B at Doosan
+The Company resident at the Doosan facility continues to provide oversight for fabrication of these
+major nuclear components demonstrating the Company’s commitment to compliant construction.
+Mangiarotti Components
+Fabrication completion, successful testing and shipment of the Units 3 and 4 accumulator tanks and the
+Unit 3 core make-up tanks occurred during this Reporting Period. Documentation package reviews are
+in progress at the Vogtle 3 and 4 site for these components. The Unit 4 core makeup tanks have been
+completed but testing results revealed that the volume is slightly lower than requirements.
+Westinghouse is currently developing a repair plan to bring the volume to the correct specifications.
+Although delivery may be delayed due to repair work, the Unit 4 core makeup tanks are expected to be
+shipped with sufficient margin to project need dates.
+17
+Photo 9 – Unit 3 Accumulator Tanks and Core Makeup Tanks on the Facility Site
+The manufacture of the passive residual heat removal heat exchangers and the pressurizers continues
+for both units and all remaining Mangiarotti components are expected to ship in 2014 to meet project
+needs. The Company resident is overseeing the completion of these components.
+Other Major Components
+All four Unit 3 reactor coolant pumps have been assembled and are currently in the testing phase and
+the Unit 4 pumps are being assembled. During testing of one of the Unit 3 reactor coolant pumps, an
+issue was discovered with an internal part. The pump supplier is currently evaluating the test issue and
+the Company is monitoring resolution. The Company will continue to oversee the testing and
+fabrication progress to ensure any issues are resolved acceptably.
+Also in 2013, Westinghouse identified a material traceability issue with the fabrication of the passive
+core cooling system squib valves. Affected parts of these valves will be refabricated and replaced.
+Some redesign was also required and completed as a result of testing results. Retesting is underway
+and initial results indicate that previously identified design issues have been resolved. The Company is
+performing quality surveillances to ensure that resolution meets all quality requirements prior to
+shipment. At this time, there is no anticipated impact from this issue to the overall construction
+schedule.
+18
+Other major equipment deliveries that occurred during 2013 include: Unit 3 reactor coolant surge line
+piping, Unit 3 and 4 fuel storage racks, Unit 3 and 4 feedwater heaters, Unit 3 main turbine, Unit 3 and
+4 moisture separator reheaters, Unit 3 circulating water pump motors, Unit 3 and 4 deaerators, and
+Unit 3 main step-up transformers.
+Photo 10 – Unit 4 Deaerator on the Facility Site
+19
+Photo 11 – Unit 3 230 kV Main Step-up Transformers on the Facility Site
+Structural Modules
+Quality fabrication of the Unit 3 structural module CA20 has been a primary focus during the
+Reporting Period. As previously discussed in the Facility Update to the Georgia Public Service
+Commission filed on September 3, 2013, the Company implemented a stop work order to assure only
+quality and compliant components are delivered to the Vogtle 3 and 4 site and continues to
+aggressively monitor the Contractor’s review process for release of sub-modules from CB&I-Lake
+Charles. During the Reporting Period, significant progress has been made in this area, largely as a
+result of the Contractor decision to deliver all remaining CA20 sub-modules to the site for inspection
+and repair work. The Contractor established an extension of the Lake Charles facility on the Vogtle 3
+and 4 site, Lake Charles-Vogtle, to perform this work that created parallel work paths to mitigate
+schedule impacts of delayed sub-module deliveries. By the end of October, all CA20 sub-modules had
+been delivered to the Lake Charles-Vogtle facility. The movement of CA20 inspection and repair work
+to the Vogtle 3 and 4 site allowed for enhanced supervision and significantly accelerated the release
+process for assembly in the Module Assembly Building (“MAB”).
+20
+Photo 12 – Unit 3 CA20 Assembly in the MAB
+Photo 13 – MAB Wall Removal to Support Movement of CA20
+21
+The Contractor made the decision to fabricate module CA04, the reactor cavity, on the Vogtle 3 and 4
+site. CA04 sub-modules were shipped to the Facility site, welded and assembled in the MAB, and the
+completed CA04 module was placed in the Unit 3 containment vessel on December 4, 2013.
+To date, all eight Unit 3 CA05 structural sub-modules have been transported from the CB&I-Lake
+Charles facility to the Facility site. Eighteen of 47 CA01 sub-modules are complete and 12 have also
+been shipped from CB&I-Lake Charles and will be inspected in the Lake Charles-Vogtle facility. The
+Company continues to monitor progress on the fabrication of the remaining Unit 3 major structural
+sub-modules being fabricated at CB&I-Lake Charles including those that make up CA01 and CA02.
+The Contractor has decided to expand its supplier base for fabrication of the Unit 3 structural module
+CA03 and Unit 4 structural modules CA20 and CA01. Many mechanical modules are being fabricated
+at the CB&I-Lake Charles and fabrication remains on track to meet project needs.
+The Newport News Industrial facility is in full production of the shield building structural panels.
+Production welding began in January 2013 and the first panels were delivered to the Vogtle 3 and 4
+site in December 2013.
+Photo 14 – Unit 3 Shield Building Panel on Facility Site
+22
+IV. Transition to Operations
+In parallel to Facility construction, the Company is managing an extensive effort to train personnel and
+to prepare for component, pre-operational, and start-up testing to ultimately connect to the grid for
+commercial operation. Associated operational readiness costs above those originally forecast at the
+time of Certification have been identified and are included in the current capital cost forecast. These
+costs total $91 million, representing no change since the Eighth VCM Report.
+A. Building the Operational Organization
+The Company is strategically building the operational organization with personnel of diverse
+backgrounds. An accredited training program has been established for licensed plant operator
+candidates, and as of December 2013, 91 candidates were in different phases of that program. These
+candidates are taking part in rigorous classroom and simulator training and will be examined by the
+NRC to obtain their operator licenses.
+Photo 15 – AP1000 Simulator in Vogtle 3 and 4 Training Center
+Two limited scope simulators have been installed on-site and have proven to be extremely valuable in
+training operators on the new technology. The Contractor is working to deliver the full Plant Reference
+Simulator but has experienced challenges in software design and modeling as well as procedure
+development to support testing and Certification of the simulator by the NRC. The Contractor has
+developed action plans to address open issues with the simulator design and integration. The first
+23
+major milestone towards simulator integration occurred with the start of factory acceptance testing for
+the Plant Reference Simulator in early February 2014. The Company is providing full time oversight of
+this testing. In addition, the Company has established a digital systems organization whose sole
+responsibility is oversight of the quality and compliance of all AP1000 digital systems, to include the
+Plant Reference Simulator. The Company digital systems organization monitors the Contractor’s
+progress to their action plans and will continue to do so to ensure mitigation of potential impacts to the
+overall projection schedule through resolution of the current challenges.
+Additionally, non-licensed operators, engineering personnel, and maintenance instrumentation and
+controls technicians have been hired per the staffing plan and are enrolled in comprehensive training
+programs. The six Maintenance and Technical Training programs recently received initial accreditation
+from the Institute of Nuclear Power Operations (INPO). Over the past 24 months, the initial
+accreditation of the 12 required training programs (the six Operations programs in March 2012 and the
+six Maintenance and Technical programs in November 2013) is the first such accomplishment in the
+United States in more than 25 years.
+The Company is also demonstrating efficient management of resources by using Operational
+Readiness personnel for augmented construction compliance oversight and startup activities. The use
+of the Operational Readiness personnel for these activities increases knowledge retention about the
+Facility’s construction in future operations and maintenance activities.
+B. Programs, Processes and Procedures
+Over 5,000 operations and maintenance procedures are currently being developed by the Company and
+more than 1,800 procedures have been completed. When possible, existing procedures from the
+operating fleet are being adopted. Programs are being developed with coordination from fleet experts
+using a systematic approach that includes detailed schedules and cross-disciplinary management
+challenge. For those programs with early implementation dates, coordination between the Contractor
+and the Company will generate detailed program baselines and accurate historical data to be used
+during operation.
+In preparation for initial system turnover during the Initial Test Program (“ITP”), scheduled activities
+are progressing that will ensure readiness for systems transition (maintenance rule scoping, equipment
+classifications, maintenance predictive and preventative strategies), design transition (configuration
+management, digital/software strategy), and licensing program transition (probabilistic risk assessment
+and risk informed strategies). Additionally, the training necessary to support ITP with trained and
+qualified personnel is underway, which will support technical program development and generate
+expertise to support the plant once it is operational.
+24
+C. Testing, Turnover, and Startup
+The Company and the Contractor have established an integrated ITP organization to jointly plan and
+implement component testing, pre-operational testing, and startup testing. The ITP organization is
+working to develop turnover processes from CB&I to Westinghouse and ultimately to the Company.
+The Contractor will turn the first significant building (Administrative Building) over to the Company
+in late 2014 that will serve as an early opportunity to exercise the turnover process. Significant work
+has been accomplished to establish clear roles and responsibilities for the development of procedures
+to achieve ITP success. Agreements between the Contractor and the Company on division of
+responsibility have resulted in providing additional intelligence to the overall project schedule.
+D. Integrate the Four Unit Site
+Collaborative efforts are underway to ensure a smooth transition from a construction site to an
+operational site with no adverse impacts to the existing Units 1 and 2 while fully supporting the new
+Units 3 and 4. Preparations for integration into a shared site include, but are not limited to,
+coordination of physical security changes and emergency planning procedures to remain compliant
+with all NRC regulations and requirements. Twenty-two sub-strategies have been developed to guide
+transitional planning in the following five major strategic areas:
+• Operational Organization
+• Regulatory Margin
+• Testing and Turnover Execution
+• Multi-Unit Integration
+• Sustained Operational Excellence
+These strategies are being used to inform and align the organization around the necessary process,
+program, and procedure work to advance the project through the initial test program and ultimately
+commercial operation, while achieving all industry standards for excellence in safety and reliability.
+25
+
+V. Facility Capital Cost Overview
+A. Status of the Facility Capital Cost
+The Total Construction and Capital Cost forecast for the Facility remains $4.799 billion, which is
+unchanged from the Eighth VCM Report. The Company is not requesting a change to the certified
+amount at this time per the stipulation approved by the Commission on September 3, 2013. The cost
+projected at time of Certification was based on the best available information at the time for items that
+were variable, such as escalation indices, financing interest rates, and government regulations. Changes
+to these types of costs over a multi-year construction period, for a complex and first-of-kind project,
+are not unexpected and were discussed as risks during the Certification proceeding. During the course
+of normal project implementation, changes will and have occurred. The Facility has experienced cost
+pressures in the categories as shown below:
+Change Change as a
+including % of Original
+Capital Cost Category escalation Certified
+(in millions) Capital
+Federal Regulation Changes (e.g. cyber and physical security) $ 32 0.7
+Taxes 50 1.1
+Power Block and Support Structure Construction 24 0.5
+Operational Readiness, including schedule extension 91 2.1
+Owners Quality and Compliance, including schedule extension 153 3.5
+Transmission 19 0.4
+Legal/Environmental Permit/Misc. 12 0.3
+Total Change from Original Certification $ 381 8.6
+There are certain costs that have arisen from changes in NRC regulations and local government
+requirements for which the Company and the Contractor have no control. These costs will be spent to
+meet our obligations to the U.S. government and include items such as changes to NRC requirements
+for physical and cyber security, the Fitness for Duty program, Fukushima lessons learned, and the
+Transportation Special Local Option Sales Tax (TSPLOST) implemented by the Central Savannah
+Region in Georgia.
+The protections of the EPC Agreement put into place by the Company and reviewed and found
+reasonable by this Commission, are effectively working to mitigate and control construction costs. The
+EPC Agreement provides for some events, such as changes in law and project scope changes, to entitle
+the Contractor for additional compensation. Cost changes have been acknowledged by the Company as
+necessary to complete certain activities in a safe, quality and compliant manner such as additional
+26
+backfill work, major evolution mock-ups, and implementation of an Integrated Corrective Action
+Program.
+Lastly, there are also additional owners’ costs that are necessary to complete the owners’ scope of
+work, and to oversee the Contractor. A large portion of the change in forecasted owners’ costs
+associated with extending the commercial operation dates to the fourth quarter 2017 and 2018 for
+Units 3 and 4, respectively. The Company’s responsibility for ensuring compliance with NRC
+requirements and the safety of the Facility remains in place through the end of construction and start-
+up, regardless of the original forecast for commercial operation dates. Other additional costs are
+necessary for an efficient transition from construction to startup and commercial operations including
+items such as hardware and software required for plant operations and development of the Probabilistic
+Risk Assessment.
+As the license holder and as co-owner of the Facility, we are committed to fulfilling our role of
+providing appropriate oversight in every applicable facet of this Facility. The Company recognizes that
+capital costs that exceed the current certified amount will have to be approved by the Commission
+before inclusion in rate base.
+B. Status of Major Dispute with the Contractor
+The Company continues to report on the status of the Contractor’s major claim. On August 30, 2013,
+the District Court for the District of Columbia granted the Owner’s motion to dismiss the Contractor
+claim in that Court, thereby allowing the litigation to proceed in the Southern District of Georgia. The
+Contractor filed an appeal of the District of Columbia Court’s decision on September 27, 2013. While
+discovery and other pre-trial preparation have commenced and the Company is vigorously asserting its
+positions and defending against Contractor’s claims, the Company expects negotiations with the
+Contractor to continue with respect to cost and schedule. It is possible that during these negotiations
+the parties may reach a mutually acceptable compromise of their positions.
+As stated in the Eighth VCM Report, the Company has made no provision in the current cost
+projection for any assumed settlement of the Contractors’ claims that are currently subject to
+litigation in these federal courts. As stated in prior VCM proceedings, if and when any settlement of
+those claims takes place, the Company will separately present that proposed settlement to this
+Commission for approval.
+27
+C. Customer Benefits
+The Company continues to identify and report customer benefits resulting from activities associated
+with Vogtle Units 3 and 4. In this Ninth/Tenth VCM Report, the value of these projected benefits is
+reported in 2018 present value to reflect the current forecasted commercial operation dates. These
+customer benefits can be categorized as follows:
+i. CWIP and Amendment No. 3
+Approximately $500 million of customer benefits are associated with the inclusion of CWIP in rate
+base, as authorized by the Georgia Nuclear Energy Financing Act as well as the Commission. The
+effectiveness of Amendment No. 3 to the EPC Contract, which shifted more of the EPC costs from
+market-based indices to fixed escalators, as approved by the Commission, also provided significant
+cost savings to customers. These customer benefits are included in the Company’s capital cost and
+financing forecast, as discussed in this VCM Report.
+ii. Federal Government Incentives
+These customer benefits are the product of the Company’s effective utilization of federal government
+nuclear incentives, which are passed along to customers, thereby increasing the overall value of the
+Facility to customers.
+Production Tax Credits (PTCs) - The benefit of the PTCs is earned over an eight year period
+following the in-service date for each unit and totals approximately $800 million on a 2018 present
+value basis. The Energy Policy Act of 2005 provides PTCs for companies that apply for a Combined
+Construction and Operating Licensing (“COL”) by the end of 2008, begin construction on new nuclear
+reactors prior to 2014 and bring them into service before 2021. The first two requirements have been
+met for both units with the application for the COLs in 2008, which were subsequently received in
+2012, and the placement of first nuclear concrete in 2013. The Company has filed its application for
+approval with the Internal Revenue Service.
+DOE Loan Guarantee - The projected interest cost savings resulting from the DOE Loan Guarantee
+Agreement are approximately $250 million on a 2018 present value basis. Pursuant to the loan
+guarantee program established under Title XVII of the Energy Policy Act of 2005 the Company and
+the DOE entered into a loan guarantee agreement on February 20, 2014, under which the DOE agreed
+to guarantee the obligations of the Company under a note purchase agreement (“FFB Note Purchase
+Agreement”) among the DOE, the Company, and the Federal Financing Bank (“FFB”) and a related
+promissory note (“FFB Promissory Note”). The FFB Note Purchase Agreement and FFB Promissory
+Note provide for a multi-advance term loan facility, under which the Company received an initial $1
+billion draw, and may make additional borrowings through the FFB for an aggregate amount up to the
+lesser of 70 percent of the total eligible costs, or $3.46 billion.
+28
+This marks the first time the DOE has granted a loan guarantee to encourage new nuclear power
+construction through its Title XVII Loan Guarantee Program that was designed to help offset potential,
+up-front cost increases that may occur in a new nuclear facility construction project.
+Photo 16 – Commemoration of the DOE Loan Guarantee Agreement
+iii. Interest Savings
+In addition to the DOE Loan Guarantee, the Company has been able to capture debt cost savings of
+approximately $750 million, on a 2018 present value basis, through its proactive financing strategy
+resulting from lower interest rates contained in the Company’s current and projected cost of capital
+versus the rates assumed during the original Certification proceedings. The majority of these interest
+savings have already been put into place through debt issuances made through this Ninth/Tenth VCM
+Reporting Period. Current market rates are below current forecasted rates, so the ultimate savings
+could be even greater. The interest savings lower financing costs on all Company investments,
+including the Facility and are being passed on to customers through lower base rate revenue
+requirements during the Facility’s construction period, which includes the NCCR tariff, as well as into
+the Facility’s operating life.
+29
+RESPONSES TO STIPULATED QUESTIONS
+As agreed in the Stipulation that was incorporated into the Certification Order, the Company responds
+below to the 15 specified items in the order in which they appear in Section 2(d)(1-15) of the
+Stipulation. In this Ninth/Tenth VCM Report, and in accordance with the Commission’s Order on the
+Eighth VCM Report, the Company requests that it work with the Public Interest Advocacy Staff to
+determine items that have reached their completion date or are no longer subject to an appeal process.
+The request for an item to be deleted in future VCM reports has been noted within each such response
+herein, as applicable.
+1. The reasons for any additional change in the estimated costs of the units since the process
+began.
+There has been no change to the Total Construction and Capital Cost of the Facility since the
+Eighth VCM Report. However, Total Construction Schedule Financing costs have decreased since
+the Eighth VCM Report, due to lower cost of capital rates and changes in the timing of project cash
+expenditures. The current cost and forecast reports are provided in Tables 1.1 and 1.1a.
+Changes to the estimated costs of the Facility since original Certification are discussed in the
+Executive Summary and the Status of the Facility sections of this Ninth/Tenth VCM Report.
+30
+Table 1.1
+Vogtle 3&4 Facility
+Georgia Power Company Cost
+Project To Date
+Through Period Ending December 31, 2013
+Total Capital Cost and Financing Facility To Date Cost
+Total Budget Actual
+Certified Current To To
+Cost Forecast Variance Date (4) Date Variance
+($ millions) ($ millions) ($ millions) Footnote ($ millions) ($ millions) ($ millions) Footnote
+Construction & Capital Cost
+EPC Base
+Fixed Semi Annual Escalation 1,978 1,976 -2 1,264 1,244 -21
+Indexed Escalation 468 470 2 126 114 -12
+Other Fixed Escalation 670 674 4 607 597 -10
+Total EPC Base 3,116 3,121 4 1,998 1,955 -43
+EPC Escalation
+Fixed Semi Annual Escalation 431 355 -76 140 137 -4
+Indexed Escalation 142 117 -25 15 13 -2
+Other Fixed Escalation 108 110 2 84 81 -3
+Total EPC Escalation 681 582 -99 240 230 -9
+Quality Assurance, Compliance and Operations & EPC Scope Change 507 930 423 1 369 369 0
+Ad Valorem 111 159 48 17 17 0
+Test Fuel Offsets -34 -49 -15 0 0 0
+Transmission Interconnection 37 56 20 30 29 -1
+621 1,096 476 416 415 -1
+Total Construction & Capital Cost 4,418 4,799 381 2,653 2,599 -54
+Construction Schedule Financing
+Return on CWIP in Rate Base 1,545 1,851 306 2 441 438 -3
+AFUDC - Accrued through Dec 2010 111 91 -20 91 91 0
+Return on Unamortized AFUDC Balance 39 18 -21 15 15 0
+Total Construction Schedule Financing 1,695 1,960 265 3 548 545 -3
+Total Capital Cost and Financing 6,113 6,759 646 3,201 3,144 -57
+Other Capital Cost
+Certification & Independent Evaluator Fees 0 0 0 0 2 2
+Construction Monitor 0 5 5 2 2 0
+Total Other Capital Cost 0 5 5 2 4 2
+Footnotes
+1. See Item 9 for additional information regarding the Total Current Forecast for Quality Assurance, Compliance and Operations & EPC Scope
+Change Category since the Eighth VCM Report.
+2. The Total Current Forecast for Return on CWIP in Rate Base includes $25 million of AFUDC accrued on CWIP above the certified cost.
+3. The Total Current Forecast for Total Construction Schedule Financing decreased due to timing of EPC milestones and the lower projected
+cost of capital.
+4. The Budget to Date includes actual costs through the previously filed report, plus budgeted costs through the Ninth/Tenth VCM Reporting
+Period.
+31
+Table 1.1.a (Trend)
+Vogtle 3&4 Project
+Georgia Power Company Cost Forecast
+Through Period Ending December 31, 2013
+Certified Jun 2009 Dec 2009 Jun 2010 Dec 2010 Jun 2011 Dec 2011 Jun 2012 Dec 2012 Dec 2013
+Cost Forecast Forecast Forecast Forecast Forecast Forecast Forecast Forecast Forecast
+($ millions) ($ millions) ($ millions) ($ millions) ($ millions) ($ millions) ($ millions) ($ millions) ($ millions) ($ millions)
+Construction & Capital Cost
+EPC Base
+Fixed Semi Annual Escalation 1,978 1,978 1,976 1,976 1,976 1,976 1,976 1,976 1,976 1,976
+Indexed Escalation 468 468 470 470 470 470 470 470 470 470
+Other Fixed Escalation 670 670 674 674 674 674 674 674 674 674
+Total EPC Base 3,116 3,116 3,121 3,121 3,121 3,121 3,121 3,121 3,121 3,121
+EPC Escalation
+Fixed Semi Annual Escalation 431 431 336 336 337 344 343 353 355 355
+Indexed Escalation 142 142 142 142 142 119 118 120 117 117
+Other Fixed Escalation 108 108 109 109 109 110 110 111 110 110
+Total EPC Escalation 681 681 586 587 589 573 572 585 582 582
+Quality Assurance, Compliance and Operations & EPC Scope Change 507 507 576 589 582 675 675 727 930 930
+Ad Valorem 111 111 111 111 111 111 111 125 159 159
+Test Fuel Offsets -34 -34 -34 -34 -34 -60 -60 -60 -49 -49
+Transmission Interconnection 37 37 37 40 40 40 40 41 56 56
+621 621 689 706 699 766 766 833 1,096 1,096
+Total Construction & Capital Cost 4,418 4,418 4,395 4,414 4,408 4,460 4,459 4,539 4,799 4,799
+Construction Schedule Financing
+Return on CWIP in Rate Base 1,545 1,507 1,505 1,546 1,553 1,524 1,516 1,552 1,942 1,851*
+AFUDC - Accrued through Dec 2010 111 97 99 99 91 91 91 91 91 91
+Return on Unamortized AFUDC Balance 39 32 33 33 31 19 19 18 18 18
+Total Construction Schedule Financing 1,695 1,636 1,637 1,678 1,675 1,635 1,626 1,662 2,051 1,960
+Total Capital Cost and Financing 6,113 6,054 6,032 6,092 6,083 6,095 6,085 6,201 6,850 6,759
+Other Capital Cost
+Certification & Independent Evaluator Fees 0 0 0 0 0 0 0 0 0 0
+Construction Monitor 0 5 5 5 4 4 4 4 4 5
+Total Other Capital Cost 0 5 5 5 4 4 4 4 4 5
+Note:No reforecast was filed for June 2013.
+Details may not add to totals due to rounding.
+*The total current forecast for Return on CWIP in Rate Base includes $25 million of AFUDC accrued on CWIP above the certified cost.
+32
+2. A description of any cooperative actions between other builders of nuclear units in the
+southeast to address labor, crafts, engineering and management requirements.
+There has been no change in the status of this item since the last reporting period.
+The Company recommends removing this item in future VCM reports.
+3. An explanation of how the indices used in the EPC contract are tracking.
+There has been no change in the status of this item since the last reporting period.
+The Company recommends removing this item in future VCM reports.
+4. Any updated estimate of onsite spent fuel storage costs, including the costs for dry
+storage of spent fuel for an extended period of time after shutdown, and any updated
+calculation of spent fuel storage costs assuming Yucca Mountain is never available.
+There has been no change in the status of this item since the last reporting period.
+The Company recommends removing this item in future VCM reports.
+5. The status of the Company’s loan guarantee application at the Department of Energy
+and to the extent that application is granted, then the Company shall also report on the
+impact it has or would have on the final expected in-service cost of the units.
+Pursuant to the loan guarantee program established under Title XVII of the Energy Policy
+Act of 2005 the Company and the DOE entered into a loan guarantee agreement on February
+20, 2014, under which the DOE agreed to guarantee the obligations of the Company under a
+note purchase agreement (“FFB Note Purchase Agreement”) among the DOE, the Company,
+and the Federal Financing Bank (“FFB”) and a related promissory note (“FFB Promissory
+Note”). The FFB Note Purchase Agreement and FFB Promissory Note provide for a multi-
+advance term loan facility, under which the Company may make term loan borrowings
+through the FFB.
+This marks the first time the DOE has granted a loan guarantee to encourage new nuclear
+power construction through its Title XVII Loan Guarantee Program that was designed to help
+offset potential, up-front cost increases that may occur in a new nuclear facility construction
+project. The projected interest cost savings resulting from the Loan Guarantee Agreement are
+approximately $250 million on a 2018 present value basis. These savings will be realized to
+customers through a decrease in base rate revenue requirements including the NCCR tariff.
+See the Customer Benefits section of this report for additional information on the DOE Loan
+Guarantee savings to customers.
+33
+The current estimated impact of the DOE loan guarantee on this Facility is reflected in
+financing costs in Tables 1.1, 1.1a, and 8.1. The portion of the estimated net benefits of the
+loan guarantee that is allocated to the Facility has been reflected in the Total Current
+Forecast. Since the DOE Loan Guarantee Agreement is now in place, the impact of the DOE
+loan guarantee is also now reflected in the economic analysis in Item 14.
+The Company recommends removing this item in future VCM reports.
+6. Whether the Company is using trust preferred financing and the impact it has or would
+have on the expected in-service cost of the units.
+There has been no change in the status of this item since the last reporting period.
+The Company recommends removing this item in future VCM reports.
+7. The extent to which the Company is using short term debt and the impact it has or
+would have on the expected in-service cost of the units.
+There has been no change in the status of this item since the last reporting period.
+The Company recommends removing this item in future VCM reports.
+8. An update of the estimated in-service cost and projected date of commercial operation
+of both units.
+The estimated in-service cost of both units is shown in Table 8.1. As discussed in earlier
+sections of this report, there has been no change to the Total Construction and Capital Cost of
+the Facility since the Eighth VCM Report. Total Construction Schedule Financing costs have
+however decreased due to lower cost of capital rates and changes in the timing of cash
+expenditures.
+The Company’s forecast for commercial operation dates remain fourth quarter 2017 and
+fourth quarter 2018 for Units 3 and 4, respectively.
+34
+Table 8.1
+Vogtle 3&4 Facility
+Capital Expenditure and Financing Cost Report
+Through Period Ending December 31, 2013
+TOTAL CAPITAL COST AND FINANCING
+Certified
+Construction Total Projected
+& Capital Financing Project Project Variance
+Balance Balance Balance Balance Dollars Variance
+($ millions) ($ millions) ($ millions) ($ millions) ($ millions) Percent
+Jun 30, 2009 314 9 323 349 -26 -7%
+Dec 31, 2009 583 25 608 635 -27 -4%
+Jun 30, 2010 994 54 1,048 949 99 10%
+Dec 31, 2010 1,246 91 1,337 1,341 -4 0%
+Jun 30, 2011 1,580 144 1,724 1,716 8 0%
+Dec 31, 2011 1,808 208 2,016 2,137 -121 -6%
+Jun 30, 2012 2,001 278 2,279 2,590 -311 -12%
+Dec 31, 2012 2,210 361 2,572 3,057 -485 -16%
+Jun 30, 2013 2,406 446 2,852 3,569 -717 -20%
+Dec 31, 2013 2,599 545 3,144 4,063 -919 -23%
+Jun 30, 2014 2,831 644 3,475 4,557 -1,082 -24%
+Dec 31, 2014 3,196 762 3,958 4,963 -1,005 -20%
+Jun 30, 2015 3,529 889 4,418 5,304 -886 -17%
+Dec 31, 2015 3,950 1,039 4,989 5,676 -687 -12%
+Jun 30, 2016 4,233 1,196 5,429 5,915 -486 -8%
+Dec 31, 2016 4,459 1,382 5,841 6,049 -208 -3%
+Jun 30, 2017 4,629 1,560 6,189 6,113 76 1%
+Dec 31, 2017 4,728 1,771 6,499 6,113 386 6%
+Jun 30, 2018 4,777 1,857 6,634 6,113 521 9%
+Dec 31, 2018 4,799 1,960 6,759 6,113 646 11%
+9. A description of all major sources of changes (both increases and decreases) to the in-
+service cost and sources of change in commercial operation dates, if any.
+There is no change to the forecasts for the in-service cost nor the commercial operation dates
+since the Eighth VCM Report.
+10. The status of the Company’s COL applications at the Nuclear Regulatory Commission.
+As reported in the Sixth VCM Report, the NRC approved the Unit 3 and Unit 4 COLs on
+February 9, 2012 and subsequently issued the COLs on February 10, 2012.
+The Company recommends removing this item in future VCM reports.
+35
+11. The status of all other significant permits and licenses required from other
+governmental agencies.
+All other required permits and licenses have been approved or are on track to be approved to
+meet construction need dates as shown in the Permits Update filed monthly with the
+Commission. There has been no change in the status of this item since the January 2014
+Monthly Status Report was filed.
+The Company recommends removing this item in future VCM reports.
+12. The status of procurement, engineering, fabrication, transportation and erection of
+major equipment.
+The status of procurement, engineering, fabrication, transportation and erection of major
+equipment is reported in the Status of the Facility section of this report.
+13. The status of transportation links for heavy forgings and modules.
+Forging activities have been completed and all required forgings have been transported for
+major components to begin fabrication. Fabrication of equipment from these forgings is
+progressing on schedule and deliveries of all major components are scheduled to meet
+construction need dates. No additional heavy forgings were transported to manufacturing
+facilities during the reporting period. Structural module deliveries are discussed in the Status
+of the Facility Section of this report.
+The Company recommends removing this item in future VCM reports with the understanding
+that module delivery status will be provided in Item 12.
+36
+14. An updated comparison of the economics of the certified project to other capacity
+options.
+The relative economic value of the Facility can be determined by comparing the costs
+associated with completing, operating, and maintaining the Facility over its expected 60-year
+useful life with the costs to build, operate, and maintain a combined cycle (“CC”) natural gas
+alternative, which is the next most viable generation alternative, over a comparable time
+period. The economic analysis performed for this Ninth/Tenth VCM Report has relied on the
+methodologies used in all previous economic evaluations conducted in Docket Nos. 27800
+and 29849.
+The economic evaluation presented in this Ninth/Tenth VCM Report includes updates of all
+major underlying planning assumptions including fuel forecasts, load forecasts, and new
+generation technology costs. Consistent with the original Certification filing and all previous
+VCM reports, a range of planning scenarios was used to evaluate the possible impacts of
+varying fuel prices and carbon costs. The Company identified four distinct, useful views of
+future North American natural gas supply and demand conditions in its 2014 fuel forecast –
+“Low”, “Moderate”, “Restrained” and “High”. The Company notes that despite lower long
+term natural gas price forecasts, largely due to shale gas developments, the gas markets are
+still experiencing significant short term price volatility as recently as the last few months due
+to the extreme cold weather. Figure E demonstrates this recent, short term volatility.
+Figure E – Henry Hub Natural Gas Prices – Winter Months
+37
+In addition to price volatility in the supply regions, there has also been extreme volatility in
+delivered prices to natural gas markets across the eastern half of the United States this
+winter. This reflects transportation constraints to areas where gas is needed. For example,
+on January 22, 2014, daily gas prices reached over $100/MMBtu in some of the eastern
+regions. While the effects of short-term volatility are not directly reflected in our long-term
+forecasts or the Vogtle economics, they are felt by our customers. This underscores the need
+for fuel diversity, especially new nuclear, with its historically stable fuel prices.
+The carbon cost scenarios remain similar to those in the Eighth VCM and are: “Existing”
+($0), “Moderate” ($10, beginning in 2018 and escalated), “Substantial” ($20, beginning in
+2022 and escalated).
+The estimate of the capital cost to complete the Facility has been updated from the Eighth
+VCM Report along with pre-COD Operations and Maintenance (“O&M”), post-COD O&M,
+projected post-COD ongoing capital additions, nuclear fuel, and spent fuel storage cost
+estimates. Decommissioning costs and the assumed operating characteristics of the Facility
+have not changed. The long-term marginal financing rates for debt and preferred stock were
+reviewed but have not been changed from the Eighth VCM Report. The cost of equity has
+changed to reflect the most recent allowed return as approved in the Company’s 2013 base
+rate case. It should be noted that these marginal financing costs are higher than the current
+estimate of embedded average financing costs, which are used in all other references to
+financing costs in this report. Consistent with the Eighth VCM Report, the current economic
+evaluation assumes 50 percent of potentially available PTCs. Finally, this economic analysis
+now includes the expected interest savings of the DOE loan guarantee, which was closed in
+February 2014.
+“Sunk costs” (non-refundable capital and financing costs already incurred or projected to
+have been incurred as of February 28, 2014) are excluded from this forward-looking analysis.
+The current forecast of construction and capital costs as shown in Table 1.1, net of sunk
+costs, is used as the basis to determine “cost to complete.”
+The relative economics of the Facility, when compared to the gas-fired CC alternative, vary
+depending on the assumptions for future fuel prices as well as with the projected carbon costs
+associated with potential future carbon regulation. Table 14.1 below shows the difference
+between the lifetime costs of building, operating, and maintaining the gas-fired CC
+alternative and the Facility, with positive savings meaning the Facility is less expensive to
+customers than the gas-fired CC alternative. All twelve scenarios show positive benefits to
+customers for completing and operating the Facility.
+38
+Table 14.1
+Relative Savings of the Facility versus CC as of February 28, 2014
+“Incremental Cost to Complete”
+(In 2016 Dollars)
+(Net present value of lifetime costs of CC minus the Facility)
+Fuel \ CO Existing CO Moderate CO Substantial CO
+2 2 2 2
+High $7,024,000,000 $6,566,000,000 $7,987,000,000
+Restrained $4,816,000,000 $5,345,000,000 $6,800,000,000
+Moderate $2,911,000,000 $4,278,000,000 $4,982,000,000
+Low $1,265,000,000 $3,541,000,000 $4,061,000,000
+Positive number means the Facility is less costly than the gas-fired CC
+alternative.
+The Company continues to believe equal weighting of these scenario outcomes is most
+appropriate given the difficulty in assessing the outcome of a vast range of key variables such
+as future environmental regulations, possible climate change regulation, fuel prices, demand
+levels, potential federal portfolio requirements, federal policies toward new nuclear, the
+breadth and rate of expansion of new nuclear in the United States, and the interplay of other
+market forces. As such, the weighted average expected value of the relative savings for
+completion of the Facility as compared to the gas-fired CC alternative is $5.0 billion based
+on the results provided in Table 14.1.
+Alternatively, the results of the updated economic evaluation can be expressed in terms of the
+“breakeven capital cost to complete.” Table 14.2 below shows the results of the breakeven
+analysis that calculates the maximum capital expenditure that could be spent to complete the
+Facility and maintain lifetime costs that are equal to the cost of the gas-fired CC alternative.
+In all of the scenarios, the maximum capital cost to complete the Facility exceeds the
+Company’s current estimate of the cost to complete the Facility (including marginal
+construction financing costs) of $2.7 billion.
+39
+Table 14.2
+Relative Savings of the Facility versus CC as of February 28, 2014
+“Break-Even Cost to Complete”
+(In 2016 Dollars)
+(Maximum Capital Costs to Complete the Facility and Remain Economic)
+Fuel \ CO Existing CO Moderate CO Substantial CO
+2 2 2 2
+High $7,746,000,000 $7,419,000,000 $8,435,000,000
+Restrained $6,169,000,000 $6,548,000,000 $7,586,000,000
+Moderate $4,809,000,000 $5,785,000,000 $6,288,000,000
+Low $3,633,000,000 $5,259,000,000 $5,630,000,000
+If the value is higher than the current estimated cost to complete of $2.7
+billion of in-service and construction financing costs, the Facility benefits
+customers. On an expected value basis, the Company’s results indicate
+that the cost to complete the Facility could increase by $3.5 billion over
+the current estimated cost to complete the Facility before becoming
+uneconomic. (This value can be derived by averaging the results from the
+twelve scenarios above and then subtracting the current estimated cost to
+complete).
+The analyses provided in Tables 14.1 and 14.2 are based on an economic assessment from an
+“incremental cost to complete” perspective, which ignores any potential cancellation fees or
+other costs that would be incurred if the project were stopped, as well as any fully-committed
+construction costs that would not be avoidable in the event the project is cancelled. If the
+results from the incremental cost to complete evaluation showed it was no longer cost-
+effective to pursue completing the Facility, a second cancellation assessment would be
+performed to determine the economic value of canceling the Facility. A cancellation
+assessment can provide the most appropriate perspective for deciding whether to cancel the
+Facility as it would include the impacts of any cancellation fees or other costs associated with
+cancelling the Facility in the economic analysis. However, because Tables 14.1 and 14.2 both
+reflect significant savings and benefits to customers from the incremental cost to complete
+perspective across a wide range of possible future fuel and carbon prices, a cancellation
+assessment is not warranted at this time.
+In the Eighth VCM proceeding, the Commission ordered that delay scenarios of 24, 36 and
+48 months be performed using the latest COD dates for the Units in future VCM filings. The
+Company has performed economic analysis in which the in-service dates are delayed by 24,
+36 and 48 months from December 2017 and December 2018 for Units 3 and 4, respectively.
+These scenarios include additional capital costs and financing costs related to the delay
+scenarios, and the results are provided in Table 14.3, 14.4 and 14.5.
+40
+Table 14.3
+Relative Savings of the Facility versus CC as of February 28, 2014
+December 2019 / December 2020 In-service (24 Month Delay) Scenario
+“Break-Even Cost to Complete”
+(In 2016 Dollars)
+(Maximum Capital Costs to Complete the Facility and Remain Economic)
+Fuel \ CO Existing CO Moderate CO Substantial CO
+2 2 2 2
+High $7,771,000,000 $7,395,000,000 $8,417,000,000
+Restrained $6,235,000,000 $6,541,000,000 $7,590,000,000
+Moderate $4,949,000,000 $5,814,000,000 $6,384,000,000
+Low $3,796,000,000 $5,260,000,000 $5,712,000,000
+If the value is higher than this scenario’s estimated cost to complete of
+$3.4 billion of in-service and construction financing costs, the Facility
+benefits customers.
+Table 14.4
+Relative Savings of the Facility versus CC as of February 28, 2014
+December 2020 / December 2021 In-service (36 Month Delay) Scenario
+“Break-Even Cost to Complete”
+(In 2016 Dollars)
+(Maximum Capital Costs to Complete the Facility and Remain Economic)
+Fuel \ CO Existing CO Moderate CO Substantial CO
+2 2 2 2
+High $7,686,000,000 $7,301,000,000 $8,322,000,000
+Restrained $6,182,000,000 $6,459,000,000 $7,512,000,000
+Moderate $4,938,000,000 $5,753,000,000 $6,346,000,000
+Low $3,798,000,000 $5,188,000,000 $5,665,000,000
+If the value is higher than this scenario’s estimated cost to complete of
+$3.75 billion of in-service and construction financing costs, the Facility
+benefits customers.
+41
+Table 14.5
+Relative Savings of the Facility versus CC as of February 28, 2014
+December 2021 / December 2022 In-service (48 Month Delay) Scenario
+“Break-Even Cost to Complete”
+(In 2016 Dollars)
+(Maximum Capital Costs to Complete the Facility and Remain Economic)
+Fuel \ CO Existing CO Moderate CO Substantial CO
+2 2 2 2
+High $7,633,000,000 $7,240,000,000 $8,244,000,000
+Restrained $6,159,000,000 $6,414,000,000 $7,445,000,000
+Moderate $4,957,000,000 $5,725,000,000 $6,321,000,000
+Low $3,834,000,000 $5,150,000,000 $5,630,000,000
+If the value is higher than this scenario’s estimated cost to complete of
+$4.1 billion of in-service and construction financing costs, the Facility
+benefits customers.
+Economic Analysis Conclusion / Summary of Results
+In summary, all scenario studies, with the exception of the Low Fuel/Existing CO2 in the 48
+Month Delay Scenario, indicate that the Facility would remain economic despite the
+additional costs associated with the delay scenarios. In the delay scenarios, the Facility
+remains less costly than the next best fuel alternative and will continue to benefit customers.
+These scenarios do not represent the Company’s projection for the ultimate outcome of the
+project but instead represent the delay scenarios ordered by the Commission in the Eighth
+VCM proceeding.
+15. The Company will be under a continuing obligation to supplement its response to PIA
+Staff DR STF-TN-1-2 by ensuring that the financing data reflected in the schedules
+attached to that DR response reflect the most current and updated information at the
+time of each semi-annual monitoring report. In addition, the Company will provide the
+most current information shared with each of the Rating Agencies.
+Simultaneous with this filing, the Company has filed supplemental PIA Staff DR STF-TN-1-
+2, and has included in that filing the most current information shared with each of the Rating
+Agencies.
+The Company recommends removing this item in future VCM reports with the understanding
+that supplemental responses to STF-TN-1-2 will continue to be filed simultaneously with the
+VCM Reports.
+42

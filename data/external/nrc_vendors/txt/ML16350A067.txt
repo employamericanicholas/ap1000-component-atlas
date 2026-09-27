@@ -1,0 +1,302 @@
+December 21, 2016
+Mr. Stewart Shannon
+Senior Director, Product Assurance
+Curtiss-Wright Electro-Mechanical Division
+1000 Wright Way
+Cheswick, PA 15024
+SUBJECT: NUCLEAR REGULATORY COMMISSION VENDOR INSPECTION OF
+CURTISS-WRIGHT ELECTRO-MECHANICAL DIVISION REPORT
+NO. 99901383/2016-201 AND NOTICE OF NONCONFORMANCE
+Dear Mr. Shannon:
+On November 14-18, 2016, the U.S. Nuclear Regulatory Commission (NRC) staff conducted an
+inspection at the Curtiss-Wright Electro-Mechanical Division (hereafter referred to as EMD)
+facility in Cheswick, PA. The purpose of the inspection was to assess EMD’s compliance with
+provisions of Title 10 of the Code of Federal Regulations (10 CFR) Part 21, “Reporting of
+Defects and Noncompliance,” and selected portions of Appendix B, “Quality Assurance Program
+Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to 10 CFR Part 50, “Domestic
+Licensing of Production and Utilization Facilities.”
+This technically-focused inspection specifically evaluated EMD’s implementation of quality
+activities associated with the fabrication and testing of the Reactor Coolant Pumps (RCPs) for
+the Westinghouse Electric Company (WEC) AP1000 reactor design. The enclosed report
+presents the results of the inspection. This NRC inspection report does not constitute NRC
+endorsement of EMD’s overall quality assurance (QA) program.
+During this inspection, the NRC staff observed qualification tests and inspected records
+associated with inspections, tests, analyses, and acceptance criteria (ITAAC) from Revision 19
+to the certified AP1000 Design Control Document (DCD). Specifically, these activities were
+associated with ITAAC 2.1.02.02a, ITAAC 2.1.02.03a, ITAAC 2.1.02.08b, and ITAAC 2.1.02.08c
+for Vogtle Electric Generating Plant Unit 3. The NRC inspection team did not identify any
+findings associated with the ITAAC contained in Section (4) of the attachment to this report.
+Based on the results of the inspection, the NRC inspection team found that the implementation
+of your QA program did not meet certain regulatory requirements imposed on you by your
+customers. Specifically, the NRC inspection team determined that EMD was not fully
+implementing its QA program in the areas of design control and control of purchased material,
+equipment, and services. The specific findings and references to the pertinent requirements are
+identified in the Notice of Nonconformance (NON) and in the enclosures to this letter.
+Please provide a written explanation or statement within 30 days from the date of this letter in
+accordance with the instructions specified in the enclosed NON. We will consider extending the
+response time if you show good cause for us to do so.
+
+=== PAGE BREAK ===
+
+S. Shannon - 2 -
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC’s “Rules of Practice,” a copy of this letter, its enclosures, and your response will be
+made available electronically for public inspection in the NRC Public Document Room or from
+the NRC’s Agencywide Documents Access and Management System, which is accessible at
+http://www.nrc.gov/reading-rm/adams.html. To the extent possible, your response should not
+include any personal privacy, proprietary, or safeguards information so that it can be made
+available to the public without redaction. If personal privacy or proprietary information is
+necessary to provide an acceptable response, please provide a bracketed copy of your
+response that identifies the information that should be protected and a redacted copy of your
+response that deletes such information. If you request that such material be withheld from
+public disclosure, you must specifically identify the portions of your response that you seek to
+have withheld and provide in detail the bases for your claim (e.g., explain why the disclosure of
+information would create an unwarranted invasion of personal privacy or provide the information
+required by 10 CFR 2.390(b) to support a request for withholding confidential commercial or
+financial information). If Safeguards Information is necessary to provide an acceptable
+response, please provide the level of protection described in 10 CFR 73.21, “Protection of
+Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA/ (RMcIntyre for)
+John Burke, Chief
+Quality Assurance Vendor Inspection Branch-2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901383
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report No. 99901383/2016-201
+and Attachment
+
+=== PAGE BREAK ===
+
+S. Shannon - 2 -
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC’s “Rules of Practice,” a copy of this letter, its enclosures, and your response will be
+made available electronically for public inspection in the NRC Public Document Room or from
+the NRC’s Agencywide Documents Access and Management System, which is accessible at
+http://www.nrc.gov/reading-rm/adams.html. To the extent possible, your response should not
+include any personal privacy, proprietary, or safeguards information so that it can be made
+available to the public without redaction. If personal privacy or proprietary information is
+necessary to provide an acceptable response, please provide a bracketed copy of your
+response that identifies the information that should be protected and a redacted copy of your
+response that deletes such information. If you request that such material be withheld from
+public disclosure, you must specifically identify the portions of your response that you seek to
+have withheld and provide in detail the bases for your claim (e.g., explain why the disclosure of
+information would create an unwarranted invasion of personal privacy or provide the information
+required by 10 CFR 2.390(b) to support a request for withholding confidential commercial or
+financial information). If Safeguards Information is necessary to provide an acceptable
+response, please provide the level of protection described in 10 CFR 73.21, “Protection of
+Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA/ (RMcIntyre for)
+John Burke, Chief
+Quality Assurance Vendor Inspection Branch-2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901383
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report No. 99901383/2016-201
+and Attachment
+DISTRIBUTION:
+ASakadales
+KKavanagh
+TJackson
+RMusser
+PKrohn
+NRO_DCIP Distribution
+ConE_Resource
+sshannon@curtisswright.com
+ADAMS Accession No.: ML16350A067 *via e-mail NRO-002
+OFFICE NRO/DCIP/QVIB-2 NRO/DCIP/QVIB-2 NRO/DCIP/QVIB-2 RII/DCO/CIB2
+NAME BClarke YDiaz-Castillo (BClarke for) ETorres* KMcCurry*
+DATE 12/19/16 12/19/16 12/15/16 12/16/16
+OFFICE NRO/DEIA/MCB NRO/DEIA/MEB NRO/DCIPQVIB-2
+NAME JHoncharik* TScarbrough* JBurke (RMcIntyre for)
+DATE 12/15/16 12/15/16 12/20/16
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+NOTICE OF NONCONFORMANCE
+Curtiss-Wright Electro-Mechanical Division Docket No. 99901383
+1000 Wright Way Report No. 2016-201
+Cheswick, PA 15024
+Based on the results of a U.S. Nuclear Regulatory Commission (NRC) inspection conducted at
+the Curtiss-Wright Electro-Mechanical Division (hereafter referred to as EMD) facility on
+November 14-18, 2016, certain activities were not conducted in accordance with NRC
+requirements which were contractually imposed on EMD by its customers or NRC licensees:
+A. Criterion III, “Design Control,” of Appendix B “Quality Assurance Program Criteria for
+Nuclear Power Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of Federal
+Regulations (10 CFR) Part 50, “Domestic Licensing of Production and Utilization
+Facilities,” states, in part, that, “Measures shall be established to assure that applicable
+regulatory requirements and the design basis, as defined in 10 CFR 50.2, and as
+specified in the license application, for those structures, systems, and components to
+which this appendix applies are correctly translated into specifications, drawings,
+procedures, and instructions.”
+Westinghouse Electric Company (WEC) design specification document,
+APP-MP01-M2-001, “AP1000 Reactor Coolant Pump,” Revision 4, dated March 1, 2013,
+Section 5.1.3, “Flywheel Materials,” states in part, that, “The flywheel assembly shall be
+encased within a welded Alloy 625 enclosure to protect the heavy alloy from contact with
+the reactor coolant.”
+Contrary to the above, as of November 18, 2016, EMD failed to transfer all pertinent
+design requirements into applicable instructions and failed to use the material specified
+in the design specification. Specifically, Alloy 600 weld filler material was used for weld
+numbers 37, 38, 39, and 61 of the flywheel enclosure. By not correctly transferring the
+material requirements to the EMD drawings and weld procedures, the flywheel welds are
+not made from Alloy 625 material, as required by WEC APP-MP01-M2-001.
+The safety function of the Reactor Coolant Pump when power is removed is to provide
+coastdown flow to maintain adequate core cooling. The flywheel enclosure is part of the
+flywheel assembly which is critical to this function.
+This issue has been identified as Nonconformance 99901383/2016-201-01.
+B. Criterion III, of Appendix B to 10 CFR Part 50, states, in part, that, “Measures shall also
+be established for the selection and review for suitability of application of materials,
+parts, equipment, and processes that are essential to the safety-related functions of the
+structures, systems and components.”
+Criterion VII, “Control of Purchased, Material, Equipment, and Services,” of Appendix B
+to 10 CFR Part 50 states, in part, that, “Measures shall be established to assure that
+purchased material, equipment, and services, whether purchased directly or through
+contractors or subcontractors, conform to the procurement documents. These measures
+shall include provisions, as appropriate, for source evaluation and selection, objective
+Enclosure 1
+
+=== PAGE BREAK ===
+
+evidence of quality furnished by the contractor or subcontractor, inspection at the
+contractor or subcontractor source, and examination of products upon delivery.”
+EMD Product Assurance Instruction No. 224, “Commercial Grade Surveys,” Revision 2,
+dated November 5, 2015, states, in part, that, “The Commercial Grade Survey Checklist
+shall be used to guide the evaluation process, document the observed control of critical
+characteristics, and provide adequate objective evidence to support the conclusions
+regarding the adequacy of the supplier’s controls.”
+Contrary to the above, as of November 18, 2016, the NRC inspection team identified two
+examples where EMD failed to establish adequate measures for the selection and
+review for suitability of application of materials and processes that are essential to the
+safety-related functions of structures, systems, and components. Also, EMD failed to
+provide objective evidence of quality furnished by the contractor or subcontractor.
+Specifically, EMD failed to verify through the conduct of a commercial-grade survey or
+another acceptance method that certain critical characteristics identified in the technical
+evaluation of the impeller casting, impeller weld repair, and calibration services were
+adequately controlled. EMD’s commercial-grade survey of Precision Castparts
+Corporation did not verify that they had imposed and verified the necessary controls on
+their commercial sub-suppliers for performing hot isostatic pressing activities and control
+and testing of weld filler material. In addition, EMD’s commercial-grade survey of
+R.L. Holliday (RLH) did not verify that they had imposed and verified the necessary
+controls on their commercial sub-suppliers for the calibration of RLH’s equipment. For
+both of these suppliers, EMD did not perform any additional verification or acceptance
+activities to ensure that the identified critical characteristics were adequately controlled
+and the components would perform their intended safety function.
+The safety function of the Reactor Coolant Pump when power is removed is to provide
+coastdown flow to maintain adequate core cooling. The impeller is part of the
+safety-related rotor assembly which performs this function.
+This issue has been identified as Nonconformance 99901383/2016-201-02.
+Please provide a written statement or explanation to the U.S. Nuclear Regulatory Commission,
+ATTN: Document Control Desk, Washington, DC 20555-0001, with a copy to the Chief, Quality
+Assurance Vendor Inspection Branch - 2, Division of Construction Inspection and Operational
+Programs, Office of New Reactors, within 30 days of the date of the letter transmitting this
+Notice of Nonconformance. This reply should be clearly marked as a “Reply to a Notice of
+Nonconformance” and should include for each noncompliance: (1) the reason for the
+noncompliance or, if contested, the basis for disputing the noncompliance; (2) the corrective
+steps that have been taken and the results achieved; (3) the corrective steps that will be taken
+to avoid further noncompliance; and (4) the date when the corrective action will be completed.
+Where good cause is shown, the NRC will consider extending the response time.
+Because your response will be made available electronically for public inspection in the NRC
+Public Document Room or from the NRC’s Agencywide Documents Access and Management
+System, which is accessible from the NRC Web site at
+http://www.nrc.gov/reading-rm/adams.html, to the extent possible, it should not include any
+personal privacy, proprietary, or Safeguards Information (SGI) so that the NRC can make it
+available to the public without redaction. If personal privacy or proprietary information is
+necessary to provide an acceptable response, then please provide a bracketed copy of your
+- 2 -
+
+=== PAGE BREAK ===
+
+response that identifies the information that should be protected and a redacted copy of your
+response that deletes such information. If you request that such material be withheld, you must
+specifically identify the portions of your response that you seek to have withheld and provide in
+detail the bases for your claim of withholding (e.g., explain why the disclosure of information will
+create an unwarranted invasion of personal privacy or provide the information required by
+10 CFR 2.390(b) to support a request for withholding confidential commercial or financial
+information). If SGI is necessary to provide an acceptable response, please provide the level of
+protection described in 10 CFR 73.21, “Protection of Safeguards Information: Performance
+Requirements.”
+Dated this the 21st day of December 2016.
+- 3 -
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS
+VENDOR INSPECTION REPORT
+Docket No.: 99901383
+Report No.: 99901383/2016-201
+Vendor: Curtiss-Wright Electro-Mechanical Division
+1000 Wright Way
+Cheswick, PA 15024
+Vendor Contact: Mr. Stewart Shannon
+Senior Director, Product Assurance
+E-mail: sshannon@curtisswright.com
+Phone: 724-275-5671
+Nuclear Industry Activity: Curtiss-Wright Electro-Mechanical Division (EMD) located in
+Cheswick, PA is under contract from Westinghouse Electric
+Company (WEC) to design, manufacture, test, and deliver the
+Reactor Coolant Pumps (RCPs) for the WEC AP1000 design.
+Inspection Dates: November 14-18, 2016
+Inspectors: Brent Clarke NRO/DCIP/QVIB-2, Team Leader
+Yamir Diaz-Castillo NRO/DCIP/QVIB-2
+Edgardo Torres NRO/DCIP/QVIB-2
+John Honcharik NRO/DEIA/MCB
+Thomas Scarbrough NRO/DEIA/MEB
+Katherine McCurry RII/DCO/CIB2
+Approved by: John Burke, Chief
+Quality Assurance Vendor Inspection Branch-2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Enclosure 2
+
+=== PAGE BREAK ===
+
+EXECUTIVE SUMMARY
+Curtiss-Wright Electro-Mechanical Division
+99901383/2016-201
+The U.S. Nuclear Regulatory Commission (NRC) staff conducted a vendor inspection at the
+Curtiss-Wright Electro-Mechanical Division (hereafter referred to as EMD) facility to verify that it
+had implemented an adequate quality assurance (QA) program that complies with the
+requirements of Appendix B, “Quality Assurance Criteria for Nuclear Power Plants and Fuel
+Reprocessing Plants,” to Title 10 of the Code of Federal Regulations (10 CFR) Part 50,
+“Domestic Licensing of Production and Utilization Facilities.” In addition, the NRC inspection
+verified that EMD implemented a program under 10 CFR Part 21, “Reporting of Defects and
+Noncompliance,” that met NRC’s regulatory requirements. The NRC inspection team
+conducted the inspection from November 14-18, 2016.
+This technically-focused inspection specifically evaluated EMD’s implementation of quality
+activities associated with the design, fabrication, and testing of the Reactor Coolant Pumps
+(RCPs) for the Westinghouse Electric Company (WEC) AP1000 reactor design.
+Some of the specific activities observed by the NRC inspection team included:
+• Slip testing of an international RCP (Serial Number (S/N) 3)
+• Coastdown testing of an international RCP (S/N 3)
+• Flywheel over speed testing of the lower flywheel for a domestic RCP (Virgil C. Summer
+Nuclear Station (VC Summer) RCP No. 5)
+• Penetrant Inspection of Weld No. 44 for the lower seal ring canopy of an international
+RCP (S/N 13)
+• Welding of the thermal barrier/diffuser locking device for an international RCP (S/N 13)
+• Stud heating and torqueing for an international RCP (S/N 13)
+• Flip and interference fit of flywheel onto rotor for an international RCP (S/N 13)
+• Lower thrust bearing assembly for an international RCP (S/N 17)
+• Graphite shoe inspection for an international RCP (S/N 17)
+• Stator assembly for an international RCP (S/N 17)
+• Rotor balancing for a domestic RCP (Vogtle Electric Generating Plant RCP No. 6)
+• Receipt inspection of a graphite thrust shoe insert for a domestic RCP (VC Summer Unit
+2)
+These regulations served as the bases for the NRC inspection:
+• Appendix B to 10 CFR Part 50
+• 10 CFR Part 21
+During the course of this inspection, the NRC inspection team implemented Inspection
+Procedure (IP) 43002, “Routine Inspections of Nuclear Vendors,” dated June 15, 2013;
+IP 43004, “Inspection of Commercial-Grade Dedication Programs,” dated November 29, 2013;
+IP 36100, “Inspection of 10 CFR Part 21 and Programs for Reporting Defects and
+- 2 -

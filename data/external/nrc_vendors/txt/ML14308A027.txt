@@ -1,0 +1,293 @@
+November 21, 2014
+Mr. Russell E. Stone, Quality Manager
+Specialty Maintenance and Construction, Inc.
+A Division of Metaltek International
+4015 Drane Field Rd.
+Lakeland, FL 33811
+SUBJECT: NUCLEAR REGULATORY COMMISSION INSPECTION REPORT NO.
+99901439/2014-202 AND NOTICE OF NONCONFORMANCE
+Dear Mr. Stone:
+On October 13-17, 2014, the U.S. Nuclear Regulatory Commission (NRC) staff conducted an
+inspection at the Specialty Maintenance and Construction, Inc. (SMCI) facility in Lakeland, FL.
+The purpose of this limited-scope reactive inspection was to assess SMCI’s compliance with
+selected portions of Appendix B, “Quality Assurance Criteria for Nuclear Power Plants and Fuel
+Reprocessing Plants,” to Title 10 of the Code of Federal Regulations (10 CFR) Part 50,
+“Domestic Licensing of Production and Utilization Facilities.” This technically-focused inspection
+specifically evaluated SMCI’s implementation of quality activities associated with the fabrication
+of the remain-in-place steel formwork modules for concrete, in-containment refueling water
+storage tank wall and reactor vessel cavity modules for the Westinghouse Electric Company’s
+AP1000 reactor design. The enclosed report presents the results of the inspection. This NRC
+inspection report does not constitute an NRC endorsement of SMCI’s overall quality assurance
+(QA) program.
+During this inspection, the NRC inspection team found that the implementation of SMCI’s QA
+program failed to meet certain NRC requirements imposed on you by your customers.
+Specifically, the NRC inspection team determined that SMCI was not fully implementing its QA
+program in the areas of corrective action, nonconforming materials, parts, or components,
+handling, storage, and shipping, and control of purchased material, equipment, and services.
+The specific findings and references to the pertinent requirements are identified in the
+enclosures to this letter. In response to the enclosed notice of nonconformance (NON), SMCI
+should document the results of the extent of condition review for these findings and determine
+whether there are any effects on other safety-related components.
+Please provide a written statement or explanation within 30 days of this letter in accordance with
+the instructions specified in the enclosed NON. The agency will consider extending the
+response time if you show good cause for us to do so.
+In accordance with 10 CFR 2.390, “Agency Rules of Practice and Procedure,” a copy of this
+letter, its enclosure(s), and your response will be made available electronically for public
+inspection in the NRC Public Document Room or from the NRC’s Agencywide Documents
+Access and Management System (ADAMS), accessible at http://www.nrc.gov/reading-
+rm/adams.html. To the extent possible, your response (if applicable) should not include any
+personal privacy, proprietary, or Safeguards Information so that it can be made available to the
+
+=== PAGE BREAK ===
+
+R. Stone -2-
+public without redaction. If personal privacy or proprietary information is necessary to provide
+an acceptable response, please provide a bracketed copy of your response that identifies the
+information that should be protected and a redacted copy of your response that deletes such
+information. If you request that such material be withheld from public disclosure, you must
+specifically identify the portions of your response that you seek to have withheld and provide in
+detail the bases for your claim (e.g., explain why the disclosure of information will create an
+unwarranted invasion of personal privacy or provide the information required by 10 CFR
+2.390(b) to support a request for withholding confidential commercial or financial information). If
+Safeguards Information is necessary to provide an acceptable response, please provide the
+level of protection described in 10 CFR 73.21, “Protection of Safeguards Information:
+Performance Requirements.”
+Sincerely,
+/RA/
+Edward H. Roach, Chief
+Mechanical Vendor Inspection Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901439
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report No. 99901439/2014-202 and Attachment
+
+=== PAGE BREAK ===
+
+R. Stone -2-
+public without redaction. If personal privacy or proprietary information is necessary to provide
+an acceptable response, please provide a bracketed copy of your response that identifies the
+information that should be protected and a redacted copy of your response that deletes such
+information. If you request that such material be withheld from public disclosure, you must
+specifically identify the portions of your response that you seek to have withheld and provide in
+detail the bases for your claim (e.g., explain why the disclosure of information will create an
+unwarranted invasion of personal privacy or provide the information required by 10 CFR
+2.390(b) to support a request for withholding confidential commercial or financial information). If
+Safeguards Information is necessary to provide an acceptable response, please provide the
+level of protection described in 10 CFR 73.21, “Protection of Safeguards Information:
+Performance Requirements.”
+Sincerely,
+/RA/
+Edward H. Roach, Chief
+Mechanical Vendor Inspection Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901439
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report No. 99901439/2014-202 and Attachment
+DISTRIBUTION:
+KKavanagh
+ASakadales
+RRasmussen
+Tim.Ennis@MetalTek.com
+Russell.Stone@MetalTek.com
+ADAMS Accession No.: ML14308A027 *Concurred via email NRO-002
+OFFICE NRO/DCIP/MVIB NRO/DCIP/MVIB NRO/DCIP/MVIB
+NAME YDiaz-Castillo JOrtega-Luciano LMicewski
+DATE 11/4/2014 11/4/2014 11/4/2014
+OFFICE NRR/DE/MCB NRO/DCIP:ES NRO/DCIP/MVIB
+NAME RDavis TFrye ERoach
+DATE 11/5/2014 11/6/2014 11/21/2014
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+NOTICE OF NONCONFORMANCE
+Specialty Maintenance and Construction, Inc.
+4015 Drane Field Road
+Lakeland, FL 33811
+Docket No. 99901439
+Based on the results of a U.S. Nuclear Regulatory Commission (NRC) inspection conducted at
+the Specialty Maintenance and Construction, Inc. (SMCI) facility in Lakeland, FL, on
+October 13, 2014, through October 17, 2014, certain activities were not conducted in
+accordance with NRC requirements that were contractually imposed on SMCI by its customers
+or NRC licensees:
+A. Criterion XVI, “Corrective Action,” in Appendix B, “Quality Assurance Program Criteria for
+Nuclear Power Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of Federal
+Regulations (10 CFR) Part 50, “Domestic Licensing of Production and Utilization Facilities,”
+states that, “Measures shall be established to assure that conditions adverse to quality, such
+as failures, malfunctions, deficiencies, deviations, defective material and equipment, and
+nonconformances are promptly identified and corrected. In the case of significant conditions
+adverse to quality, the measures shall assure that the cause of the condition is determined
+and corrective action taken to preclude repetition. The identification of the significant
+condition adverse to quality, the cause of the condition, and the corrective action taken shall
+be documented and reported to appropriate levels of management.”
+Paragraph 16.3.3.3 of Section 16.0 of SMCI’s Quality Assurance Manual, “Corrective
+Action,” Revision 3 dated December 23, 2013, states, in part, that “The Quality Manager in
+conjunction with the affected department manager or supervisor shall recommend the
+appropriate corrective action to be taken… The individual responsible for implementing the
+corrective measures shall propose a completion date, subject to the Quality Manager’s
+acceptance.”
+Contrary to the above, as of October 16, 2014, SMCI failed to ensure that significant
+conditions adverse to quality were promptly identified and corrected, and also failed to
+ensure that significant conditions adverse to quality were corrected to preclude repetition.
+Specifically,
+1. Corrective action taken in response to NRC finding, NON 99901439/2014-201-01,
+related to SMCI’s failure to qualify a welding procedure in accordance with
+Westinghouse Electric Company document number APP-VW20-ZO-023, “Welding
+Specification for ASTM A240 UNS S32101 Duplex Stainless Steel,” Revision 3, dated
+February 11, 2011, was inadequate. The NRC inspection team verified the corrective
+actions and determined that SMCI failed to effectively implement the corrective actions
+as documented in a letter from SMCI to the NRC dated June 6, 2014. Although SMCI
+did generate a welding procedure specification and procedure qualification record
+checklist, these checklists have not been incorporated in SMCI’s quality assurance
+Enclosure 1
+
+=== PAGE BREAK ===
+
+program. In addition, the checklists failed to provide the necessary reference to meet
+the WEC specifications to address weld ferrite content in duplex stainless steel welds.
+2. Corrective action taken in response to NRC finding, NON 99901439/2014-201-02,
+classified as a significant condition adverse to quality, related to SMCI’s failure to adopt
+a Nonconformance Program that meets the requirements of Criterion XV in Appendix B
+to 10 CFR Part 50, was inadequate. The NRC inspection team verified the corrective
+actions and determined that SMCI failed to effectively implement the corrective actions
+as documented in a letter from SMCI to the NRC dated June 6, 2014. The NRC
+inspection team found several recurrent examples that indicate that the corrective
+actions taken to preclude repetition were inadequate. For example, the NRC inspection
+team identified four nonconformance (NCR) hold tags that did not contain the NCR
+number, and found seven items in the NCR holding area without proper identification
+and description of the cause of the nonconforming issue. Furthermore, the NRC
+inspection team determined that the SMCI training conducted for the new NCR
+procedure as part of the corrective action was ineffective.
+This issue has been identified as Nonconformance 99901439/2014-202-01.
+B. Criterion XV, “Nonconforming Materials, Parts, or Components,” in Appendix B to 10 CFR
+Part 50, states, in part, that “Measures shall be established to control materials, parts, or
+components which do not conform to requirements in order to prevent their inadvertent use
+or installation. These measures shall include, as appropriate, procedures for identification,
+documentation, segregation, disposition, and notification to affected organizations.
+Nonconforming items shall be reviewed and accepted, rejected, repaired or reworked in
+accordance with documented procedures.”
+Paragraph 15.3.1 of Section 15.0 of SMCI’s Quality Assurance Manual, “Control of
+Nonconforming Items,” Revision 6 dated December 23, 2013, states, in part, that
+“Nonconforming conditions may be identified by an SMCI employee discovering a condition
+adverse to quality during processing activities affecting quality, or a supplier or
+subcontractor notifying SMCI of a nonconforming condition. Once a nonconformance is
+determined to exist, the SMCI employee shall document the nonconformance on a
+Nonconformance Report (NCR).”
+Section 5.5.2.1 of SMCI procedure QP-5.3, “Manufacturing Travelers,” Revision 2, dated
+September 4, 2014, states, in part, that “Manufacturing shall sign/initial and date all
+completed operations as they are completed.” In addition, Section 5.5.2.2 states, in part,
+that “If Quality Inspection performs the inspection and determines the work performed by
+Manufacturing has not been completed in accordance with the operation description, the
+Traveler shall be returned to Manufacturing. Quality Assurance shall initiate a
+Nonconformance Report in accordance with QP-15.0 for all nonconforming conditions.”
+Contrary to the above as of October 16, 2014, SMCI failed to adequately identify, document,
+evaluate, segregate, disposition, and notify affected organizations of nonconforming
+products.
+- 2 -
+
+=== PAGE BREAK ===
+
+Specifically,
+1. The NRC inspection team identified through interviews of manufacturing and quality
+inspection staff at SMCI that quality control (QC) inspectors do not always initiate an
+NCR for all nonconforming conditions found after a welder has completed a step in
+accordance with the operation description; instead, the QC inspectors extend the
+definition of “work in process” to justify rework of nonconforming conditions without
+proper documentation. Individuals described various administrative methods of
+classifying a weld as “in process” based on which signature blocks on a weld traveler
+had been signed and dated. This practice allowed unlimited iterations of grinding out
+and reworking of nonconforming conditions by a welder without documentation in an
+NCR.
+2. SMCI failed to generate an NCR for an oxidized spool of AWS E71T-1M/12M-JH4 flux
+core arc welding wire intended for use on the AP1000 CA-20 subassemblies 3 and 4 for
+Vogtle Electric Generating Plant Unit 3. The spool of wire was checked into the
+controlled storage area by a member of the SMCI staff in a known wetted condition, but
+rather than documenting the condition in an NCR, the employee attached a handwritten
+note stating that the spool should not be used.
+This issue has been identified as Nonconformance 99901439/2014-202-02.
+C. Criterion XIII, “Handling, Storage, and Shipping,” in Appendix B to 10 CFR Part 50, states, in
+part, that “Measures shall be established to control the handling, storage, shipping, cleaning
+and preservation of material and equipment in accordance with work and inspection
+instructions to prevent damage or deterioration.”
+Subsection 6.1.2.d of Section 6, “Storage,” of Subpart 2.2, “Quality Assurance
+Requirements for Packaging, Shipping, Receiving, Storage, and Handling of Items for
+Nuclear Power Plants,” of the American Society of Mechanical Engineers Nuclear Quality
+Assurance (NQA)-1, “Quality Assurance Requirements for Nuclear Facility Applications,”
+1994 Edition, states, in part, that “Level D items may be stored outdoors in an area marked
+and designated for storage that is well drained. Items shall be stored on cribbing or
+equivalent to allow for air circulation and to avoid trapping water.”
+Subsection 5.a, “Storage Level D,” of Section 1.2, “Storage Area Requirements,” of
+Appendix 1, “Storage Levels and Cleanliness Classes,” to SMCI’s QP-13.0, “Material,
+Handling, Storage, and Shipping,” Revision 4, dated September 8, 2014, states, in part,
+“Outdoor storage - well drained. Items shall be stored on cribbing, or equivalent, to allow for
+air circulation and to avoid trapping water.”
+Contrary to the above, as of October 16, 2014, SMCI failed to establish adequate measures
+for the storage of Level D items to prevent damage or deterioration. Specifically, the NRC
+inspection team identified several locations where Level D material was being stored that
+did not have proper drainage. For example, several of the materials being stored were
+retaining water, had standing water directly beneath the material, and in some cases the
+pallets holding the material were sinking into the mud created by the water.
+- 3 -
+
+=== PAGE BREAK ===
+
+This issue has been identified as Nonconformance 99901439/2014-202-03.
+D. Criterion VII, “Control of Purchased Material, Equipment, and Services,” in Appendix B to 10
+CFR Part 50, states, in part, that “Measures shall be established to assure that purchased
+material, equipment, and services, whether purchased directly or through contractors and
+subcontractors, conform to the procurement documents. These measures shall include
+provisions, as appropriate, for source evaluation and selection, objective evidence of quality
+furnished by the contractor or subcontractor, inspection at the contractor or subcontractor
+source, and examination of products upon delivery.”
+Appendix E, “Detrimental and Prohibited Material Control,” to WEC document number, APP-
+GW-ZO-602 “AP1000 Cleaning and Cleanliness Requirements of Equipment for Use in
+Nuclear Supply and Associated Systems,” Revision 3, dated February 8, 2013, states, in
+part, that “marking materials to be used on the surface of items during manufacture and
+installation shall be evaluated prior to use to determine if contaminants are present.” The
+document further states, in part, that “possible sources of contaminants include temperature
+indicating crayons.” Table IV, “Detrimental Material Limits for Non-Product Material,” in
+Appendix E lists the contaminants that may be detrimental to various component materials.
+Contrary to the above, as of October 16, 2014, SMCI failed to assure that purchased
+material conforms to the procurement documents. Specifically, SMCI failed to verify that
+temperature indicating crayons, used in the fabrication of AP1000 safety-related
+components, were free of contaminants in accordance with the requirements of Appendix E
+to WEC document number APP-GW-ZO-602. Contaminants present on stainless steel
+surfaces can increase the material’s susceptibility to stress corrosion cracking.
+This issue has been identified as Nonconformance 99901439/2014-202-04.
+Please provide a written statement or explanation to the U.S. Nuclear Regulatory Commission,
+ATTN: Document Control Desk, Washington, DC 20555-0001 with a copy to the Chief,
+Mechanical Vendor Inspection Branch, Division of Construction and Operational Programs,
+Office of New Reactors, within 30 days of the date of the letter transmitting this notice of
+nonconformance. This reply should be clearly marked as a “Reply to a Notice of
+Nonconformance” and should include for each noncompliance: (1) the reason for the
+noncompliance, or if contested, the basis for disputing the noncompliance; (2) the corrective
+steps that have been taken and the results achieved; (3) the corrective steps that will be taken
+to avoid future noncompliances; and (4) the date when your corrective action will be completed.
+Where good cause is shown, consideration will be given to extending the response time.
+Because your response will be made available electronically for public inspection in the NRC
+Public Document Room or from the NRC’s Agencywide Documents Access Management
+System (ADAMS), accessible through the NRC Web site at http://www.nrc.gov/reading-
+rm/adams.html, to the extent possible, it should not include any personal, privacy, proprietary, or
+Safeguards Information so that it can be made available to the public without redaction. If
+personal privacy or proprietary information is necessary to provide an acceptable response,
+then please provide a bracketed copy of your response that identifies the information that
+should be protected and a redacted copy of your response that deletes such information. If you
+- 4 -
+
+=== PAGE BREAK ===
+
+request withholding of such material, you must specifically identify the portions of your response
+that you seek to have withheld and provide in detail the bases for your claim of withholding (e.g.,
+explain why the disclosure of information will create an unwarranted invasion of personal
+privacy or provide the information required by 10 CFR 2.390(b) to support a request for
+withholding confidential commercial or financial information). If Safeguards Information is
+necessary to provide an acceptable response, please provide the level of protection described
+in 10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.”
+Dated this the 21st day of November 2014.
+- 5 -

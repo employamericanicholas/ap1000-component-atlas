@@ -1,0 +1,300 @@
+June 12, 2014
+Mr. Charles Ginn, Quality Assurance Manager
+Westinghouse Electric Company
+Carolina Energy Solutions
+244 East Mount Gallant Road
+Rock Hill, SC 29730
+SUBJECT: WESTINGHOUSE CAROLINA ENERGY SOLUTIONS—U.S. NUCLEAR
+REGULATORY COMMISSION VENDOR INSPECTION REPORT
+NO. 99901438/2014-201
+Dear Mr. Ginn:
+On April 28 to May 2, 2014, the U.S. Nuclear Regulatory Commission (NRC) staff conducted an
+inspection at the Westinghouse Electric Company (WEC) Carolina Energy Solutions (CES)
+facility in Rock Hill, SC. The purpose of the inspection was to assess CES’s compliance with
+the provisions of selected portions of Appendix B, “Quality Assurance Criteria for Nuclear
+Power Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of Federal Regulations
+(10 CFR) Part 50, “Domestic Licensing of Production and Utilization Facilities,” and 10 CFR
+Part 21, “Reporting of Defects and Noncompliance.”
+During this inspection, the NRC staff looked at documentation and controls related to fabrication
+activities associated with the inspections, tests, analyses, and acceptance criteria (ITAAC) from
+Revision 19 of the approved AP1000 design certification document. Specifically, these activities
+were associated with ITAAC 2.1.02.02a, 2.1.02.02b, 2.1.02.03a, and 2.1.02.03b related to
+welded installation and nondestructive examination in accordance with the requirements of
+Section III of the American Society of Mechanical Engineers Boiler and Pressure Vessel Code.
+The following were reviewed: 1) 1-inch special bore bosses, wide and narrow range thermowell
+bosses, and pressurizer spray half cap scoop components on the reactor coolant loop piping
+spool pieces, and 2) the buttering of the reactor coolant pump (RCP) suction casing to dilute the
+sulfur content in the RCP base material. The NRC inspection team did not identify any findings
+associated with the ITAAC contained in Section 4 of the attachment to this report. This NRC
+inspection report does not constitute NRC endorsement of your overall quality assurance (QA)
+or Part 21 programs.
+During this inspection, the inspectors found that the implementation of your QA program failed
+to meet certain NRC requirements imposed on you by your customers. The first finding involves
+failure to assure that applicable regulatory requirements, design bases, and other requirements,
+which are necessary to assure adequate quality, are suitably included or referenced in the
+documents for procurement of material, equipment, and services for penetrant materials. The
+second finding documents the failure to promptly identify and correct a condition adverse to
+quality related to the use of commercial calibration services for safety-related applications. The
+specific findings and references to the pertinent requirements are identified in the enclosures to
+this letter. Please provide a written statement or explanation within 30 days from the date of this
+
+=== PAGE BREAK ===
+
+C. Ginn - 2 -
+letter in accordance with the instructions specified in the enclosed Notice of Nonconformance.
+We will consider extending the response time if you show good cause for us to do so.
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC’s “Rules of Practice,” a copy of this letter, its enclosure(s), and your response will be
+made available electronically for public inspection in the NRC Public Document Room or from
+the NRC’s document system (Agencywide Documents Access and Management System),
+accessible at http://www.nrc.gov/reading-rm/adams.html. To the extent possible, your response
+(if applicable) should not include any personal privacy, proprietary, or safeguards information so
+that it can be made available to the public without redaction.
+If personal privacy or proprietary information is necessary to provide an acceptable response,
+then please provide a bracketed copy of your response that identifies the information that
+should be protected and a redacted copy of your response that deletes such information. If you
+request that such material is withheld from public disclosure, you must specifically identify the
+portions of your response that you seek to have withheld and provide in detail the bases for your
+claim (e.g., explain why the disclosure of information will create an unwarranted invasion of
+personal privacy or provide the information required by 10 CFR 2.390(b) to support a request for
+withholding confidential commercial or financial information). If Safeguards Information is
+necessary to provide an acceptable response, please provide the level of protection described
+in 10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA/
+Edward H. Roach, Chief
+Mechanical Vendor Inspection Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901438
+Enclosure:
+1. Notice of Nonconformance
+2. Inspection Report 99901438/2014-201
+
+=== PAGE BREAK ===
+
+C. Ginn - 2 -
+letter in accordance with the instructions specified in the enclosed Notice of Nonconformance.
+We will consider extending the response time if you show good cause for us to do so.
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC’s “Rules of Practice,” a copy of this letter, its enclosure(s), and your response will be
+made available electronically for public inspection in the NRC Public Document Room or from
+the NRC’s document system (Agencywide Documents Access and Management System),
+accessible at http://www.nrc.gov/reading-rm/adams.html. To the extent possible, your response
+(if applicable) should not include any personal privacy, proprietary, or safeguards information so
+that it can be made available to the public without redaction.
+If personal privacy or proprietary information is necessary to provide an acceptable response,
+then please provide a bracketed copy of your response that identifies the information that
+should be protected and a redacted copy of your response that deletes such information. If you
+request that such material is withheld from public disclosure, you must specifically identify the
+portions of your response that you seek to have withheld and provide in detail the bases for your
+claim (e.g., explain why the disclosure of information will create an unwarranted invasion of
+personal privacy or provide the information required by 10 CFR 2.390(b) to support a request for
+withholding confidential commercial or financial information). If Safeguards Information is
+necessary to provide an acceptable response, please provide the level of protection described
+in 10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA/
+Edward H. Roach, Chief
+Mechanical Vendor Inspection Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901438
+Enclosure:
+1. Notice of Nonconformance
+2. Inspection Report 99901438/2014-201
+DISTRIBUTION:
+ASakadales
+ERoach
+KKavanagh
+RRasmussen
+ginncd@westinghouse.com
+ADAMS ACCESSION No.: ML14155A399 *Concurred via email NRO-002
+OFFICE NRO/DCIP/MVIB NRO/DCIP/MVIB NRO/DE/MCB RII/DCI/CIB3
+NAME MAnderson* ABelen* EReichelt* PCarman*
+DATE 06/03/2014 06/03/2014 06/03/2014 06/03/2014
+OFFICE NRO/DCIP/MVIB NRO/DCIP NRO/DCIP/MVIB
+NAME SCrane* TFrye* ERoach*
+DATE 06/04/2014 06/02/2014 06/12/2014
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+NOTICE OF NONCONFORMANCE
+Carolina Energy Solutions Docket No. 99901438
+Rock Hill, SC Report No. 2014-201
+Based on the results of the U.S. Nuclear Regulatory Commission (NRC) inspection conducted
+at Westinghouse Carolina Energy Solutions (CES) at the Rock Hill, SC, facility from
+April 28, 2014, through May 2, 2014, certain activities were not conducted in accordance with
+NRC requirements, which were contractually imposed on CES by its customers or NRC
+licensees.
+A. Criterion IV, “Procurement Document Control,” of Appendix B, “Quality Assurance
+Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to Title 10 of the Code
+of Federal Regulations (10 CFR) Part 50, “Domestic Licensing of Production and
+Utilization Facilities,” states, “measures shall be established to assure that applicable
+regulatory requirements, design bases, and other requirements which are necessary to
+assure adequate quality are suitably included or referenced in the documents for
+procurement of material, equipment, and services, whether purchased by the applicant
+or by its contractors or subcontractors.”
+APP-PL01-Z0-201, revision 1, “Reactor Coolant Loop Piping Fabrication Specification
+Including Welding,” governs the production of the reactor coolant loop piping for the
+Vogtle and Summer projects. APP-PL01-Z0-201 invokes the 1998 Edition through the
+2000 Addenda of the American Society of Mechanical Engineers (ASME) Boiler and
+Pressure Vessel Code (B&PV).
+ASME B&PV Code Section V, “Nondestructive Examination,” Subsection A,
+“Nondestructive Examination Methods,” Article 6, “Liquid Penetrant Examination,”
+Mandatory Appendix II, “Control of Contaminants for Liquid Penetrant Examination,”
+Paragraph 642 requires all penetrant materials used for examining austenitic steel be
+analyzed individually for total halogen content in accordance with Annex 4 of SE-165,
+“Standard Test Method for Liquid Penetrant Examination.” Alternatively, the material
+may be decomposed and analyzed in accordance with SE-165, Annex 2 for chlorine and
+SE-165, Annex 3 for fluorine.
+Contrary to the above, as of May 2, 2014, CES failed to assure that applicable regulatory
+requirements, design bases, and other requirements which are necessary to assure
+adequate quality are suitably included or referenced in the documents for procurement
+of material, equipment, and services. Specifically, CES failed to ensure that testing of
+the penetrant materials performed by NLS Analytical Services, Inc., under Purchase
+Order (PO) 4500619362, was performed in accordance with ASME SE-165.
+This issue has been identified as Nonconformance 99901438/2014-201-01.
+B. Criterion XVI, “Corrective Action,” of Appendix B to 10 CFR Part 50, states, in part, that
+“Measures shall be established to ensure that conditions adverse to quality, such as
+failures, malfunctions, deficiencies, deviations, defective material and equipment, and
+nonconformances are promptly identified and corrected.”
+Carolina Energy Solutions’ “Quality Assurance Program Manual,” Revision 6, dated
+February 22, 2013, Section 16, states that “measures established to assure that
+Enclosure 1
+
+=== PAGE BREAK ===
+
+conditions adverse to quality such as failures, malfunctions, deficiencies, deviations,
+defective material and equipment, and nonconformances are promptly identified and
+corrected.”
+Contrary to the above, as of May 2, 2014, Carolina Energy Solutions failed to promptly
+identify and correct a condition adverse to quality. Specifically:
+1. The 2013 Nuclear Procurement Issues Committee (NUPIC) audit of CES identified
+that CGQP-7.0, Control of Purchased Material, Equipment, and Services, allows for
+the acceptance of commercial calibration services for use in safety-related
+applications without performing dedication. CES opened Issue Report 13-074-P001
+to revise the procedure. However, CES had issued POs for commercial calibration
+services to be used in safety-related applications without performing dedication
+before the procedure was corrected and did not evaluate the effect of using any
+commercially calibrated equipment on basic components, including items that had
+shipped.
+2. The CES 2013 Internal Audit performed by Global QA Inc. identified that
+CGQP-18.0, Audits, allows for the acceptance of commercial calibration services for
+use in safety-related applications without performing dedication. CES failed to open
+an issue report to correct the procedure, issued POs for commercial calibration
+services to be used in safety-related applications without performing dedication, and
+did not evaluate the effect of using any commercially calibrated equipment on basic
+components, including items that had shipped
+This issue has been identified as Nonconformance 99901438/2014-201-02.
+Please provide a written statement or explanation to the U.S. Nuclear Regulatory Commission,
+ATTN: Document Control Desk, Washington, DC 20555-0001 with a copy to the Chief,
+Mechanical Vendor Inspection Branch, Division of Construction Inspection and Operational
+Programs, Office of New Reactors, within 30 days of the date of the letter transmitting this
+Notice of Nonconformance. This reply should be clearly marked as a “Reply to a Notice of
+Nonconformance” and should include for each noncompliance: (1) the reason for the
+noncompliance, or if contested, the basis for disputing the noncompliance, (2) the corrective
+steps that have been taken and the results achieved, (3) the corrective steps that will be taken
+to avoid noncompliances, and (4) the date when your corrective action will be completed.
+Where good cause is shown, consideration will be given to extending the response time.
+Because your response will be made available electronically for public inspection in the NRC
+Public Document Room or from the NRC’s document system (ADAMS), accessible from the
+NRC Web site at http://www.nrc.gov/reading-rm/adams.html, to the extent possible, it should not
+include any personal privacy, proprietary, or safeguards information so that it can be made
+available to the public without redaction. If personal privacy or proprietary information is
+necessary to provide an acceptable response, then please provide a bracketed copy of your
+response that identifies the information that should be protected and a redacted copy of your
+response that deletes such information.
+If you request withholding of such material, you must specifically identify the portions of your
+response that you seek to have withheld and provide in detail the bases for your claim of
+withholding (e.g., explain why the disclosure of information will create an unwarranted invasion
+of personal privacy or provide the information required by 10 CFR 2.390(b) to support a request
+- 2 -
+
+=== PAGE BREAK ===
+
+for withholding confidential commercial or financial information). If safeguards information is
+necessary to provide an acceptable response, please provide the level of protection described
+in 10 CFR 73.21.
+Dated this 12th day of June 2014.
+- 3 -
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS
+VENDOR INSPECTION REPORT
+Docket No.: 99901438
+Report No.: 99901438/2014-201
+Vendor: Westinghouse Carolina Energy Solutions
+244 East Mount Gallant Road
+Rock Hill, SC 29730
+Vendor Contact: Mr. Charles Ginn, Quality Assurance Manager
+ginncd@westinghouse.com
+Nuclear Industry Activity: Westinghouse Carolina Energy Solutions (CES), located in Rock
+Hill, SC, has been providing shop fabrication, production and field
+services to erect, modify, or replace piping, vessels, and plant
+components for the nuclear industry since 1998. CES’s scope of
+supply includes fabrication, installation, assembly, nondestructive
+examination (NDE), and welding of ASME Class 1, 2 & 3
+components.
+Inspection Dates: April 28 – May 2, 2014
+Inspectors: Samantha Crane NRO/DCIP/MVIB
+Aixa Belen NRO/DCIP/MVIB
+Mary Anderson NRO/DCIP/MVIB
+Eric Reichelt NRO/DE/MCB
+Paul Carman R-II/DCI/CIB3
+Approved by: Edward H. Roach, Chief
+Mechanical Vendor Inspection Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Enclosure 2
+
+=== PAGE BREAK ===
+
+EXECUTIVE SUMMARY
+Carolina Energy Solutions
+99901438/2014-201
+The U.S. Nuclear Regulatory Commission (NRC) conducted this vendor inspection to verify that
+Westinghouse Carolina Energy Solutions (hereafter referred to as CES), implemented an
+adequate quality assurance program that complies with the requirements of Appendix B,
+“Quality Assurance Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to Title 10
+of the Code of Federal Regulations (10 CFR) Part 50, “Domestic Licensing of Production and
+Utilization Facilities,” and 10 CFR Part 21 “Reporting of Defects and Noncompliance.”
+The NRC staff looked at documentation and controls for fabrication activities associated with the
+inspections, tests, analyses, and acceptance criteria (ITAAC) from revision 19 of the approved
+AP1000 design certification document. Specifically, these activities were associated with ITAAC
+2.1.02.02a, 2.1.02.02b, 2.1.02.03a, and 2.1.02.03b related to welded installation and
+nondestructive examination in accordance with the requirements of Section III of the American
+Society of Mechanical Engineers (ASME) Boiler and Pressure Vessel Code. The following were
+reviewed: 1) 1-inch special bore bosses, wide and narrow range thermowell bosses, and
+pressurizer spray half cap scoop components on the reactor coolant loop (RCL) piping spool
+pieces, and 2) the buttering of the reactor coolant pump (RCP) suction casing to dilute the sulfur
+content in the RCP base material. The inspectors reviewed 10 CFR Part 21, Order Entry,
+Oversight of Contracted Activities, Control of Special Processes, Control of Measuring and Test
+Equipment, Nonconformance/Corrective Action Program, and ITAAC.
+The following regulations served as the bases for this NRC inspection:
+• Appendix B to 10 CFR Part 50
+• 10 CFR Part 21
+Inspection procedures (IP) that were used included: IP 43002, “Routine Inspections of
+Nuclear Vendors” dated July 15, 2013, and IP 36100, “Inspection of 10 CFR Part 21 and
+Programs for Reporting Defects and Noncompliance” dated February 13, 2012.
+The results of the inspection are summarized below.
+Oversight of Contracted Activities
+The inspectors issued NON 99901438/2014-201-01 for CES’s failure to ensure that testing of
+the penetrant materials performed by NLS Analytical Services, Inc., under Purchase Order
+4500619362, was performed in accordance with ASME SE-165. With the exception of the
+above cited nonconformance, the inspectors found that CES’s oversight of contracted activities
+met the requirements of Criteria IV, “Procurement Document Control”; VII, “Control of
+Purchased Material, Equipment, and Services”; and XVIII, “Audits,” of Appendix B to
+10 CFR 50.
+Nonconformance/Corrective Action
+The inspectors issued NON 99901438/2014-201-02 for CES’s failure to promptly identify and
+correct a condition adverse to quality related to the use of commercially calibrated equipment for
+safety-related applications. With the exception of the above cited nonconformance, the
+- 2 -

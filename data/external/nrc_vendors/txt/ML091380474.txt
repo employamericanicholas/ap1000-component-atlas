@@ -1,0 +1,236 @@
+May 19, 2009
+Mr. Suk Kwan Kim
+Doosan Heavy Industries
+555 Gwigok-Dong
+Changwon, Gyeongnam
+641-792 Korea
+SUBJECT: NRC INSPECTION REPORT NO. 99901373/2009-201 AND NOTICE OF
+NONCONFORMANCE
+Dear Mr. Kim:
+From March 30 to April 3, 2009, the U.S. Nuclear Regulatory Commission (NRC) conducted an
+inspection at the Doosan Heavy Industries (Doosan) facility in Changwon, Gyeongnam, Korea.
+The enclosed report presents the results of this inspection.
+This was a limited scope inspection, which focused on assessing your compliance with the
+provisions of Part 21 of Title 10 of the Code of Federal Regulations (10 CFR Part 21) “Reporting
+of Defects and Noncompliance,” and selected portions of Appendix B to 10 CFR Part 50,
+“Quality Assurance Criteria for Nuclear Power Plants and Fuel Reprocessing Plants.” This NRC
+inspection report does not constitute NRC endorsement of your overall quality assurance (QA)
+or 10 CFR Part 21 programs.
+During this inspection, NRC inspectors found that implementation of your QA program failed to
+meet certain NRC requirements contractually imposed on you by your customers. The NRC
+inspectors noted a deficiency for a failure to perform an adequate root cause evaluation for a
+significant condition adverse to quality. The specific finding and references to the pertinent
+requirements are identified in the enclosures to this letter.
+Please provide a written explanation or statement within 30 days of this letter in accordance with
+the instructions specified in the enclosed Notice of Nonconformance.
+In accordance with 10 CFR 2.390 of the NRC's "Public Inspections, Exemptions, Requests for
+Withholding,” a copy of this letter, its enclosures, and your response will be made available
+electronically for public inspection in the NRC Public Document Room or from the NRC’s
+document system (ADAMS), accessible from the NRC Web site at http://www.nrc.gov/reading-
+rm/adams.html. To the extent possible, your response should not include any personal privacy,
+proprietary, or Safeguards Information so that it can be made available to the public without
+redaction. If personal privacy or proprietary information is necessary to provide an acceptable
+response, then please provide a bracketed copy of your response that identifies the information
+that should be protected and a redacted copy of your response that deletes such information. If
+you request that such material is withheld from public disclosure, you must specifically identify
+the portions of your response that you seek to have withheld and provide in detail the bases for
+your claim (e.g., explain why the disclosure of information will create an unwarranted invasion of
+personal privacy or provide the information required by 10 CFR 2.390(b) to support a request for
+
+=== PAGE BREAK ===
+
+S. Kim - 2 -
+withholding confidential, commercial, or financial information). If Safeguards Information is
+necessary to provide an acceptable response, please provide the level of protection described
+in 10 CFR 73.21.
+Sincerely,
+/RA Andy du Bouchet for/
+Juan Peralta, Chief
+Quality and Vendor Branch 1
+Division of Construction Inspection
+& Operational Programs
+Office of New Reactors
+Docket No.: 99901373
+Enclosures: 1. Notice of Nonconformance
+2. Inspection Report 99901373/2009-201
+
+=== PAGE BREAK ===
+
+S. Kim - 2 -
+withholding confidential, commercial, or financial information). If Safeguards Information is
+necessary to provide an acceptable response, please provide the level of protection described
+in 10 CFR 73.21
+Sincerely,
+/RA Andy du Bouchet for/
+Juan Peralta, Chief
+Quality and Vendor Branch 1
+Division of Construction Inspection
+& Operational Programs
+Office of New Reactors
+Docket No.: 99901373
+Enclosures: 1. Notice of Nonconformance
+2. Inspection Report 99901373/2009-201
+DISTRIBUTION:
+RidsNroDcipCqvp RidsNroDcipCqvb KKavanagh
+RidsNroDcip OIP DThatcher
+NRO_ForeignTravel Resource Sukkwan.kim@doosan.com
+ADAMS Accession No.: ML091380474 NRO-002
+OFFICE CQVP/DCIP/NRO CQVP/DCIP/NRO CQVP/DCIP/NRO CIB1/DE/NRO
+NAME VHall (A Bouchet for) KKavanagh (A Bouchet for) SCrane (A Bouchet for) EReichelt (A Bouchet for)
+DATE 5/19/2009 5/19/2009 5/19/2009 5/19/2009
+OFFICE CIB/DE/RES CAET/DCIP/NRO BC:CQVP/DCIP/NRO
+NAME ACsontos (A Bouchet for) RPascarelli JPeralta (A Bouchet for)
+DATE 5/19/2009 5/19/2009 5/19/2009
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+NOTICE OF NONCONFORMANCE
+Doosan Heavy Industries Docket Number 99901373
+555 Gwigok-Dong Inspection Report No. 99901373/2009-201
+Changwon, Gyeongnam
+641-792 Korea
+Based on the results of a U.S. Nuclear Regulatory Commission (NRC) inspection conducted
+March 30 – April 3, 2009, of activities performed at Doosan Heavy Industries (Doosan), certain
+activities were not conducted in accordance with NRC requirements, which were contractually
+imposed upon Doosan by NRC licensees.
+Criterion XVI, “Corrective Action,” of Appendix B to 10 CFR Part 50 states, in part that
+measures shall be established to assure that conditions adverse to quality, such as
+failures, malfunctions, deficiencies, deviations, defective material and equipment, and
+nonconformances are promptly identified and corrected. In the case of significant
+conditions adverse to quality, the measures shall assure that the cause of the condition
+is determined and corrective action taken to preclude repetition.
+Contrary to the above, as of April 3, 2009:
+Doosan repeatedly failed to record pre-heat data for welding on the Sequoyah nuclear
+power plant replacement steam generator project. Doosan’s corrective actions,
+including measures associated with Root Cause Analysis RCA-080084, Revision 1,
+dated August 8, 2008, failed to determine the cause of the condition and preclude
+repetition of this significant condition adverse to quality.
+This issue has been identified as Nonconformance 99901373/2009-201-01.
+Please provide a written statement or explanation to the U.S. Nuclear Regulatory Commission,
+ATTN: Document Control Desk, Washington, DC 20555-0001 with a copy to Juan Peralta,
+Chief, Quality and Vendor Branch 1, Division of Construction Inspection and Operational
+Programs, Office of New Reactors, within 30 days of the date of the letter transmitting this
+Notice of Nonconformance. This reply should be clearly marked as a "Reply to a Notice of
+Nonconformance” and should include for each noncompliance: (1) the reason for the
+noncompliance, or if contested, the basis for disputing the noncompliance; (2) the corrective
+steps that have been taken and the results achieved; (3) the corrective steps that will be taken
+to avoid non-compliances; and (4) the date when your corrective action will be completed.
+Where good cause is shown, consideration will be given to extending the response time.
+Because your response will be made available electronically for public inspection in the NRC
+Public Document Room or from the NRC’s document system (ADAMS), accessible from the
+NRC Web site at http://www.nrc.gov/reading-rm/adams.html, to the extent possible, it should not
+include any personal privacy, proprietary, or Safeguards Information so that it can be made
+available to the public without redaction. If personal privacy or proprietary information is
+necessary to provide an acceptable response, then please provide a bracketed copy of your
+response that identifies the information that should be protected and a redacted copy of your
+response that deletes such information. If you request withholding of such material, you must
+specifically identify the portions of your response that you seek to have withheld and provide in
+detail the bases for your claim of withholding (e.g., explain why the disclosure of information will
+Enclosure 1
+
+=== PAGE BREAK ===
+
+create an unwarranted invasion of personal privacy or provide the information required by 10
+CFR 2.390(b) to support a request for withholding confidential commercial or financial
+information). If Safeguards Information is necessary to provide an acceptable response, please
+provide the level of protection described in 10 CFR 73.21.
+Dated this 19th day of May 2009.
+- 2 -
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NUCLEAR REACTOR REGULATION
+DIVISION OF ENGINEERING
+VENDOR INSPECTION REPORT
+Docket No.: 99901373
+Report No.: 99901373/2009-201
+Vendor: Doosan Heavy Industries (Doosan)
+555 Gwigok-Dong
+Changwon, Gyeongnam
+641-792 Korea
+Phone: +81-78-672-4247
+Fax: +81-78-672-3145
+Vendor Contact: Suk Kwan Kim
+Vice President, Quality Assurance
+Phone: +82-55-278-5791
+Sukkwan.Kim@doosan.com
+Nuclear Industry: Doosan is one of the world’s largest manufacturers of reactor
+vessels, steam generators, reactor internals, and balance of plant
+components for the nuclear industry worldwide. Doosan
+manufactures safety-related and American Society of Mechanical
+Engineers (ASME) Boiler and Pressure Vessel Code items and
+components.
+Inspection Dates: March 30 – April 3, 2009
+Inspection Team Leader: Kerri Kavanagh, CQVP/DCIP/NRO
+Inspectors: Samantha Crane, CQVP/DCIP/NRO
+Aladar Csontos, CIB/DE/RES
+Victor Hall, CQVP/DCIP/NRO
+Eric Reichelt, CIB1/DE/NRO
+Approved by: Juan Peralta, Chief
+Quality and Vendor Branch 1
+Division of Construction Inspection
+& Operational Programs
+Office of New Reactors
+Enclosure 2
+
+=== PAGE BREAK ===
+
+EXECUTIVE SUMMARY
+Doosan Heavy Industries
+99901373/2009-201
+The purpose of this inspection was to review selected portions of Doosan’s quality assurance
+(QA) and 10 CFR Part 21 (Part 21) programs. The inspection was conducted at Doosan’s
+facility in Changwon, Korea.
+The NRC inspection bases were:
+• Title 10 of the Code of Federal Regulations (10 CFR) Part 21, “Reporting of Defects and
+Noncompliance;” and
+• Appendix B, "Quality Assurance Criteria for Nuclear Power Plants and Fuel Reprocessing
+Plants," to Part 50 of Title 10 of the Code of Federal Regulations
+Representatives from the Korean Institute of Nuclear Safety (KINS) and the Canadian Nuclear
+Safety Commission (CNSC) observed the inspection. These observations fostered the sharing
+of international experience with the construction of new reactors and oversight of vendors
+consistent with the objectives of the Multinational Design Evaluation Program (MDEP).
+The results of this inspection are summarized below. The previous NRC inspection performed
+at Doosan’s facility in Changwon, Korea, was conducted from May 26 – 29, 2008. That
+inspection is documented in inspection report 99901373/2008-201.
+10 CFR Part 21 Program
+The inspectors concluded that Doosan’s Part 21 process and applicable procedures conformed
+to the regulatory requirements of Part 21. The inspectors determined that Doosan implemented
+its Part 21 program in accordance with its procedures. No findings of significance were
+identified.
+Corrective Action
+The inspectors identified Nonconformance 99901373/2009-201-01 for failure to determine the
+cause of the condition and prevent reoccurrence of a significant condition adverse to quality.
+The inspectors concluded that Doosan’s procedure for performing root cause analyses was
+inadequate. With the exception of the above noted nonconformance, the inspectors determined
+that Doosan’s corrective action program was consistent with the regulatory requirements of
+Criterion XVI “Corrective Action,” of Appendix B to 10 CFR Part 50.
+Design Control
+The inspectors concluded that Doosan’s Customer Document Review and Design Control
+processes and practices were consistent with Criterion III “Design Control,” of Appendix B to 10
+CFR Part 50, and American Society of Mechanical Engineers (ASME) Section III NB code
+requirements. The inspectors concluded that Doosan’s implementation of these processes and
+practices provided appropriate design controls. No findings of significance were identified.
+- 2 -
+
+=== PAGE BREAK ===
+
+Commercial-Grade Dedication
+The inspectors concluded that Doosan’s commercial-grade dedication (CGD) procedures were
+consistent with industry guidance. The inspectors concluded that Doosan had adequate
+engineering involvement in its dedication process and conducted its CGD activities consistent
+with its procedures. No findings of significance were identified.
+Control of Special Processes
+The NRC inspectors concluded that Doosan had established an appropriate means to control
+fabrication activities and special processes such as welding, non-destructive evaluation (NDE),
+and heat treatment for supply of replacement reactor vessel closure heads and replacement
+steam generators. The inspectors concluded that the Doosan Quality Assurance Manual (QAM)
+and associated fabrication and special process procedures and activities were being adequately
+implemented by qualified personnel, using qualified equipment and processes. No findings of
+significance were identified.
+Control of Measuring and Test Equipment
+The inspectors concluded that Doosan had established appropriate and effective means to
+control measuring and test equipment. No findings of significance were identified.
+- 3 -

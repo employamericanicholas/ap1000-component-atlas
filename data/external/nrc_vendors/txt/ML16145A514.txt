@@ -1,0 +1,318 @@
+June 9, 2016
+Mr. Raúl Marcos, Quality & Environment Manager
+Equipos Nucleares, S.A (ENSA)
+Avda. Juan Carlos I, 8
+39600 Maliaño, Cantabria (Spain)
+SUBJECT: ENSA’S NUCLEAR REGULATORY COMMISSION INSPECTION REPORT
+NO. 99901379/2016-201 AND NOTICE OF NONCONFORMANCE
+Dear Mr. Marcos:
+On April 25-29, 2016, the U.S. Nuclear Regulatory Commission (NRC) staff conducted an
+inspection at the Equipos Nucleares, S.A. (hereafter referred to as ENSA) facility in Santander,
+Spain. The purpose of this limited-scope routine inspection was to assess ENSA’s compliance
+with provisions of Title 10 of the Code of Federal Regulations (10 CFR) Part 21, “Reporting of
+Defects and Noncompliance,” and selected portions of Appendix B, “Quality Assurance Program
+Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to 10 CFR Part 50, “Domestic
+Licensing of Production and Utilization Facilities.”
+This inspection specifically evaluated ENSA’s implementation of quality activities associated
+with the design and fabrication of the replacement steam generators for Beaver Valley Power
+Station, Unit 2 in accordance with the applicable requirements of Appendix B to 10 CFR Part 50,
+and Section III, “Rules for Construction of Nuclear Facility Components,” of the American
+Society of Mechanical Engineers (ASME) Boiler and Pressure Vessel (B&PV) Code. The
+enclosed report presents the results of the inspection. This NRC inspection report does not
+constitute NRC endorsement of ENSA’s overall quality assurance (QA) program.
+During this inspection, the NRC inspection team found that the implementation of your
+QA program did not meet certain regulatory requirements imposed on you by your customers or
+NRC licensees. Specifically, the NRC inspection team determined that ENSA was not fully
+implementing its QA program in the areas of design control, control of purchased material,
+equipment, and services, and control of special processes. The specific findings and references
+to the pertinent requirements are identified in the enclosures to this letter. In response to the
+enclosed notice of nonconformance (NON), ENSA should document the results of the extent of
+condition review for these findings and determine if there are any effects on other safety-related
+components.
+Please provide a written statement or explanation within 30 days of this letter in accordance with
+the instructions specified in the enclosed NON. We will consider extending the response time if
+you show good cause for us to do so.
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC’s “Rules of Practice,” the NRC will make available electronically for public inspection
+a copy of this letter, its enclosure, and your response through the NRC Public Document Room
+
+=== PAGE BREAK ===
+
+R. Marcos - 2 -
+or from the NRC’s Agencywide Documents Access and Management System, which is
+accessible at http://www.nrc.gov/reading-rm/adams.html. To the extent possible, your response
+(and if applicable), should not include any personal privacy, proprietary, or Safeguards
+Information so that it can be made available to the public without redaction. If personal privacy
+or proprietary information is necessary to provide an acceptable response, please provide a
+bracketed copy of your response that identifies the information that should be protected and a
+redacted copy of your response that deletes such information. If you request that such material
+be withheld from public disclosure, you must specifically identify the portions of your response
+that you seek to have withheld and provide in detail the bases for your claim (e.g., explain why
+the disclosure of information would create an unwarranted invasion of personal privacy or
+provide the information required by 10 CFR 2.390(b) to support a request for withholding
+confidential commercial or financial information). If Safeguards Information is necessary to
+provide an acceptable response, please provide the level of protection described in
+10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA/
+Richard P. McIntyre, Acting Chief
+Quality Assurance Vendor Inspection Branch-2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901379
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report No. 99901379/2016-201
+and Attachment
+
+=== PAGE BREAK ===
+
+R. Marcos - 2 -
+or from the NRC’s Agencywide Documents Access and Management System, which is
+accessible at http://www.nrc.gov/reading-rm/adams.html. To the extent possible, your response
+(and if applicable), should not include any personal privacy, proprietary, or Safeguards
+Information so that it can be made available to the public without redaction. If personal privacy
+or proprietary information is necessary to provide an acceptable response, please provide a
+bracketed copy of your response that identifies the information that should be protected and a
+redacted copy of your response that deletes such information. If you request that such material
+be withheld from public disclosure, you must specifically identify the portions of your response
+that you seek to have withheld and provide in detail the bases for your claim (e.g., explain why
+the disclosure of information would create an unwarranted invasion of personal privacy or
+provide the information required by 10 CFR 2.390(b) to support a request for withholding
+confidential commercial or financial information). If Safeguards Information is necessary to
+provide an acceptable response, please provide the level of protection described in
+10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA/
+Richard P. McIntyre, Acting Chief
+Quality Assurance Vendor Inspection Branch-2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901379
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report No. 99901379/2016-201
+and Attachment
+DISTRIBUTION:
+GKulesa
+MMitchell
+TJackson
+KKavanagh
+ASakadales
+NRO_DCIP_Distribution
+ConE.Resource@nrc.gov
+marcos.raul@ensa.es
+fernandez.inmaculada@ensa.es
+ADAMS Accession No.: ML16145A514 *via e-mail NRO-002
+OFFICE NRO/DCIP/QVIB-2 NRO/DEIA/MCB NRR/DE/ESGB
+NAME YDiaz-Castillo JHoncharik PKlein
+DATE 05/31/2016 06/06/16 06/06/16
+OFFICE NRO/DCIP/QVIB-2 NRO/DCIP
+NAME RMcIntyre TFrye
+DATE 06/09/16 06/08/16
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+NOTICE OF NONCONFORMANCE
+Equipos Nucleares, S.A. Docket No. 99901379
+Avda. Juan Carlos I, 8 Report No. 2016-201
+39600 Maliaño, Cantabria (Spain)
+Based on the results of a U.S. Nuclear Regulatory Commission (NRC) inspection conducted at
+the Equipos Nucleares, S.A. (hereafter referred to as ENSA) facility in Santander, Spain, from
+April 25, 2016, through April 29, 2016, it appears that ENSA did not conduct certain activities in
+accordance with NRC requirements that were contractually imposed upon ENSA by its
+customers or NRC licensees:
+A. Criterion III, “Design Control,” of Appendix B, “Quality Assurance Program Criteria for
+Nuclear Power Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of Federal
+Regulations (10 CFR) Part 50, “Domestic Licensing of Production and Utilization
+Facilities,” states, in part, that “Measures shall also be established for the selection and
+review for suitability of application of materials, parts, equipment, and processes that are
+essential to the safety-related functions of the structures, systems, and components.”
+Section 4.2, “Use of Unqualified Source Material,” of ENSA’s General Procedures (GP)
+Manual GP.08.20, “Commercial Grade Dedication Program,” Revision 2, dated
+February 23, 2015, states, in part, that “Use of Unqualified Source Material as defined in
+ASME Section III is not considered Commercial Grade Dedication if applied within
+ASME III boundaries and follows requirements sets forth in NCA 3855.5. The process to
+provide compliance with this section is documented through a MIP. In the event that the
+metallic raw material is to be used in other safety related applications outside the
+ASME III scope, the dedication process is performed following Section 8 of Quality
+Assurance Manual for Unqualified Source Material.”
+Contrary to the above, as of April 29, 2016, ENSA failed to ensure the selection and
+review for suitability of application of materials that are essential to the safety-related
+functions of structures, systems, and components. Specifically, ENSA’s Material
+Inspection Plan (MIP) 0BV2MIP001, “Certification Compliance with 10 CFR 50
+Appendix B, 10 CFR 21, and Westinghouse Specification A105C01-GEN Revision B, of
+Carbon Steel forged Flanges SA-105,” did not establish and document the sample
+testing population for the acceptance of material critical characteristics used for the
+commercial-grade dedication of the feed water ring (FWR) assembly inspection port
+slip-on and blind flange SA-105 carbon steel material. In addition, ENSA did not verify
+that the supplier had quality controls in place to ensure heat traceability of the material.
+ENSA performed material testing verification on a limited sample of the 25 pieces
+received from multiple heats of material. Furthermore, ENSA’s certified material test
+reports incorrectly stated that all the test results were in compliance with the
+requirements of Appendix B to 10 CFR Part 50 and 10 CFR Part 21, “Reporting of
+Defects and Noncompliance.” During the inspection, the NRC inspection team
+determined that the safety-related supplier of the flange material was removed from
+ENSA’s Qualified Vendors List and thus required the flange material to be accepted
+under ENSA’s commercial-grade dedication program or the process for utilization of
+unqualified source material process of Section III, “Rules for Construction of Nuclear
+Facility Components,” of the American Society of Mechanical Engineers Boiler and
+Pressure Vessel Code. Industry operating experience has shown that leaking FWR
+Enclosure 1
+
+=== PAGE BREAK ===
+
+inspection port covers have led to water hammer events that distorted the supports of
+the FWR.
+This issue has been identified as Nonconformance 99901379/2016-201-01.
+B. Criterion IX, “Control of Special Processes,” of Appendix B to 10 CFR Part 50, states
+that “Measures shall be established to assure that special processes, including welding,
+heat treating, and nondestructive testing, are controlled and accomplished by qualified
+personnel using qualified procedures in accordance with applicable codes, standards,
+specifications, criteria, and other special requirements.”
+Section 5.10, “Draining and Drying,” of ENSA’s Specification No. 0BV2CS601,
+“Hydrostatic Pressure Test,” Revision 1, dated November 25, 2015, states that “Draining
+and drying of the secondary chamber of the Steam Generator shall be as described in
+the specification No. 0BV2FS503.” Specification No. 0BV2CS601 also provides
+quantitative values such as pressure and temperature of hydrostatic test and water
+chemistry criteria before and after the hydrostatic test.
+Contrary to the above, as of April 29, 2016, ENSA failed to assure that special
+processes were controlled and accomplished using qualified procedures in accordance
+with specifications and acceptance criteria. Specifically, ENSA used several open flame
+gas burners that were installed underneath the secondary side of the steam generators
+to facilitate final drying and vacuuming after the secondary side hydrostatic pressure
+test, without a qualified procedure for this activity. ENSA Specifications
+Nos. 0BV2CS601 and 0BV2FS503, “Draining and Drying of the Secondary Side,”
+Revision 1, dated September 30, 2015, did not provide instructions, specifications,
+controls and/or acceptance criteria for the heating process. By not having a qualified
+procedure, ENSA could not determine the maximum temperature the steam generators
+experienced during the heating process which could last up to a week. Excessive
+heating of the steam generators could create warping and affect the materials and
+dimensional tolerances (e.g. distortion) of the steam generator components.
+This issue has been identified as Nonconformance 99901379/2016-201-02.
+C. Criterion VII, “Control of Purchased Material, Equipment, and Services,” of Appendix B
+to 10 CFR Part 50, states, in part, that “Measures shall be established assure that
+purchased material, equipment, and services, whether purchased directly or through
+contractors and subcontractors, conform to the procurement documents. These
+measures shall include provisions, as appropriate, for source evaluation and selection,
+objective evidence of quality furnished by the contractor or subcontractor, inspection at
+the contractor or subcontractor source, and examination of products upon delivery.”
+Contrary to the above, as of April 29, 2016, ENSA failed to establish adequate measures
+to obtain objective evidence of quality furnished by the contractor or subcontractor.
+Specifically, ENSA did not provide adequate documented objective evidence in their
+external audit reports of material and service suppliers to provide reasonable assurance
+that the suppliers had implemented an Appendix B to 10 CFR Part 50 and 10 CFR
+Part 21, “Reporting of Defects and Noncompliance,” programs for the supply of
+safety-related basic components. For a sample of 11 audits reviewed by the NRC
+- 2 -
+
+=== PAGE BREAK ===
+
+inspection team, the evaluation of the suppliers’ 10 CFR Part 21 programs and
+associated implementing procedures did not demonstrate adequate compliance with the
+requirements of 10 CFR Part 21.
+This issue has been identified as Nonconformance 99901379/2016-201-03.
+Please provide a written statement or explanation to the U.S. Nuclear Regulatory Commission,
+ATTN: Document Control Desk, Washington, DC 20555-0001, with a copy to the Chief, Quality
+Assurance Vendor Inspection Branch-2, Division of Construction Inspection and Operational
+Programs, Office of New Reactors, within 30 days of the date of the letter transmitting this
+Notice of Nonconformance. This reply should be clearly marked as a “Reply to a Notice of
+Nonconformance” and should include for each noncompliance: (1) the reason for the
+noncompliance or, if contested, the basis for disputing the noncompliance; (2) the corrective
+steps that have been and the results achieved; (3) the corrective steps that will be to avoid
+further noncompliance; and (4) the date when the corrective action will be completed. Where
+good cause is shown, the NRC will consider extending the response time.
+Because your response will be made available electronically for public inspection in the NRC
+Public Document Room or from the NRC’s Agencywide Documents Access and Management
+System, which is accessible from the NRC Web site at http://www.nrc.gov/reading-
+rm/adams.html, to the extent possible, it should not include any personal privacy, proprietary, or
+Safeguards Information (SGI) so that the NRC can make it available to the public without
+redaction. If personal privacy or proprietary information is necessary to provide an acceptable
+response, then please provide a bracketed copy of your response that identifies the information
+that should be protected and a redacted copy of your response that deletes such information. If
+you request that such material be withheld, you must specifically identify the portions of your
+response that you seek to have withheld and provide in detail the bases for your claim of
+withholding (e.g., explain why the disclosure of information would create an unwarranted
+invasion of personal privacy or provide the information required by 10 CFR 2.390(b) to support a
+request for withholding confidential commercial or financial information). If Safeguards
+Information is necessary to provide an acceptable response, please provide the level of
+protection described in 10 CFR 73.21, “Protection of Safeguards Information: Performance
+Requirements.”
+Dated this the 9th day of June 2016.
+- 3 -
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS
+VENDOR INSPECTION REPORT
+Docket No.: 99901379
+Report No.: 99901379/2016-201
+Vendor: Equipos Nucleares, S.A.
+Avda. Juan Carlos I, 8
+39600 Maliaño, Cantabria (Spain)
+Vendor Contact: Mr. Raúl Marcos
+Quality and Environment Manager
+E-mail: marcos.raul@ensa.es
+Phone: +34 942 200 107
+Nuclear Industry Activity: Equipos Nucleares, S.A.’s scope of supply includes the fabrication
+of steam generators, reactor pressure vessels, reactor vessels
+cover heads, reactor vessel internals, reactor vessel supports, and
+other nuclear components such as fuel storage racks, casks, and
+transportation containers.
+Inspection Dates: April 25-29, 2016
+Inspectors: Yamir Diaz-Castillo NRO/DCIP/QVIB-2
+Richard P. McIntyre NRO/DCIP/QVIB-2
+John Honcharik NRO/DEIA/MCB
+Paul A. Klein NRR/DE/ESGB
+Approved by: Richard P. McIntyre, Acting Chief
+Quality Assurance Vendor Inspection Branch-2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Enclosure 2
+
+=== PAGE BREAK ===
+
+EXECUTIVE SUMMARY
+Equipos Nucleares, S.A.
+99901379/2016-201
+The U.S. Nuclear Regulatory Commission (NRC) staff conducted a vendor inspection at the
+Equipos Nucleares, S.A. (hereafter referred to as ENSA) facility in Santander, Spain to verify
+that it had implemented an adequate quality assurance (QA) program that complies with the
+requirements of Appendix B, “Quality Assurance Criteria for Nuclear Power Plants and Fuel
+Reprocessing Plants,” to Title 10 of the Code of Federal Regulations (10 CFR) Part 50,
+“Domestic Licensing of Production and Utilization Facilities.” In addition, the NRC inspection
+team also verified that ENSA implemented a program under 10 CFR Part 21, “Reporting of
+Defects and Noncompliance,” and the applicable sections of Section III, “Rules for Construction
+of Nuclear Facility Components,” Section V, “Nondestructive Examination,” and Section IX,
+“Qualification Standard for Welding and Brazing Procedures, Welders, Brazers, and Welding
+and Brazing Operators,” of the American Society of Mechanical Engineers (ASME) Boiler and
+Pressure Vessel (B&PV) Code. The NRC inspection team conducted the inspection from
+April 25-29, 2016. This was the first NRC inspection at the ENSA facility.
+This technically-focused inspection specifically evaluated ENSA’ implementation of quality
+activities associated with the design and fabrication of the replacement steam generators for
+Beaver Valley Power Station Unit 2.
+These regulations served as the bases for the NRC inspection:
+• Appendix B to 10 CFR Part 50
+• 10 CFR Part 21
+During the course of this inspection, the NRC inspection team implemented Inspection
+Procedure (IP) 43002, “Routine Inspections of Nuclear Vendors,” July 15, 2015,
+IP 43004, “Inspection of Commercial-Grade Dedication Programs,” dated November 29, 2013,
+and IP 36100, “Inspection of 10 CFR Part 21 and Programs for Reporting Defects and
+Noncompliance,” dated February 13, 2012.
+Some of the specific activities observed by the NRC inspection team included:
+• Ultrasonic testing (UT) inspections including calibration of UT equipment to verify
+bonding of the weld clad on the channel head in the divider plate region of the
+replacement steam generator No. 3
+In addition to observing these activities, the NRC inspection team verified that measuring and
+test equipment (M&TE) was properly identified, marked, calibrated, and used within its
+calibrated range. The NRC inspection team also performed a walk down of ENSA’s assembly
+floor areas and verified that nonconforming components were properly identified, marked, and
+segregated when practical, to ensure that they were not reintroduced into the manufacturing
+processes.
+- 2 -

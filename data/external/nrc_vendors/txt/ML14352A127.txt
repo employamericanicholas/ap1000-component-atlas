@@ -1,0 +1,271 @@
+January 15, 2015
+Mr. Ryan Zurkuhlen, Director of Modular Operations
+Chicago Bridge & Iron Lake Charles
+3191 West Lincoln Road
+Lake Charles, LA 70605
+SUBJECT: NUCLEAR REGULATORY COMMISSION INSPECTION REPORT OF
+CHICAGO BRIDGE & IRON LAKE CHARLES NO. 99901425/2014-202, NOTICE
+OF NONCONFORMANCE
+Dear Mr. Zurkuhlen:
+From December 1–5, 2014, U.S. Nuclear Regulatory Commission (NRC) staff conducted an
+inspection at the Chicago Bridge & Iron Lake Charles (CB&I LC) facility in Lake Charles, LA.
+The purpose of this limited-scope reactive inspection was to assess CB&I LC’s compliance with
+the provisions of selected portions of Appendix B, “Quality Assurance Criteria for Nuclear Power
+Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of Federal Regulations (10 CFR)
+Part 50, “Domestic Licensing of Production and Utilization Facilities,” and 10 CFR Part 21,
+“Reporting of Defects and Noncompliance.
+This technically focused inspection specifically evaluated CB&I LC’s implementation of quality
+activities associated with the fabrication and inspection activities of Westinghouse Electric
+Company’s AP1000 reactor design of structural sub-modules for commercial nuclear power
+plant applications. The enclosed report presents the results of the inspection. This NRC
+inspection report does not constitute NRC endorsement of CB&I LC’s overall quality assurance
+(QA) or 10 CFR Part 21 programs.
+Based on the results of this inspection, the NRC inspection team found that the implementation
+of your QA program did not meet certain regulatory requirements imposed on you by your
+customers or NRC licensees. Specifically, the NRC inspection team determined that CB&I LC
+was not fully implementing its QA program in the area of corrective action. The enclosed Notice
+of Nonconformance (NON) with this letter identifies the specific findings and references to the
+pertinent requirements, and the enclosed inspection report describes in detail the circumstances
+surrounding it.
+Please provide a written explanation or statement within 30 days of this letter in accordance with
+the instructions specified in the enclosed NON. The agency will consider extending the
+response time if you show good cause for us to do so.
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC’s “Rules of Practice,” the NRC will make available electronically for public inspection
+a copy of this letter, its enclosure, and your response through the NRC Public Document Room
+or from the NRC’s Agencywide Documents Access and Management System (ADAMS), which
+is accessible at http://www.nrc.gov/reading-rm/adams.html. To the extent possible (and if
+
+=== PAGE BREAK ===
+
+R.Zurkuhlen - 2 -
+applicable), your response should not include any personal privacy, proprietary, or Safeguards
+Information so that it can be made available to the public without redaction. If personal privacy
+or proprietary information is necessary to provide an acceptable response, please provide a
+bracketed copy of your response that identifies the information that should be protected and a
+redacted copy of your response that deletes such information. If you request that such material
+be withheld from public disclosure, you must specifically identify the portions of your response
+that you seek to have withheld and provide in detail the bases for your claim (e.g., explain why
+the disclosure of information would create an unwarranted invasion of personal privacy or
+provide the information required by 10 CFR 2.390(b) to support a request for withholding
+confidential commercial or financial information). If Safeguards Information is necessary to
+provide an acceptable response, please provide the level of protection described in
+10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA/
+Kerri A. Kavanagh, Chief
+Quality Assurance Vendor Inspection Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901425
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report No. 99901425/2014-202
+and Attachment
+
+=== PAGE BREAK ===
+
+R.Zurkuhlen - 2 -
+applicable), your response should not include any personal privacy, proprietary, or Safeguards
+Information so that it can be made available to the public without redaction. If personal privacy
+or proprietary information is necessary to provide an acceptable response, please provide a
+bracketed copy of your response that identifies the information that should be protected and a
+redacted copy of your response that deletes such information. If you request that such material
+be withheld from public disclosure, you must specifically identify the portions of your response
+that you seek to have withheld and provide in detail the bases for your claim (e.g., explain why
+the disclosure of information would create an unwarranted invasion of personal privacy or
+provide the information required by 10 CFR 2.390(b) to support a request for withholding
+confidential commercial or financial information). If Safeguards Information is necessary to
+provide an acceptable response, please provide the level of protection described in
+10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA/
+Kerri A. Kavanagh, Chief
+Quality Assurance Vendor Inspection Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901425
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report No. 99901425/2014-202
+and Attachment
+DISTRIBUTION:
+See next page.
+ADAMS Accession No.: ML14352A127 *Concurred via e-mail NRO-002
+OFC NRO/DCIP/ QVIB NRO/DCIP/ QVIB NRO/DCIP/ MVIB NRO/DE/MCB
+NAME TKendzia PPrescott R.Patel SDowney
+DATE 01/12/15 01/13/15 01/13/15 01/13/15
+OFC RII/DCI/CIB3 NRO/DCIP/ MVIB NRO/DCIP NRO/DCIP/QVIB
+NAME AArtayet ABelen TFrye* KKavanagh
+DATE 01/13/15 01/13/15 01/13/15 01/15/15
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+Letter to Ryan Zurkuhlen from Kerri Kavanagh dated January 15, 2015
+SUBJECT: NUCLEAR REGULATORY COMMISSION INSPECTION REPORT OF
+CHICAGO BRIDGE & IRON LAKE CHARLES NO. 99901425/2014-202, NOTICE
+OF NONCONFORMANCE
+DISTRIBUTION:
+ASakadales
+FTalbot
+ERoach
+AKeim
+JCrutchley
+RLaura
+D.Willis
+SBernal
+RRasmussen
+RMusser
+MMitchell
+ryan.zurkuhlen@cbi.com
+chris.fordham@cbi.com
+michael.annacone@cbi.com
+
+=== PAGE BREAK ===
+
+NOTICE OF NONCONFORMANCE
+Chicago Bridge & Iron Lake Charles Docket No. 99901425
+3191 West Lincoln Road Report No. 2014-202
+Lake Charles, LA 70605
+Based on the results of a U.S. Nuclear Regulatory Commission (NRC) inspection conducted at
+the Chicago Bridge & Iron Lake Charles (CB&I LC) facility in Lake Charles, LA, from
+December 1, 2014 through December 5, 2014, certain activities were not conducted in
+accordance with NRC requirements contractually imposed on CB&I LC by its customers or NRC
+licensees:
+A. Criterion XVI, “Corrective Action,” of Appendix B to Title 10 of the Code of Federal
+Regulations (10 CFR) Part 50 states: ”Measures shall be established to assure that
+conditions adverse to quality, such as failures, malfunctions, deficiencies, deviations,
+defective material and equipment, and nonconformances are promptly identified and
+corrected. In the case of significant conditions adverse to quality, the measures shall
+assure that the cause of the condition is determined and corrective action taken to
+preclude repetition. The identification of the significant condition adverse to quality, the
+cause of the condition, and the corrective action taken shall be documented and
+reported to appropriate levels of management.”
+Section 16, “Corrective Action,” of CB&I LC’s Quality Assurance Manual, Revision 10,
+dated November 19, 2014, paragraph 16.1.6.b, states, in part, that “measures shall be
+developed for determining the root cause(s) of significant conditions adverse to quality.
+The root cause is the main underlying source of a condition adverse to quality that, when
+corrected, eliminates recurrence of the condition.”
+Contrary to the above, as of December 5, 2014, CB&I LC failed to assure that the cause
+of significant conditions adverse to quality was determined and corrective action taken to
+preclude recurrence. Specifically, CB&I LC failed to provide adequate objective
+evidence that the corrective actions to preclude the repetition of significant conditions
+adverse to quality associated with the quality assurance (QA) program breakdowns have
+been effectively determined and implemented. The NRC inspection team reviewed the
+corrective actions associated with the November 2013, December 2013 and September
+2014 10 CFR 50.55(e) notifications related to CB&I LC QA program breakdowns
+categorized as significant conditions adverse to quality. The NRC inspection team noted
+that CB&I LC took corrective actions for the condition adverse to quality related to
+welding only. However, the NRC inspection team determined that CB&I LC did not
+perform a comprehensive review of the current effectiveness of the overall QA program
+in its entirety to verify that the root causes of the significant QA breakdown had been
+corrected.
+This issue has been identified as Nonconformance 99901425/2014-202-01.
+Enclosure 1
+
+=== PAGE BREAK ===
+
+Please provide a written statement or explanation to the U.S. Nuclear Regulatory Commission,
+ATTN: Document Control Desk, Washington, DC 20555-0001, with a copy to the Chief, Quality
+Assurance Vendor Inspection Branch, Division of Construction Inspection and Operational
+Programs, Office of New Reactors, within 30 days of the date of the letter transmitting this
+Notice of Nonconformance. This reply should be clearly marked as a “Reply to a Notice of
+Nonconformance” and should include for each noncompliance: (1) the reason for the
+noncompliance or, if contested, the basis for disputing the noncompliance; (2) the corrective
+steps that have been and the results achieved; (3) the corrective steps that will be taken to
+avoid further noncompliance; and (4) the date when the corrective action will be completed.
+Where good cause is shown, the NRC will consider extending the response time.
+Because your response will be made available electronically for public inspection in the NRC
+Public Document Room or from the NRC’s Agencywide Documents Access and Management
+System (ADAMS), which is accessible from the NRC Web site at
+http://www.nrc.gov/reading-rm/adams.html, to the extent possible, it should not include any
+personal privacy, proprietary, or Safeguards Information (SGI) so that the NRC can make it
+available to the public without redaction. If personal privacy or proprietary information is
+necessary to provide an acceptable response, please provide a bracketed copy of your
+response that identifies the information that should be protected and a redacted copy of your
+response that deletes such information. If you request that such material be withheld, you must
+specifically identify the portions of your response that you seek to have withheld and provide in
+detail the bases for your claim of withholding (e.g., explain why the disclosure of information
+would create an unwarranted invasion of personal privacy or provide the information required by
+10 CFR 2.390(b) to support a request for withholding confidential commercial or financial
+information). If SGI is necessary to provide an acceptable response, please provide the level of
+protection described in 10 CFR 73.21, “Protection of Safeguards Information: Performance
+Requirements.”
+Dated this 15th day of January 2015.
+- 2 -
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS
+VENDOR INSPECTION REPORT
+Docket No.: 99901425
+Report No.: 99901425/2014-202
+Vendor: Chicago Bridge & Iron Lake Charles
+3191 West Lincoln Road
+Lake Charles, LA 70605
+Vendor Contact: Ryan Zurkuhlen
+Director of Modular Operations
+Ryan.zurkuhlen@cbi.com
+980-322-8193
+Nuclear Industry Activity: Chicago Bridge & Iron Lake Charles is under contract to Chicago
+Bridge & Iron Power to fabricate, assemble, inspect, transport,
+and deliver Westinghouse Electric Company’s AP1000 reactor
+design of structural sub-modules for commercial nuclear power
+plant applications. Specifically, the structural sub-modules are for
+the Vogtle & V.C. Summer new construction sites.
+Inspection Dates: December 1-5, 2014
+Inspection Team: Aixa Belen-Ojeda NRO/DCIP/MVIB Team Leader
+Paul Prescott NRO/DCIP/QVIB
+Tom Kendzia NRO/DCIP/QVIB
+Raju Patel NRO/DCIP/MVIB
+Steven Downey NRO/DE/MCB
+Alain Artayet RII/DCI/CIB3
+Approved by: Kerri A. Kavanagh, Chief
+Quality Assurance Vendor Inspection Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Enclosure 2
+
+=== PAGE BREAK ===
+
+EXECUTIVE SUMMARY
+Chicago Bridge & Iron Lake Charles
+99901425/2014-202
+The U.S. Nuclear Regulatory Commission (NRC) staff conducted a vendor inspection at the
+Chicago Bridge & Iron Lake Charles (hereafter referred to as CB&I LC) facility to verify that it
+had implemented an adequate quality assurance (QA) program that complies with the
+requirements of Appendix B, “Quality Assurance Criteria for Nuclear Power Plants and Fuel
+Reprocessing Plants,” to Title 10 of the Code of Federal Regulations (10 CFR) Part 50,
+“Domestic Licensing of Production and Utilization Facilities.” In addition, the NRC inspection
+team also verified that CB&I LC had implemented a program under 10 CFR Part 21, “Reporting
+of Defects and Noncompliance,” that met the NRC’s regulatory requirements. The NRC
+inspection team conducted the inspection from December 1 through 5, 2014.
+This limited scope technically focused inspection specifically evaluated CB&I LC’s
+implementation of quality activities associated with the fabrication activities of Westinghouse
+Electric Company’s (WEC) AP1000 reactor design of structural sub-modules for commercial
+nuclear power plant applications. Specifically, the structural sub-modules are for the Vogtle &
+V.C. Summer new construction sites.
+Some of the specific activities observed by the NRC inspection team included:
+• Welding and nondestructive examination (NDE) activities being performed at the weld
+test facility
+• In-process twin-wire machine welding in the flat position of double-welded fillet welds
+joining a carbon steel angle iron stiffener to a duplex stainless steel plate for the Vogtle
+Unit 4 subassembly CA20-27-200 structural module and to a plate for the V.C. Summer
+Unit 3 subassembly CA20-27-100 structural module
+• Base Plate Repair No. Stud 60-0014 on CA-20-23 sub-module for V.C. Summer Unit 3
+performed for the Fabrication Change Notice No. 2014-2197, Work Order No. 2997224-
+Stud, as part of the disposition of nonconformance report (NCR) No. 2014-1614.
+• Receipt Inspection of eight 2.5 in. X 2.5 in. X 8.9 ft. long angle iron, part number
+4316530, purchase order number 867113, in accordance with QC-PC-304, “Receiving
+Inspection,” Revision 5, October 22, 2014
+• Qualification records of receipt and quality control inspectors, coating inspectors,
+nondestructive technicians, lead auditors, and welders
+• Distortion correction operation performed on CA20-17-100 sub-module assembly for
+V.C. Summer Job No. 430012, Work Order No. 3027105-100
+- 2 -

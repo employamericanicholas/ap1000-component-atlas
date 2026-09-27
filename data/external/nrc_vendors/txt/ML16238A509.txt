@@ -1,0 +1,319 @@
+August 29, 2016
+Mr. Jim Borst, Quality Assurance Manager
+Namco Controls
+2100 West Broad Street
+Elizabethtown, NC 28337
+SUBJECT: NUCLEAR REGULATORY COMMISSION VENDOR INSPECTION OF NAMCO
+CONTROLS REPORT NO. 99901470/2016-202, AND NOTICE OF
+NONCONFORMANCE
+Dear Mr. Borst:
+On July 11 to July 15, 2016, the U.S. Nuclear Regulatory Commission (NRC) conducted an
+inspection at the Namco Controls facility in Elizabethtown, North Carolina. Namco Controls
+(hereafter referred to as Namco), provides safety-related limit switches to the nuclear industry.
+The purpose of the limited-scope inspection was to assess Namco compliance with the
+provisions of selected portions of Appendix B, “Quality Assurance Criteria for Nuclear Power
+Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of Federal Regulations (10 CFR)
+Part 50, “Domestic Licensing of Production and Utilization Facilities,” and 10 CFR Part 21,
+“Reporting of Defects and Noncompliance.”
+This technically-focused inspection specifically evaluated Namco’s implementation of quality
+activities associated with the fabrication, testing, design control, qualification, and commercial
+grade dedication activities associated with safety-related limit switches to U.S. operating nuclear
+plants and AP1000 plants. The enclosed report presents the results of this inspection. This
+NRC inspection report does not constitute NRC endorsement of your overall quality assurance
+(QA) or 10 CFR Part 21 programs.
+Based on the results of this inspection, the NRC staff determined that the implementation of
+your QA program did not meet certain NRC requirements imposed on you by your customer or
+NRC licensees in the areas of commercial grade dedication; nonconforming material, parts or
+components; corrective actions; and instructions, procedures and drawings. Specifically,
+Namco failed to: (1) ensure the selection and review for suitability of application of materials,
+parts, equipment, and processes that are essential to the safety-related functions of the
+structures, systems, and components; (2) establish appropriate measures that included
+provisions for source evaluation of subcontractors and examination of products upon delivery;
+(3) disposition and provide measures to control nonconforming materials, parts, or components;
+(4) correct significant conditions adverse to quality; (5) ensure that personnel performed
+activities affecting quality in accordance with documented work instructions and processing
+documents; and (6) ensure that assembly and test procedures, included appropriate quantitative
+acceptance criteria for determining that important activities have been satisfactorily
+accomplished. In response to the enclosed notice of nonconformance (NON), Namco should
+document the results of the extent of condition review for these findings and determine if there
+
+=== PAGE BREAK ===
+
+J. Borst - 2 -
+are any effects on other safety-related components. Please provide a written statement or
+explanation within 30 days from the date of this letter in accordance with the instructions
+specified in the enclosed Notice of Nonconformance. We will consider extending the response
+time if you show good cause for us to do so.
+In accordance with 10 CFR 2.390 of the NRC's "Rules of Practice," a copy of this letter, its
+enclosures, and your response will be made available electronically for public inspection in the
+NRC Public Document Room or from the NRC’s document system (ADAMS), accessible at
+http://www.nrc.gov/reading-rm/adams.html. To the extent possible, your response should not
+include any personal privacy, proprietary, or safeguards information so that it can be made
+available to the public without redaction. If personal privacy or proprietary information is
+necessary to provide an acceptable response, then please provide a bracketed copy of your
+response that identifies the information that should be protected and a redacted copy of your
+response that deletes such information. If you request that such material is withheld from public
+disclosure, you must specifically identify the portions of your response that you seek to have
+withheld and provide in detail the bases for your claim (e.g., explain why the disclosure of
+information will create an unwarranted invasion of personal privacy or provide the information
+required by 10 CFR 2.390(b) to support a request for withholding confidential commercial or
+financial information).
+Sincerely,
+/RA/
+Terry W. Jackson, Chief
+Quality Assurance Vendor Inspection Branch-1
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901470
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report 99901470/2016-202
+and Attachment
+
+=== PAGE BREAK ===
+
+J. Borst - 2 -
+are any effects on other safety-related components. Please provide a written statement or
+explanation within 30 days from the date of this letter in accordance with the instructions
+specified in the enclosed Notice of Nonconformance. We will consider extending the response
+time if you show good cause for us to do so.
+In accordance with 10 CFR 2.390 of the NRC's "Rules of Practice," a copy of this letter, its
+enclosures, and your response will be made available electronically for public inspection in the
+NRC Public Document Room or from the NRC’s document system (ADAMS), accessible at
+http://www.nrc.gov/reading-rm/adams.html. To the extent possible, your response should not
+include any personal privacy, proprietary, or safeguards information so that it can be made
+available to the public without redaction. If personal privacy or proprietary information is
+necessary to provide an acceptable response, then please provide a bracketed copy of your
+response that identifies the information that should be protected and a redacted copy of your
+response that deletes such information. If you request that such material is withheld from public
+disclosure, you must specifically identify the portions of your response that you seek to have
+withheld and provide in detail the bases for your claim (e.g., explain why the disclosure of
+information will create an unwarranted invasion of personal privacy or provide the information
+required by 10 CFR 2.390(b) to support a request for withholding confidential commercial or
+financial information).
+Sincerely,
+/RA/
+Terry W. Jackson, Chief
+Quality Assurance Vendor Inspection Branch-1
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901470
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report 99901470/2016-202
+and Attachment
+DISTRIBUTION:
+ASakadales
+KKavanagh
+RMcIntyre
+SRay
+JZimmerman
+Jim.borst@sptech.com
+NRO_DCIP_Distribution
+ConE_Resource
+ADAMS Accession No.: ML16238A509 *via e-mail NRO-002
+OFFICE NRO/DCIP/QVIB-1 NRO/DCIP/QVIB-2 NRO/DCIP/QVIB-3
+NAME NSavwoir* ABelen* JHeath*
+DATE 09/20/16 09/20/16 09/12/16
+OFFICE NRR/DE/EEEB NRO/DCIP/QVIB-1
+NAME SEdmonds* TJackson
+DATE 09/16/16 09/26/16
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+NOTICE OF NONCONFORMANCE
+Namco Control Corporation Docket No.: 99901470
+2100 West Broad Street Report Number 2016-202
+Elizabethtown, NC 28337
+Based on the results of a Nuclear Regulatory Commission (NRC) inspection conducted at
+Namco Controls (hereafter referred to as Namco) facility in Elizabethtown, NC on July 11, 2016,
+through July 15, 2016, certain activities were not conducted in accordance with NRC
+requirements which were contractually imposed on Namco by NRC licensees:
+A. Criterion III, “Design Control,” of Appendix B, to 10 CFR Part 50, states, in part, that
+“Measures shall also be established for the selection and review for suitability of application
+of materials, parts, equipment, and processes that are essential to the safety-related
+functions of the structures, systems and components.”
+Criterion VII, “Control of Purchased Material, Equipment, and Services,” of Appendix B to
+10 CFR Part 50 states, in part, that “these measures shall include provisions, as
+appropriate, for source evaluation and selection, objective evidence of quality furnished by
+the contractor or subcontractor, inspection at the contractor or subcontractor source, and
+examination of products upon delivery.”
+Namco Procedure QCP-002, “Inspection and Dedication,” Revision S, dated
+August 31, 2015, Section 8.0, “Sampling Procedures,” Subsection 8.1.1, “Piece Level Parts
+and Subassemblies,” states, in part, “the specific plan chosen depends upon the type of
+product, method of manufacture and other relevant factors. Inspection of piece level parts
+and subassemblies shall be performed in accordance with the applicable drawing,
+specifications, and the Dimensional Inspection Report (DIR).”
+Contrary to the above, as of July 15, 2016, Namco failed to ensure the selection and review
+for suitability of application of materials, parts, equipment, and processes that are essential
+to the safety-related functions of the structures, systems, and components. Additionally,
+Namco failed to establish appropriate measures that included provisions for source
+evaluation of subcontractors and examination of products upon delivery. Specifically:
+1. Namco failed to adequately verify the material composition critical characteristic of the
+contact plates during the examination of products upon delivery for the EA 184-73026
+contact plates purchase order (PO) numbers: 1) 70122, dated March 24, 2016;
+2) 67998, dated February 22, 2016; and 3) 72248, dated April 29, 2016. The DIR
+sampling plan required a sample size of 13 out of 2000 contact plates for material
+inspection per PO but Namco only sent one contact plate for the three POs to be tested
+at Applied Technical Services.
+2. Namco failed to perform an adequate engineering evaluation for the change in sample
+population identified from ANSI/ASQC Z1.4-1993 and MIL-STD-105E to EPRI
+TR-017218-RI for the control of the critical characteristics for PO 70608 Part Number
+EA182-91026, and PO 75580, Part Number EA185-93025, when a commercial-grade
+survey was not conducted to verify that the supplier had lot and batch control to ensure
+traceability of material.
+This issue has been identified as Nonconformance 99901470/2016-202-01.
+Enclosure 1
+
+=== PAGE BREAK ===
+
+B. Criterion XV, “Nonconforming Materials, Parts, or Components,” of Appendix B to 10 CFR
+Part 50, states, in part, “Measures shall be established to control materials, parts, or
+components which do not conform to requirements in order to prevent their inadvertent use
+or installation. These measures shall include, as appropriate, procedures for identification,
+documentation, segregation, disposition, and notification to affected organizations.
+Nonconforming items shall be reviewed and accepted, rejected, repaired or reworked in
+accordance with documented procedures.”
+Namco Quality Manual, Revision N, Section XV, Section 3.0, “Program Control,” states, in
+part, that nonconforming parts and subassemblies are to be identified, documented and
+segregated, pending disposition. It also states, in part, that rework or repair instructions
+shall be documented, and rework or repaired items are re-inspected to the original
+requirements.
+Procedure NSP60-004, “Processing Nonconforming Material, Parts, Components and
+Services,” Revision N, describes “use as is” dispositions of discrepant items as items that
+are nonconforming, but the discrepancy does not adversely impact the fit, form, function, or
+qualification per the appropriate QTR but there must be a technical justification included on
+the Inspection Report (IR) form. In addition, inspection [staff] issues an IR for the items to
+be sorted, and for discrepancies identified as rework, inspection [staff] shall issue an IR
+containing repair/rework instructions.
+Contrary to the above, as of July 15, 2016, Namco failed to establish measures to identify,
+control, document, segregate, and disposition materials, parts, or components which do not
+conform to requirements in order to prevent their inadvertent use or installation and failed to
+review, accept, reject, repair or rework nonconforming items in accordance with documented
+procedures, as illustrated in the following examples.
+1. Namco failed to establish measures for the use of nonconformance reports (NCRs) and
+their differentiation from inspection reports (IRs) in their Quality Assurance Manual and
+Procedure NSP 60-0004.
+2. Namco failed to provide an technical justification for the disposition of “use as is” for
+IR 30-4702, IR 30-4948, IR 30-4860, IR 30-5314, IR 30-5440, IR 30-4649 and
+NCR 2539. Specifically, the disposition lacked the basis for why the discrepancy did not
+impact form, fit, or function.
+3. Namco failed to evaluate how the disposition in IRs and NCRs may affect the
+acceptance of the sample and lot in its entirety when the selected sampling plans stated
+in the DIRs only allows one piece to be rejected.
+4. Namco failed to provide objective evidence for rework instructions, rework inspections,
+sort results, sort re-inspections, and return to vendor or scrap results as required per
+Procedure NSP 60-0004 for IRs and NCRs dispositioned as “re-work” or “sort.”
+This issue has been identified as Nonconformance 99901470/2016-202-02.
+C. Criterion XVI, “Corrective Action,” of Appendix B, to 10 CFR Part 50, states, in part, that
+“Measures shall be established to assure that conditions adverse to quality, such as failures,
+malfunctions, deficiencies, deviations, defective material and equipment, and
+- 2 -
+
+=== PAGE BREAK ===
+
+non-conformances are promptly identified and corrected. In the case of significant
+conditions adverse to quality, the measures shall assure that the cause of the condition is
+determined and corrective action taken to preclude repetition.”
+Namco Quality Manual, Revision N, dated January 15, 2009, Section XVI, “Corrective
+Action”, Step 2.1 states, “Conditions adverse to quality, such as supplier product or system
+nonconformities, and internal product or system non conformities, shall be promptly
+identified and corrected. Conditions significantly adverse to quality shall be documented on
+a Corrective Action Request (CAR) and processed in accordance with documented
+procedures.” Step 2.1.1 states, in part, that steps to prevent recurrence should be identified
+and there should be verification that the corrective action has been implemented.”
+Contrary to the above, NAMCO failed to provide measures to assure significant conditions
+adverse to quality were promptly corrected in order to preclude repetition. Specifically, the
+NRC Inspection team identified the following examples where Namco opened and closed
+CARs but the corrective actions where ineffective to correct the significant condition adverse
+to quality and did not adequately verify implementation.
+1. Namco provided conflicting close out disposition information on inspection reports and
+nonconformances as the identified in CAR 14-0011, which was closed on
+December 31, 2014. The NRC inspection team identified that NCR 2681, dated
+July 1, 2016, and NCR 2539, dated April 23, 2015, provided conflicting close-out
+information, where both nonconformance reports dispositioned the discrepant material
+“use as is” but also marked “Part Reject” in the header of NCR form. In IR 30-5139
+(EH160-03097), dated January 15, 2015, the Material Review Board circled “Return to
+Vendor” and “Use-as-Is (with justification)”simultaneously without a technical
+justification.
+2. Namco failed to correct CAPA 15-171, closed November 30, 2015, for Contact Block
+EA181-60010. CAPA 15-171 corrective actions required a revision to work instructions
+to include a pressure setting for contact blocks EA181-60010. After discussions
+regarding the pressure setting with Namco quality inspectors, the NRC inspection team
+identified that Namco had not updated the work instructions.
+3. Namco failed to adequately correct CAPA/NCR Ref. No.: E04450 and Engineering
+Change Request (ECR) 4547 for incorrect dimensions to Namco contact carrier
+EA184-43031 drawing. The NRC inspection team identified that from June 7, 2013, to
+July 23, 2015, Namco opened seven IRs due to the incorrect dimensions in the drawing.
+The team also found the design change described in E04450 and ECR 4547 had not
+been entered in to the corrective action program.
+This issue has been identified as Nonconformance 99901470/2016-202-03.
+D. Criterion V, “Instructions, Procedures, and Drawings,” of Appendix B to 10 CFR Part 50,
+states, in part, that “Activities affecting quality shall be prescribed by documented
+instructions, procedures, and drawings of a type appropriate to the circumstances and shall
+be accomplished in accordance with these instructions, procedures, or drawings.
+Instructions, procedures, or drawings shall include appropriate quantitative or qualitative
+acceptance criteria for determining that important activities have been satisfactorily
+accomplished.”
+- 3 -
+
+=== PAGE BREAK ===
+
+Section 5, “Instructions, Procedures, and Drawings,” of the Namco Quality Assurance
+Manual (QAM) outlines Namco’s system of instruction, procedures, drawings, and other
+documents controlling activities that affect quality. Section 5, states, in part, that, “Work
+Order Routing and Assembly Inspection Record (AIR) are the primary documents used to
+provide instruction and indicate verification and completion of applicable manufacturing
+operations, inspections, and tests.” Namco AIRs QF-24A, Revision K, and QF-24B,
+Revision H, are the controlling procedures for the assembly and testing of EA170/EA180
+and EA740 limit switches, respectively.
+Contrary to the above, as of July 15, 2016, NAMCO failed to ensure that personnel
+performed activities affecting quality in accordance with documented work instructions and
+processing documents and failed to ensure that assembly and test procedures included
+appropriate quantitative acceptance criteria for determining that important activities have
+been satisfactorily accomplished, as illustrated in the following examples.
+1. Namco failed to ensure that electrical continuity testing of EA180 limit switches was
+accomplished in accordance with Procedure QF-24A.
+2. Namco failed to verify that the appropriate lubrication of EA180 switches was
+accomplished in accordance with Procedure QF-24A.
+3. Namco failed to ensure that for mandatory hold points specified in its procedures, work
+did not proceed beyond such hold point until the required inspections were complete.
+4. Namco failed to include appropriate quantitative acceptance criteria in Procedure
+QF-24B to determine if trip travel tests for the EA740 limit switch were satisfactorily
+accomplished.
+This has been identified as Notice of Nonconformance 99901470-2015-202-04.
+Please provide a written statement or explanation to the U.S. Nuclear Regulatory Commission,
+ATTN: Document Control Desk, Washington, DC 20555-0001, with a copy to the Chief, Quality
+Assurance Vendor Inspection Branch-1, Division of Construction Inspection and Operational
+Programs, Office of New Reactors, within 30 days of the date of the letter transmitting this
+Notice of Nonconformance. This reply should be clearly marked as a “Reply to a Notice of
+Nonconformance” and should include for each noncompliance: (1) the reason for the
+noncompliance, or if contested, the basis for disputing the noncompliance; (2) the corrective
+steps that have been taken and the results achieved; (3) the corrective steps that will be taken
+to avoid noncompliance; and (4) the date when your corrective action will be completed. Where
+good cause is shown, the NRC will consider extending the response time.
+Because your response will be made available electronically for public inspection in the NRC
+Public Document Room or from the NRC’s Agencywide Documents Access and Management
+System, which is accessible from the NRC Web site at
+http://www.nrc.gov/reading-rm/adams.html, to the extent possible, it should not include any
+personal privacy, proprietary, or safeguards information so that it can be made available to the
+public without redaction. If personal privacy or proprietary information is necessary to provide
+an acceptable response, then please provide a bracketed copy of your response that identifies
+the information that should be protected and a redacted copy of your response that deletes such
+information. If you request that such material be withheld, you must specifically identify the
+portions of your response that you seek to have withheld and provide in detail the bases for your
+- 4 -
+
+=== PAGE BREAK ===
+
+claim of withholding (e.g., explain why the disclosure of information will create an unwarranted
+invasion of personal privacy or provide the information required by 10 CFR 2.390(b) to support a
+request for withholding confidential commercial or financial information). If safeguards
+information is necessary to provide an acceptable response, please provide the level of
+protection described in 10 CFR 73.21, “Protection of Safeguards Information: Performance
+Requirements.”
+Dated this the 29th day of August 2016.
+- 5 -

@@ -1,0 +1,271 @@
+October 26, 2010
+Mr. Takashi Kuribayashi, General Manager
+Quality Assurance Department
+Nuclear Power Operations
+IHI Corporation
+1 Shin-Nakahara-Cho
+Isogo-Ku, Yokohama 235-8501
+Japan
+SUBJECT: NRC INSPECTION REPORT NO. 99901395/2010-201 AND NOTICE OF
+NONCONFORMANCE, IHI, Yokohama, Japan
+Dear Mr. Kuribayashi:
+On September 13–17, 2010, the U.S. Nuclear Regulatory Commission (NRC) staff conducted
+an inspection at the IHI Corporation (IHI) facility in Yokohama, Japan. The purpose of the
+limited scope inspection was to assess IHI’s compliance with the provisions of Title 10 of the
+Code of Federal Regulations (10 CFR) Part 21, “Reporting of Defects and Noncompliance,” and
+selected portions of Appendix B, “Quality Assurance Program Criteria for Nuclear Power Plants
+and Fuel Reprocessing Plants,” to 10 CFR Part 50, “Domestic Licensing of Production and
+Utilization Facilities.” The enclosed report presents the results of this inspection. This NRC
+inspection report does not constitute NRC endorsement of your overall quality assurance (QA)
+or 10 CFR Part 21 programs.
+Based on the results of this inspection, the NRC staff determined that the implementation of
+your QA program failed to meet certain NRC requirements imposed on you by your customers.
+Specifically, the NRC inspection team determined that IHI failed to provide adequate procedural
+guidance for the dedication of commercial grade items and that IHI failed to review conditions
+adverse to quality to determine the existence of trends. The specific findings and references to
+the pertinent requirements are identified in the enclosures to this letter.
+Please provide a written statement or explanation within 30 days from the date of this letter in
+accordance with the instructions specified in the enclosed Notice of Nonconformance. We will
+consider extending the response time if you show good cause for us to do so.
+In accordance with 10 CFR 2.390, “Hearing Requests, Petitions to Intervene, Requirements for
+Standing, and Contentions,” of the NRC's “Rules of Practice," a copy of this letter, its
+enclosures, and your response will be made available electronically for public inspection in the
+NRC Public Document Room or from the NRC’s Agencywide Documents Access and
+Management System (ADAMS), accessible at http://www.nrc.gov/reading-rm/adams.html. To
+the extent possible, your response (if applicable), should not include any personal privacy,
+proprietary, or safeguards information so that it can be made available to the Public without
+redaction. If personal privacy or proprietary information is necessary to provide an acceptable
+response, then please provide a bracketed copy of your response that identifies the information
+that should be protected and a redacted copy of your response that deletes such information. If
+you request that such material is withheld from public disclosure, you must specifically identify
+the portions of your response that you seek to have withheld and provide in detail the bases for
+
+=== PAGE BREAK ===
+
+T. Kuribayashi - 2 -
+your claim (e.g., explain why the disclosure of information will create an unwarranted invasion of
+personal privacy or provide the information required by 10 CFR 2.390(b) to support a request for
+withholding confidential commercial or financial information). If Safeguards Information is
+necessary to provide an acceptable response, please provide the level of protection described
+in 10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA/
+Richard Rasmussen, Chief
+Quality and Vendor Branch 2
+Division of Construction Inspection
+& Operational Programs
+Office of New Reactors
+Docket No. 99901395
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report No. 99901395/2010-201 and Attachment
+
+=== PAGE BREAK ===
+
+T. Kuribayashi - 2 -
+your claim (e.g., explain why the disclosure of information will create an unwarranted invasion of
+personal privacy or provide the information required by 10 CFR 2.390(b) to support a request for
+withholding confidential commercial or financial information). If Safeguards Information is
+necessary to provide an acceptable response, please provide the level of protection described
+in 10 CFR 73.21.
+Sincerely,
+/RA/
+Richard Rasmussen, Chief
+Quality and Vendor Branch 2
+Division of Construction Inspection
+& Operational Programs
+Office of New Reactors
+Docket No. 99901395
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report No. 99901395/2010-201 and Attachment
+DISTRIBUTION:
+RidsNroDcipCQVA RidsNroDcipCQVB RidsNroDcip RMcIntyre JHeisserer
+SCrane TSteingass RidsNrrDeEQVB LDudes MNorato
+takashi_kuribayashi@ihi.co.jp
+ADAMS Accession No.: ML102870167 Parallel Concurrence *concurred via email NRO-001
+OFFICE NRO/DE/CIB2 RII/DCI/CIB3 NRO/DCIP/CQVB NRO//DCIP/CQVB NRO/DCIP/CAEB/BC
+NAME TSteingass (via email) JHeisserer (via email) SCrane RMcIntyre TFrye
+DATE 10/22/10 10/13/10 10/25/10 10/15/10 10/26/10
+OFFICE NRO/DCIP/CQVB/BC
+NAME RRasmussen
+DATE 10/26/2010
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+NOTICE OF NONCONFORMANCE
+IHI Corporation Docket Number 99901395
+Yokohama, Japan Inspection Report Number 2010-201
+Based on the results of a U.S. Nuclear Regulatory Commission (NRC) inspection conducted at
+the IHI Corporation (IHI) facility in Yokohama, Japan, on September 13–17, 2010, certain
+activities were not conducted in accordance with NRC requirements that were contractually
+imposed on IHI by NRC licensees:
+A. Criterion V, “Instructions, Procedures, and Drawings,” of Appendix B, “Quality Assurance
+Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to Title 10 of the Code
+of Federal Regulations (10 CFR) Part 50, “Domestic Licensing of Production and
+Utilization Facilities,” states, in part, that “activities affecting quality shall be prescribed
+by documented instructions, procedures, or drawings, of a type appropriate to the
+circumstances and shall be accomplished in accordance with these instructions,
+procedures, or drawings.”
+Part 21 of Title 10 of the Code of Federal Regulations (10 CFR Part 21), “Reporting of
+Defects and Noncompliance,” Section 21.3 of 10 CFR Part 21 (10 CFR 21.3),
+“Definitions,” Dedication, states, in part, that the dedication process must be conducted
+in accordance with the applicable provisions of Appendix B to 10 CFR Part 50 (Appendix
+B), “Quality Assurance Criteria for Nuclear Power Plants and Fuel Reprocessing Plants.”
+IHI Procedure IBR A13-30003, “Control Procedure for Dedication of Commercial Grade
+Item,” Revision G, dated September 10, 2010, provides the methods for the dedication
+of commercial-grade items and/or services used in nuclear safety applications.
+IHI Drawing No. 022K095, “Specification of Quality Program (Commercial Grade Item),”
+Revision 0, dated October 21, 2009, defines the quality assurance requirements for
+commercial-grade items for the containment vessels for Vogtle Electric Generating
+Plant, Units 3 and 4.
+Contrary to the above, as of September 17, 2010, IHI failed to provide adequate
+procedural guidance in IBR A13-30003 for the dedication of commercial-grade items.
+Specifically:
+• IHI procedures such as IBR A13-30003 and IHI Drawing no 022K095 did not
+provide adequate guidance for including specific provisions or methodology for
+identification of the critical characteristics and their verification/acceptance
+methods to be performed during the conduct of the IHI vendor survey specific to
+the item being dedicated.
+• IBR A13--30003 did not include the appropriate definitions from 10 CFR 21.3,
+“Definitions,” applicable to the dedication of commercial-grade items. The NRC
+inspection team noted that the procedure did not include the correct definitions for
+“commercial-grade item” and “basic component” and also did not include
+definitions for “critical characteristics,” “dedication,” and “dedicating entity,” as
+defined in 10 CFR Part 21.
+Enclosure 1
+
+=== PAGE BREAK ===
+
+• IHI procedures, such as IBR A13-30003 and IHI Drawing No. 022K095, did not
+provide adequate guidance for the development of sampling inspection plans
+consistent with known industry standards. The NRC inspection team determined
+that IHI’s sampling plan methodology was inconsistent with the guidance
+described in Electric Power Research Institute (EPRI) 7218, “Guideline for
+Sampling in the Commercial-Grade Item Acceptance Process,” dated
+January 1999, for the use of normal, reduced, or tightened sampling plans.
+This issue is identified as Nonconformance 99901395/2010-201-01.
+B. Criterion XVI, “Corrective Action,” of Appendix B to 10 CFR Part 50 states that
+“measures shall be established to assure that conditions adverse to quality, such as
+failures, malfunctions, deficiencies, deviations, defective material and equipment, and
+nonconformances are promptly identified and corrected. In the case of significant
+conditions adverse to quality, the measures shall assure that the cause of the condition
+is determined and corrective action taken to preclude repetition. The identification of the
+significant condition adverse to quality, the cause of the condition, and the corrective
+action taken shall be documented and reported to appropriate levels of management.”
+IHI is committed to American Society of Mechanical Engineers NQA-1-1994, “Quality
+Assurance Requirements for Nuclear Facility Applications,” Nonmandatory
+Appendix 16A-1, which states, in part, that conditions adverse to quality should be
+reviewed to determine the existence of trends. The significance of identified trends
+should be classified to determine whether further action is necessary.
+Contrary to the above, as of September 17, 2010, IHI failed to review conditions adverse
+to quality to determine the existence of trends. The NRC inspection team identified 5
+instances involving IHI operators failing to appropriately follow procedures that led to
+nonconforming conditions for US and Chinese components. These 5 instances occurred
+over a 12 month period.
+This issue is identified as Nonconformance 99901395/2010-201-02.
+Please provide a written statement or explanation to the U.S. Nuclear Regulatory Commission,
+ATTN: Document Control Desk, Washington, DC 20555-0001, with a copy to the Chief, Quality
+and Vendor Branch 1, Division of Construction Inspection and Operational Programs, Office of
+New Reactors, within 30 days of the date of the letter transmitting this Notice of
+Nonconformance. This reply should be clearly marked as a “Reply to a Notice of
+Nonconformance” and should include for each noncompliance: (1) the reason for the
+noncompliance or, if contested, the basis for disputing the noncompliance, (2) the corrective
+steps that have been taken and the results achieved, (3) the corrective steps that will be taken
+to avoid noncompliance, and (4) the date when your corrective action will be completed. Where
+good cause is shown, the NRC will consider extending the response time.
+Because your response will be made available electronically for public inspection in the NRC
+Public Document Room or from the NRC’S Agencywide Documents Access and Management
+System (ADAMS), which is accessible from the NRC Web site at
+http://www.nrc.gov/reading-rm/adams.html, to the extent possible, it should not include any
+personal privacy, proprietary, or safeguards information so that it can be made available to the
+- 2 -
+
+=== PAGE BREAK ===
+
+public without redaction. If personal privacy or proprietary information is necessary to provide
+an acceptable response, then please provide a bracketed copy of your response that identifies
+the information that should be protected and a redacted copy of your response that deletes such
+information. If you request that such material be withheld, you must specifically identify the
+portions of your response that you seek to have withheld and provide in detail the bases for your
+claim of withholding (e.g., explain why the disclosure of information will create an unwarranted
+invasion of personal privacy or provide the information required by 10 CFR 2.390(b) to support a
+request for withholding confidential commercial or financial information). If Safeguards
+Information is necessary to provide an acceptable response, please provide the level of
+protection described in 10 CFR 73.21, “Protection of Safeguards Information: Performance
+Requirements.”
+Dated this 26th day of October 2010.
+- 3 -
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS
+VENDOR INSPECTION REPORT
+Docket No.: 99901395
+Report No.: 99901395/2010-201
+Vendor: IHI Corporation
+1 Shin-Nakahara-Cho
+Isogo-Ku, Yokohama 235-8501
+Japan
+Vendor Contact: Mr. Takashi Kuribayashi, General Manager
+Quality Assurance Department, Nuclear Power
++ 81-45-759-2540
+E-mail: takashi_kuribayashi@ihi.co.jp
+Nuclear Industry Activities: IHI Corporation is a holder of multiple N-type American Society of
+Mechanical Engineers (ASME) certificates under contract for the
+fabrication and manufacture of key advanced boiling-water reactor
+(ABWR) and AP1000 components for the U.S. market.
+Inspection Dates: September 13–17, 2010
+Inspectors: Richard McIntyre NRO/DCIP/CQVB, Team Leader
+Samantha Crane NRO/DCIP/CQVB
+Jamie Heisserer RII/DCI/CIB3
+Timothy Steingass NRO/DE/CIB2
+Approved by: Richard Rasmussen, Chief
+Quality and Vendor Branch 2
+Division of Construction Inspection
+& Operational Programs
+Office of New Reactors
+Enclosure 2
+
+=== PAGE BREAK ===
+
+EXECUTIVE SUMMARY
+IHI Corporation
+99901395/2010-201
+The purpose of this inspection was to verify that IHI Corporation (IHI) implemented an adequate
+quality assurance (QA) program that complied with the requirements of Appendix B, “Quality
+Assurance Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to Title 10 of the
+Code of Federal Regulations (10 CFR) Part 50, “Domestic Licensing of Production and
+Utilization Facilities.” The inspection also verified that IHI implemented a program under
+10 CFR Part 21, “Reporting of Defects and Noncompliance,” that met the regulatory
+requirements of the U.S. Nuclear Regulatory Commission (NRC). The inspection was
+conducted at the IHI facility in Yokohama, Japan, during September 13–17, 2010.
+The following regulations served as the bases for the NRC inspection:
+• Appendix B to 10 CFR Part 50
+• 10 CFR Part 21
+During the conduct of this inspection, the NRC inspection team implemented Inspection
+Procedure (IP) 43002, “Routine Inspections of Nuclear Vendors,” and IP 36100, “Inspection of
+10 CFR Part 21 and 10 CFR 50.55(e) Programs for Reporting Defects and Noncompliance.”
+The NRC has not previously performed any inspections at the IHI facility in Yokohama, Japan.
+The results of this inspection are summarized below.
+10 CFR Part 21 Program
+IHI appropriately translated the requirements of 10 CFR Part 21 into implementing procedures
+and, for those activities reviewed by the NRC inspection team, implemented them as required
+by IHI procedures. No findings of significance were identified.
+Order Entry and Fabrication
+The NRC inspection team concluded that the sampled requirements set forth in the customer
+purchase specifications were effectively translated into fabrication specifications. No findings of
+significance were identified.
+Control of Purchased Material, Equipment, and Services
+With the exception of Notice of Nonconformance (NON) 99901395/2010-201-01 for failure to
+provide adequate procedural guidance for the dedication of commercial-grade items (CGI), the
+NRC inspection team concluded that IHI is implementing a process for the control of purchased
+material, equipment, and services consistent with the regulatory requirements of Criterion VII,
+“Control of Purchased Material, Equipment, and Services,” of Appendix B to 10 CFR Part 50.
+Control of Special Processes
+The IHI program for control of special processes is consistent with the regulatory requirements
+of Criterion IX, “Control of Special Processes,” of Appendix B to 10 CFR Part 50. Based on the
+- 2 -

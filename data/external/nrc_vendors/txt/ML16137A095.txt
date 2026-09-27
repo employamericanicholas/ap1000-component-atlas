@@ -1,0 +1,276 @@
+May 25, 2016
+Mr. Lewis Rogers
+Quality Assurance Manager
+Lisega Inc.
+370 E Dumplin Valley Rd.
+Kodak, TN 37764
+SUBJECT: LISEGA’S NUCLEAR REGULATORY COMMISSION INSPECTION REPORT
+NO. 99901237/2016-201
+Dear Mr. Rogers:
+From April 18-22, 2016, the U.S. Nuclear Regulatory Commission (NRC) staff conducted an
+inspection at the Lisega’s facility in Kodak, TN. The purpose of this limited-scope routine
+inspection was to assess Lisega’s compliance with provisions of Title 10 of the Code of Federal
+Regulations (10 CFR) Part 21, “Reporting of Defects and Noncompliance,” and selected
+portions of Appendix B, “Quality Assurance Program Criteria for Nuclear Power Plants and Fuel
+Reprocessing Plants,” to 10 CFR Part 50, “Domestic Licensing of Production and Utilization
+Facilities.”
+This technically-focused inspection specifically evaluated Lisega’s implementation of the quality
+activities associated with the design, manufacturing, and testing of American Society of
+Mechanical Engineers, Section III, piping supports being supplied to the Westinghouse Electric
+Company AP1000 reactor design as well as operating reactors. The enclosed report presents
+the results of this inspection. This NRC inspection report does not constitute NRC endorsement
+of Lisega’s overall quality assurance (QA) program.
+Based on the results of this inspection, the NRC inspection team found that the implementation
+of your QA program met the regulatory requirements imposed on you by your customers or
+NRC licensees. No findings of significance were identified.
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC’s “Rules of Practice,” the NRC will make available electronically for public inspection
+a copy of this letter, its enclosure, and your response through the NRC Public Document Room
+or from the NRC’s Agencywide Documents Access and Management System, which is
+accessible at http://www.nrc.gov/reading-rm/adams.html. To the extent possible, your response
+(and if applicable), should not include any personal privacy, proprietary, or Safeguards
+Information so that it can be made available to the public without redaction. If personal privacy
+or proprietary information is necessary to provide an acceptable response, please provide a
+bracketed copy of your response that identifies the information that should be protected and a
+redacted copy of your response that deletes such information. If you request that such material
+be withheld from public disclosure, you must specifically identify the portions of your response
+that you seek to have withheld and provide in detail the bases for your claim (e.g., explain why
+the disclosure of information would create an unwarranted invasion of personal privacy or
+
+=== PAGE BREAK ===
+
+L. Rogers - 2 -
+provide the information required by 10 CFR 2.390(b) to support a request for withholding
+confidential commercial or financial information). If Safeguards Information is necessary to
+provide an acceptable response, please provide the level of protection described in
+10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA/
+Richard P. McIntyre, Acting Chief
+Quality Assurance Vendor Inspection Branch 2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901237
+Enclosure:
+Inspection Report No. 99901237/2016-201
+and Attachment
+
+=== PAGE BREAK ===
+
+L. Rogers - 2 -
+provide the information required by 10 CFR 2.390(b) to support a request for withholding
+confidential commercial or financial information). If Safeguards Information is necessary to
+provide an acceptable response, please provide the level of protection described in
+10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.”
+Sincerely,
+/RA/
+Richard P. McIntyre, Acting Chief
+Quality Assurance Vendor Inspection Branch 2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901237
+Enclosure:
+Inspection Report No. 99901237/2016-201
+and Attachment
+DISTRIBUTION:
+RMusser
+KKavanagh
+TJackson
+ASakadales
+NRO_DCIP_Distribution
+ConE.Resource@nrc.gov
+lewis.rogers@us.lisega.com
+ADAMS Accession No.: ML16137A095 *via e-mail NRO-002
+OFFICE NRO/DCIP/QVIB-2 NRO/DCIP/QVIB-3 RII/DCI/CIB3
+NAME ABelen TKendzia TSteadham*
+DATE 05/16/16 05/16/16 05/12/16
+OFFICE NRO/DCIP/QVIB-2 NRO/DCIP/QVIB-2
+NAME JOrtega-Luciano RMcIntyre
+DATE 05/16/16 05/25/16
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS
+VENDOR INSPECTION REPORT
+Docket No.: 99901237
+Report No.: 99901237/2016-201
+Vendor: Lisega Inc.
+370 E Dumplin Valley Rd
+Kodak, TN 37764
+Vendor Contact: Lewis Rogers
+Quality Assurance Manager
+E-mail: lewis.rogers@us.lisega.com
+Phone: 865-940-5207
+Nuclear Industry Activity: Lisega, located in Kodak, TN, is currently manufacturing piping
+supports that are being supplied for use in safety-related systems
+as part of the Westinghouse AP1000 reactor design currently
+under construction at the Vogtle and VC Summer sites. Lisega
+also supplies pipe supports to the operating fleet.
+Inspection Dates: April 18-22, 2016
+Inspectors: Jonathan Ortega-Luciano NRO/DCIP/QVIB-2,
+Inspection Leader
+Aixa Belen NRO/DCIP/QVIB-2
+Tom Kendzia NRO/DCIP/QVIB-3
+Tim Steadham Region II/DCI/CIB3
+Approved by: Richard P. McIntyre, Acting Chief
+Quality Assurance Vendor Inspection Branch 2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Enclosure
+
+=== PAGE BREAK ===
+
+EXECUTIVE SUMMARY
+Lisega Inc.
+99901237/2016-201
+The U.S. Nuclear Regulatory Commission (NRC) staff conducted this inspection to verify that
+Lisega facility implemented an adequate quality assurance (QA) program that complies with the
+requirements of Appendix B, “Quality Assurance Criteria for Nuclear Power Plants and Fuel
+Reprocessing Plants,” to Title 10 of the Code of Federal Regulations (10 CFR) Part 50,
+“Domestic Licensing of Production and Utilization Facilities.” In addition, the NRC inspection to
+verify that Lisega implemented a Part 21 program that complied with the requirements of
+10 CFR Part 21, “Reporting of Defects and Noncompliance.”
+The NRC conducted the inspection at the Lisega facility in Kodak, TN April 18-22, 2016. This
+was the initial NRC inspection at this Lisega facility.
+This technically-focused inspection specifically evaluated Lisega’s implementation of quality
+activities associated with the design and manufacturing associated with the requirements of the
+American Society of Mechanical Engineers (ASME) Section III, Subsection NF, Supports,
+Subsection NCA, General Requirements for Division 1 and Division 2, Class 1, 2, 3, and
+non-code safety-related piping supports being supplied to the new and operating reactors.
+Specific activities observed by the NRC inspection team included:
+• Day shift pre-shift safety and Production Meeting
+• Evening Shift pre-shift Safety and Production Meeting
+• Magnetic particle inspection for a recovery steam system support, Project No. 51861,
+Fabrication Order No. 609213 for Vogtle Unit 3
+• Liquid penetrant inspection for a passive core cooling system support, Project
+No. 51859, Fabrication Order No. 607657 for VC Summer Unit 3
+• Welding for a primary system pipe support, Project No. 51861, Fabrication Order
+No 609209 for Vogtle Unit 3;
+• Welding for a residual heat removal system pipe support, Project No. 51861, Fabrication
+Order No 608886 for Vogtle Unit 3;
+• Welding for a main control room emergency habitability system pipe support, Project
+No. 51861, Fabrication Order No 609265 for Vogtle Unit 3
+• Hydraulic snubber assembly for Project No. 56336, Fabrication Order No. 605889, for
+Waterford nuclear power plant
+• Final inspection for reactor coolant system pipe support, Project No. 5185946,
+Fabrication Order No. 612305 for Vogtle Unit 4
+• Final inspection for passive containment cooling system pipe support, Project
+No. 51857, Fabrication Order No. 606802 for VC Summer Unit 2
+• In-House calibration for QCG-0544, coating thickness gage
+- 2 -
+
+=== PAGE BREAK ===
+
+In addition to observing these activities, the NRC inspection team verified that measuring and
+test equipment (M&TE) was properly identified, marked, calibrated, and used within its
+calibrated range. Also, the NRC inspection team performed a shop walk-down and verified that
+nonconforming items were identified and segregated in accordance with regulatory
+requirements.
+These regulations served as the bases for the NRC inspection:
+• Appendix B to 10 CFR Part 50
+• 10 CFR Part 21
+During the course of this inspection, the NRC inspection team implemented Inspection
+Procedure (IP) 43002, “Routine Inspections of Nuclear Vendors,” IP 43004, “Inspection of
+Commercial-Grade Dedication Programs,” and IP 36100, “Inspection of 10 CFR Part 21 and
+Programs for Reporting Defects and Noncompliance.”
+The NRC inspection team concluded that Lisega’s QA policies and procedures comply with the
+applicable requirements of Appendix B to 10 CFR Part 50 and 10 CFR Part 21, and that
+Lisega’s personnel are implementing these policies and procedures effectively. The results of
+this inspection are summarized below.
+Inspection Areas
+The NRC inspection team determined that Lisega is implementing its programs for design
+control, commercial-grade dedication, supplier oversight, audits, manufacturing control, control
+of special processes, control of M&TE, handling, storage, and shipping, nonconforming material
+parts, and components, and corrective action in accordance with the applicable regulatory
+requirements of Appendix B to 10 CFR Part 50. Also, Lisega is implementing its Part 21
+program in accordance with the regulatory requirements of 10 CFR Part 21. Based on the
+limited sample of documents reviewed and activities observed, the NRC inspection team also
+determined that Lisega is implementing its policies and procedures associated with these
+programs and no findings of significance were identified.
+- 3 -
+
+=== PAGE BREAK ===
+
+REPORT DETAILS
+1. 10 CFR Part 21 Program
+a. Inspection Scope
+The NRC inspection team reviewed Lisega’s policies and implementing procedures that
+govern Lisega’s 10 CFR Part 21, “Reporting of Defects and Noncompliance,” program to
+verify compliance with the regulatory requirements. In addition, the NRC inspection
+team evaluated the 10 CFR Part 21 postings and a sample of Lisega’s purchase orders
+(PO) for compliance with the requirements of 10 CFR 21.21, “Notification of Failure to
+Comply or Existence of a Defect and its Evaluation,” and 10 CFR 21.31, “Procurement
+Documents.” The NRC inspection team also verified that Lisega’s nonconformance and
+corrective action procedures provide a link to the 10 CFR Part 21 program. The
+attachment to this inspection report lists the documents reviewed by the NRC inspection
+team.
+b. Observations and Findings
+No findings of significance were identified.
+c. Conclusion
+The NRC inspection team concluded that Lisega is implementing its 10 CFR Part 21
+program in accordance with the regulatory requirements of 10 CFR Part 21. Based on
+the limited sample of documents reviewed, the NRC inspection team also determined
+that Lisega is implementing its policies and procedures associated with the 10 CFR
+Part 21 program. No findings of significance were identified.
+2. Design Control and Commercial-Grade Dedication
+a. Inspection Scope
+The NRC inspection team reviewed Lisega’s policies and implementing procedures that
+govern the design control program, verification and validation of computer programs,
+and commercial-grade dedication to verify their compliance with the regulatory
+requirements of Criterion III, “Design Control,” of Appendix B to 10 CFR Part 50.
+The NRC inspection team reviewed a sample of four Lisega-designed American Society
+of Mechanical Engineers Boiler and Pressure Vessel (ASME) Code Section III,
+Subsection NF pipe supports that were in various stages of fabrication at Lisega for
+domestic AP1000 plants. The NRC inspection team reviewed the ASME design reports
+and design specifications to ensure that the supports were designed in accordance with
+the ASME Code requirements. Also, the NRC inspection team verified that the design
+report summaries were adequately supported and consistent with the ASME design
+reports and specifications. The NRC inspection team ensured that the ASME design
+reports, specifications, and design report summaries were approved by licensed
+Registered Professional Engineers.
+- 4 -
+
+=== PAGE BREAK ===
+
+The NRC inspection team reviewed Lisega’s Validation/Verification (v/v) for computer
+software Ansys 15.0, used by Lisega in the design of pipe supports, to verify that the v/v
+methodology, the results of the v/v, the calculations that were used to perform the
+verification, the limitations on usage of the program, methodology to capture changes to
+the program, and the review and approval processes were compliance with regulatory
+requirements.
+In addition, the NRC inspection team reviewed Lisega’s commercial-grade dedication
+process to verify its compliance with the applicable regulatory requirements. The NRC
+inspection was not able to select a sample because Lisega has not used
+commercial-grade dedication for a safety-related application for any current work.
+The NRC inspection team discussed the design-control program, verification and
+validation of computer programs, and the commercial-grade dedication program with
+Lisega’s management and technical staff. The attachment to this inspection report lists
+the documents reviewed by the NRC inspection team.
+b. Observations and Findings
+The team reviewed documents for the following supports:
+• Vogtle Unit 3 SV3-PCS-PH-12R0052 Pipe Strap
+• Vogtle Unit 4 SV4-RNS-PH-12V01641 Yoke Clamp
+• V.C. Summer Unit 3 VS3-PXS-PH-11R0006 Strut
+• V.C. Summer Unit 3 VS3-SGS-PH-12A3331 Friction Anchor
+For these four sampled supports, the NRC inspection team reviewed the shop travelers
+to ensure that the supports were manufactured in accordance with the drawings used in
+the applicable ASME design reports.
+The NRC inspection team reviewed the Westinghouse design specifications imposed on
+Lisega through the PO to ensure that the supports complied with the procurement
+documents. As part of this review the NRC inspection team verified that the materials
+specified and that the mechanical properties used in the design reports complied with
+requirements of ASME Section II.
+The NRC inspection team reviewed a sample of design changes to ensure that the
+changes were properly incorporated and supported by the design report and that the
+design report were reviewed and approved by designated personnel in accordance with
+Lisega’s procedures. In addition, the NRC inspection team reviewed design interface
+documents between Westinghouse and Lisega to ensure that the most current design
+report summaries were adequately provided to Westinghouse.
+No findings of significance were identified.
+- 5 -

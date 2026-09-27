@@ -1,0 +1,318 @@
+September 7, 2011
+Ms. Lisa Plante, Quality Systems Supervisor
+Westinghouse Electric Company, LLC
+Newington Operations
+178 Shattuck Way
+Newington, NH 03801
+SUBJECT: NRC INSPECTION REPORT NO. 99901392/2011-201
+Dear Ms. Plante:
+From July 18 - 22, 2011, the U.S. Nuclear Regulatory Commission (NRC) staff conducted an
+inspection at the Westinghouse Electric Company (WEC) facility in Newington, New Hampshire.
+The enclosed report presents the results of this inspection. This was a limited scope inspection,
+which focused on assessing WEC’s compliance with the provisions of Title 10 of the Code of
+Federal Regulations (10 CFR) Part 21, “Reporting of Defects and Noncompliance,” and selected
+portions of Appendix B, “Quality Assurance Program Criteria for Nuclear Power Plants and Fuel
+Reprocessing Plants,” to 10 CFR Part 50, “Domestic Licensing of Production and Utilization
+Facilities.” This NRC inspection report does not constitute NRC endorsement of WEC’s overall
+quality assurance or 10 CFR Part 21 programs.
+Within the scope of this inspection, no violations or nonconformances were identified.
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+a copy of this letter and its enclosure will be made available electronically for public inspection in
+the NRC Public Document Room or from the NRC’s Agencywide Documents Access and
+Management System (ADAMS), which is accessible from the NRC public website at
+http://www.nrc.gov/reading-rm/adams.html.
+Sincerely,
+/RA/ G. Galletti for
+Juan D. Peralta, Chief
+Quality and Vendor Branch 1
+Division of Construction Inspection
+& Operational Programs
+Office of New Reactors
+Docket No. 99901392
+Enclosure:
+1. Inspection Report No. 99901392/2011-201 and Attachment
+
+=== PAGE BREAK ===
+
+September 7, 2011
+Ms. Lisa Plante, Quality Systems Supervisor
+Westinghouse Electric Company, LLC
+Newington Operations
+178 Shattuck Way
+Newington, NH 03801
+SUBJECT: NRC INSPECTION REPORT NO. 99901392/2011-201
+Dear Ms. Plante:
+From July 18 - 22, 2011, the U.S. Nuclear Regulatory Commission (NRC) staff conducted an
+inspection at the Westinghouse Electric Company (WEC) facility in Newington, New Hampshire.
+The enclosed report presents the results of this inspection. This was a limited scope inspection,
+which focused on assessing WEC’s compliance with the provisions of Title 10 of the Code of
+Federal Regulations (10 CFR) Part 21, “Reporting of Defects and Noncompliance,” and selected
+portions of Appendix B, “Quality Assurance Program Criteria for Nuclear Power Plants and Fuel
+Reprocessing Plants,” to 10 CFR Part 50, “Domestic Licensing of Production and Utilization
+Facilities.” This NRC inspection report does not constitute NRC endorsement of WEC’s overall
+quality assurance or 10 CFR Part 21 programs.
+Within the scope of this inspection, no violations or nonconformances were identified.
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+a copy of this letter and its enclosure will be made available electronically for public inspection in
+the NRC Public Document Room or from the NRC’s Agencywide Documents Access and
+Management System (ADAMS), which is accessible from the NRC public website at
+http://www.nrc.gov/reading-rm/adams.html.
+Sincerely,
+/RA/ G. Galletti for
+Juan D. Peralta, Chief
+Quality and Vendor Branch 1
+Division of Construction Inspection
+& Operational Programs
+Office of New Reactors
+Docket No. 99901392
+Enclosure:
+1. Inspection Report No. 99901392/2011-201 and Attachment
+DISTRIBUTION:
+PUBLIC MVaaler, NRO CQVA R/F RidsNroDcipCqvb RidsNroDcip
+RidsNrrDeEmb1 JHuang, NRO RidsNroDcipCqva plantelm@westinghouse.com
+ADAMS Accession No.: ML112144266 *concurred via email NRO-002
+OFFICE NRO/DCIP/CQVA NRO/DCIP/CQVB NRO/DCIP/CQVA NRO/DCIP/CQVA NRO/DCIP/CQVA
+NAME TKendzia* GNewman* RPatel* MVaaler* RPrato*
+DATE 9/6/2011 8/31//2011 9/6/2011 9/1/2011 9/6/2011
+OFFICE NRO/DCIP/CQVA NRO/DE/EMB1 QTE NRO/DCIP/CQVA
+NAME BClarke* Jason Huang* Tech Editor* JPeralta
+DATE 9/6/2011 9/6/2011 9/2/2011 / /2011
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS
+VENDOR INSPECTION REPORT
+Docket No.: 99901392
+Report No.: 99901392/2011-201
+Vendor: Westinghouse Electric Company, LLC
+Newington Operations
+178 Shattuck Way
+Newington, NH 03801
+Vendor Contact: Ms. Lisa Plante
+Quality Systems Supervisor
+Telephone: (603) 433-1064
+E-mail: plantelm@westinghouse.com
+Nuclear Industry: The Westinghouse Electric Company, Newington Operations
+(WEC) facility is a major supplier of safety related control rod drive
+mechanisms and reactor vessel internals for the WEC AP1000
+pressurized water reactor design.
+Inspection Dates: July 18 - 22, 2011
+Inspection Team Leader: Robert Prato NRO/DCIP/CQVA
+Inspection Team Members: Marlayna Vaaler NRO/DCIP/CQVA
+Garrett Newman NRO/DCIP/CQVB
+Raju Patel NRO/DCIP/CQVA
+Thomas Kendzia NRO/DCIP/CQVA
+Brent Clarke NRO/DCIP/CQVA
+Jason Huang NRO/DE/EMB1
+Approved by: Juan D. Peralta, Branch Chief
+Quality and Vendor Branch 1
+Division of Construction Inspection
+& Operational Programs
+Office of New Reactors
+Enclosure
+
+=== PAGE BREAK ===
+
+EXECUTIVE SUMMARY
+Westinghouse Electric Company, Newington Operations
+99901392/2011-201
+The U.S. Nuclear Regulatory Commission (NRC) conducted this inspection to verify that
+Westinghouse Electric Company, Newington Operations (WEC) implemented an adequate
+quality assurance (QA) program that complies with the requirements of Title 10 of the Code of
+Federal Regulations (10 CFR) Part 50, “Domestic Licensing of Production and Utilization
+Facilities,” Appendix B, “Quality Assurance Criteria for Nuclear Power Plants and Fuel
+Reprocessing Plants.” The inspection also verified that WEC implemented a program under
+10 CFR Part 21, “Reporting of Defects and Noncompliance,” that meets the NRC’s regulatory
+requirements. The inspection team conducted the inspection at the WEC facility in Newington,
+New Hampshire from July 18 - 22, 2011.
+The following regulations served as the bases for the NRC inspection:
+• Appendix B to 10 CFR Part 50
+• 10 CFR Part 21
+The NRC inspection team used Inspection Procedure 43002, “Routine Inspections of Nuclear
+Vendors,” dated April 25, 2011, and Inspection Procedure 36100, “Inspection of
+10 CFR Parts 21 and 50.55(e) Programs for Reporting Defects and Noncompliance,” dated
+April 25, 2011, during this inspection.
+The NRC conducted its last inspection at the WEC Newington facility in July 1999 when it was
+owned by ABB Combustion Engineering Nuclear Power, Inc. (ABB), and documented the
+results of the inspection in Inspection Report 72-0017/99-202, dated August 31, 1999. During
+this inspection, the NRC inspected ABB’s management practices and fabrication activities for
+compliance with 10 CFR Part 21, Appendix B to 10 CFR Part 50, and 10 CFR Part 72,
+“Licensing Requirements for the Independent Storage of Spent Nuclear Fuel and High Level
+Radioactive Waste.” The 1999 inspection identified one violation against 10 CFR 72.154,
+“Control of purchased material, equipment, and services.” Subsequent to that NRC inspection,
+the Westinghouse Electric Company purchased the Newington, NH facility in 2000. As part of
+the scope of the current inspection, the NRC inspection team inspected quality assurance
+activities related to design control; procurement; contractor oversight (including external audits);
+inspections; corrective actions; nonconformances; instructions, procedures, and drawings;
+training; and document control. The inspection team also inspected the WEC Newington
+Operations Part 21 program.
+The NRC inspection team concluded that WEC’s QA policies and procedures comply with the
+applicable requirements of 10 CFR Part 21 and Appendix B to 10 CFR Part 50, and that WEC
+personnel are implementing these policies and procedures effectively. The results of this
+inspection are summarized below.
+10 CFR Part 21 Program
+The NRC inspection team concluded that WEC appropriately translated the requirements
+contained in 10 CFR Part 21 into implementing procedures and for those activities reviewed by
+- 2 -
+
+=== PAGE BREAK ===
+
+the NRC inspection team, implemented them as required by the WEC procedures. No significant
+findings were identified.
+Training and Qualification of Personnel
+The NRC inspection team concluded that the training and qualification of WEC personnel
+conform to the regulatory requirements of Criterion II, “Quality Assurance Program,” of
+Appendix B to 10 CFR Part 50, and that WEC was effectively implementing its Quality Assurance
+Manual (QAM) and associated training and qualification procedures. No significant findings were
+identified.
+Design Control
+The NRC inspection team concluded that WEC’s design control policies and procedures are
+consistent with Criterion III, “Design Control,” of Appendix B to 10 CFR Part 50 and the
+requirements of the American Society of Mechanical Engineers Boiler and Pressure Vessel
+Code, Section III, Subsections NB and NG. The NRC inspection team concluded that WEC’s
+implementation of these practices relative to the AP1000 control rod drive mechanisms and
+reactor vessel internals provided appropriate design controls. No significant findings were
+identified.
+Procurement Document Control
+The NRC inspection team concluded that the WEC procurement document control program
+conforms to the regulatory requirements of Criterion IV, “Procurement Document Control,” of
+Appendix B to 10 CFR Part 50. The NRC inspection team concluded that WEC’s implementation
+of these policies and procedures provided appropriate controls for issuing and revising
+procurement documents. No significant findings were identified.
+Control of Purchased Material, Equipment, and Services
+The NRC inspection team concluded that the WEC procurement and material acceptance
+programs conform to the regulatory requirements of Criterion VII, “Control of Purchased Material,
+Equipment, and Services,” of Appendix B to 10 CFR Part 50. The NRC inspection team
+concluded that WEC’s implementation of these policies and procedures provided appropriate
+oversight of its suppliers and control of purchased material, equipment, and services. No
+significant findings were identified.
+Internal and External Audits
+The NRC inspection team concluded that WEC’s external and internal audit programs conform to
+the regulatory requirements of Criterion VII, “Control of Purchased Material, Equipment, and
+Services,” and Criterion XVIII, “Audits,” of Appendix B to 10 CFR Part 50. The NRC inspection
+team concluded that WEC adequately implemented its internal and external audit programs. No
+significant findings were identified.
+Control of Special Processes
+The NRC inspection team concluded that WEC’s program for the control of special processes
+conforms to the regulatory requirements of Criterion IX, “Control of Special Processes,” of
+Appendix B to 10 CFR Part 50. The NRC inspection team concluded that the WEC QAM and
+- 3 -
+
+=== PAGE BREAK ===
+
+associated fabrication and special process procedures and activities were adequate and
+effectively implemented by qualified personnel, using qualified equipment and processes. No
+significant findings were identified.
+Test Control
+The NRC inspection team concluded that WEC’s process for control of the testing program
+conforms to the regulatory requirements of Criterion XI, “Test Control,” of Appendix B to 10 CFR
+Part 50. The NRC inspection team concluded that the WEC QAM and associated test control
+procedures and activities were adequate and effectively implemented by qualified personnel,
+using qualified equipment and processes. No significant findings were identified.
+Control of Measuring and Test Equipment
+The NRC inspection team concluded that WEC’s measuring and test equipment program
+requirements are consistent with the regulatory requirements of Criterion XII, “Control of
+Measuring and Test Equipment,” of Appendix B to 10 CFR Part 50. The NRC inspection team
+concluded that WEC established appropriate and effective means to control measuring and test
+equipment. No significant findings were identified.
+Nonconforming Materials, Parts, or Components
+Based on the sample of nonconformances reviewed, the NRC inspection team concluded that
+WEC’s process for the control of nonconforming materials, parts, or components is consistent
+with the regulatory requirements of Criterion XV, “Nonconforming Materials, Parts, or
+Components,” of Appendix B to 10 CFR Part 50. The NRC inspection team concluded that WEC
+effectively implemented its QA policies and implementing procedures that govern the control of
+nonconformances. No significant findings were identified.
+Corrective Action
+Based on the sample of corrective action reports reviewed, the NRC inspection team concluded
+that the implementation of WEC’s program for corrective actions was consistent with the
+regulatory requirements of Criterion XVI, “Corrective Action,” of Appendix B to 10 CFR Part 50.
+No significant findings were identified.
+- 4 -
+
+=== PAGE BREAK ===
+
+REPORT DETAILS
+1. 10 CFR Part 21 Program
+a. Inspection Scope
+The NRC inspection team reviewed the WEC facility’s policies and implementing
+procedures that govern the programs and activities used to establish and verify
+compliance with the requirements of 10 CFR Part 21. In addition, the NRC inspection
+team evaluated the 10 CFR Part 21 postings as well as a sample of WEC purchase
+orders, internal audit results, and training matrices in order to evaluate WEC’s
+compliance with the requirements of 10 CFR 21.6, “Posting Requirements,”
+10 CFR 21.21, “Notification of Failure to Comply or Existence of a Defect and its
+Evaluation,” and 10 CFR 21.31, “Procurement Documents,” respectively.
+Within the scope of this area of the inspection, the NRC inspection team reviewed the
+following policies, procedures, and associated documentation established by WEC:
+• Quality Assurance Manual, Westinghouse Electric Company LLC, Newington
+Operations (QAM), Revision 10, dated February 7, 2011
+• Westinghouse Policy/Procedure WEC 21.0, “Identification and Reporting of
+Conditions Adverse to Safety, “ Revision 6, dated August 3, 2009
+• Westinghouse Policy/Procedure WEC 16.2, “Westinghouse Corrective Action
+Process, “ Revision 2, dated February 8, 2010
+• Westinghouse, Newington Operations, Policy/Procedure PP-15-01,
+“Nonconformance Reports – Inprocess,” Revision 6, dated May 28, 2010
+• Westinghouse, Newington Operations, Policy/Procedure PP-15-02, “Supplier
+Deviation of Contract Requirement,” Revision 3, dated December 15, 2010
+• Westinghouse, Newington Operations, Policy/Procedure PP-16-08, “Customer
+Satisfaction,” Revision 0, dated November 3, 2008
+• 2011 Internal Audit (WEC-11-35) Exit Notes, “Audit of Nuclear Components
+Manufacturing,” date not specified
+• List of 10 CFR Part 21 posting locations
+• Issues Report 09-236-M026, “Drive Rod Blanks Stored Outside,” dated
+August 24, 2009
+• Issues Report 10-189-W007, “Seal 3 Assembly-Pump 1128-1A,” dated
+July 8, 2010
+• Issues Report 09-202-W011, “Nozzle Weldment - Orifice,” dated July 7, 2010
+- 5 -
+
+=== PAGE BREAK ===
+
+b. Observations and Findings
+b.1 10 CFR Part 21 Policies and Procedures
+The NRC inspection team reviewed the WEC QAM and WEC 21.0 to verify that WEC
+had effectively implemented the requirements in 10 CFR 21.21(a)(1) for evaluating
+deviations and failures to comply associated with substantial safety hazards and that
+WEC’s procedures incorporated the appropriate timelines for evaluation and reporting
+identified in 10 CFR Part 21. In addition, the inspection team verified that (1) WEC’s
+nonconformance and corrective action procedures provided a link to the 10 CFR Part 21
+program, and (2) WEC’s 10 CFR Part 21 procedures implemented the requirements in
+10 CFR 21.21(d) in regard to directors or responsible officers notifying the NRC of
+identified defects or failures to comply associated with substantial safety hazards.
+The WEC QAM provides for the evaluation of defects and failures to comply, and
+notification of customers regarding any defects and failures to comply that might
+reasonably result in a substantial safety hazard. The QAM also requires that the quality
+assurance program (QAP) identify items and activities affecting quality to which the
+WEC QAP applies and prescribe controls over the items and activities to an extent
+consistent with their importance to safety and/or the applicable requirements of
+Appendix B to 10 CFR Part 50.
+WEC 21.0 is the primary procedure used to implement the requirements of
+10 CFR Part 21 for reporting defects and failures to comply. The procedure includes
+(1) purpose, policy, and applicability statements; (2) definitions, references,
+organizational responsibilities, and general information; (3) applicable flow diagrams for
+the discovery of potential conditions adverse to safety; (4) provisions for the evaluation
+and reporting of potential conditions adverse to safety; and (5) provisions for the posting
+of Federal laws and regulations related to 10 CFR Part 21.
+The NRC inspection team verified that WEC 21.0 provides the guidance and
+organizational structure necessary to implement the requirements of 10 CFR Part 21
+and other related regulations associated with timely identification, evaluation, and
+reporting of defects and failures to comply that could create a substantial safety hazard.
+The inspection team also verified that WEC 21.0 defines applicable terms consistent
+with the terminology defined in 10 CFR 21.3, “Definitions,” provides the necessary
+guidance to assess deviations and failures to comply in an effective and timely manner
+in accordance with 10 CFR 21.21(a)(1), (a)(3), (b), and (d), and provides appropriate
+guidance for interim reports in accordance with 10 CFR 21.21(a)(2).
+The inspection team reviewed the WEC procurement procedures as well as a sample of
+purchase orders and verified that the procurement process and each procurement
+document specified, when applicable, that the provisions of 10 CFR Part 21 apply in
+accordance with 10 CFR 21.31.
+The NRC inspection team reviewed WEC 16.2, PP-15-01, PP-15-02, and PP-16-08,
+relating to the corrective action program, nonconformance program, supplier deviation of
+contract requirement, and customer satisfaction process, respectively. The inspection
+team verified that each of these procedures provide adequate guidance for evaluating
+deficiencies, as appropriate, for 10 CFR Part 21 applicability. In addition, the NRC
+inspection team reviewed numerous corrective action reports, nonconformance reports,
+- 6 -

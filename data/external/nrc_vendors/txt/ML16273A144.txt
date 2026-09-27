@@ -1,0 +1,298 @@
+October 4, 2016
+Michael Lenio, Quality Assurance Director
+ASCO Valve, Inc.
+1561 Columbia Hwy N
+Aiken, SC 29801
+SUBJECT: ERRATA, NUCLEAR REGULATORY COMMISSION VENDOR INSPECTION
+REPORT OF ASCO VALVE, INC. NO. 99901054/2016-201
+Dear Mr. Lenio:
+The Nuclear Regulatory Commission (NRC) conducted an inspection at ASCO Valve, Inc.
+during the week of February 8-12, 2016, at their Aiken, SC facility. The NRC inspectors
+conducted two exit meetings with ASCO on February 12, 2016, and March 17, 2016. During the
+inspection and both exit meetings, the NRC was not informed that supplier’s identity information
+in the inspector’s possession was considered proprietary information by ASCO. On
+April 15, 2016, the NRC issued inspection report (IR) 99901054/2016-201, which identified
+some of ASCO’s suppliers.
+On June 9, 2016, the NRC received the first Reply to Notice of Nonconformance ASCO Valve
+Inc., Docket No. 99901054 Vendor Inspection Report No. 99901054/2016-201, ADAMS
+ML16169A140 (non-publicly available), requesting to withhold ASCO’s suppliers’ names and
+compound numbers from the letter pursuant to 10 CFR 2.390, “Public Exemptions, Request for
+Withholding.” On July 5, 2016, the NRC issued Request for Withholding Information From
+Public Disclosure ASCO Valve Inc., ADAMS ML16176A070 (publicly available), requesting
+ASCO to resubmit the Reply to the Notice of Nonconformance letter to clarify the original
+request to withheld information from public disclosure. On September 1, 2016, ASCO
+resubmitted the Reply to Notice of Nonconformance, ADAMS ML16251A063 (non-publicly
+available). On September 27, 2016, ASCO resubmitted the Reply to Notice of
+Nonconformance, ML16273A277 (publicly available), after identifying that the
+September 1, 2016 letter was missing proprietary markings as required per 10 CFR 2.390. On
+October 4, 2016, the NRC issued NRC Approval of ASCO Valve Inc., Request for Withholding
+Information from Public Disclosure, ADAMS ML16273A097. Because of the decision made by
+the NRC to approve ASCO’s proprietary information request, the NRC has reissued the
+IR 9901054/2016-201, removing the names of ASCO’s suppliers of services, materials and
+components.
+
+=== PAGE BREAK ===
+
+M. Lenio - 2 -
+In accordance with 10 CFR 2.390 of the NRC’s “Rules of Practice,” a copy of this letter, its
+enclosures, and your response will be made available electronically for public inspection in the
+NRC Public Document Room or from the NRC’s document system (Agencywide Documents
+Access and Management System), accessible at http://www.nrc.gov/reading-rm/adams.html.
+Sincerely,
+/RA/
+Richard P. McIntyre, Acting Chief
+Quality Assurance Vendor Inspection Branch 2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket: 99901054
+Enclosure:
+ERRATA - Inspection Report No. 99901054/2016-201
+
+=== PAGE BREAK ===
+
+M. Lenio - 2 -
+In accordance with 10 CFR 2.390 of the NRC’s “Rules of Practice,” a copy of this letter, its
+enclosures, and your response will be made available electronically for public inspection in the
+NRC Public Document Room or from the NRC’s document system (Agencywide Documents
+Access and Management System), accessible at http://www.nrc.gov/reading-rm/adams.html.
+Sincerely,
+Richard P. McIntyre, Acting Chief
+Quality Assurance Vendor Inspection Branch 2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket: 99901054
+Enclosure:
+ERRATA - Inspection Report No. 99901054/2016-201
+DISTRIBUTION:
+ASakadales
+KKavanagh
+TJackson
+TMarenchin
+Mike.Lenio@emerson.com
+NRO_DCIP_Distribution
+ConE.Resource@nrc.gov
+ADAMS Accession No.: ML16273A144 *via e-mail NRO-002
+OFC NRO/DCIP/QVIB-2 NRO/DCIP/QVIB-2
+NAME ETorres RMcIntyre
+DATE 09/30/16 10/04/16
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+April 15, 2016
+Mike Lenio, Quality Assurance Director
+ASCO Valve, Inc.
+1561 Columbia Hwy N
+Aiken, SC 29801
+SUBJECT: NUCLEAR REGULATORY COMMISSION VENDOR INSPECTION REPORT OF
+ASCO VALVE, INC. NO. 99901054/2016-201
+Dear Mr. Lenio,
+On February 8-12, 2016, the U.S. Nuclear Regulatory Commission (NRC) staff conducted an
+inspection at the ASCO Valve, Inc. (ASCO) facility in Aiken, SC. On February 12, 2016, the
+inspectors presented the inspection results and observations during an exit meeting with
+Mr. Edward Fox, and other members of ASCO’s management and technical staff. On
+March 17, 2016, the inspectors conducted a re-exit to present inspection results and
+observations to Mr. Edward Fox and other members of ASCO’s management and technical
+staff. The purpose of this limited-scope routine inspection was to assess ASCO’s compliance
+with provisions of Title 10 of the Code of Federal Regulations (10 CFR) Part 21, “Reporting of
+Defects and Noncompliance,” and selected portions of Appendix B, “Quality Assurance Criteria
+for Nuclear Power Plants and Fuel Reprocessing Plants,” to 10 CFR Part 50, “Domestic
+Licensing of Production and Utilization Facilities.”
+This inspection specifically evaluated ASCO’s implementation of quality activities associated
+with the fabrication and inspection of the safety-related solenoid valves and hydramotors for the
+operating nuclear power plants. In addition, the inspectors evaluated environmental
+qualifications for safety-related solenoid valves performed at ASCO for Westinghouse Electric
+Company (WEC) AP1000 reactors. The enclosed report presents the results of the inspection.
+This NRC inspection report does not constitute NRC endorsement of your overall quality
+assurance (QA) or Part 21 programs.
+During this inspection, NRC inspectors found that the implementation of your QA program failed
+to meet certain NRC requirements imposed on you by your customers. The inspectors
+determined that ASCO was not fully implementing its QA program in the area of
+Commercial-Grade Dedication (CGD). Specifically, 1) ASCO failed to conduct
+commercial-grade surveys at the manufacturer of commercial elastomers to verify the critical
+characteristic for material identification. 2) ASCO failed to verify identified critical characteristics
+through inspection and testing for a nuclear coil kit and a nuclear O-ring, as established in their
+acceptance method plan. 3) ASCO failed to provide the technical basis for selection and use of
+sampling plans for CGD of commercial elastomers for the critical characteristic material
+identification by destructive testing as part of their acceptance method plan. It is noted that both
+NRC and Electric Power Research Institute (EPRI) industry guidance is available that describes
+how to identify and accept critical characteristics, performance of commercial-grade surveys,
+and developing an adequate sampling plan for dedication acceptance testing when lot/batch
+control was not established through a commercial-grade survey. The specific finding is
+identified in the enclosure to this letter.
+
+=== PAGE BREAK ===
+
+M. Lenio - 2 -
+Please provide a written explanation or statement within 30 days of this letter in accordance with
+the instructions specified in the enclosed Notice of Nonconformance. We will consider
+extending the response time if you show good cause for us to do so. In accordance with
+10 CFR 2.390 of the NRC’s “Rules of Practice,” a copy of this letter, its enclosures, and your
+response will be made available electronically for public inspection in the NRC Public Document
+Room or from the NRC’s document system (Agencywide Documents Access and Management
+System), accessible at http://www.nrc.gov/reading-rm/adams.html. To the extent possible, your
+response, (if applicable), should not include any personal privacy, proprietary, or safeguards
+information so that it can be made available to the Public without redaction. If personal privacy
+or proprietary information is necessary to provide an acceptable response, then please provide
+a bracketed copy of your response that identifies the information that should be protected and a
+redacted copy of your response that deletes such information. If you request that such material
+is withheld from public disclosure, you must specifically identify the portions of your response
+that you seek to have withheld and provide in detail the bases for your claim (e.g., explain why
+the disclosure of information will create an unwarranted invasion of personal privacy or provide
+the information required by 10 CFR 2.390(b) to support a request for withholding confidential
+commercial or financial information).
+Sincerely,
+/RA/
+Richard P. McIntyre, Acting Chief
+Quality Assurance Vendor Inspection Branch 2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901054
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report No. 99901054/2016-201
+and Attachment
+
+=== PAGE BREAK ===
+
+M. Lenio - 2 -
+Please provide a written explanation or statement within 30 days of this letter in accordance with
+the instructions specified in the enclosed Notice of Nonconformance. We will consider
+extending the response time if you show good cause for us to do so. In accordance with
+10 CFR 2.390 of the NRC’s “Rules of Practice,” a copy of this letter, its enclosures, and your
+response will be made available electronically for public inspection in the NRC Public Document
+Room or from the NRC’s document system (Agencywide Documents Access and Management
+System), accessible at http://www.nrc.gov/reading-rm/adams.html. To the extent possible, your
+response, (if applicable), should not include any personal privacy, proprietary, or safeguards
+information so that it can be made available to the Public without redaction. If personal privacy
+or proprietary information is necessary to provide an acceptable response, then please provide
+a bracketed copy of your response that identifies the information that should be protected and a
+redacted copy of your response that deletes such information. If you request that such material
+is withheld from public disclosure, you must specifically identify the portions of your response
+that you seek to have withheld and provide in detail the bases for your claim (e.g., explain why
+the disclosure of information will create an unwarranted invasion of personal privacy or provide
+the information required by 10 CFR 2.390(b) to support a request for withholding confidential
+commercial or financial information).
+Sincerely,
+/RA/
+Richard P. McIntyre, Acting Chief
+Quality Assurance Vendor Inspection Branch 2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901054
+Enclosures:
+1. Notice of Nonconformance
+2. Inspection Report No. 99901054/2016-201
+and Attachment
+DISTRIBUTION:
+ASakadales
+KKavanagh
+BAnderson
+TJackson
+JRogge
+Mike.Lenio@emerson.com
+NRO_DCIP_Distribution
+ConE.Resource@nrc.gov
+ADAMS Accession No.: ML16069A059 *via e-mail NRO-002
+OFC NRO/DCIP/QVIB-2 NRO/DCIP/QVIB-2 RI/DRS/EB3
+NAME LMicewski RPatel LDumont*
+DATE 03/10/16 03/10/16 03/14/16
+OFC NRO/DCIP/QVIB-2 NRO/DCIP NRO/DCIP/QVIB-2
+NAME ETorres* TFrye (ABelen for) RMcIntyre
+DATE 03/09/16 04/14/16 04/15/16
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+NOTICE OF NONCONFORMANCE
+ASCO Valve, Inc. Docket No. 99901054
+1561 Columbia Hwy N Report No. 2016-201
+Aiken, SC 29801
+Based on the results of a U.S. Nuclear Regulatory Commission (NRC) inspection conducted at
+the ASCO Valve Inc., (ASCO) facility in Aiken, SC, from February 8-12, 2016, it appears that
+ASCO did not conduct certain activities in accordance with NRC requirements that were
+contractually imposed on ASCO by its customers or NRC licensees:
+A. Criterion III, “Design Control,” of Appendix B to Title 10 of the Code of Federal
+Regulations (10 CFR) Part 50 states, in part, that
+“Measures shall also be established for the selection and review for suitability of
+application of materials, parts, equipment, and processes that are essential to the
+safety-related functions of the structures, systems and components.”
+Criterion VII, “Control of Purchased Material, Equipment and Services,” of Appendix B to
+10 CFR Part 50, states, in part, that states, in part, that “These measures shall include
+provisions, as appropriate, for source evaluation and selection, objective evidence of
+quality furnished by the contractor or subcontractor, inspection at the contractor or
+subcontractor source, and examination of products upon delivery.”
+Contrary to the above, as of February 12, 2016, ASCO failed to establish measures for
+the selection and review for suitability of application of materials and parts that are
+essential to the safety-related functions of components. In addition, ASCO failed to
+establish appropriate measures that included provisions for source evaluation, objective
+evidence of quality furnished by the contractor or subcontractor, and examination of
+products upon delivery. Specifically:
+1. For commercial-grade dedication (CGD) of elastomers, ASCO failed to adequately
+translate identified critical characteristics to an acceptance method plan and
+therefore they were not verified. ASCO’s commercial-grade surveys focused on
+general programmatic controls at the supplier, rather than on the control of critical
+characteristics for the elastomers being procured. Therefore, ASCO failed to identify
+and verify material critical characteristics in the commercial-grade surveys for the
+following examples:
+• PO 101504876 for four SB11AKR pressure switches and four TN10B42R
+pressure transducers called for Part # G039619-050-VI (nuclear O-ring), which is
+made of Viton A type material. This material type is required for components that
+will be in service in a harsh environment, including exposure to radiation. These
+O-rings were procured from [----------], who sourced them from [---------].
+• PO 1015054413 for twenty-three NP 8316 3-way solenoid valves for Areva, a
+distributor for domestic nuclear plants, called for O-rings,
+Part # G089834-005-HT (O-ring nuclear), Part # G031325-002-HT (O-ring
+nuclear), and Part # G039619-005-HT (nuclear O-ring). All are made of ethylene
+propylene. These O-rings were procured from [----------], who sourced them from
+[------------].
+Enclosure 1
+
+=== PAGE BREAK ===
+
+• PO 4500834520 with PSEG Nuclear for an NPX8223G131 solenoid valve for
+Hope Creek called for a rubber disc, Part # G064355-007 (Disc nuclear). The
+valve disc was procured commercially from [-----------].
+2. ASCO failed to verify the following identified critical characteristics: markings, inner
+diameter, outer diameter, length, turns, lead length, resistance, and the leads of a
+coil kit for Work Order A339448 (PO 1015038212), Part # G027502-001-K, Coil MXX
+Nuclear as required by the commercial-grade dedication testing acceptance plan. In
+addition, ASCO failed to verify the material identification critical characteristic for an
+O-ring for Work Order 797668-15, Part # 022525-007-90, by performing either a
+Fourier transform infrared spectroscopy (FTIR) or burn test, as required by the CGD
+receipt inspection acceptance plan.
+3. ASCO failed to provide a documented technical basis for selection and use of
+sampling plans for CGD of commercial elastomers for the critical characteristic
+material identification by destructive testing as part of their acceptance method plan,
+when lot/batch control was not established through a commercial-grade survey.
+ASCO inspects only one item, independent of lot size, when performing destructive
+testing to verify material critical characteristics of the elastomers mentioned above,
+which is not in accordance with ASCO’s procedure MP-I-026, “Sampling Plan for
+Product Acceptance,” NRC regulatory guidance and Electric Power Research
+Institute (EPRI) industry standards.
+This issue has been identified as Nonconformance 99901054/2016-201-01.
+Please provide a written statement or explanation to the U.S. Nuclear Regulatory Commission,
+ATTN: Document Control Desk, Washington, DC 20555-0001, with a copy to the Chief, Quality
+Vendor Inspection Branch-2, Division of Construction Inspection and Operational Programs,
+Office of New Reactors, within 30 days of the date of the letter transmitting this Notice of
+Nonconformance. This reply should be clearly marked as a “Reply to a Notice of
+Nonconformance” and should include for each noncompliance: (1) the reason for the
+noncompliance or, if contested, the basis for disputing the noncompliance; (2) the corrective
+steps that have been and the results achieved; (3) the corrective steps that will be taken to
+avoid further noncompliance; and (4) the date when the corrective action will be completed.
+Where good cause is shown, the NRC will consider extending the response time.
+Because your response will be made available electronically for public inspection in the NRC
+Public Document Room or from the NRC’s Agencywide Documents Access and Management
+System (ADAMS), which is accessible from the NRC Web site at
+http://www.nrc.gov/reading-rm/adams.html, to the extent possible, it should not include any
+personal privacy, proprietary, or Safeguards Information (SGI) so that the NRC can make it
+available to the public without redaction. If personal privacy or proprietary information is
+necessary to provide an acceptable response, please provide a bracketed copy of your
+response that identifies the information that should be protected and a redacted copy of your
+response that deletes such information. If you request that such material be withheld, you must
+specifically identify the portions of your response that you seek to have withheld and provide in
+- 2 -

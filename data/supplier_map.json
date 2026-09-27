@@ -1,0 +1,352 @@
+{
+"_note": "Curated from Georgia PSC VCM reports 1-12 (docket 29849), NRC vendor inspection reports, and press/industry sources. Raw evidence rows: data/external/*/. Vogtle 3&4-era supply chain (2008-2018); resourcing for new AP1000 builds may differ.",
+"suppliers": {
+ "doosan": {
+  "name": "Doosan Heavy Industries & Construction (now Doosan Enerbility)",
+  "manufacturing_location": "Changwon, South Korea",
+  "other_locations": "Ultra-heavy forgings from Japan Steel Works, Muroran, Japan",
+  "origin": "Foreign",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1426/ML14260A350.pdf", "doc": "NRC Vendor IR 99901373/2014-201", "quote": "Doosan's fabrication activities associated with reactor coolant pump casings, steam generators, reactor vessels, and reactor vessel closure heads for the Westinghouse AP1000 reactor design"},
+   {"url": "https://psc.ga.gov/search/facts-document/?documentId=143954", "doc": "GA PSC VCM 7 (Aug 2012)", "quote": "At the Doosan facility in South Korea, fabrication activities of the reactor vessel and steam generator are ongoing"},
+   {"url": "https://www.powermag.com/reactor-vessel-placed-inside-vogtle-unit-3/", "doc": "POWER Magazine, Nov 2016", "quote": "fabricated by Doosan Heavy Industries in South Korea"}
+  ]
+ },
+ "jsw": {
+  "name": "Japan Steel Works (ultra-heavy forgings for RPV/SG)",
+  "manufacturing_location": "Muroran, Japan",
+  "other_locations": "Forgings shipped to Doosan (Changwon) and Mangiarotti (Italy)",
+  "origin": "Foreign",
+  "sources": [
+   {"url": "https://psc.ga.gov/search/facts-document/?documentId=134428", "doc": "GA PSC VCM 4 (Feb 2011)", "quote": "all expected heavy forgings have been successfully transported from Japan Steel Works located in Muroran, Japan to Doosan Heavy Industries located in Changwon, South Korea"}
+  ]
+ },
+ "cw_emd": {
+  "name": "Curtiss-Wright Electro-Mechanical Division (EMD)",
+  "manufacturing_location": "Cheswick, Pennsylvania, USA",
+  "other_locations": "Pump casings forged/fabricated by Doosan (Changwon, South Korea)",
+  "origin": "Domestic",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1635/ML16350A067.pdf", "doc": "NRC Vendor IR 99901383/2016-201", "quote": "Curtiss-Wright Electro-Mechanical Division (EMD) located in Cheswick, PA is under contract from Westinghouse Electric Company to design, manufacture, test, and deliver the Reactor Coolant Pumps (RCPs) for the WEC AP1000 design"},
+   {"url": "https://www.prnewswire.com/news-releases/first-ap1000-reactor-coolant-pump-delivered-to-vogtle-expansion-300253080.html", "doc": "Georgia Power press release, Apr 2016", "quote": "Arriving via truck from Curtiss-Wright Corporation in Cheswick, Pennsylvania, the reactor coolant pump is also the first to be delivered to any U.S. AP1000 construction project"}
+  ]
+ },
+ "mangiarotti": {
+  "name": "Mangiarotti S.p.A. (Westinghouse-owned since 2014)",
+  "manufacturing_location": "Monfalcone (Gorizia), Italy",
+  "other_locations": "Also San Giorgio di Nogaro and Pannellia, Italy; earlier NRC inspection at Sedegliano (UD)",
+  "origin": "Foreign",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1232/ML12320A661.pdf", "doc": "NRC Vendor IR 99901416/2012-201", "quote": "design, fabrication, assembly, and testing of the accumulators (ACC), core makeup tank (CMT), passive residual heat removal heat exchanger (PRHRHX), and pressurizer (PZR) for the Westinghouse AP1000"},
+   {"url": "https://psc.ga.gov/search/facts-document/?documentId=154916", "doc": "GA PSC VCM 11 (Aug 2014)", "quote": "The Unit 3 pressurizer has completed testing, received final coatings, and was shipped from Mangiarotti in July 2014"}
+  ]
+ },
+ "wec_newington": {
+  "name": "Westinghouse Electric Co. - Newington Operations",
+  "manufacturing_location": "Newington, New Hampshire, USA",
+  "other_locations": "Core barrel for VC Summer 2 was made by Toshiba Keihin Works (Yokohama, Japan); Vogtle RVI/IGA design control at Newington",
+  "origin": "Domestic",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1432/ML14328A138.pdf", "doc": "NRC Vendor IR 99901392/2014-201", "quote": "The Newington Operations facility of Westinghouse Electric Company is a major supplier of safety-related control rod drive mechanisms and reactor vessel internals for the WEC AP1000 pressurized water reactor design"}
+  ]
+ },
+ "premier": {
+  "name": "Premier Technology, Inc.",
+  "manufacturing_location": "Blackfoot, Idaho, USA",
+  "other_locations": "",
+  "origin": "Domestic",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1513/ML15132A142.pdf", "doc": "NRC Vendor IR 99901394/2015-201", "quote": "Premier Technology, Inc. (PTI) manufactures the Integrated Head Package (IHP) and Reactor Vessel Internal Lifting Rig (RVILR) for the Westinghouse Electric Company AP1000 reactor design"}
+  ]
+ },
+ "spx": {
+  "name": "SPX Copes-Vulcan",
+  "manufacturing_location": "Lake City / McKean, Pennsylvania, USA",
+  "other_locations": "Explosive initiator system by UTC Aerospace Systems, Fairfield, California (SPX subcontractor); SPX HQ Charlotte, NC",
+  "origin": "Domestic",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1215/ML12158A154.pdf", "doc": "NRC Vendor IR 99900080/2012-201", "quote": "design and manufacturing of the squib valves for the AP1000 reactor design ... used in new nuclear plant construction of the AP1000 reactor design at the Vogtle, V.C. Summer"},
+   {"url": "https://psc.ga.gov/search/facts-document/?documentId=137969", "doc": "GA PSC VCM 5 (Aug 2011)", "quote": "Westinghouse issued an SWO to SPX, the squib valve manufacturer, in April 2011"}
+  ]
+ },
+ "cbi_ihi_cv": {
+  "name": "Chicago Bridge & Iron (site fabrication/assembly); plates & bottom heads by IHI Corporation",
+  "manufacturing_location": "Vogtle site, Waynesboro, Georgia, USA (assembly); IHI works, Yokohama, Japan (plates/heads)",
+  "other_locations": "",
+  "origin": "Mixed",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1028/ML102870167.pdf", "doc": "NRC Vendor IR 99901395/2010-201 (IHI)", "quote": "quality assurance requirements ... for the containment vessels for Vogtle Electric Generating Plant, Units 3 and 4"},
+   {"url": "https://psc.ga.gov/search/facts-document/?documentId=143954", "doc": "GA PSC VCM 7 (Aug 2012)", "quote": "the assembly of containment vessels by Chicago Bridge and Iron (CB&I)"},
+   {"url": "https://www.neimagazine.com/news/ihi-ships-heavy-components-for-vogtle-project/", "doc": "Nuclear Engineering International, Aug 2010", "quote": "The containment vessel bottom heads (CVBHs), produced at IHI works in Yokohama, Japan"}
+  ]
+ },
+ "ge_consolidated": {
+  "name": "GE Oil & Gas (Consolidated valves)",
+  "manufacturing_location": "Pineville, Louisiana, USA",
+  "other_locations": "",
+  "origin": "Domestic",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1616/ML16160A176.pdf", "doc": "NRC Vendor IR 99901468/2016-201", "quote": "GE Oil & Gas manufactures the PV-65 Main Steam Safety Valves for the Westinghouse Electric Company AP1000 reactor design"}
+  ]
+ },
+ "pentair": {
+  "name": "Pentair Valves and Controls",
+  "manufacturing_location": "Mansfield, Massachusetts, USA",
+  "other_locations": "",
+  "origin": "Domestic",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1407/ML14073A652.pdf", "doc": "NRC Vendor IR 99901431/2014-201", "quote": "Pentair's quality assurance activities associated with the testing of the pressurizer safety valve (PV-62) ... Pentair shipped these AP1000 pressurizer safety valves (PV-62) to its customers"}
+  ]
+ },
+ "enertech": {
+  "name": "Enertech (Curtiss-Wright Flow Control)",
+  "manufacturing_location": "Brea, California, USA",
+  "other_locations": "Qualification testing at Utah State University, Logan, UT",
+  "origin": "Domestic",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1230/ML12306A385.pdf", "doc": "NRC Vendor IR 99901377/2012-201", "quote": "qualification testing associated with the nozzle check valves of the passive core cooling system for the Westinghouse AP1000 design"}
+  ]
+ },
+ "enersys": {
+  "name": "EnerSys",
+  "manufacturing_location": "Hays, Kansas, USA",
+  "other_locations": "HQ Reading, Pennsylvania, USA",
+  "origin": "Domestic",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1405/ML14058A705.pdf", "doc": "NRC Vendor IR 99901435/2013-201", "quote": "This facility provides Class 1E batteries for safety-related applications to U.S. [plants]. This facility is qualifying the batteries for the AP1000"}
+  ]
+ },
+ "holtec": {
+  "name": "Holtec International",
+  "manufacturing_location": "Holtec Manufacturing Division, Turtle Creek, Pennsylvania, USA",
+  "other_locations": "",
+  "origin": "Domestic",
+  "sources": [
+   {"url": "https://holtecinternational.com/2013/02/22/three-decades-of-relentless-drive-for-technology-improvement-cements-holtecs-role-as-the-worlds-preeminent-fuel-rack-supplier/", "doc": "Holtec news release, Feb 2013", "quote": "design and licensing of high density racks for AP-1000 followed by the ongoing supply of rack modules for VC Summer Units 2 & 3, Vogtle Units 3 & 4"}
+  ]
+ },
+ "par_wec": {
+  "name": "Westinghouse / PaR Nuclear (PAR Systems)",
+  "manufacturing_location": "Shoreview, Minnesota, USA",
+  "other_locations": "",
+  "origin": "Domestic",
+  "sources": [
+   {"url": "https://www.power-eng.com/nuclear/westinghouse-completes-purchase-of-par-nuclear/", "doc": "Power Engineering, Jul 2006", "quote": "PaR Nuclear product line includes New Nuclear Plant (AP600, AP1000) - Fuel Handling Equipment & Outage Critical Cranes"},
+   {"url": "https://www.par.com/2026/04/03/par-systems-engages-on-capitol-hill-to-advance-the-future-of-u-s-nuclear-energy/", "doc": "PAR Systems news, Apr 2026", "quote": "Through supplying cranes and refueling equipment for AP1000 projects, PAR Systems supports more than 250 high-quality jobs in the state"}
+  ]
+ },
+ "toshiba_stg": {
+  "name": "Toshiba (steam turbine-generator and turbine-island heat exchangers)",
+  "manufacturing_location": "Keihin Product Operations, Yokohama, Japan",
+  "other_locations": "Deaerator/feedwater heaters in Toshiba scope, sub-fabrication locations unspecified",
+  "origin": "Foreign",
+  "sources": [
+   {"url": "https://www.oecd-nea.org/mdep/events/conf-2023/presentations/S3/4.Toshiba.pdf", "doc": "Toshiba, 5th MDEP Conference (OECD-NEA), 2023", "quote": "SNC VOGTLE-3,4 AP1000 STG & associated equipment 2013, 2014 ... Turbine Type: TC6F-52 inch (1800rpm) ... Scope: STG and Heat Exchangers (incl. system design in T/I)"}
+  ]
+ },
+ "toshiba_bhi": {
+  "name": "Toshiba (condensers; fabricated by BHI Co., Ltd)",
+  "manufacturing_location": "Sacheon, South Korea (BHI plant)",
+  "other_locations": "Toshiba design scope, Japan",
+  "origin": "Foreign",
+  "sources": [
+   {"url": "https://www.global.toshiba/ww/news/corporate/2011/12/pr0101.html", "doc": "Toshiba press release, Dec 2011", "quote": "the condenser for the Vogtle Unit 3 AP1000 nuclear energy plant ... manufactured with BHI Co., Ltd, a Korean engineering company [at] Sacheon, Korea. Toshiba will supply the condenser for Vogtle Unit 4 as well"}
+  ]
+ },
+ "tioga_ibf": {
+  "name": "Tioga Pipe (prime); reactor coolant loop piping fabricated by IBF S.p.A.",
+  "manufacturing_location": "IBF S.p.A., San Nicolo, Italy (fabrication); Tioga Pipe HQ Philadelphia, PA",
+  "other_locations": "",
+  "origin": "Mixed",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1320/ML13200A220.pdf", "doc": "NRC Vendor IR 99901428/2013-201 (IBF)", "quote": "IBF S.p.A., is under contract to fabricate reactor coolant piping for the AP1000 fleet"},
+   {"url": "https://psc.ga.gov/search/facts-document/?documentId=143954", "doc": "GA PSC VCM 7 (Aug 2012)", "quote": "Tioga supplier, IBF, is in the final stages of fabrication for the Unit 3 Reactor Coolant Loop piping"}
+  ]
+ },
+ "lake_charles": {
+  "name": "Shaw Modular Solutions / CB&I Lake Charles (CA structural & piping modules)",
+  "manufacturing_location": "Lake Charles, Louisiana, USA",
+  "other_locations": "After 2013 QA breakdown, Unit 4 sub-module work re-sourced to Oregon Iron Works (OR), SMCI (FL), and IHI + Toshiba (Japan, CA01); final assembly in Module Assembly Building at the Vogtle site",
+  "origin": "Domestic",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1227/ML12279A119.pdf", "doc": "NRC Vendor IR 99901401/2012-201", "quote": "Shaw Modular Solutions is under contract to fabricate structural equipment modules for the AP1000 units to be constructed at Vogtle and V.C. Summer"},
+   {"url": "https://psc.ga.gov/search/facts-document/?documentId=154916", "doc": "GA PSC VCM 11 (Aug 2014)", "quote": "structural module fabrication for certain Unit 4 modules has been contracted to Oregon Iron Works, SMCI, IHI, and Toshiba"}
+  ]
+ },
+ "nni": {
+  "name": "Newport News Industrial (Huntington Ingalls)",
+  "manufacturing_location": "Newport News, Virginia, USA",
+  "other_locations": "",
+  "origin": "Domestic",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1735/ML17355A050.pdf", "doc": "NRC Vendor IR 99901433/2017-201", "quote": "design, fabrication, and testing of the air inlet panels and tension ring panels for the Shield Building ... for the domestic reactors being supplied to Vogtle Electric Generating Station, Units 3 & 4"},
+   {"url": "https://psc.ga.gov/search/facts-document/?documentId=152164", "doc": "GA PSC VCM 9/10 (Feb 2014)", "quote": "The Newport News Industrial facility is in full production of the shield building structural panels"}
+  ]
+ },
+ "vigor": {
+  "name": "Vigor Works LLC (formerly Oregon Iron Works)",
+  "manufacturing_location": "Clackamas, Oregon, USA",
+  "other_locations": "",
+  "origin": "Domestic",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1722/ML17226A340.pdf", "doc": "NRC Vendor IR 99901448/2017-201", "quote": "Vigor Works LLC, is under contract to WECTEC to fabricate, assemble, inspect, transport, and deliver CB20 Passive Containment Cooling Water Tank L modules for the Westinghouse AP1000"},
+   {"url": "https://psc.ga.gov/search/facts-document/?documentId=154916", "doc": "GA PSC VCM 11 (Aug 2014)", "quote": "Oregon Iron Works is currently fabricating structural sub-modules that form CA20"}
+  ]
+ },
+ "greenberry": {
+  "name": "Greenberry Industrial",
+  "manufacturing_location": "Vancouver, Washington, USA",
+  "other_locations": "Corvallis, Oregon, USA",
+  "origin": "Domestic",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1718/ML17181A238.pdf", "doc": "NRC Vendor IR 99901480/2017-201", "quote": "Greenberry Industrial is under contract by Chicago Bridge & Iron/WECTEC to fabricate safety-related containment floor section modules for the Westinghouse AP1000"}
+  ]
+ },
+ "smci": {
+  "name": "Specialty Maintenance and Construction, Inc. (SMCI, MetalTek International)",
+  "manufacturing_location": "Lakeland, Florida, USA",
+  "other_locations": "",
+  "origin": "Domestic",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1430/ML14308A027.pdf", "doc": "NRC Vendor IR 99901439/2014-202", "quote": "fabrication of the remain-in-place steel formwork modules for concrete, in-containment refueling water storage tank wall and reactor vessel cavity modules for the Westinghouse AP1000"}
+  ]
+ },
+ "aecon": {
+  "name": "Aecon Industrial",
+  "manufacturing_location": "Cambridge, Ontario, Canada",
+  "other_locations": "",
+  "origin": "Foreign",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1622/ML16228A086.pdf", "doc": "NRC Vendor IR 99901444/2016-201", "quote": "Aecon Industrial is located in Cambridge, Ontario and it supplies mechanical modules to Vogtle Electric Generating Plant Units 3 and 4"}
+  ]
+ },
+ "cbi_laurens": {
+  "name": "Chicago Bridge & Iron, Laurens (formerly B.F. Shaw) - safety-related piping & piping modules",
+  "manufacturing_location": "Laurens, South Carolina, USA",
+  "other_locations": "Westinghouse Carolina Energy Solutions piping fabrication, Rock Hill, SC (NRC IR 99901438/2014-201)",
+  "origin": "Domestic",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1326/ML13263A411.pdf", "doc": "NRC Vendor IR 99901432/2013-201", "quote": "fabrication and testing of piping and piping modules for the Westinghouse Electric Company AP1000 reactor design"}
+  ]
+ },
+ "lisega": {
+  "name": "Lisega, Inc. (ASME III NF pipe supports)",
+  "manufacturing_location": "Kodak, Tennessee, USA",
+  "other_locations": "",
+  "origin": "Domestic",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1613/ML16137A095.pdf", "doc": "NRC Vendor IR 99901237/2016-201", "quote": "Lisega, located in Kodak, TN, is currently manufacturing piping supports that are being supplied for use in safety-related systems as part of the Westinghouse AP1000 ... at the Vogtle and VC Summer sites"}
+  ]
+ },
+ "ga_esi": {
+  "name": "General Atomics Electronics Systems, Inc. (GA-ESI) - radiation monitoring system",
+  "manufacturing_location": "San Diego, California, USA",
+  "other_locations": "",
+  "origin": "Domestic",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1316/ML13164A351.pdf", "doc": "NRC Vendor IR 99900265/2013-201", "quote": "GA-ESI's QA policy and procedures were being effectively implemented for the AP1000 RMS work"}
+  ]
+ },
+ "fisher_emerson": {
+  "name": "Emerson (Fisher Controls) - control valves",
+  "manufacturing_location": "Marshalltown, Iowa, USA (Fisher; other Emerson valve plants various US)",
+  "other_locations": "",
+  "origin": "Domestic",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1124/ML112440676.pdf", "doc": "NRC Vendor IR 99900105/2011-201", "quote": "the NRC inspection team reviewed seismic analysis, qualification and test reports for the Watts Bar and WEC AP1000 valves"},
+   {"url": "https://www.automation.com/article/emerson-to-supply-control-valves-for-vogtle-nuclea", "doc": "Automation.com, Apr 2012", "quote": "Westinghouse Electric Company awarded Emerson Process Management a contract to provide critical control valves for two AP1000 pressurized water reactors at ... Vogtle"}
+  ]
+ },
+ "asco": {
+  "name": "ASCO Valve, Inc. (safety-related solenoid valves)",
+  "manufacturing_location": "Aiken, South Carolina, USA",
+  "other_locations": "",
+  "origin": "Domestic",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1627/ML16273A144.pdf", "doc": "NRC Vendor IR 99901054/2016-201", "quote": "environmental qualifications for safety-related solenoid valves performed at ASCO for Westinghouse AP1000 reactors"}
+  ]
+ },
+ "namco": {
+  "name": "Namco Controls (limit/position switches, solenoids, connectors)",
+  "manufacturing_location": "Elizabethtown, North Carolina, USA",
+  "other_locations": "",
+  "origin": "Domestic",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1623/ML16238A509.pdf", "doc": "NRC Vendor IR 99901470/2016-202", "quote": "Namco designs, manufactures, tests nuclear qualified solenoids, limit switches, position switches ... to operating nuclear plants and AP1000 plants"}
+  ]
+ },
+ "rscc": {
+  "name": "RSCC Wire & Cable (Rockbestos-Surprenant) - Class 1E cable",
+  "manufacturing_location": "East Granby, Connecticut, USA",
+  "other_locations": "",
+  "origin": "Domestic",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1416/ML14164A502.pdf", "doc": "NRC vendor inspection, 2014", "quote": "RSCC provides Class 1E wire and cable to U.S. nuclear power plants and was in the process of qualifying different cable types for the AP1000"}
+  ]
+ },
+ "wec_columbia": {
+  "name": "Westinghouse Columbia Fuel Fabrication Facility (fuel assemblies)",
+  "manufacturing_location": "Columbia, South Carolina, USA",
+  "other_locations": "",
+  "origin": "Domestic",
+  "sources": [
+   {"url": "https://www.businesswire.com/news/home/20221014005260/en/Westinghouse-Congratulates-Partners-on-Fuel-Load-for-Vogtle-Unit-3", "doc": "Westinghouse press release, Oct 2022", "quote": "157 fuel assemblies ... manufactured at Westinghouse's Columbia Fuel Fabrication Facility in South Carolina"}
+  ]
+ },
+ "wec_ic": {
+  "name": "Westinghouse Electric Co. (PMS I&C - Common Q platform; design authority)",
+  "manufacturing_location": "Warrendale / Cranberry Township, Pennsylvania, USA (integration & validation)",
+  "other_locations": "Common Q hardware derived from ABB AC160 (Swedish-origin platform); non-safety DCS: Emerson Ovation, Pittsburgh, PA",
+  "origin": "Mixed",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1712/ML17123A085.pdf", "doc": "NRC vendor inspection of WEC PMS, 2017", "quote": "design, implementation, and testing of the Protection and Safety Monitoring System (PMS) for the Vogtle Units 3 and 4"},
+   {"url": "https://www.nrc.gov/docs/ML0705/ML070510532.pdf", "doc": "WCAP-16675-NP", "quote": "The AP1000 Protection and Safety Monitoring System (PMS) functional requirements ... are compatible with the Common Q hardware and software"}
+  ]
+ },
+ "cives": {
+  "name": "Cives Steel Company, Southern Division (concrete embedments)",
+  "manufacturing_location": "Thomasville, Georgia, USA",
+  "other_locations": "",
+  "origin": "Domestic",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1304/ML13042A397.pdf", "doc": "NRC vendor inspection, Mar 2013", "quote": "fabrication of concrete embedments for AP1000 reactor plants at Vogtle Electric Generating Plant, Units 3 and 4"}
+  ]
+ },
+ "flowserve": {
+  "name": "Flowserve Pump Division (safety-related pumps)",
+  "manufacturing_location": "Vernon, California, USA",
+  "other_locations": "",
+  "origin": "Domestic",
+  "sources": [
+   {"url": "https://www.nrc.gov/docs/ML1311/ML13119A154.pdf", "doc": "NRC Vendor IR 99901369/2013-201", "quote": "design, fabrication, assembly, and testing of safety-related pumps ... with a focus on the pumps being provided for the Westinghouse AP1000 reactor design"}
+  ]
+ }
+},
+"rules": [
+ {"match": {"type": "tag_exact", "value": ["RCS-MV-01", "RXS-MV-01"]}, "supplier": "doosan", "scope_note": "Reactor pressure vessel (incl. closure head); JSW ultra-heavy forgings", "confidence": "high"},
+ {"match": {"type": "tag_exact", "value": ["RCS-MB-01", "RCS-MB-02"]}, "supplier": "doosan", "scope_note": "Delta-125 steam generators", "confidence": "high"},
+ {"match": {"type": "tag_prefix", "value": ["RCS-MY-Y1", "RCS-MY-Y2"]}, "supplier": "doosan", "scope_note": "Steam generator internals (shell, divider plate, tube supports, venturi, FW ring)", "confidence": "medium"},
+ {"match": {"type": "tag_prefix", "value": "RCS-MP"}, "supplier": "cw_emd", "scope_note": "Canned-motor reactor coolant pumps (casings by Doosan)", "confidence": "high"},
+ {"match": {"type": "tag_exact", "value": "RCS-MV-02"}, "supplier": "mangiarotti", "scope_note": "Pressurizer", "confidence": "high"},
+ {"match": {"type": "tag_prefix", "value": "PXS-MT-01"}, "supplier": "mangiarotti", "scope_note": "Accumulator tanks", "confidence": "high"},
+ {"match": {"type": "tag_prefix", "value": "PXS-MT-02"}, "supplier": "mangiarotti", "scope_note": "Core makeup tanks", "confidence": "high"},
+ {"match": {"type": "tag_exact", "value": "PXS-ME-01"}, "supplier": "mangiarotti", "scope_note": "Passive residual heat removal heat exchanger", "confidence": "high"},
+ {"match": {"type": "tag_prefix", "value": "RXS-MV-11"}, "supplier": "wec_newington", "scope_note": "Control rod drive mechanisms (all CRDM assemblies/housings)", "confidence": "high"},
+ {"match": {"type": "tag_prefix", "value": "RXS-MI"}, "supplier": "wec_newington", "scope_note": "Reactor vessel internals (upper/lower internals, core barrel, support structures)", "confidence": "high"},
+ {"match": {"type": "tag_prefix", "value": "RXS-MV-10"}, "supplier": "premier", "scope_note": "Integrated head package", "confidence": "high"},
+ {"match": {"type": "tag_prefix", "value": ["RCS-PL-V004"]}, "supplier": "spx", "scope_note": "Fourth-stage ADS squib valves", "confidence": "high"},
+ {"match": {"type": "tag_prefix", "value": ["PXS-PL-V118", "PXS-PL-V120", "PXS-PL-V123", "PXS-PL-V125"]}, "supplier": "spx", "scope_note": "IRWST injection and containment recirculation squib valves", "confidence": "high"},
+ {"match": {"type": "tag_exact", "value": "CNS-MV-01"}, "supplier": "cbi_ihi_cv", "scope_note": "Steel containment vessel", "confidence": "high"},
+ {"match": {"type": "system_keyword", "system": "SGS", "keywords": ["main steam safety valve"]}, "supplier": "ge_consolidated", "scope_note": "PV-65 main steam safety valves", "confidence": "high"},
+ {"match": {"type": "tag_prefix", "value": "RCS-PL-V005"}, "supplier": "pentair", "scope_note": "PV-62 pressurizer safety valves", "confidence": "high"},
+ {"match": {"type": "system_keyword", "system": "PXS", "keywords": ["discharge check", "recirculation a check", "recirculation b check", "injection a check", "injection b check", "injection line check"], "exclude_keywords": ["test", "drain"]}, "supplier": "enertech", "scope_note": "PXS nozzle check valves (qualification per NRC IR; scope may not cover every PXS check valve)", "confidence": "medium"},
+ {"match": {"type": "system_keyword", "system": "IDS", "keywords": ["battery bank"]}, "supplier": "enersys", "scope_note": "Class 1E 250 Vdc battery banks", "confidence": "medium"},
+ {"match": {"type": "tag_exact", "value": ["FHS-FS-01", "FHS-FS-02"]}, "supplier": "holtec", "scope_note": "New and spent fuel storage racks (Holtec AP1000 rack supply; new-fuel rack attribution medium)", "confidence": "medium"},
+ {"match": {"type": "tag_exact", "value": ["FHS-FH-01", "FHS-FH-02", "FHS-FH-05"]}, "supplier": "par_wec", "scope_note": "Refueling machine, fuel handling machine, fuel transfer system", "confidence": "medium"},
+ {"match": {"type": "tag_exact", "value": "MHS-MH-01"}, "supplier": "par_wec", "scope_note": "Containment polar crane - PROBABLE supplier; never explicitly confirmed in public sources", "confidence": "low"},
+ {"match": {"type": "tag_exact", "value": "PXS-MT-03"}, "supplier": "smci", "scope_note": "IRWST steel formwork wall modules (tank formed by containment internal structures + site concrete)", "confidence": "low"},
+ {"match": {"type": "tag_exact", "value": "PCS-MT-01"}, "supplier": "vigor", "scope_note": "CB20 passive containment cooling water tank L-modules (tank integral to shield building roof)", "confidence": "medium"},
+ {"match": {"type": "system_keyword", "system": "CDS", "keywords": ["condenser"]}, "supplier": "toshiba_bhi", "scope_note": "Main condensers (Toshiba scope, fabricated by BHI, Sacheon, Korea)", "confidence": "medium"},
+ {"match": {"type": "system", "value": "MTS"}, "supplier": "toshiba_stg", "scope_note": "Main turbine system - part of Toshiba TC6F-52 STG supply scope (incl. turbine stop/control valves)", "confidence": "medium"}
+]
+}

@@ -1,0 +1,275 @@
+July 6, 2018
+Mr. James Brennan, Senior Vice President
+Quality, Safety and Performance Improvement
+and Chief Quality Officer
+Westinghouse Electric Company
+1000 Westinghouse Drive
+Cranberry Township, PA 16066
+SUBJECT: NUCLEAR REGULATORY COMMISSION VENDOR INSPECTION OF
+WESTINGHOUSE ELECTRIC COMPANY LLC, CRANBERRY TOWNSHIP,
+REPORT NO. 99900404/2018-201
+Dear Mr. Brennan
+On May 21 through May 25, 2018, the U.S. Nuclear Regulatory Commission (NRC) staff
+conducted an inspection at the Westinghouse Electric Company (here-after referred to as WEC)
+facility in Cranberry Township, PA. The purpose of this limited-scope inspection was to assess
+WEC’s compliance with the provisions of selected portions of Appendix B, “Quality Assurance
+Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of
+Federal Regulations (10 CFR) Part 50, “Domestic Licensing of Production and Utilization
+Facilities,” and 10 CFR Part 21, “Reporting of Defects and Noncompliance.”
+This technically focused inspection specifically evaluated WEC’s implementation of quality
+activities associated with design control, oversight of suppliers, internal audits, and corrective
+actions. Specifically, the scope of the quality activities inspected included implementation of the
+AP1000 Initial Test Program, review of WEC’s corrective actions to the September 2016 quality
+assurance (QA) vendor inspection (NRC Inspection Report No. 99900404/2016-204, dated
+November 14, 2016) and review of WEC’s corrective actions to the January 2015 QA vendor
+inspection (NRC Inspection Report No. 99900404/2015-202, dated April 24, 2015), and review
+of WEC’s corrective actions to the September 2011 QA vendor inspection (NRC Inspection
+Report No. 999011409/2011-201-3, dated November 3, 2011). The enclosed report presents
+the results of the inspection. This NRC inspection report does not constitute NRC endorsement
+of WEC’s overall QA or 10 CFR Part 21 programs.
+Based on the results of this inspection, the NRC inspection team found the implementation of
+your QA program met the requirements imposed on you by your customers or NRC licensees.
+No findings of significance were identified.
+In accordance with 10 CFR 2.390 of the NRC's "Rules of Practice," a copy of this letter, its
+enclosure(s), and your response will be made available electronically for public inspection in the
+
+=== PAGE BREAK ===
+
+J. Brennan - 2 -
+NRC Public Document Room or from the NRC’s Agencywide Documents Access and
+Management System (ADAMS), accessible at http://www.nrc.gov/reading-rm/adams.html.
+Sincerely,
+/RA/ TJackson for
+Kerri A. Kavanagh, Chief
+Quality Assurance Vendor Inspection Branch-2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99900404
+Enclosure:
+Inspection Report No. 99900404/2018-201
+and Attachment
+
+=== PAGE BREAK ===
+
+J. Brennan - 3 -
+SUBJECT: NUCLEAR REGULATORY COMMISSION VENDOR INSPECTION OF
+WESTINGHOUSE ELECTRIC COMPANY LLC, CRANBERRY TOWNSHIP,
+REPORT NO. 99900404/2018-201 Dated: July 6, 2018
+DISTRIBUTION:
+Public
+ASakadales
+TJackson
+NRO_DCIP Distribution
+ConE Resource
+AP1000 Contacts
+brennajm@westinghouse.com
+easterr@westinghouse.com
+zubrosal@westinghouse.com
+monohajs@westinghouse.com
+corletmm@westinghouse.com
+weave1dw@westinghouse.com
+wesselrp@westinghouse.com
+ADAMS Accession No: ML18176A395 *via e-mail NRO-002
+OFC NRO/DCIP NRO/DCIP NRO/DCIP
+NAME JHeath JOrtega-Luciano* AKeim*
+DATE 06/27/18 07/02/18 07/02/18
+OFC NRO/DCIP NRO/DCIP NRO/DCIP
+NAME GGalletti* ETorres* KKavanagh (TJackson for)
+DATE 06/29/18 06/29/18 07/06/18
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION & OPERATIONAL PROGRAMS
+VENDOR IMPLEMENTATION INSPECTION REPORT
+Docket No.: 99900404
+Report No.: 99900404/2018-201
+Vendor: Westinghouse Electric Company
+Cranberry Township, PA
+Vendor Contact: Mr. Ronald Wessel
+wesselrp@westinghouse.com
+412-374-4023
+Nuclear Industry Activity: Westinghouse Electric Company (WEC) designed the AP1000
+nuclear power plant, including the detailed design and testing of
+safety-related components to be used in AP1000 plants. These
+qualification and functional tests are associated with and may
+directly affect closure of Inspections, Tests, Analyses, and
+Acceptance Criteria (ITAAC) from Revision 19 of the certified
+AP1000 design. Currently, these ITAAC are incorporated into the
+combined licenses of Vogtle Units 3 and 4.
+Inspection Dates: May 21-25, 2018
+Inspectors: Jermaine Heath, Team Leader, NRO/DCIP/QVIB-1
+Jonathan Ortega-Luciano, NRO/DCIP/QVIB-2
+Greg Galletti, NRO/DCIP/QVIB-1
+Andrea Keim, NRO/DCIP/QVIB-2
+Edgardo Torres, NRO/DCIP/QVIB-1
+Approved by: Kerri A. Kavanagh, Chief
+Quality Assurance Vendor Inspection Branch-2
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Enclosure
+
+=== PAGE BREAK ===
+
+EXECUTIVE SUMMARY
+Westinghouse Electric Company
+Inspection Report No. 99900404/2018-201
+The U.S. Nuclear Regulatory Commission (NRC) staff conducted an announced, routine
+inspection at Westinghouse Electric Company (here-after referred to as WEC), in Cranberry,
+Township, PA, from May 21 through 25, 2018. The purpose of the inspection was to review the
+implementation of the WEC Quality Assurance (QA) program pursuant to Appendix B, “Quality
+Assurance Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to Title 10 of the
+Code of Federal Regulations (10 CFR) Part 50, “Domestic Licensing of Production and
+Utilization Facilities,” and 10 CFR Part 21, “Reporting of Defects and Noncompliance.”
+This technically focused inspection evaluated WEC’s implementation of quality activities
+associated with safety-related systems, structures, and components to determine if those
+activities were being effectively implemented. This technically focused inspection evaluated
+WEC’s implementation of quality activities associated with design control, oversight of
+suppliers, internal audits, and corrective actions. Specifically, the scope of the quality activities
+inspected included implementation of WEC’s initial test program activities associated with the
+AP1000 plant design, review of WEC’s corrective actions to the September 2016 quality
+assurance (QA) vendor inspection (NRC Inspection Report No. 99900404/2016-204 dated
+November 14, 2016), and review of WEC’s corrective actions to the January 2015 QA vendor
+inspection (NRC Inspection Report No. 99900404/2015-202 dated April 24, 2015).
+The following regulations serve as the bases for the NRC inspection:
+• Appendix B to 10 CFR Part 50
+• 10 CFR Part 21
+During conduct of this inspection, the NRC inspection team implemented Inspection Procedure
+(IP) 43002, “Routine Inspections of Nuclear Vendors,” supplemented by IP 36100, “Inspection of
+10 CFR Part 21 and Programs for Reporting Defects and Noncompliance," and IP 43004,
+“Inspection of Commercial-Grade Dedication Programs.”
+The results of the inspection are summarized as follows:
+Corrective Action
+The NRC inspection team reviewed WEC’s corrective actions in response to Notice of
+Nonconformance (NON) 99900404/2016-204-01 and NON 99900404/2016-204-02 related to
+the design for inspectability of AP1000 safety-related valves, which was identified during a 2016
+quality assurance vendor inspection of Westinghouse. These NONs were associated with NRC
+Inspection Report 99900404/2016-204, dated November 14, 2016 (ADAMS Accession Number
+ML16307A159). The NRC inspection team determined the corrective actions implemented to
+address NON 99900404/2016-204-01 were adequate. However, at the time of the inspection,
+corrective actions related to NON 99900404/2016-204-02 were still outstanding. Consequently,
+the NRC inspection team cannot adequately evaluate and close NON 99900404/2016-204-02
+until WEC completes all corrective actions related to that issue. Therefore, based on the NRC
+inspectors’ review, NON 99900404/2016-204-01 is CLOSED; NON 99900404/2016-204-02 will
+remain OPEN and may be reviewed for closure at a future NRC inspection.
+- 2 -
+
+=== PAGE BREAK ===
+
+The NRC inspection team reviewed corrective actions in response to NON 99901416/2016-201-
+01, which was issued in relation to inadequate corrective actions identified during a 2016 NRC
+quality assurance vendor inspection of Mangiarotti S.p.A. The NON is associated with NRC
+Inspection Report 99901476/2016-201, dated June 8, 2017 (ADAMS Accession Number
+ML17156A386). The NRC inspection team determined the corrective actions implemented
+were adequate to address the NON. Based on the NRC inspectors’ review, NON
+99901416/2016-201-01 is CLOSED.
+The NRC inspection team reviewed corrective actions in response to NON 99900404/2015-202-
+01, NON 99900404/2015-202-02, and NON 99900404/2015-202-03 issued in relation to
+inadequate supplier oversight and identified during a 2015 NRC quality assurance vendor
+inspection of Westinghouse. These NONs were associated with NRC Inspection Report
+99900404/2015-202, dated April 14, 2015 (ADAMS Accession Number ML15070A213). The
+NRC inspection team determined the corrective actions implemented were adequate to address
+the NONs. Based on the NRC inspectors’ review, 99900404/2015-202-01,
+NON 99900404/2015-202-02, and NON 99900404/2015-202-03 are CLOSED.
+Other inspection areas
+The NRC inspection team determined that WEC is implementing its programs for design control
+associated with the AP1000 initial test program, oversight of suppliers, and internal audits in
+accordance with the applicable regulatory requirements of Appendix B to 10 CFR Part 50.
+Based on the limited sample of documents reviewed and activities observed, the NRC
+inspection team also determined that WEC is implementing its policies and procedures
+associated with these programs. No findings of significance were identified.
+- 3 -
+
+=== PAGE BREAK ===
+
+REPORT DETAILS
+1. Design Control
+a. Inspection Scope
+The NRC inspection team reviewed Westinghouse Electric Company’s (here-after
+referred to as WEC) policies and implementing procedures that govern the
+implementation of the design control program to verify their compliance with the
+regulatory requirements of Criterion III, “Design Control,” of Appendix B, “Quality
+Assurance Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to 10 CFR
+Part 50, “Domestic Licensing of Production and Utilization Facilities.”
+AP1000 Initial Test Program Design Changes
+The NRC inspection team reviewed aspects of WEC’s design change control program
+as it applies to the US AP1000 initial test program. The AP1000 initial test program
+follows the guidance in Regulatory Guide 1.68, “Initial Test Programs for Water-Cooled
+Nuclear Power Plants,” Revision 3. The team evaluated WEC’s design control and
+configuration management processes for the AP1000 Initial Test Program (ITP) to
+determine whether there were adequate processes in place for determining the impact of
+activities (e.g., design change, non-conformance, issuance of a new drawing,
+specification or procedure, etc.) on licensing basis documents for the domestic AP1000
+design. The NRC inspection team reviewed the processes to ensure that any changes
+affecting the design were adequately implemented and formally captured and tracked to
+assure the changes will be incorporated into future revisions of the affected design.
+The NRC inspection team reviewed WEC’s configuration control processes (for
+specifications, drawings, data sheet reports, and calculations) for approving AP1000
+design changes. Specifically, the NRC inspection team reviewed WEC Procedure
+APP-GW-GAP-420, “Engineering and Design Coordination Reports (E&DCRs),”
+(GAP-420) which governs the control of design changes, to confirm safety-related
+design activities were implemented consistent with those described in the Nuclear
+Quality Assurance Program Description (QAPD). GAP-420 describes the process for
+documenting the proposed change descriptions, including the reasons for the changes,
+technical justifications for the changes, impact assessment on the documentation
+governing testing including the System Specification Description (SSD), test
+specification and test procedures. Additionally the process requires identification of
+individuals responsible for implementation of the E&DCR proposed changes, mark-ups
+of the affected design, and testing documents containing information necessary to affect
+the E&DCR changes.
+WEC is developing pre-operational test specifications and procedures for Vogtle
+Units 3 & 4, based on the implementation of the ITP for China-based Sanmen and
+Haiyang customer. The NRC inspection team selected a sample E&DCRs associated
+with AP1000 China preoperational testing along with WEC administrative procedures
+governing design control to confirm the E&DCRs were implemented appropriately and
+contained appropriate technical bases for the changes identified. The NRC inspection
+team verified that process requirements including documentation of responsibilities,
+requirements, E&DCR processing steps, categorization, distribution, incorporation, and
+tracking were adequately documented and implemented in the sample E&DCRs
+- 4 -
+
+=== PAGE BREAK ===
+
+reviewed and further verified through discussions with cognizant WEC personnel
+responsible for the implementation of the processes. Additionally, the NRC inspection
+team reviewed current versions of test specifications, test procedures, and SSDs, and
+confirmed the proposed redline changes in the E&DCRs were adequately incorporated
+into the latest revision of the SSD and other design documentation, or were
+appropriately identified and tracked for revision within the formal configuration
+management program, to assure such changes will be incorporated into future revisions
+of the affected design or testing documentation.
+AP1000 ITP Test Acceptance Criteria
+The NRC inspection team selected a sample of pre-operational tests completed as part
+of the Sanmen and Haiyang AP1000 ITP. WEC is developing pre-operational test
+specifications and procedures for Vogtle Units 3 & 4, based on the implementation of the
+ITP for Sanmen and Haiyang. The NRC inspection team confirmed that test procedures
+contained adequate acceptance criteria that were consistent with the guidance
+contained in Regulatory Guide 1.68.
+The NRC inspection team also reviewed a sample of test acceptance criteria where, by
+design, the performance results could not be directly measured, and a calculation or
+post-test evaluation was required by procedure. The NRC inspection team examined
+the test procedures to ascertain whether the procedures required documentation of
+sufficient information to permit adequate evaluation of the test results for those cases
+where a calculation or post-test evaluation is required to demonstrate that the test
+objective was met. The NRC inspection team confirmed the data-use was appropriate
+for the analysis, and the analysis results supported the determination that test
+acceptance criteria were met. The NRC inspection team reviewed WEC’s process for
+collecting and distributing test data from testing conducted at the Sanmen and Haiyang
+plant sites back to the WEC Engineering offices for analysis of the results.
+The NRC inspection team performed a traceability review of the SSDs, test
+specifications, and test procedures to confirm the test acceptance criteria were
+adequately translated from the design information into the test specifications and test
+procedures. In addition, the NRC inspectors reviewed the methods of testing, data
+acquisition, and reference to performance of either calculations or analysis credited for
+meeting the acceptance criteria to confirm they were consistent with the Inspections,
+Tests, Analyses, and Acceptance Criteria (ITAAC) descriptions in the US AP1000
+design.
+The attachment to this inspection report lists the individuals interviewed and documents
+reviewed by the NRC inspection team.
+b. Observations and Findings
+No findings of significance were identified.
+- 5 -

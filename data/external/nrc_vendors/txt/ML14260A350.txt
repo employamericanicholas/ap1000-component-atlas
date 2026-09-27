@@ -1,0 +1,279 @@
+September 18, 2014
+Mr. Dong Soo Lee, General Manager
+Quality Assurance
+Doosan Heavy Industries and Construction
+555 Gwigok-Dong, Changwon
+Gyeongmnam 641-792
+Korea
+SUBJECT: NUCLEAR REGULATORY COMMISSION INSPECTION REPORT OF DOOSAN
+HEAVY INDUSTRIES AND CONSTRUCTION QUALITY ASSURANCE
+PROGRAM IMPLEMENTATION NO. 99901373/2014-201
+Dear Mr. Lee:
+On July 28 through August 1, 2014, U.S. Nuclear Regulatory Commission (NRC) staff
+conducted an inspection at the Doosan Heavy Industries & Construction (Doosan) facility in
+Changwon, South Korea. The purpose of the inspection was to assess Doosan’s compliance
+with the provisions of selected portions of Appendix B, “Quality Assurance Criteria for Nuclear
+Power Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of Federal Regulations
+(10 CFR) Part 50, “Domestic Licensing of Production and Utilization Facilities,” and 10 CFR
+Part 21, “Reporting of Defects and Noncompliance.”
+This limited-scope inspection evaluated that Doosan’s fabrication activities associated with
+reactor coolant pump casings, steam generators, reactor vessels, and reactor vessel closure
+heads for the Westinghouse Electric Company (WEC) AP1000 reactor design were effectively
+implemented and meet the applicable requirements of Appendix B, and Section III, “Rules for
+Construction of Nuclear Facility Components,” of the American Society of Mechanical Engineers
+(ASME) Boiler and Pressure Vessel (B&PV) Code.
+This inspection specifically evaluated Doosan’s implementation of fabrication activities for the
+reactor coolant pump casings for VC Summer Unit 2, the reactor pressure vessel and reactor
+pressure vessel closure head for VC Summer Unit 3 and steam generators for VC Summer Unit
+2 and Unit 3. This inspection also verified corrective actions related to the Vogtle Unit 3 reactor
+vessel nozzle to safe-end welding issues described in NRC Information Notice (IN) 2013-21,
+“Welding Problems during Fabrication of Reactor Plant Components.” The enclosed report
+presents the results of the inspection. This NRC inspection report does not constitute NRC
+endorsement of Doosan’s overall quality assurance (QA) program.
+During this inspection, the NRC inspection team reviewed documentation and controls related to
+fabrication activities associated with inspections, tests, analyses, and acceptance criteria
+(ITAAC) from Revision 19 of the WEC certified AP1000 Design Control Document (DCD),
+Tier 1. Specifically, these activities were associated with ITAAC 2.1.02.02a, 2.1.02.03a,
+2.1.03.03, and 2.1.03.04 for welding and nondestructive examination in accordance with the
+requirements of Section III of the ASME BPV code. The NRC inspection team did not identify
+any findings associated with the ITAAC contained in Section 4 of the attachment to this report.
+
+=== PAGE BREAK ===
+
+D. Lee - 2 -
+Based on the results of this inspection, the NRC inspection team concluded that Doosan met all
+program requirements, and the team did not identify any violations or nonconformances within
+the scope of the inspection.
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC’s “Rules of Practice,” the NRC will make available electronically for public inspection
+a copy of this letter, its enclosure, and your response through the NRC Public Document Room
+or from the NRC’s Agencywide Documents Access and Management System (ADAMS), which
+is accessible at http://www.nrc.gov/reading-rm/adams.html.
+Sincerely,
+Edward H. Roach, Chief /RA/
+Mechanical Vendor Inspection Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901373
+Enclosures:
+1. Inspection Report No. 99901373/2014-201
+and Attachment
+
+=== PAGE BREAK ===
+
+D. Lee - 2 -
+Based on the results of this inspection, the NRC inspection team concluded that Doosan met all
+program requirements, and the team did not identify any violations or nonconformances within
+the scope of the inspection.
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,”
+of the NRC’s “Rules of Practice,” the NRC will make available electronically for public inspection
+a copy of this letter, its enclosure, and your response through the NRC Public Document Room
+or from the NRC’s Agencywide Documents Access and Management System (ADAMS), which
+is accessible at http://www.nrc.gov/reading-rm/adams.html.
+Sincerely,
+Edward H. Roach, Chief /RA/
+Mechanical Vendor Inspection Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Docket No.: 99901373
+Enclosures:
+1. Inspection Report No. 99901373/2014-201
+and Attachment
+DISTRIBUTION:
+MMitchell
+RMusser
+ASakadales
+RRasmussen
+jeongsun.kim@doosan.com
+sewan.park@doosan.com
+sukkwan.kim@doosan.com
+ds.lee@doosan.com
+hwoangyoon.park@doosan.com
+ADAMS Accession No.: ML14260A350 NRO-002
+OFFICE NRO/DCIP/MVIB NRO/DCIP/MVIB NRO/DCIP/QVIB NRO/DE/CIB RII/DCI/CIB3
+NAME JOrtega-Luciano RMcIntyre KKavanagh JHoncharik AArtayet
+DATE 9/10/2014 9/17/2014 9/18/2014 9/18/2014 9/18/2014
+OFFICE NRO/DCIP/MVIB
+NAME ERoach
+DATE 9/18/2014
+OFFICIAL RECORD COPY
+
+=== PAGE BREAK ===
+
+U.S. NUCLEAR REGULATORY COMMISSION
+OFFICE OF NEW REACTORS
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS
+VENDOR INSPECTION REPORT
+Docket No.: 99901373
+Report No.: 99901373/2014-201
+Vendor: Doosan Heavy Industries and Construction
+555 Gwigok-Dong, Changwon
+Gyeongmnam 641-792
+Korea
+Vendor Contact: Mr. Dong Soo Lee
+General Manager, Quality Assurance Team
+ds.lee@Doosan.com
+Nuclear Industry Activity: Doosan is one of the largest manufacturers of reactor vessels,
+steam generators, reactor internals, and balance of plant
+components for the nuclear industry worldwide. Doosan provides
+components to the current US fleet of nuclear reactors as
+replacement components and has been selected as the primary
+manufacturer of large components for the AP1000 reactors to be
+built in the United States.
+Inspection Dates: July 28 – August 1, 2014
+Inspection Team: Richard P. McIntyre NRO/DCIP/MVIB, Inspection Lead
+Kerri Kavanagh NRO/DCIP/QVIB
+Jonathan Ortega NRO/DCIP/MVIB
+John Honcharik NRO/DE/MCB, Technical Specialist
+Alain Artayet R-II/DCI/CIB3
+Approved by: Edward H. Roach, Chief
+Mechanical Vendor Inspection Branch
+Division of Construction Inspection
+and Operational Programs
+Office of New Reactors
+Enclosure
+
+=== PAGE BREAK ===
+
+EXECUTIVE SUMMARY
+Doosan Heavy Industries and Construction
+99901373/2014-201
+The U.S. Nuclear Regulatory Commission (NRC) staff conducted a vendor inspection at the
+Doosan Heavy Industries & Construction (Doosan) facilities in Changwon, South Korea, to verify
+that it had implemented an adequate quality-assurance (QA) program that complies with the
+requirements of Appendix B, “Quality Assurance Criteria for Nuclear Power Plants and Fuel
+Reprocessing Plants,” to Title 10 of the Code of Federal Regulations (10 CFR) Part 50,
+“Domestic Licensing of Production and Utilization Facilities.” In addition, the NRC inspection
+team also verified that Doosan had implemented a program under 10 CFR Part 21, “Reporting
+of Defects and Noncompliance,” and Section III, “Rules for Construction of Nuclear Facility
+Components,” of the American Society of Mechanical Engineers (ASME) Boiler and Pressure
+Vessel (BPV) Code, that met the NRC’s regulatory requirements. The NRC inspection team
+conducted the inspection from July 28 through August 1, 2014.
+This was the fourth NRC inspection of Doosan’s implementation quality activities. The NRC
+performed inspections in 2008 and 2009, and participated in a joint inspection led by the Korea
+Institute of Nuclear Safety (KINS) in 2011. Previous inspections identified findings related to 10
+CFR Part 21, commercial grade dedication, qualification of suppliers, and corrective action. This
+inspection also verified Doosan took appropriate corrective actions to address a 2009 NRC
+Inspection Report Nonconformance finding.
+Three individuals from the KINS observed this inspection. These observations foster the
+sharing of international experiences with the construction of new reactors, oversight of vendors,
+and modular construction techniques consistent with the objectives of the Multinational Design
+Evaluation Program.
+This inspection specifically evaluated Doosan’s implementation of quality activities associated
+with the fabrication for reactor coolant pump casings, steam generators, reactor vessels, and
+reactor vessel closure heads for the Westinghouse Electric Company (WEC) AP1000 reactor
+design. These activities were specific to the VC Summer Units 2 and 3 and Vogtle Unit 3 plants.
+This inspection also verified corrective actions related to the Vogtle Unit 3 reactor vessel nozzle
+to safe-end weld issues described in Information Notice (IN) 2013-21.
+These regulations served as the bases for the NRC inspection:
+• Appendix B to 10 CFR Part 50
+• 10 CFR Part 21
+During the course of this inspection, the NRC inspection team implemented Inspection
+Procedure (IP) 43002, “Routine Inspections of Nuclear Vendors,” dated July 15, 2013; IP 36100,
+“Inspection of 10 CFR Part 21 and Programs for Reporting Defects and Noncompliance,” dated
+February 13, 2012; IP 65001.B, “Inspection of the ITAAC-related Welding Program,” dated
+September 25, 2013; and IP 65001.F, “Inspection of ITAAC-related Design and Fabrication
+requirements,” dated September 20, 2013.
+- 2 -
+
+=== PAGE BREAK ===
+
+Some of the specific activities observed by the NRC inspection team included the following VC
+Summer fabrication activities.
+• Welding for the Unit 2 reactor cooling pump (RCP) casings to the primary outlet nozzles
+of both steam generators;
+• Review of postweld heat treatment (PWHT) strip charts of the Unit 3 reactor vessel (RV)
+upper and lower shells;
+• Welding of the Unit 3 RV direct vessel injection (DVI) nozzle B to the safe-end;
+• Calibration of welding machines and digital thermometer with thermocouple probe;
+• Nondestructive examination (NDE) Liquid penetrant examination (NDE-PT) of the Unit 3
+steam generator 3B primary inlet nozzle safe-end; and
+• Final weld radiographic examination (NDE-RT) records and films for the Unit 3 RV DVI
+nozzle A to safe-end, and inlet nozzles B and C to safe-ends.
+In addition to observing these activities, the NRC inspection team verified that measuring and
+test equipment (M&TE) was properly identified, marked, calibrated, and used within its
+calibrated range. The inspectors also walked down Doosan’s assembly floor areas and verified
+that nonconforming components were properly identified, marked, and segregated when
+practical, to ensure that they were not reintroduced into the manufacturing processes.
+The NRC inspection team determined that, in general, the fabrication activities that Doosan
+performed in support of safety-related reactor coolant pump casings, steam generators, reactor
+vessels, and reactor vessel closure heads were performed in accordance with the
+Commission’s rules and regulations and the technical and quality requirements passed down to
+Doosan from NRC licensees or its contractors. The information below summarizes the results
+of this inspection.
+2012 Reactor Vessel Nozzle to Safe-end Weld Corrective Action
+The inspection team verified implementation of corrective actions related to previous fabrication
+issues at Doosan in 2012 associated with the Vogtle Unit 3 reactor vessel nozzle to safe-end
+welds as described in Information Notice (IN) 2013-21. The primary cause for these fabrication
+issues in 2012 was loss of weld shielding gas during welding operations due to the ventilation
+configuration in the vicinity of welding. The inspectors verified implementation of the proposed
+corrective actions that included revising procedures to better control ventilation configurations to
+ensure that the correct weld shielding gas is maintained, repairing the welds by excavating the
+defects from the inside diameter, and adding angle beam ultrasonic testing (UT) of nozzle
+buttering area.
+The inspectors reviewed the new work instruction AP-1000RV-W1009, and found that the
+corrective actions were applied properly by including information about controlling ventilation to
+ensure that the correct weld shielding gas is maintained, and revised the UT Procedure for
+examining the buttering of the dissimilar metal welds.
+- 3 -
+
+=== PAGE BREAK ===
+
+Other Inspection Areas
+The NRC inspection team determined that Doosan is implementing its programs for 10 CFR
+Part 21, control of special processes such as welding, nondestructive examination (NDE) and
+postweld heat treatment, control of measuring and testing equipment, oversight of suppliers,
+procurement document control, nonconformance control, corrective actions, and training in
+accordance with the applicable regulatory requirements of Appendix B to 10 CFR Part 50.
+Based on the limited sample of documents reviewed and activities observed, the NRC
+inspection team also determined that Doosan is implementing its policies and procedures
+associated with these programs.
+As a result of this inspection, Doosan generated three quality assurance Issue Reports (IRs) to
+address concerns of low significance identified by the NRC inspection team that did not meet
+the threshold of more than minor concerns as defined by Inspection Manual Chapter 0617,
+“Vendor and Quality Assurance Implementation Inspection Reports.”
+No findings of significance were identified.
+- 4 -
+
+=== PAGE BREAK ===
+
+REPORT DETAILS
+1. 10 CFR Part 21 Program
+a. Inspection Scope
+The NRC inspection team reviewed Doosan Heavy Industries and Construction’s
+(Doosan) policies and implementing procedures that govern its Title 10 of the
+Code of Federal Regulations (10 CFR) Part 21, “Reporting of Defects and
+Noncompliance,” program to verify that the requirements had been effectively
+implemented for evaluating deviations and failures to comply. The inspectors
+reviewed Doosan’s procedures that govern corrective actions, the control and
+correction of nonconforming items, as well as interviewed quality assurance staff
+and engineers, to verify an adequate and direct connection to the 10 CFR Part
+21 program, and compliance with regulatory requirements. Additionally, the
+inspectors reviewed and evaluated postings for compliance with 10 CFR 21.6,
+“Posting Requirements.”
+The attachment to this inspection report lists the documents reviewed by the
+NRC inspection team.
+b. Observations and Findings
+No findings of significance were identified.
+c. Conclusion
+The NRC inspection team determined that the implementation of Doosan’s
+program for 10 CFR Part 21 was consistent with the regulatory requirements of
+10 CFR Part 21. No findings of significance were identified.
+2. Control of Special Processes
+a. Inspection Scope
+The NRC inspection team reviewed Doosan policies and implementing
+procedures that govern the control of special processes to verify compliance with
+the regulatory requirements of Criterion IX, “Control of Special Processes,” of
+Appendix B to 10 CFR Part 50. Specifically, for welding and heat treatment
+activities, the NRC inspection team reviewed shop travelers, weld procedure
+specifications (WPS), supporting procedure qualification records (PQR), heat
+treatment procedures, welding operator qualifications, and the calibration
+certificates of the measuring equipment. For nondestructive examination (NDE),
+the NRC inspection team reviewed liquid penetrant testing (PT) procedures, PT
+reports, PT examiner qualifications, radiographic (RT) procedures, ultrasonic
+Testing (UT) procedures, and UT Level III inspector qualifications. The NRC
+inspection team also reviewed the calibration certificates of the measuring
+equipment related to these NDE activities.
+- 5 -
