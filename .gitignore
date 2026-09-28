@@ -7,6 +7,11 @@ data/external/TIMCAT/
 data/external/osti_2371533.pdf
 data/external/INL-RPT-24-77048-R1.xlsx
 
+# internal strategy work product & guidance library — do not publish to the public repo
+Sources/
+AP1000_Domestic_Content_Analysis.xlsx
+FEOC_Model_v2*.xlsx
+
 # local
 __pycache__/
 _tmp_check.js

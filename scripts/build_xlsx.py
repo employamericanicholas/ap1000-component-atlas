@@ -45,7 +45,8 @@ rows = [
     ("Systems", str(len(systems))),
     ("", ""),
     ("SHEETS", ""),
-    ("Components", "Master component list. One row per component/equipment item. Supplier columns S-X are researched assignments (see basis column); yellow columns Y-AA are YOURS to fill in."),
+    ("Modules", "TOP LEVEL: registry of publicly documented AP1000 construction modules (structural CA/CB/CH, mechanical Q-series, piping) with fabricator, origin, and sources. The full ~350-module list and component-to-module routing are Westinghouse-proprietary; component assignments are made only where public documents support them."),
+    ("Components", "Master component list. One row per component/equipment item. Columns G-H link each component to its module where publicly documented. Supplier columns U-Z are researched assignments (see basis column); yellow columns AA-AC are YOURS to fill in."),
     ("Suppliers", "Curated supplier list: manufacturer, plant location(s), Domestic/Foreign origin, scope, sources. Applied to Components via documented match rules."),
     ("Supplier Evidence", "Every raw sourced claim from the research (Georgia PSC Vogtle docket, NRC vendor inspection reports, press/industry) with verbatim quotes and URLs."),
     ("Systems", "One row per plant system, with component counts by class (live COUNTIFS formulas)."),
@@ -76,9 +77,34 @@ ws.cell(row=1, column=1).font = Font(name=ARIAL, size=16, bold=True, color="1F3B
 ws.cell(row=24, column=1).fill = INPUT_FILL
 set_widths(ws, [26, 120])
 
+# ---------------- Modules (top level) ----------------
+ws = wb.create_sheet("Modules")
+mh = ["Module ID", "Type", "Building", "Description", "Fabricator (Vogtle 3&4 era)",
+      "Origin", "Components mapped (see Components cols G-H)", "Sources"]
+ws.append([d.get("module_note", "")])
+ws.cell(row=1, column=1).font = Font(name=ARIAL, size=9, italic=True, color="666666")
+ws.append(mh)
+style_header(ws, len(mh), row=2)
+mrow = 3
+CN_M = len(comps) + 1
+for m in d.get("modules", []):
+    ws.append([m["id"], m["type"], m["building"], m["description"], m["fabricator"],
+               m["origin"],
+               f'=COUNTIF(Components!$G$2:$G${CN_M},"*"&A{mrow}&"*")' if not m["id"].startswith("(") else 0,
+               "; ".join(m["sources"])])
+    for cell in ws[mrow]:
+        cell.font = BASE
+        cell.border = THIN
+        cell.alignment = Alignment(vertical="top", wrap_text=True)
+    mrow += 1
+ws.freeze_panes = "A3"
+ws.auto_filter.ref = f"A2:H{mrow-1}"
+set_widths(ws, [12, 30, 18, 80, 46, 12, 14, 60])
+
 # ---------------- Components ----------------
 ws = wb.create_sheet("Components")
 headers = ["Tag", "Description", "System Code", "System Name", "Location", "Buildings",
+           "Module", "Module Relationship",
            "AP1000 Class", "Seismic Category", "Construction Code", "Comments",
            "In Table 3.2-3", "In Tier 1", "Tier 1 Table", "ASME III (T1)", "Class 1E/Harsh (T1)",
            "Remote Valve (T1)", "Active Function (T1)", "Loss-of-Power Position (T1)",
@@ -95,6 +121,7 @@ for c in comps:
     ws.append([
         c.get("tag"), c.get("description"), c.get("system_code"), c.get("system_name"),
         c.get("location"), "; ".join(c.get("buildings") or []),
+        c.get("module"), c.get("module_relationship"),
         c.get("ap1000_class"), c.get("seismic_category"), c.get("construction_code"),
         c.get("comments"),
         "Yes" if c.get("in_table_3_2_3") else "No", "Yes" if c.get("in_tier1") else "No",
@@ -111,11 +138,11 @@ for row in ws.iter_rows(min_row=2, max_row=n):
     for cell in row:
         cell.font = BASE
         cell.border = THIN
-    for j in (25, 26, 27):  # user input columns Y,Z,AA
+    for j in (27, 28, 29):  # user input columns AA,AB,AC
         row[j - 1].fill = INPUT_FILL
 ws.auto_filter.ref = f"A1:{get_column_letter(len(headers))}{n}"
 ws.freeze_panes = "C2"
-set_widths(ws, [17, 42, 9, 30, 26, 24, 9, 9, 15, 22, 8, 8, 10, 10, 12, 10, 10, 12,
+set_widths(ws, [17, 42, 9, 30, 26, 24, 12, 30, 9, 9, 15, 22, 8, 8, 10, 10, 12, 10, 10, 12,
                 26, 26, 26, 14, 40, 30, 16, 16, 24, 28, 34, 30])
 
 # ---------------- Systems ----------------
@@ -157,7 +184,7 @@ CN = len(comps) + 1
 for i, s in enumerate(sorted(systems, key=lambda x: x["code"]), start=2):
     code = s["code"]
     rng = f"Components!$C$2:$C${CN}"
-    cls = f"Components!$G$2:$G${CN}"
+    cls = f"Components!$I$2:$I${CN}"
     ws.cell(row=i, column=1, value=code)
     ws.cell(row=i, column=2, value=s["name"])
     ws.cell(row=i, column=3, value=s.get("location"))

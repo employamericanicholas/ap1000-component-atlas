@@ -341,6 +341,7 @@ function openDrawer(c){
   add("System",`${c.system_name||""} (${c.system_code||"?"})`);
   add("Location",c.location);
   add("Buildings",(c.buildings||[]).join(", "));
+  if(c.module){add("Module",c.module);add("Module relationship",c.module_relationship);}
   add("AP1000 class",c.ap1000_class||"(not in Table 3.2-3 — Tier 1 item)");
   add("Seismic category",c.seismic_category);
   add("Construction code",c.construction_code);
