@@ -1,0 +1,257 @@
+﻿tag,description,system,class,seismic,code
+CCS-PL-220,CCS Containment Isolation Relief Valve,CCS,B,I,ASME III-2
+CONTAINMENTSTANDPIPEANDSUPPRESSIONSYSTEMCOMPONENTS,Includes all FPS components Inside Rector Containment with the exception of those used for containment isolation and containment spray,FPS,F,NS,ANSI B31.1
+FHS-FS-02,Spent Fuel Storage Rack,FHS,D,I,Manufacturer Std.
+PSS-PL-V011,Liquid Sample Line Containment Isolation ORC,PSS,B,I,ASME III-2
+PXS-MY-Y03C,pH Adjustment Basket C,PXS,C,I,Manufacturer Std.
+PXS-MY-Y03D,pH Adjustment Basket D,PXS,C,I,Manufacturer Std.
+PXS-PL-V150A,IRWST Level Transmitter A Isolation,PXS,C,I,ASME III-3
+PXS-PL-V150B,IRWST Level Transmitter B Isolation,PXS,C,I,ASME III-3
+PXS-PL-V150C,IRWST Level Transmitter C Isolation,PXS,C,I,ASME III-3
+PXS-PL-V150D,IRWST Level Transmitter D Isolation,PXS,C,I,ASME III-3
+PXS-PL-V151A,IRWST Level Transmitter A Isolation,PXS,C,I,ASME III-3
+RCS-MY-Y11,SG 1 Shell,RCS,B,I,ASME III-1
+RCS-MY-Y12,SG 1 Channel Head Divider Plate,RCS,B,I,ASME III-1
+RCS-MY-Y13,SG 1 Tube Bundle Support Assembly,RCS,C,I,"ASME III, NG"
+RCS-MY-Y14,SG 1 Steam Flow Limiting Venturi,RCS,B,I,"ASME III, NG"
+RCS-MY-Y15,SG 1 Feedwater Distribution Ring Supports,RCS,B,I,"ASME III, NG"
+RCS-MY-Y21,SG 2 Shell,RCS,B,I,ASME III-1
+RCS-MY-Y22,SG 2 Channel Head Divider Plate,RCS,B,I,ASME III-1
+RCS-MY-Y23,SG 2 Tube Bundle Support Assembly,RCS,C,I,"ASME III, NG"
+RCS-MY-Y24,SG 2 Steam Flow Limiting Venturi,RCS,B,I,"ASME III, NG"
+RCS-MY-Y25,SG 2 Feedwater Distribution Ring Supports,RCS,B,I,"ASME III, NG"
+RNS-PL-V046A,RNS HX A Channel Head Drain. Isolation,RNS,C,I,ASME III-3
+RNS-PL-V046B,RNS HX B Channel Head Drain. Isolation,RNS,C,I,ASME III-3
+RRXS-MV-11N05,CRDM Latch Assembly N5,RXS,D,NS,Manufacturer Std.
+RXS-FR-N5,Control Rod Cluster N5,RXS,B,I,Manufacturer Std.
+RXS-FR-N7,Control Rod Cluster N7,RXS,B,I,Manufacturer Std.
+RXS-FR-N9,Control Rod Cluster N9,RXS,B,I,Manufacturer Std.
+RXS-FR-P6,Control Rod Cluster P6,RXS,B,I,Manufacturer Std.
+RXS-MV-11B06,CRDM Latch Assembly B6,RXS,D,NS,Manufacturer Std.
+RXS-MV-11B06L,CRDM Latch Housing B6,RXS,A,I,ASME III-1
+RXS-MV-11B06R,CRDM Rod Travel Housing B6,RXS,A,I,ASME III-1
+RXS-MV-11B08,CRDM Latch Assembly B8,RXS,D,NS,Manufacturer Std.
+RXS-MV-11B08L,CRDM Latch Housing B8,RXS,A,I,ASME III-1
+RXS-MV-11B08R,CRDM Rod Travel Housing B8,RXS,A,I,ASME III-1
+RXS-MV-11B10,CRDM Latch Assembly B10,RXS,D,NS,Manufacturer Std.
+RXS-MV-11B10L,CRDM Latch Housing B10,RXS,A,I,ASME III-1
+RXS-MV-11B10R,CRDM Rod Travel Housing B10,RXS,A,I,ASME III-1
+RXS-MV-11C05,CRDM Latch Assembly C5,RXS,D,NS,Manufacturer Std.
+RXS-MV-11C05L,CRDM Latch Housing C5,RXS,A,I,ASME III-1
+RXS-MV-11C05R,CRDM Rod Travel Housing C5,RXS,A,I,ASME III-1
+RXS-MV-11C07,CRDM Latch Assembly C7,RXS,D,NS,Manufacturer Std.
+RXS-MV-11C07L,CRDM Latch Housing C7,RXS,A,I,ASME III-1
+RXS-MV-11C07R,CRDM Rod Travel Housing C7,RXS,A,I,ASME III-1
+RXS-MV-11C09,CRDM Latch Assembly C9,RXS,D,NS,Manufacturer Std.
+RXS-MV-11C09L,CRDM Latch Housing C9,RXS,A,I,ASME III-1
+RXS-MV-11C09R,CRDM Rod Travel Housing C9,RXS,A,I,ASME III-1
+RXS-MV-11C11,CRDM Latch Assembly C11,RXS,D,NS,Manufacturer Std.
+RXS-MV-11C11L,CRDM Latch Housing C11,RXS,A,I,ASME III-1
+RXS-MV-11C11R,CRDM Rod Travel Housing C11,RXS,A,I,ASME III-1
+RXS-MV-11D04,CRDM Latch Assembly D4,RXS,D,NS,Manufacturer Std.
+RXS-MV-11D04L,CRDM Latch Housing D4,RXS,A,I,ASME III-1
+RXS-MV-11D04R,CRDM Rod Travel Housing D4,RXS,A,I,ASME III-1
+RXS-MV-11D06,CRDM Latch Assembly D6,RXS,D,NS,Manufacturer Std.
+RXS-MV-11D06L,CRDM Latch Housing D6,RXS,A,I,ASME III-1
+RXS-MV-11D06R,CRDM Rod Travel Housing D6,RXS,A,I,ASME III-1
+RXS-MV-11D08,CRDM Latch Assembly D8,RXS,D,NS,Manufacturer Std.
+RXS-MV-11D08L,CRDM Latch Housing D8,RXS,A,I,ASME III-1
+RXS-MV-11D08R,CRDM Rod Travel Housing D8,RXS,A,I,ASME III-1
+RXS-MV-11D10,CRDM Latch Assembly D10,RXS,D,NS,Manufacturer Std.
+RXS-MV-11D10L,CRDM Latch Housing D10,RXS,A,I,ASME III-1
+RXS-MV-11D10R,CRDM Rod Travel Housing D10,RXS,A,I,ASME III-1
+RXS-MV-11D12,CRDM Latch Assembly D12,RXS,D,NS,Manufacturer Std.
+RXS-MV-11D12L,CRDM Latch Housing D12,RXS,A,I,ASME III-1
+RXS-MV-11D12R,CRDM Rod Travel Housing D12,RXS,A,I,ASME III-1
+RXS-MV-11E03,CRDM Latch Assembly E3,RXS,D,NS,Manufacturer Std.
+RXS-MV-11E03L,CRDM Latch Housing E3,RXS,A,I,ASME III-1
+RXS-MV-11E03R,CRDM Rod Travel Housing E3,RXS,A,I,ASME III-1
+RXS-MV-11E05,CRDM Latch Assembly E5,RXS,D,NS,Manufacturer Std.
+RXS-MV-11E05L,CRDM Latch Housing E5,RXS,A,I,ASME III-1
+RXS-MV-11E05R,CRDM Rod Travel Housing E5,RXS,A,I,ASME III-1
+RXS-MV-11E07,CRDM Latch Assembly E7,RXS,D,NS,Manufacturer Std.
+RXS-MV-11E07L,CRDM Latch Housing E7,RXS,A,I,ASME III-1
+RXS-MV-11E07R,CRDM Rod Travel Housing E7,RXS,A,I,ASME III-1
+RXS-MV-11E09,CRDM Latch Assembly E9,RXS,D,NS,Manufacturer Std.
+RXS-MV-11E09L,CRDM Latch Housing E9,RXS,A,I,ASME III-1
+RXS-MV-11E09R,CRDM Rod Travel Housing E9,RXS,A,I,ASME III-1
+RXS-MV-11E11,CRDM Latch Assembly E11,RXS,D,NS,Manufacturer Std.
+RXS-MV-11E11L,CRDM Latch Housing E11,RXS,A,I,ASME III-1
+RXS-MV-11E11R,CRDM Rod Travel Housing E11,RXS,A,I,ASME III-1
+RXS-MV-11E13,CRDM Latch Assembly E13,RXS,D,NS,Manufacturer Std.
+RXS-MV-11E13L,CRDM Latch Housing E13,RXS,A,I,ASME III-1
+RXS-MV-11F02,CRDM Latch Assembly F2,RXS,D,NS,Manufacturer Std.
+RXS-MV-11F02L,CRDM Latch Housing F2,RXS,A,I,ASME III-1
+RXS-MV-11F02R,CRDM Rod Travel Housing F2,RXS,A,I,ASME III-1
+RXS-MV-11F04,CRDM Latch Assembly F4,RXS,D,NS,Manufacturer Std.
+RXS-MV-11F04L,CRDM Latch Housing F4,RXS,A,I,ASME III-1
+RXS-MV-11F04R,CRDM Rod Travel Housing F4,RXS,A,I,ASME III-1
+RXS-MV-11F06,CRDM Latch Assembly F6,RXS,D,NS,Manufacturer Std.
+RXS-MV-11F06L,CRDM Latch Housing F6,RXS,A,I,ASME III-1
+RXS-MV-11F06R,CRDM Rod Travel Housing F6,RXS,A,I,ASME III-1
+RXS-MV-11F08,CRDM Latch Assembly F8,RXS,D,NS,Manufacturer Std.
+RXS-MV-11F08L,CRDM Latch Housing F8,RXS,A,I,ASME III-1
+RXS-MV-11F08R,CRDM Rod Travel Housing F8,RXS,A,I,ASME III-1
+RXS-MV-11F10,CRDM Latch Assembly F10,RXS,D,NS,Manufacturer Std.
+RXS-MV-11F10L,CRDM Latch Housing F10,RXS,A,I,ASME III-1
+RXS-MV-11F10R,CRDM Rod Travel Housing F10,RXS,A,I,ASME III-1
+RXS-MV-11F12,CRDM Latch Assembly F12,RXS,D,NS,Manufacturer Std.
+RXS-MV-11F12L,CRDM Latch Housing F12,RXS,A,I,ASME III-1
+RXS-MV-11F12R,CRDM Rod Travel Housing F12,RXS,A,I,ASME III-1
+RXS-MV-11F14,CRDM Latch Assembly F14,RXS,D,NS,Manufacturer Std.
+RXS-MV-11F14L,CRDM Latch Housing F14,RXS,A,I,ASME III-1
+RXS-MV-11F14R,CRDM Rod Travel Housing F14,RXS,A,I,ASME III-1
+RXS-MV-11G03,CRDM Latch Assembly G3,RXS,D,NS,Manufacturer Std.
+RXS-MV-11G03L,CRDM Latch Housing G3,RXS,A,I,ASME III-1
+RXS-MV-11G03R,CRDM Rod Travel Housing G3,RXS,A,I,ASME III-1
+RXS-MV-11G05,CRDM Latch Assembly G5,RXS,D,NS,Manufacturer Std.
+RXS-MV-11G05L,CRDM Latch Housing G5,RXS,A,I,ASME III-1
+RXS-MV-11G05R,CRDM Rod Travel Housing G5,RXS,A,I,ASME III-1
+RXS-MV-11G07,CRDM Latch Assembly G7,RXS,D,NS,Manufacturer Std.
+RXS-MV-11G07L,CRDM Latch Housing G7,RXS,A,I,ASME III-1
+RXS-MV-11G07R,CRDM Rod Travel Housing G7,RXS,A,I,ASME III-1
+RXS-MV-11G09,CRDM Latch Assembly G9,RXS,D,NS,Manufacturer Std.
+RXS-MV-11G09L,CRDM Latch Housing G9,RXS,A,I,ASME III-1
+RXS-MV-11G09R,CRDM Rod Travel Housing G9,RXS,A,I,ASME III-1
+RXS-MV-11G11,CRDM Latch Assembly G11,RXS,D,NS,Manufacturer Std.
+RXS-MV-11G11L,CRDM Latch Housing G11,RXS,A,I,ASME III-1
+RXS-MV-11G11R,CRDM Rod Travel Housing G11,RXS,A,I,ASME III-1
+RXS-MV-11G13,CRDM Latch Assembly G13,RXS,D,NS,Manufacturer Std.
+RXS-MV-11G13L,CRDM Latch Housing G13,RXS,A,I,ASME III-1
+RXS-MV-11G13R,CRDM Rod Travel Housing G13,RXS,A,I,ASME III-1
+RXS-MV-11H02,CRDM Latch Assembly H2,RXS,D,NS,Manufacturer Std.
+RXS-MV-11H02L,CRDM Latch Housing H2,RXS,A,I,ASME III-1
+RXS-MV-11H02R,CRDM Rod Travel Housing H2,RXS,A,I,ASME III-1
+RXS-MV-11H04,CRDM Latch Assembly H4,RXS,D,NS,Manufacturer Std.
+RXS-MV-11H04L,CRDM Latch Housing H4,RXS,A,I,ASME III-1
+RXS-MV-11H04R,CRDM Rod Travel Housing H4,RXS,A,I,ASME III-1
+RXS-MV-11H06,CRDM Latch Assembly H6,RXS,D,NS,Manufacturer Std.
+RXS-MV-11H06L,CRDM Latch Housing H6,RXS,A,I,ASME III-1
+RXS-MV-11H06R,CRDM Rod Travel Housing H6,RXS,A,I,ASME III-1
+RXS-MV-11H08,CRDM Latch Assembly H8,RXS,D,NS,Manufacturer Std.
+RXS-MV-11H08L,CRDM Latch Housing H8,RXS,A,I,ASME III-1
+RXS-MV-11H08R,CRDM Rod Travel Housing H8,RXS,A,I,ASME III-1
+RXS-MV-11H10,CRDM Latch Assembly H10,RXS,D,NS,Manufacturer Std.
+RXS-MV-11H10L,CRDM Latch Housing H10,RXS,A,I,ASME III-1
+RXS-MV-11H10R,CRDM Rod Travel Housing H10,RXS,A,I,ASME III-1
+RXS-MV-11H12,CRDM Latch Assembly H12,RXS,D,NS,Manufacturer Std.
+RXS-MV-11H12L,CRDM Latch Housing H12,RXS,A,I,ASME III-1
+RXS-MV-11H12R,CRDM Rod Travel Housing H12,RXS,A,I,ASME III-1
+RXS-MV-11H14,CRDM Latch Assembly H14,RXS,D,NS,Manufacturer Std.
+RXS-MV-11H14L,CRDM Latch Housing H14,RXS,A,I,ASME III-1
+RXS-MV-11H14R,CRDM Rod Travel Housing H14,RXS,A,I,ASME III-1
+RXS-MV-11J03,CRDM Latch Assembly J3,RXS,D,NS,Manufacturer Std.
+RXS-MV-11J03L,CRDM Latch Housing J3,RXS,A,I,ASME III-1
+RXS-MV-11J03R,CRDM Rod Travel Housing J3,RXS,A,I,ASME III-1
+RXS-MV-11J05,CRDM Latch Assembly J5,RXS,D,NS,Manufacturer Std.
+RXS-MV-11J05L,CRDM Latch Housing J5,RXS,A,I,ASME III-1
+RXS-MV-11J05R,CRDM Rod Travel Housing J5,RXS,A,I,ASME III-1
+RXS-MV-11J07,CRDM Latch Assembly J7,RXS,D,NS,Manufacturer Std.
+RXS-MV-11J07L,CRDM Latch Housing J7,RXS,A,I,ASME III-1
+RXS-MV-11J07R,CRDM Rod Travel Housing J7,RXS,A,I,ASME III-1
+RXS-MV-11J09,CRDM Latch Assembly J9,RXS,D,NS,Manufacturer Std.
+RXS-MV-11J09L,CRDM Latch Housing J9,RXS,A,I,ASME III-1
+RXS-MV-11J09R,CRDM Rod Travel Housing J9,RXS,A,I,ASME III-1
+RXS-MV-11J11,CRDM Latch Assembly J11,RXS,D,NS,Manufacturer Std.
+RXS-MV-11J11L,CRDM Latch Housing J11,RXS,A,I,ASME III-1
+RXS-MV-11J11R,CRDM Rod Travel Housing J11,RXS,A,I,ASME III-1
+RXS-MV-11J13,CRDM Latch Assembly J13,RXS,D,NS,Manufacturer Std.
+RXS-MV-11J13L,CRDM Latch Housing J13,RXS,A,I,ASME III-1
+RXS-MV-11J13R,CRDM Rod Travel Housing J13,RXS,A,I,ASME III-1
+RXS-MV-11K02,CRDM Latch Assembly K2,RXS,D,NS,Manufacturer Std.
+RXS-MV-11K02L,CRDM Latch Housing K2,RXS,A,I,ASME III-1
+RXS-MV-11K02R,CRDM Rod Travel Housing K2,RXS,A,I,ASME III-1
+RXS-MV-11K04,CRDM Latch Assembly K4,RXS,D,NS,Manufacturer Std.
+RXS-MV-11K04L,CRDM Latch Housing K4,RXS,A,I,ASME III-1
+RXS-MV-11K04R,CRDM Rod Travel Housing K4,RXS,A,I,ASME III-1
+RXS-MV-11K06,CRDM Latch Assembly K6,RXS,D,NS,Manufacturer Std.
+RXS-MV-11K06L,CRDM Latch Housing K6,RXS,A,I,ASME III-1
+RXS-MV-11K06R,CRDM Rod Travel Housing K6,RXS,A,I,ASME III-1
+RXS-MV-11K08,CRDM Latch Assembly K8,RXS,D,NS,Manufacturer Std.
+RXS-MV-11K08L,CRDM Latch Housing K8,RXS,A,I,ASME III-1
+RXS-MV-11K08R,CRDM Rod Travel Housing K8,RXS,A,I,ASME III-1
+RXS-MV-11K10,CRDM Latch Assembly K10,RXS,D,NS,Manufacturer Std.
+RXS-MV-11K10L,CRDM Latch Housing K10,RXS,A,I,ASME III-1
+RXS-MV-11K10R,CRDM Rod Travel Housing K10,RXS,A,I,ASME III-1
+RXS-MV-11K12,CRDM Latch Assembly K12,RXS,D,NS,Manufacturer Std.
+RXS-MV-11K12L,CRDM Latch Housing K12,RXS,A,I,ASME III-1
+RXS-MV-11K12R,CRDM Rod Travel Housing K12,RXS,A,I,ASME III-1
+RXS-MV-11K14,CRDM Latch Assembly K14,RXS,D,NS,Manufacturer Std.
+RXS-MV-11K14L,CRDM Latch Housing K14,RXS,A,I,ASME III-1
+RXS-MV-11K14R,CRDM Rod Travel Housing K14,RXS,A,I,ASME III-1
+RXS-MV-11L03,CRDM Latch Assembly L3,RXS,D,NS,Manufacturer Std.
+RXS-MV-11L03L,CRDM Latch Housing L3,RXS,A,I,ASME III-1
+RXS-MV-11L03R,CRDM Rod Travel Housing L3,RXS,A,I,ASME III-1
+RXS-MV-11L05,CRDM Latch Assembly L5,RXS,D,NS,Manufacturer Std.
+RXS-MV-11L05L,CRDM Latch Housing L5,RXS,A,I,ASME III-1
+RXS-MV-11L05R,CRDM Rod Travel Housing L5,RXS,A,I,ASME III-1
+RXS-MV-11L07,CRDM Latch Assembly L7,RXS,D,NS,Manufacturer Std.
+RXS-MV-11L07L,CRDM Latch Housing L7,RXS,A,I,ASME III-1
+RXS-MV-11L07R,CRDM Rod Travel Housing L7,RXS,A,I,ASME III-1
+RXS-MV-11L09,CRDM Latch Assembly L9,RXS,D,NS,Manufacturer Std.
+RXS-MV-11L09L,CRDM Latch Housing L9,RXS,A,I,ASME III-1
+RXS-MV-11L09R,CRDM Rod Travel Housing L9,RXS,A,I,ASME III-1
+RXS-MV-11L11,CRDM Latch Assembly L11,RXS,D,NS,Manufacturer Std.
+RXS-MV-11L11L,CRDM Latch Housing L11,RXS,A,I,ASME III-1
+RXS-MV-11L11R,CRDM Rod Travel Housing L11,RXS,A,I,ASME III-1
+RXS-MV-11L13,CRDM Latch Assembly L13,RXS,D,NS,Manufacturer Std.
+RXS-MV-11L13L,CRDM Latch Housing L13,RXS,A,I,ASME III-1
+RXS-MV-11L13R,CRDM Rod Travel Housing L13,RXS,A,I,ASME III-1
+RXS-MV-11M04,CRDM Latch Assembly M4,RXS,D,NS,Manufacturer Std.
+RXS-MV-11M04L,CRDM Latch Housing M4,RXS,A,I,ASME III-1
+RXS-MV-11M04R,CRDM Rod Travel Housing M4,RXS,A,I,ASME III-1
+RXS-MV-11M06,CRDM Latch Assembly M6,RXS,D,NS,Manufacturer Std.
+RXS-MV-11M06L,CRDM Latch Housing M6,RXS,A,I,ASME III-1
+RXS-MV-11M06R,CRDM Rod Travel Housing M6,RXS,A,I,ASME III-1
+RXS-MV-11M08,CRDM Latch Assembly M8,RXS,D,NS,Manufacturer Std.
+RXS-MV-11M08L,CRDM Latch Housing M8,RXS,A,I,ASME III-1
+RXS-MV-11M08R,CRDM Rod Travel Housing M8,RXS,A,I,ASME III-1
+RXS-MV-11M10,CRDM Latch Assembly M10,RXS,D,NS,Manufacturer Std.
+RXS-MV-11M10L,CRDM Latch Housing M10,RXS,A,I,ASME III-1
+RXS-MV-11M10R,CRDM Rod Travel Housing M10,RXS,A,I,ASME III-1
+RXS-MV-11M12,CRDM Latch Assembly M12,RXS,D,NS,Manufacturer Std.
+RXS-MV-11M12L,CRDM Latch Housing M12,RXS,A,I,ASME III-1
+RXS-MV-11M12R,CRDM Rod Travel Housing M12,RXS,A,I,ASME III-1
+RXS-MV-11N05,CRDM Drive Rod Assembly N5,RXS,D,NS,Manufacturer Std.
+RXS-MV-11N05L,CRDM Latch Housing N5,RXS,A,I,ASME III-1
+RXS-MV-11N05R,CRDM Rod Travel Housing N5,RXS,A,I,ASME III-1
+RXS-MV-11N07,CRDM Latch Assembly N7,RXS,D,NS,Manufacturer Std.
+RXS-MV-11N07L,CRDM Latch Housing N7,RXS,A,I,ASME III-1
+RXS-MV-11N07R,CRDM Rod Travel Housing N7,RXS,A,I,ASME III-1
+RXS-MV-11N09,CRDM Latch Assembly N9,RXS,D,NS,Manufacturer Std.
+RXS-MV-11N09L,CRDM Latch Housing N9,RXS,A,I,ASME III-1
+RXS-MV-11N09R,CRDM Rod Travel Housing N9,RXS,A,I,ASME III-1
+RXS-MV-11N11,CRDM Latch Assembly N11,RXS,D,NS,Manufacturer Std.
+RXS-MV-11N11L,CRDM Latch Housing N11,RXS,A,I,ASME III-1
+RXS-MV-11N11R,CRDM Rod Travel Housing N11,RXS,A,I,ASME III-1
+RXS-MV-11P06,CRDM Latch Assembly P6,RXS,D,NS,Manufacturer Std.
+RXS-MV-11P06L,CRDM Latch Housing P6,RXS,A,I,ASME III-1
+RXS-MV-11P06R,CRDM Rod Travel Housing P6,RXS,A,I,ASME III-1
+RXS-MV-11P08,CRDM Latch Assembly P8,RXS,D,NS,Manufacturer Std.
+RXS-MV-11P08L,CRDM Latch Housing P8,RXS,A,I,ASME III-1
+RXS-MV-11P08R,CRDM Rod Travel Housing P8,RXS,A,I,ASME III-1
+RXS-MV-11P10,CRDM Latch Assembly P10,RXS,D,NS,Manufacturer Std.
+RXS-MV-11P10L,CRDM Latch Housing P10,RXS,A,I,ASME III-1
+RXS-MV-11P10R,CRDM Rod Travel Housing P10,RXS,A,I,ASME III-1
+RXSMV-11E13R,CRDM Rod Travel Housing E13,RXS,A,I,ASME III-1
+VUS-PL-V101,Electrical Penetration Test Isolation Valve,VUS,B,I,ASME III-2
+VUS-PL-V102,Electrical Penetration Test Isolation Valve,VUS,B,I,ASME III-2
+VUS-PL-V103,Electrical Penetration Test Isolation Valve,VUS,B,I,ASME III-2
+VUS-PL-V104,Electrical Penetration Test Isolation Valve,VUS,B,I,ASME III-2
+VUS-PL-V109,Electrical Penetration Test Isolation Valve,VUS,B,I,ASME III-2
+VUS-PL-V110,Electrical Penetration Test Isolation Valve,VUS,B,I,ASME III-2
+VUS-PL-V111,Electrical Penetration Test Isolation Valve,VUS,B,I,ASME III-2
+VUS-PL-V112,Electrical Penetration Test Isolation Valve,VUS,B,I,ASME III-2
+VUS-PL-V113,Electrical Penetration Test Isolation Valve,VUS,B,I,ASME III-2
+VUS-PL-V114,Electrical Penetration Test Isolation Valve,VUS,B,I,ASME III-2
+VUS-PL-V115,Electrical Penetration Test Isolation Valve,VUS,B,I,ASME III-2
+VUS-PL-V116,Electrical Penetration Test Isolation Valve,VUS,B,I,ASME III-2
+VUS-PL-V117,Electrical Penetration Test Isolation Valve,VUS,B,I,ASME III-2
+VUS-PL-V118,Electrical Penetration Test Isolation Valve,VUS,B,I,ASME III-2
+VUS-PL-V119,Electrical Penetration Test Isolation Valve,VUS,B,I,ASME III-2
+VUS-PL-V120,Electrical Penetration Test Isolation Valve,VUS,B,I,ASME III-2
+VUS-PL-V121,Electrical Penetration Test Isolation Valve,VUS,B,I,ASME III-2
+VUS-PL-V122,Electrical Penetration Test Isolation Valve,VUS,B,I,ASME III-2
+VUS-PL-V123,Electrical Penetration Test Isolation Valve,VUS,B,I,ASME III-2
+VUS-PL-V124,Electrical Penetration Test Isolation Valve,VUS,B,I,ASME III-2
+VUS-PL-V125,Electrical Penetration Test Isolation Valve,VUS,B,I,ASME III-2

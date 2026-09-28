@@ -1,0 +1,113 @@
+﻿tag,description,field,rev19,rev20
+CAS-PY-C02,Containment Instrument Air Inlet Penetra,construction_code,"ASME III, 2","ASME III, MC"
+CAS-PY-C03,Containment Service Air Inlet Penetratio,construction_code,"ASME III, 2","ASME III, MC"
+CCS-PY-C01,Containment Supply Header Penetration,construction_code,"ASME III, 2","ASME III, MC"
+CCS-PY-C02,Containment Return Header Penetration,construction_code,"ASME III, 2","ASME III, MC"
+CVS-PY-C02,Letdown Line Containment Penetration,construction_code,"ASME III, 2","ASME III, MC"
+CVS-PY-C04,Hydrogen Add Line Containment Penetratio,construction_code,"ASME III, 2","ASME III, MC"
+DWS-PY-C01,Containment Demineralized Water Supply P,construction_code,"ASME III, 2","ASME III, MC"
+FHS-MY-Y01,Spent Fuel Transfer Gate,construction_code,Manufacturer Std.,ANSI/AISC N690 for structural steel
+FHS-MY-Y02,Spent Fuel Cask Loading Pit Gate,construction_code,Manufacturer Std.,ANSI/AISC N690 for structural steel
+FPS-PL-V441,Auxiliary Connection to CCS Isolation,construction_code,ANSI B31.1,ASME B31.1
+FPS-PY-C01,Fire Protection Containment Penetration,construction_code,"ASME III, 2","ASME III, MC"
+MHS-MH-01,Containment Polar Crane,ap1000_class,C,D
+MHS-MH-02,Cask Handling Crane,ap1000_class,C,D
+PCS-PL-V015,Water Bucket Makeup Line Drain Valve,construction_code,ASME III,ASME III-3
+PCS-PL-V017,Chemical Addition Tank Vent Isolation Va,construction_code,ANSI 16.34,ANSI B16.34
+PCS-PL-V018,Recirculation Pump Throttle Valve,construction_code,ANSI 16.34,ANSI B16.34
+PCS-PL-V019,Chemical Addition Tank Fill Isolation Va,construction_code,ANSI 16.34,ANSI B16.34
+PCS-PL-V021,PCCWST TO Recirculation Pump Suction Iso,construction_code,ANSI 16.34,ANSI B16.34
+PCS-PL-V022,Chemical Addition Tank Drain Isolation V,construction_code,ANSI 16.34,ANSI B16.34
+PCS-PL-V025,Pressure Transmitter PT 031 Root Isolati,construction_code,ANSI 16.34,ANSI B16.34
+PCS-PL-V035A,Recirculation Pump Suction Isolation Val,construction_code,ANSI 16.34,ANSI B16.34
+PCS-PL-V035B,Recirculation Pump Suction Isolation Val,construction_code,ANSI 16.34,ANSI B16.34
+PCS-PL-V036A/B,Recirculation Pump Discharge Check Valve,construction_code,ANSI 16.34,ANSI B16.34
+PCS-PL-V037,PCCAWST Discharge Isolation Valve,construction_code,ANSI 16.34,ANSI B16.34
+PCS-PL-V038,PCCAWST Drain Isolation Valve,construction_code,ANSI 16.34,ANSI B16.34
+PCS-PL-V040,Recirculation Pump Suction from PCCAWST ,construction_code,ANSI 16.34,ANSI B16.34
+PCS-PL-V041,PCCAWST Recirculation Return Line Isolat,construction_code,ANSI 16.34,ANSI B16.34
+PCS-PL-V043,PCCAWST Recirculation Return Line Drain ,construction_code,ANSI 16.34,ANSI B16.34
+PCS-PL-V048,Recirculation Pump Fire Suction Isolatio,construction_code,ANSI 16.34,ANSI B16.34
+PCS-PL-V100,Temporary Containment Washdown Isolation,construction_code,ANSI 16.34,ANSI B16.34
+PSS-PY-C03,Containment Atmosphere Sample Line Penet,construction_code,"ASME III, 2","ASME III, MC"
+PXS-MT-03,In-Containment Refueling Water Storage T,construction_code,ACI 349/AISC N690,ACI 349/ANSI/AISC N690
+PXS-PL-V082A,CMT A Upper Level A Isolation 1,ap1000_class,B,A
+PXS-PL-V082A,CMT A Upper Level A Isolation 1,construction_code,ASME III-2,ASME III-1
+PXS-PL-V082B,CMT B Upper Level A Isolation 1,ap1000_class,B,A
+PXS-PL-V082B,CMT B Upper Level A Isolation 1,construction_code,ASME III-2,ASME III-1
+PXS-PL-V083A,CMT A Upper Level A Isolation 2,ap1000_class,B,A
+PXS-PL-V083A,CMT A Upper Level A Isolation 2,construction_code,ASME III-2,ASME III-1
+PXS-PL-V083B,CMT B Upper Level A Isolation 2,ap1000_class,B,A
+PXS-PL-V083B,CMT B Upper Level A Isolation 2,construction_code,ASME III-2,ASME III-1
+PXS-PL-V086A,CMT A Upper Level B Isolation 1,ap1000_class,B,A
+PXS-PL-V086A,CMT A Upper Level B Isolation 1,construction_code,ASME III-2,ASME III-1
+PXS-PL-V086B,CMT B Upper Level B Isolation 1,ap1000_class,B,A
+PXS-PL-V086B,CMT B Upper Level B Isolation 1,construction_code,ASME III-2,ASME III-1
+PXS-PL-V087A,CMT A Upper Level B Isolation 2,ap1000_class,B,A
+PXS-PL-V087A,CMT A Upper Level B Isolation 2,construction_code,ASME III-2,ASME III-1
+PXS-PL-V087B,CMT B Upper Level B Isolation 2,ap1000_class,B,A
+PXS-PL-V087B,CMT B Upper Level B Isolation 2,construction_code,ASME III-2,ASME III-1
+PXS-PL-V092A,CMT A Lower Level A Isolation 1,ap1000_class,B,A
+PXS-PL-V092A,CMT A Lower Level A Isolation 1,construction_code,ASME III-2,ASME III-1
+PXS-PL-V092B,CMT B Lower Level A Isolation 1,ap1000_class,B,A
+PXS-PL-V092B,CMT B Lower Level A Isolation 1,construction_code,ASME III-2,ASME III-1
+PXS-PL-V093A,CMT A Lower Level A Isolation 2,ap1000_class,B,A
+PXS-PL-V093A,CMT A Lower Level A Isolation 2,construction_code,ASME III-2,ASME III-1
+PXS-PL-V093B,CMT B Lower Level A Isolation 2,ap1000_class,B,A
+PXS-PL-V093B,CMT B Lower Level A Isolation 2,construction_code,ASME III-2,ASME III-1
+PXS-PL-V096A,CMT A Lower Level B Isolation 1,ap1000_class,B,A
+PXS-PL-V096A,CMT A Lower Level B Isolation 1,construction_code,ASME III-2,ASME III-1
+PXS-PL-V096B,CMT B Lower Level B Isolation 1,ap1000_class,B,A
+PXS-PL-V096B,CMT B Lower Level B Isolation 1,construction_code,ASME III-2,ASME III-1
+PXS-PL-V097A,CMT A Lower Level B Isolation 2,ap1000_class,B,A
+PXS-PL-V097A,CMT A Lower Level B Isolation 2,construction_code,ASME III-2,ASME III-1
+PXS-PL-V097B,CMT B Lower Level B Isolation 2,ap1000_class,B,A
+PXS-PL-V097B,CMT B Lower Level B Isolation 2,construction_code,ASME III-2,ASME III-1
+PXS-PL-V217,PXS Leak Test Line Isolation,construction_code,ANSI B31.1,ASME B31.1
+PXS-PL-V221,Test Header to IRWST,construction_code,ANSI B31.1,ASME B31.1
+PXS-PY-C01,Nitrogen Makeup Containment Penetration,construction_code,"ASME III, 2","ASME III, MC"
+RCS-PL-V120,Reactor Vessel Flange Leakoff,construction_code,ANSI B31.1,ASME B31.1
+RCS-PL-V121,Reactor Vessel Flange Leakoff,construction_code,ANSI B31.1,ASME B31.1
+RCS-PL-V122A,Reactor Vessel Flange Leakoff,construction_code,ANSI B31.1,ASME B31.1
+RCS-PL-V122B,Reactor Vessel Flange Leakoff,construction_code,ANSI B31.1,ASME B31.1
+RCS-PL-V242,ADS Valve Discharge Header Drain Check,construction_code,ANSI 16.34,ANSI B16.34
+RNS-PL-V030A,RNS HX A Shell Drain,construction_code,ANSI B31.1,ASME B31.1
+RNS-PL-V030B,RNS HX B Shell Drain,construction_code,ANSI B31.1,ASME B31.1
+RNS-PL-V035A,RNS HX A Shell Vent,construction_code,ANSI 16.34,ANSI B16.34
+RNS-PL-V035B,RNS HX B Shell Vent,construction_code,ANSI 16.34,ANSI B16.34
+RXS-MI-10,Non-Threaded Fasteners,seismic_category,NS,II
+RXS-MI-10,Non-Threaded Fasteners,construction_code,"ASME III, CS",Manufacturer Std.
+RXS-MI-22,Vortex Suppression Plate,construction_code,"ASME III, CS",Manufacturer Std.
+RXS-MI-23,Core Shroud Assembly,ap1000_class,C,D
+RXS-MI-23,Core Shroud Assembly,construction_code,"ASME III, CS",Manufacturer Std.
+RXS-MI-26,Core Barrel Nozzle,construction_code,"ASME III, CS",Manufacturer Std.
+RXS-MI-27,Head and Vessel Pins,construction_code,"ASME III, CS",Manufacturer Std.
+RXS-MI-29,Core Barrel Hold Down Spring,construction_code,"ASME III, CS",Manufacturer Std.
+RXS-MI-53,Guide Tube Assemblies [69],construction_code,"ASME III, CS",Manufacturer Std.
+RXS-MI-56,Safety Injection Deflector,construction_code,ANSI B31.1,Manufacturer Std.
+RXS-MI-57,Irradiation Specimen Guide Tubes,construction_code,ANSI B31.1,Manufacturer Std.
+RXS-MI-58,Head Cooling Nozzles,construction_code,ANSI B31.1,Manufacturer Std.
+RXS-MV-10,Reactor Integrated Head Package,construction_code,AISC-690,ANSI/AISC N690
+RXS-MY-Y01,Irradiation Tube Plug Seat Jack,ap1000_class,D,C
+RXS-MY-Y01,Irradiation Tube Plug Seat Jack,seismic_category,NS,I
+RXS-MY-Y01,Irradiation Tube Plug Seat Jack,construction_code,Manufacturer Std.,ASME-NF
+SFS-PL-V047,SFS Demineralized Water Makeup to SFP Re,construction_code,ASME III-3,ANSI B16.34
+SGS-PL-V014A,PORV Discharge Condensate Drain Isolatio,construction_code,ANSI B31.1,ASME B31.1
+SGS-PL-V014B,PORV Discharge Condensate Drain Isolatio,construction_code,ANSI B31.1,ASME B31.1
+VARIOUS,Auxiliary Building Standpipe and Non-1E ,construction_code,ANSI B31.1,ASME B31.1
+VBS-MA-10A,Ancillary Fan,seismic_category,NS,II
+VBS-MA-10A,Ancillary Fan,construction_code,"ANSI/AMCA 210, 211, 300","ANSI/AMCA 210, 300"
+VBS-MA-10B,Ancillary Fan,seismic_category,NS,II
+VBS-MA-10B,Ancillary Fan,construction_code,"ANSI/AMCA 210, 211, 300","ANSI/AMCA 210, 300"
+VBS-MA-11,Ancillary Fan,seismic_category,NS,II
+VBS-MA-11,Ancillary Fan,construction_code,"ANSI/AMCA 210, 211, 300","ANSI/AMCA 210, 300"
+VBS-MA-12,Ancillary Fan,seismic_category,NS,II
+VBS-MA-12,Ancillary Fan,construction_code,"ANSI/AMCA 210, 211, 300","ANSI/AMCA 210, 300"
+VES-MD-D001A,Relief Damper,construction_code,ASME 509/510,ASME N509/N510
+VES-MD-D001B,Relief Damper,construction_code,ASME 509/510,ASME N509/N510
+VFS-PY-C01,Containment Supply Duct Penetration,construction_code,"ASME III, 2","ASME III, MC"
+VFS-PY-C02,Containment Exhaust Duct Penetration,construction_code,"ASME III, 2","ASME III, MC"
+VWS-PY-C01,Containment Chilled Water Supply Penetra,construction_code,"ASME III, 2","ASME III, MC"
+VWS-PY-C02,Containment Chilled Water Return Penetra,construction_code,"ASME III, 2","ASME III, MC"
+WLS-PY-C02,Reactor Coolant Drain Tank WLS Connectio,construction_code,"ASME III, 2","ASME III, MC"
+WLS-PY-C03,Containment Sump Pumps Combined Discharg,construction_code,"ASME III, 2","ASME III, MC"

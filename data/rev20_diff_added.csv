@@ -1,0 +1,330 @@
+﻿tag,description,system,class,seismic,code
+BDS-PL-V009,Discharge to WLS Vent,BDS,D,NS,ANSI B16.34
+BDS-PL-V037,Discharge to WLS Valve,BDS,D,NS,ANSI B16.34
+BDS-PL-V046,WWS Contaminated Flow Connection,BDS,D,NS,ANSI B16.34
+CCS-PL-V220,CCS Containment Isolation Relief Valve,CCS,B,I,ASME III-2
+CONTAINMENTSTANDPIPEANDFIREHOSECONNECTIONS,"Includes all FPS components Inside Reactor Containment with the exception of those used for containment isolation, cable tray suppression, and containment spray",FPS,F,NS,ASME B31.1
+CVS-MT-03,CVS Chemical Mixing Tank,CPS,E,NS,ASME VIII
+CVS-MT-05,CVS Air Intrusion Prevention Tank,CPS,D,NS,ASME VIII
+CVS-PL-V065,Zinc Addition – IRC Shutoff,CPS,C,I,ASME III-3
+CVS-PL-V067,Makeup Return Line Bypass Check Valve,CPS,A,I,ASME III-1
+CVS-PL-V095,Zinc Add Containment Isolation Test Connection,CPS,C,I,ASME III-3
+CVS-PL-V098,Zinc Addition Line Containment Isolation Thermal Relief Valve,CPS,B,I,ASME III-2
+CVS-PL-V215,Hydrogen Injection – IRC Shutoff,CPS,C,I,ASME III-3
+CVS-PL-V216,Hydrogen Injection Containment Isolation Test Connection,CPS,C,I,ASME III-3
+CVS-PL-V217,Hydrogen Injection Containment Isolation Check IRC,CPS,B,I,ASME III-2
+CVS-PL-V218,Hydrogen Injection Containment Isolation Test Connection,CPS,B,I,ASME III-2
+CVS-PL-V219,Hydrogen Injection Containment Isolation ORC,CPS,B,I,ASME III-2
+CVS-PY-C05,Hydrogen Add Line Containment Penetration,CPS,B,I,"ASME III, MC"
+DWS-PL-V241,DWS Containment Penetration Thermal Relief Valve,DWS,C,I,ASME III-3
+FHS-FS-06,In-containment Fuel Storage Rack,FHS,D,I,Manufacturer Std.
+FHS-FS-21,Spent Fuel Storage Rack A1,FHS,D,I,Manufacturer Std.
+FHS-FS-22,Spent Fuel Storage Rack A2,FHS,D,I,Manufacturer Std.
+FHS-FS-23,Spent Fuel Storage Rack A3,FHS,D,I,Manufacturer Std.
+FHS-FS-24,Spent Fuel Storage Rack B1,FHS,D,I,Manufacturer Std.
+FHS-FS-25,Spent Fuel Storage Rack B2,FHS,D,I,Manufacturer Std.
+FHS-FS-26,Spent Fuel Storage Rack B3,FHS,D,I,Manufacturer Std.
+FHS-FS-27,Spent Fuel Storage Rack B4,FHS,D,I,Manufacturer Std.
+FHS-FS-28,Spent Fuel Storage Rack C1,FHS,D,I,Manufacturer Std.
+FHS-MT-03,Refueling Cavity,FHS,C,I,ACI 349
+FHS-MY-Y03,Permanent Cavity Seal Ring,FHS,C,I,ANSI/AISC N690
+FPS-PL-V702,FPS Containment Penetration Thermal Relief Valve,FPS,C,I,ASME III-3
+PCS-JE-FE001,PCCWST Flow Through L001A Element,MTS,C,I,ASME III-3
+PCS-JE-FE002,PCCWST Flow Through L001B Element,MTS,C,I,ASME III-3
+PCS-JE-FE003,PCCWST Flow Through L001C Element,MTS,C,I,ASME III-3
+PCS-JE-FE004,PCCWST Flow Through L001D Element,MTS,C,I,ASME III-3
+PCS-MT-02,PCS Chemical Addition Tank,MTS,D,II,ASME VIII
+PCS-MT-06,PCCWST Leak Chase Collection Pot,MTS,D,II,ASME VIII
+PCS-MY-Y01,PCCWST Screen 1,MTS,C,I,Manufacturer Std.
+PCS-MY-Y02,PCCWST Screen 2,MTS,C,I,Manufacturer Std.
+PCS-MY-Y03,PCCWST Screen 3,MTS,C,I,Manufacturer Std.
+PCS-MY-Y04,PCCWST Screen 4,MTS,C,I,Manufacturer Std.
+PCS-MY-Y05,PCCWST Screen 5,MTS,C,I,Manufacturer Std.
+PCS-PL-V014,Chemical Addition Tank Isolation Valve,MTS,D,NS,ANSI B16.34
+PCS-PL-V026,Makeup to Distribution Bucket Isolation Valve,MTS,C,I,ASME III-3
+PCS-PL-V053,PCS Recirculation Heater Pressure Relief Valve,MTS,D,NS,ASME VIII
+PCS-PL-V060A,Shutoff Valve for Leakage Sensor,MTS,C,I,ASME III-3
+PCS-PL-V060B,Shutoff Valve for Leakage Sensor,MTS,C,I,ASME III-3
+PCS-PL-V301,PCCWST to Recirculation Pump Suction Drain Isolation Valve,MTS,D,NS,ANSI B16.34
+PCS-PL-V303,Recirculation Header Discharge to SFS Pool Vent Isolation Valve,MTS,C,I,ASME III-3
+PCS-PL-V304,Recirculation Header Discharge to SFS Pool Drain Isolation Valve,MTS,C,I,ASME III-3
+PCS-PL-V305,PCCWST Recirculation Return Drain Isolation Valve,MTS,C,I,ASME III-3
+PSS-MY-Y05,Delay Coil Assembly,PSS,C,I,ASME III-3
+PSS-PL-V011A,Liquid Sample Line Containment Isolation ORC,PSS,B,I,ASME III-2
+PSS-PL-V011B,Liquid Sample Line Containment Isolation ORC,PSS,B,I,ASME III-2
+PSS-PL-V013,RCS Pressurizer Sample Isolation Valve,PSS,B,I,ASME III-2
+PSS-PL-V014A,RCS Hot Leg 1 Sample Isolation Valve,PSS,B,I,ASME III-2
+PSS-PL-V014B,RCS Hot Leg 2 Sample Isolation Valve,PSS,B,I,ASME III-2
+PSS-PL-V015A,PXS Accumulator Sample Isolation Valve,PSS,C,I,ASME III-3
+PSS-PL-V015B,PXS Accumulator Sample Isolation Valve,PSS,C,I,ASME III-3
+PSS-PL-V016A,PXS CMT A Sample Isolation Valve,PSS,B,I,ASME III-2
+PSS-PL-V016B,PXS CMT B Sample Isolation Valve,PSS,B,I,ASME III-2
+PSS-PL-V016C,PXS CMT A Sample Isolation Valve,PSS,B,I,ASME III-2
+PSS-PL-V016D,PXS CMT B Sample Isolation Valve,PSS,B,I,ASME III-2
+PSS-PL-V902A,PXS CMT A Sample Isolation Valve,PSS,B,I,ASMEIII-2
+PSS-PL-V902B,PXS CMT B Sample Isolation Valve,PSS,B,I,ASMEIII-2
+PSS-PL-V903,PXS CMT B Sample Isolation Valve,PSS,B,I,ASMEIII-2
+PSS-PY-C04,RCS Hot Leg Sample Line Penetration,PSS,B,I,"ASME III, MC"
+PSS-PY-Y01,Delay Coil 1 for RCS Hot Leg1,PSS,C,I,ASME III-3
+PSS-PY-Y02,Delay Coil 2 for RCS Hot Leg2,PSS,C,I,ASME III-3
+PXS-MY-Y04A,pH Adjustment Basket 4A,PXS,C,I,Manufacturer Std.
+PXS-MY-Y04B,pH Adjustment Basket 4B,PXS,C,I,Manufacturer Std.
+PXS-MY-Y11A,CMT A Upper Level Standpipe,PXS,A,I,ASME III-1
+PXS-MY-Y11B,CMT B Upper Level Standpipe,PXS,A,I,ASME III-1
+PXS-MY-Y12A,CMT A Upper Level Standpipe,PXS,A,I,ASME III-1
+PXS-MY-Y12B,CMT B Upper Level Standpipe,PXS,A,I,ASME III-1
+PXS-MY-Y13A,CMT A Lower Level Standpipe,PXS,A,I,ASME III-1
+PXS-MY-Y13B,CMT B Lower Level Standpipe,PXS,A,I,ASME III-1
+PXS-MY-Y14A,CMT A Lower Level Standpipe,PXS,A,I,ASME III-1
+PXS-MY-Y14B,CMT B Lower Level Standpipe,PXS,A,I,ASME III-1
+PXS-MY-Y21,IRWST Hood Vent Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y22,IRWST Hood Vent Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y23,IRWST Hood Vent Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y24,IRWST Hood Vent Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y25,IRWST Hood Vent Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y26,IRWST Hood Vent Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y27,IRWST Hood Vent Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y28,IRWST Hood Vent Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y29,IRWST Hood Vent Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y30,IRWST Hood Vent Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y31,IRWST Hood Vent Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y32,IRWST Hood Vent Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y33,IRWST Hood Vent Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y41,IRWST Hood Vent Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y47,IRWST Hood Vent Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y48,IRWST Hood Vent Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y61,IRWST SG Wall Vent Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y62,IRWST SG Wall Vent Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y63,IRWST SG Wall Vent Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y64,IRWST SG Wall Vent Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y71,IRWST Overflow Weir Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y72,IRWST Overflow Weir Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y73,IRWST Overflow Weir Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y74,IRWST Overflow Weir Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y75,IRWST Overflow Weir Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y76,IRWST Overflow Weir Cover,PXS,C,I,Manufacturer Std.
+PXS-MY-Y81,Downspout Screen 1A,PXS,C,I,Manufacturer Std.
+PXS-MY-Y82,Downspout Screen 1B,PXS,C,I,Manufacturer Std.
+PXS-MY-Y83,Downspout Screen 1C,PXS,C,I,Manufacturer Std.
+PXS-MY-Y84,Downspout Screen 1D,PXS,C,I,Manufacturer Std.
+PXS-MY-Y85,Downspout Screen 2A,PXS,C,I,Manufacturer Std.
+PXS-MY-Y86,Downspout Screen 2B,PXS,C,I,Manufacturer Std.
+PXS-MY-Y87,Downspout Screen 2C,PXS,C,I,Manufacturer Std.
+PXS-MY-Y88,Downspout Screen 2D,PXS,C,I,Manufacturer Std.
+PXS-PL-V161A,IRWST Lower Narrow Range Level Transmitter A Isolation,PXS,C,I,ASME III-3
+PXS-PL-V161B,IRWST Lower Narrow Range Level Transmitter B Isolation,PXS,C,I,ASME III-3
+PXS-PL-V161C,IRWST Lower Narrow Range Level Transmitter C Isolation,PXS,C,I,ASME III-3
+PXS-PL-V161D,IRWST Lower Narrow Range Level Transmitter D Isolation,PXS,C,I,ASME III-3
+PXS-PL-V162A,IRWST Lower Narrow Range Level Transmitter A Reference Leg Isolation,PXS,C,I,ASME III-3
+PXS-PL-V162B,IRWST Lower Narrow Range Level Transmitter B Reference Leg Isolation,PXS,C,I,ASME III-3
+PXS-PL-V162C,IRWST Lower Narrow Range Level Transmitter C Reference Leg Isolation,PXS,C,I,ASME III-3
+PXS-PL-V162D,IRWST Lower Narrow Range Level Transmitter D Reference Leg Isolation,PXS,C,I,ASME III-3
+PXS-PL-V170A,PRHR Flow Transmitter A Vent,PXS,B,I,ASME III-2
+PXS-PL-V170B,PRHR Flow Transmitter B Vent,PXS,B,I,ASME III-2
+PXS-PL-V171A,PRHR Flow Transmitter A Vent,PXS,B,I,ASME III-2
+PXS-PL-V171B,PRHR Flow Transmitter B Vent,PXS,B,I,ASME III-2
+PXS-PL-V233A,Accumulator A to PXS Test Header Iso Valve,PXS,C,I,ASME III-3
+PXS-PL-V233B,Accumulator B to PXS Test Header Iso Valve,PXS,C,I,ASME III-3
+PXS-PY-E01,DVI-B Inline Expansion Joint,PXS,C,I,ASME III-3
+PXS-PY-R01A,Core Makeup Tank A Orifice,PXS,A,I,ASME III-1
+PXS-PY-R01B,Core Makeup Tank B Orifice,PXS,A,I,ASME III-1
+PXS-PY-R02A,Accumulator Tank A Orifice,PXS,C,I,ASME III-3
+PXS-PY-R02B,Accumulator Tank B Orifice,PXS,C,I,ASME III-3
+RCS-PL-V007C,ADS Test Valve,RCS,B,I,ASME III-2
+RCS-PL-V008,ADS Valve Leakage Check Valve,RCS,C,I,ASME III-3
+RCS-PL-V015,Pressurizer Vent to RCDT Test Valve,RCS,D,NS,ANSI B16.34
+RCS-PL-V227A,Pressurizer Level Reference Leg Tubing Instrumentation Root,RCS,B,I,ASME III-2
+RCS-PL-V227B,Pressurizer Level Reference Leg Tubing Instrumentation Root,RCS,B,I,ASME III-2
+RCS-PL-V227C,Pressurizer Level Reference Leg Tubing Instrumentation Root,RCS,B,I,ASME III-2
+RCS-PL-V227D,Pressurizer Level Reference Leg Tubing Instrumentation Root,RCS,B,I,ASME III-2
+RCS-PL-V250,ADS Discharge Line Isolation,RCS,C,I,ASME III-3
+RCS-PY-B01,ADS Hydrostatic Test Spectacle Flange,RCS,C,I,ASME III-3
+RCS-PY-B02,ADS Hydrostatic Test Spectacle Flange,RCS,C,I,ASME III-3
+RCS-PY-B03,RCS Vacuum Pump Suction Spectacle Blind,RCS,C,I,ASME III-3
+RCS-PY-B04,RCS Vacuum Ejector Package Suction Spectacle Blind,RCS,C,I,ASME III-3
+RCS-PY-R01A,Reactor Vessel Head Vent Flow Orifice A,RCS,C,I,ASME III-3
+RCS-PY-R01B,Reactor Vessel Head Vent Flow Orifice B,RCS,C,I,ASME III-3
+RCS-PY-Y01A,Pressurizer Level Reference Leg L225A Flex Hose,RCS,B,I,ASME III-2
+RCS-PY-Y01B,Pressurizer Level Reference Leg L225B Flex Hose,RCS,B,I,ASME III-2
+RCS-PY-Y01C,Pressurizer Level Reference Leg L225C Flex Hose,RCS,B,I,ASME III-2
+RCS-PY-Y01D,Pressurizer Level Reference Leg L225D Flex Hose,RCS,B,I,ASME III-2
+RNS-JE-FE001A,RNS Train A Discharge Flow Element,RNS,C,I,ASME III-3
+RNS-JE-FE001B,RNS Train B Discharge Flow Element,RNS,C,I,ASME III-3
+RNS-PL-V020,RNS HL Suction Pressure Relief,RNS,B,I,ASME III-2
+RNS-PL-V025,RNS Suction from IRWST - Bonnet Relief Isolation,RNS,C,I,ASME III-3
+RNS-PL-V026,RNS Suction from IRWST - Containment Isolation Test,RNS,C,I,ASME III-3
+RNS-PL-V048A,RNS Pump Seal Cooler A Vent Isolation,RNS,C,I,ASME III-3
+RNS-PL-V048B,RNS Pump Seal Cooler B Vent Isolation,RNS,C,I,ASME III-3
+RNS-PL-V049A,RNS Pump Seal Cooler A Drain Isolation,RNS,C,I,ASME III-3
+RNS-PL-V049B,RNS Pump Seal Cooler B Drain Isolation,RNS,C,I,ASME III-3
+RNS-PL-V065,RNS Discharge Drain Valve,RNS,C,I,ASME III-3
+RNS-PL-V069A,RNS Pump A Miniflow Vent,RNS,C,I,ASME III-3
+RNS-PL-V069B,RNS Pump B Miniflow Vent,RNS,C,I,ASME III-3
+RNS-PL-V071A,RNS HX A Channel Head Drain Isolation,RNS,C,I,ASME III-3
+RNS-PL-V071B,RNS HX B Channel Head Drain Isolation,RNS,C,I,ASME III-3
+RNS-PL-V072A,RNS HX A Channel Head Drain Isolation,RNS,C,I,ASME III-3
+RNS-PL-V072B,RNS HX B Channel Head Drain Isolation,RNS,C,I,ASME III-3
+RNS-PL-V073A,RNS HX A Channel Head Drain Isolation,RNS,C,I,ASME III-3
+RNS-PL-V073B,RNS HX B Channel Head Drain Isolation,RNS,C,I,ASME III-3
+RNS-PL-V074A,RNS HX A Channel Head Drain Isolation,RNS,C,I,ASME III-3
+RNS-PL-V074B,RNS HX B Channel Head Drain Isolation,RNS,C,I,ASME III-3
+RNS-PL-V075A,RNS HX A Channel Head Drain Isolation,RNS,C,I,ASME III-3
+RNS-PL-V075B,RNS HX B Channel Head Drain Isolation,RNS,C,I,ASME III-3
+RNS-PL-V080,IRWST Suction Line to RNS Pump Vent,RNS,B,I,ASME III-2
+RNS-PL-V081,RNS Cask Loading Pit Suction Line Vent,RNS,C,I,ASME III-3
+RNS-PL-V082,RNS Discharge Drain,RNS,C,I,ASME III-3
+RNS-PY-R01A,Residual Heat Removal Discharge to DVI Line Orifice A,RNS,C,I,ASME III-3
+RNS-PY-R01B,Residual Heat Removal Discharge to DVI Line Orifice B,RNS,C,I,ASME III-3
+RNS-PY-R02A,Residual Heat Removal Pump Miniflow Orifice A,RNS,C,I,ASME III-3
+RNS-PY-R02B,Residual Heat Removal Pump Miniflow Orifice B,RNS,C,I,ASME III-3
+RNS-PY-R03,Residual Heat Removal to IRWST Line Orifice,RNS,C,I,ASME III-3
+RNS-PY-R04,Residual Heat Removal to Spent Fuel Pool Line Orifice,RNS,C,I,ASME III-3
+RXS-FR-N05,Control Rod Cluster N05,RXS,B,I,Manufacturer Std.
+RXS-FR-N07,Control Rod Cluster N07,RXS,B,I,Manufacturer Std.
+RXS-FR-N09,Control Rod Cluster N09,RXS,B,I,Manufacturer Std.
+RXS-FR-P06,Control Rod Cluster P06,RXS,B,I,Manufacturer Std.
+RXS-MV-01,Reactor Vessel,RXS,A,I,ASME III-1
+RXS-MV-11B06/B08/B10/C05/C07/C09/C11/D04/D06/D08/D10/D12/E03/E05/E07/E09/E11/E13/F02/F04/F06/F08/F10/F12/F14/G03/G05/G07/G09/G11/G13/H02/H04/H06/H08/H10/H12/H14/J03/J05/J07/J09/J11/J13/K02/K04/K06/K08/K10/K12/K14/L03/L05/L07/L09/L11/L13/M04/M06/M08/M10/M12/N05/N07/N09/N11/P06/P08/P10,CRDM Latch Assemblies,RXS,C,I,Manufacturer Std.
+RXS-MV-11B06L/B08L/B10L/C05L/C07L/C09L/C11L/D04L/D06L/D08L/D10L/D12L/E03L/E05L/E07L/E09L/E11L/E13L/F02L/F04L/F06L/F08L/F10L/F12L/F14L/G03L/G05L/G07L/G09L/G11L/G13L/H02L/H04L/H06L/H08L/H10L/H12L/H14L/J03L/J05L/J07L/J09L/J11L/J13L/K02L/K04L/K06L/K08L/K10L/K12L/K14L/L03L/L05L/L07L/L09L/L11L/L13L/M04L/M06L/M08L/M10L/M12L/N05L/N07L/N09/N11L/P06L/P08L/P10L,CRDM Latch Housings,RXS,A,I,ASME III-1
+RXS-MV-11B06R/B08R/B10R/C05R/C07R/C09R/C11R/D04R/D06R/D08R/D10R/D12R/E03R/E05R/E07R/E09R/E11R/E13R/F02R/F04R/F06R/F08R/F10R/F12R/F14R/G03R/G05R/G07R/G09R/G11R/G13R/H02R/H04R/H06R/H08R/H10R/H12R/H14R/J03R/J05R/J07R/J09R/J11R/J13R/K02R/K04R/K06R/K08R/K10R/K12R/K14R/L03R/L05R/L07R/L09R/L11R/L13R/M04R/M06R/M08R/M10R/M12R/N05R/N07R/N11R/P06R/P08R/P10R,CRDM Rod Travel Housings,RXS,A,I,ASME III-1
+RXS-MY-Y11,Incore Instrumentation QuickLoc Assembly 1,RXS,A,I,ASME III-1
+RXS-MY-Y12,Incore Instrumentation QuickLoc Assembly 2,RXS,A,I,ASME III-1
+RXS-MY-Y13,Incore Instrumentation QuickLoc Assembly 3,RXS,A,I,ASME III-1
+RXS-MY-Y14,Incore Instrumentation QuickLoc Assembly 4,RXS,A,I,ASME III-1
+RXS-MY-Y15,Incore Instrumentation QuickLoc Assembly 5,RXS,A,I,ASME III-1
+RXS-MY-Y16,Incore Instrumentation QuickLoc Assembly 6,RXS,A,I,ASME III-1
+RXS-MY-Y17,Incore Instrumentation QuickLoc Assembly 7,RXS,A,I,ASME III-1
+RXS-MY-Y18,Incore Instrumentation QuickLoc Assembly 8,RXS,A,I,ASME III-1
+RXS-MY-Y51,Integrated Head Package Lifting Rig,RXS,C,II,"NUREG-0612, ANSI N14.6"
+SFS-PL-V117,Refueling Cavity Drain Line Test Connection,SFS,C,I,ASME III-3
+SFS-PY-R04,SFS Cask Loading and Washdown Orifice,SFS,C,I,ASME III-3
+SGS-PL-V020A,FT024 Root Isolation Valve,SGS,B,I,ASME III-2
+SGS-PL-V020B,FT025 Root Isolation Valve,SGS,B,I,ASME III-2
+SGS-PL-V021A,FT024 Root Isolation Valve,SGS,B,I,ASME III-2
+SGS-PL-V021B,FT025 Root Isolation Valve,SGS,B,I,ASME III-2
+SGS-PL-V066A,FT055 Root Isolation Valve,SGS,C,I,ASME III-3
+SGS-PL-V066B,FT056 Root Isolation Valve,SGS,C,I,ASME III-3
+SGS-PL-V068A,FT055 Root Isolation Valve,SGS,C,I,ASME III-3
+SGS-PL-V068B,FT056 Root Isolation Valve,SGS,C,I,ASME III-3
+SGS-PL-V076A,Blowdown Vent Line Isolation,SGS,C,I,ASME III-3
+SGS-PL-V076B,Blowdown Vent Line Isolation,SGS,C,I,ASME III-3
+SGS-PL-V100A,Startup Feedwater Drain Isolation Valve,SGS,C,I,ASME III-3
+SGS-PL-V100B,Startup Feedwater Drain Isolation Valve,SGS,C,I,ASME III-3
+SGS-PL-V101A,Main Feedwater Drain Isolation Valve,SGS,B,I,ASME III-2
+SGS-PL-V101B,Main Feedwater Drain Isolation Valve,SGS,B,I,ASME III-2
+SGS-PL-V102A,Startup Feedwater Vent Isolation Valve,SGS,C,I,ASME III-3
+SGS-PL-V102B,Startup Feedwater Vent Isolation Valve,SGS,C,I,ASME III-3
+SGS-PL-V103A,Main Feedwater Vent Isolation Valve,SGS,B,I,ASME III-2
+SGS-PL-V103B,Main Feedwater Vent Isolation Valve,SGS,B,I,ASME III-2
+SGS-PL-V104A,Main Feedwater Drain Isolation Valve,SGS,C,I,ASME III-3
+SGS-PL-V104B,Main Feedwater Drain Isolation Valve,SGS,C,I,ASME III-3
+SGS-PL-V257A,Main Feedwater Thermal Relief Valve,SGS,C,I,ASME III-3
+SGS-PL-V257B,Main Feedwater Thermal Relief Valve,SGS,C,I,ASME III-3
+SGS-PL-V258A,Startup Feedwater Thermal Relief Valve,SGS,C,I,ASME III-3
+SGS-PL-V258B,Startup Feedwater Thermal Relief Valve,SGS,C,I,ASME III-3
+SGS-PL-V300,SG1 NR LT001 Upper Isol,SGS,B,I,ASME III-2
+SGS-PL-V301,SG1 NR LT001 Lower Isol,SGS,B,I,ASME III-2
+SGS-PL-V302,SG1 NR LT002 Upper Isol,SGS,B,I,ASME III-2
+SGS-PL-V303,SG1 NR LT002 Lower Isol,SGS,B,I,ASME III-2
+SGS-PL-V304,SG1 NR LT003 Upper Isol,SGS,B,I,ASME III-2
+SGS-PL-V305,SG1 NR LT003 Lower Isol,SGS,B,I,ASME III-2
+SGS-PL-V306,SG1 NR LT004 Upper Isol,SGS,B,I,ASME III-2
+SGS-PL-V307,SG1 NR LT004 Lower Isol,SGS,B,I,ASME III-2
+SGS-PL-V308,SG1 NR LT011 Lower Isol,SGS,B,I,ASME III-2
+SGS-PL-V309,SG1 NR LT012 Lower Isol,SGS,B,I,ASME III-2
+SGS-PL-V310,SG1 NR LT015 Lower Isol,SGS,B,I,ASME III-2
+SGS-PL-V311,SG1 NR LT016 Lower Isol,SGS,B,I,ASME III-2
+SGS-PL-V312,SG1 Main Steam FT020 Isol,SGS,B,I,ASME III-2
+SGS-PL-V313,SG1 Main Steam FT021 Isol,SGS,B,I,ASME III-2
+SGS-PL-V314,SG1 Main Steam FT024 Isol,SGS,B,I,ASME III-2
+SGS-PL-V320,SG2 NR LT005 Upper Isol,SGS,B,I,ASME III-2
+SGS-PL-V321,SG2 NR LT005 Lower Isol,SGS,B,I,ASME III-2
+SGS-PL-V322,SG2 NR LT006 Upper Isol,SGS,B,I,ASME III-2
+SGS-PL-V323,SG2 NR LT006 Lower Isol,SGS,B,I,ASME III-2
+SGS-PL-V324,SG2 NR LT007 Upper Isol,SGS,B,I,ASME III-2
+SGS-PL-V325,SG2 NR LT007 Lower Isol,SGS,B,I,ASME III-2
+SGS-PL-V326,SG2 NR LT008 Upper Isol,SGS,B,I,ASME III-2
+SGS-PL-V327,SG2 NR LT008 Lower Isol,SGS,B,I,ASME III-2
+SGS-PL-V328,SG2 NR LT013 Lower Isol,SGS,B,I,ASME III-2
+SGS-PL-V329,SG2 NR LT014 Lower Isol,SGS,B,I,ASME III-2
+SGS-PL-V330,SG2 NR LT017 Lower Isol,SGS,B,I,ASME III-2
+SGS-PL-V331,SG2 NR LT018 Lower Isol,SGS,B,I,ASME III-2
+SGS-PL-V332,SG2 Main Steam FT022 Isol,SGS,B,I,ASME III-2
+SGS-PL-V333,SG2 Main Steam FT023 Isol,SGS,B,I,ASME III-2
+SGS-PL-V334,SG2 Main Steam FT025 Isol,SGS,B,I,ASME III-2
+SGS-PY-R02A,SG 1 Main Steam Line Drain Plug-Resistant Orifice,SGS,C,I,ASME III-3
+SGS-PY-R02B,SG 2 Main Steam Line Drain Plug-Resistant Orifice,SGS,C,I,ASME III-3
+SGS-PY-Y01A,Flexible Hose from SG 1 to Upper Tap LT001/LT011,SGS,B,I,ASME III-2
+SGS-PY-Y01B,Flexible Hose from SG 2 to Upper Tap LT005/LT013,SGS,B,I,ASME III-2
+SGS-PY-Y02A,Flexible Hose from SG 1 to Upper Tap LT001,SGS,B,I,ASME III-2
+SGS-PY-Y02B,Flexible Hose from SG 2 to Upper Tap LT005,SGS,B,I,ASME III-2
+SGS-PY-Y03A,Flexible Hose from SG 1 to Upper Tap LT002/LT015,SGS,B,I,ASME III-2
+SGS-PY-Y03B,Flexible Hose from SG 2 to Upper Tap LT006/LT014,SGS,B,I,ASME III-2
+SGS-PY-Y04A,Flexible Hose from SG 1 to Upper Tap LT002,SGS,B,I,ASME III-2
+SGS-PY-Y04B,Flexible Hose from SG 2 to Upper Tap LT006,SGS,B,I,ASME III-2
+SGS-PY-Y05A,Flexible Hose from SG 1 to Upper Tap LT003/LT012/ LT044,SGS,B,I,ASME III-2
+SGS-PY-Y05B,Flexible Hose from SG 2 to Upper Tap LT007/LT017/ LT046,SGS,B,I,ASME III-2
+SGS-PY-Y06A,Flexible Hose from SG 1 to Upper Tap LT003,SGS,B,I,ASME III-2
+SGS-PY-Y06B,Flexible Hose from SG 2 to Upper Tap LT007,SGS,B,I,ASME III-2
+SGS-PY-Y07A,Flexible Hose from SG 1 to Upper Tap LT004/LT016/ LT045,SGS,B,I,ASME III-2
+SGS-PY-Y07B,Flexible Hose from SG 2 to Upper Tap LT008/LT018/ LT047,SGS,B,I,ASME III-2
+SGS-PY-Y08A,Flexible Hose from SG 1 to Upper Tap LT004,SGS,B,I,ASME III-2
+SGS-PY-Y08B,Flexible Hose from SG 2 to Upper Tap LT008,SGS,B,I,ASME III-2
+SGS-PY-Y09A,Flexible Hose from SG 1 to Upper Tap LT011,SGS,B,I,ASME III-2
+SGS-PY-Y09B,Flexible Hose from SG 2 to Upper Tap LT013,SGS,B,I,ASME III-2
+SGS-PY-Y10A,Flexible Hose from SG 1 to Upper Tap LT012,SGS,B,I,ASME III-2
+SGS-PY-Y10B,Flexible Hose from SG 2 to Upper Tap LT014,SGS,B,I,ASME III-2
+SGS-PY-Y11A,Flexible Hose from SG 1 to Upper Tap LT015/LT044,SGS,B,I,ASME III-2
+SGS-PY-Y11B,Flexible Hose from SG 2 to Upper Tap LT017/LT046,SGS,B,I,ASME III-2
+SGS-PY-Y12A,Flexible Hose from SG 1 to Upper Tap LT016/LT045,SGS,B,I,ASME III-2
+SGS-PY-Y12B,Flexible Hose from SG 2 to Upper Tap LT018/LT047,SGS,B,I,ASME III-2
+SGS-PY-Y13A,Flexible Hose from SG 1 to Lower Tap FT024,SGS,B,I,ASME III-2
+SGS-PY-Y13B,Flexible Hose from SG 2 to Lower Tap FT025,SGS,B,I,ASME III-2
+SGS-PY-Y14A,Flexible Hose from SG 1 to Lower Tap FT021,SGS,B,I,ASME III-2
+SGS-PY-Y14B,Flexible Hose from SG 2 to Lower Tap FT023,SGS,B,I,ASME III-2
+SGS-PY-Y15A,Flexible Hose from SG 1 to Lower Tap FT020,SGS,B,I,ASME III-2
+SGS-PY-Y15B,Flexible Hose from SG 2 to Lower Tap FT022,SGS,B,I,ASME III-2
+SGS-PY-Y16A,Flexible Hose from Main Steam Line to Upper Tap FT020,SGS,B,I,ASME III-2
+SGS-PY-Y16B,Flexible Hose from Main Steam Line to Upper Tap FT022,SGS,B,I,ASME III-2
+SGS-PY-Y17A,Flexible Hose from Main Steam Line to Upper Tap FT021,SGS,B,I,ASME III-2
+SGS-PY-Y17B,Flexible Hose from Main Steam Line to Upper Tap FT023,SGS,B,I,ASME III-2
+SGS-PY-Y18A,Flexible Hose from Main Steam Line to Upper Tap FT024,SGS,B,I,ASME III-2
+SGS-PY-Y18B,Flexible Hose from Main Steam Line to Upper Tap FT025,SGS,B,I,ASME III-2
+SGS-PY-Y19A,Flexible Hose from Main Steam Line to PT030,SGS,B,I,ASME III-2
+SGS-PY-Y19B,Flexible Hose from Main Steam Line to PT034,SGS,B,I,ASME III-2
+SGS-PY-Y20A,Flexible Hose from Main Steam Line to PT032,SGS,B,I,ASME III-2
+SGS-PY-Y20B,Flexible Hose from Main Steam Line to PT036,SGS,B,I,ASME III-2
+VBS-MY-Y100,Silencer,VBS,D,II,Manufacturer Std.
+VBS-MY-Y101,Silencer,VBS,D,II,Manufacturer Std.
+VBS-MY-Y102,Static Air Mixer,VBS,Note 1,I,Manufacturer Std.
+VBS-PL-V184A,VBS-PDT-032A Isolation Valve,VBS,C,I,ASME III-3
+VBS-PL-V184B,VBS-PDT-032B Isolation Valve,VBS,C,I,ASME III-3
+VBS-PL-V184C,VBS-PDT-032C Isolation Valve,VBS,C,I,ASME III-3
+VES-MY-G001,Ducting Grill,VES,Note 1,I,ASME N509/N510
+VES-MY-R001,Ducting Register,VES,Note 1,I,ASME N509/N510
+VES-MY-R002,Ducting Register,VES,Note 1,I,ASME N509/N510
+VES-MY-R003,Ducting Register,VES,Note 1,I,ASME N509/N510
+VES-PY-N02,Eductor Bypass Isolation Discharge Silencer,VES,C,I,ASME III-3
+VES-PY-R02,Eductor Bypass Flow Orifice,VES,C,I,ASME III-3
+VFS-PL-V006,Containment Isolation Test Connection,VFS,C,I,ASME III-3
+VFS-PL-V007,RCS Ejector Discharge Isolation,VFS,C,I,ASME III-3
+VFS-PL-V101,Containment Air Supply Line Test Connection,VFS,C,I,ASME III-3
+VFS-PL-V202,Containment Atmosphere to Filtration Units Isolation,VFS,C,I,ASME III-3
+VFS-PL-V587,Filtration Units to Containment Atmosphere Manual Isolation,VFS,C,I,ASME III-3
+VUS-PL-V013,Main Equipment Hatch Test Connection,VUS,B,I,ASME III-2
+VUS-PL-V014,Maintenance Equipment Hatch Test Connection,VUS,B,I,ASME III-2
+VWS-MS-02,Air-Cooled Chiller 2,VWS,D,NS,ARI/ASME VIII
+VWS-MS-03,Air-Cooled Chiller 3,VWS,D,NS,ARI/ASME VIII
+VWS-PL-V053,VWS Containment Penetration Thermal Relief Valve,VWS,C,I,ASME III-3
+VWS-PL-V057,VWS Containment Penetration Thermal Relief Valve,VWS,C,I,ASME III-3
+WLS-MT-02,Containment Sump,WLS,D,NS,ACI 349
+WLS-MT-13A,Waste Holdup Tank A Chemical Addition Pot,WLS,D,NS,ASME VIII-1
+WLS-MT-13B,Waste Holdup Tank B Chemical Addition Pot,WLS,D,NS,ASME-VIII-1
+WLS-MT-17,Chemical Waste Tank Chemical Addition Pot,WLS,D,NS,ASME VIII-1
+WLS-MT-23A,WLS Leak Chase Collection Pot A,WLS,D,NS,ASME VIII-1
+WLS-MT-23B,WLS Leak Chase Collection Pot B,WLS,D,NS,ASME VIII-1
+WLS-MY-Y34,Containment Sump Level Instrument Stilling Well,WLS,D,I,Manufacturer Std.
+WLS-MY-Y35,Containment Sump Level Instrument Stilling Well,WLS,D,I,Manufacturer Std.
+WLS-MY-Y36,Containment Sump Level Instrument Stilling Well,WLS,D,I,Manufacturer Std.
+WRS-MT-02A,WRS Leak Chase Collection Pot A,WRS,D,NS,ASME VIII-1
+WRS-MT-02B,WRS Leak Chase Collection Pot B,WRS,D,NS,ASME VIII-1
