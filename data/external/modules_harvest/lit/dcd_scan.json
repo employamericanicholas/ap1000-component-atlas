@@ -1,0 +1,63 @@
+{
+ "Q117": {
+  "data/raw\\ML11171A319.pdf": [
+   11
+  ]
+ },
+ "CA01": {
+  "data/raw\\ML11171A431.pdf": [
+   40,
+   41,
+   160
+  ],
+  "data/raw\\ML11171A433.pdf": [
+   23
+  ],
+  "data/raw\\ML11171A437.pdf": [
+   43
+  ]
+ },
+ "CA20": {
+  "data/raw\\ML11171A431.pdf": [
+   53,
+   69,
+   70
+  ]
+ },
+ "CA02": {
+  "data/raw\\ML11171A431.pdf": [
+   88,
+   161
+  ],
+  "data/raw\\ML11171A433.pdf": [
+   23
+  ],
+  "data/raw\\ML11171A442.pdf": [
+   4
+  ]
+ },
+ "CA03": {
+  "data/raw\\ML11171A431.pdf": [
+   162
+  ],
+  "data/raw\\ML11171A433.pdf": [
+   23
+  ]
+ },
+ "CA04": {
+  "data/raw\\ML11171A431.pdf": [
+   163
+  ],
+  "data/raw\\ML11171A433.pdf": [
+   23
+  ]
+ },
+ "CA05": {
+  "data/raw\\ML11171A431.pdf": [
+   164
+  ],
+  "data/raw\\ML11171A433.pdf": [
+   23
+  ]
+ }
+}

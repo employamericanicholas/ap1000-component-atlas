@@ -1,0 +1,1358 @@
+ 
+ 
+ 
+ 
+ 
+ 
+September 20, 2011 
+ 
+Mr. David Barry, President 
+Nuclear Division, Shaw Power Group 
+128 South Tryon Street 
+Suite 400 
+Charlotte, NC  28202  
+ 
+SUBJECT:  NRC INSPECTION REPORT NO. 99901387/2011-202 AND NOTICE OF 
+        NONCONFORMANCE 
+ 
+Dear Mr. Barry:  
+ 
+From August 1-4, 2011, the U.S. Nuclear Regulatory Commission (NRC) conducted an 
+inspection at the Shaw Nuclear Services (SNS) facility in Charlotte, North Carolina.  The 
+purpose of this limited scope inspection was to assess SNS’s compliance with selected portions 
+of Appendix B, “Quality Assurance Program Criteria for Nuclear Power Plants and Fuel 
+Reprocessing Plants,” to 10 CFR Part 50, “Domestic Licensing of Production and Utilization 
+Facilities.” The enclosed report presents the results of this inspection.  This NRC inspection 
+report does not constitute NRC endorsement of SNS’s overall quality assurance (QA) program. 
+ 
+During this inspection, the NRC inspection team found that the implementation of your QA 
+program failed to meet certain NRC requirements imposed on you by your customers or NRC 
+license applicants.  Specifically, the NRC inspection team determined that SNS failed to audit 
+the Gerdau Ameristeel Charlotte Steel Mill in order to verify the implementation of the Mill Group 
+Quality Assurance Manual as required by various purchase orders, and also failed to provide 
+adequate oversight of Gerdau Ameristeel’s procurement process to ensure that other necessary 
+quality requirements were suitably included or referenced in the procurement documents. This 
+nonconformance is cited in the enclosed Notice of Nonconformance (NON), and the 
+circumstances surrounding them are described in detail in the enclosed inspection report. 
+ 
+Please provide a written statement or explanation within 30 days from the date of this letter in 
+accordance with the instructions specified in the enclosed NON.  We will consider extending the 
+response time if you show good cause for us to do so. 
+ 
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,” 
+of the NRC's "Rules of Practice," a copy of this letter, its enclosures, and your response will be 
+made available electronically for public inspection in the NRC Public Document Room or from 
+the NRC’s Agencywide Document Access and Management System, which is accessible from 
+the NRC website at http://www.nrc.gov/reading-rm/adams.html
+. To the extent possible, your 
+response should not include any personal privacy, proprietary, or safeguards information so that 
+it can be made available to the public without redaction.  If personal privacy or proprietary 
+information is necessary to provide an acceptable response, please provide a bracketed copy of 
+your response that identifies the information that should be protected, as well as a redacted 
+copy of your response that deletes such information.  If you request that such material be
+D. Barry - 2 - 
+ 
+ 
+withheld from public disclosure, you must specifically identify the portions of your response that 
+you seek to have withheld and provide in detail the bases for your claim (e.g., explain why the 
+disclosure of information will create an unwarranted invasion of personal privacy or provide the 
+information required by 10 CFR 2.390(b) to support a request for withholding confidential 
+commercial or financial information).  If safeguards information is necessary to provide an 
+acceptable response, please provide the level of protection described in 10 CFR 73.21, 
+“Protection of Safeguards Information: Performance Requirements.” 
+ 
+       S i n c e r e l y ,  
+ 
+ 
+  /RA/ 
+ 
+             Juan D. Peralta, Chief  
+Quality and Vendor Branch 1 
+Division of Construction Inspection 
+  & Operational Programs 
+Office of New Reactors 
+ 
+Docket No. 99901387 
+ 
+Enclosures: 
+1.  Notice of Nonconformance 
+2.  Inspection Report No. 99901387/2011-202 and Attachments 
+D. Barry - 2 - 
+ 
+ 
+withheld from public disclosure, you must specifically identify the portions of your response that 
+you seek to have withheld and provide in detail the bases for your claim (e.g., explain why the 
+disclosure of information will create an unwarranted invasion of personal privacy or provide the 
+information required by 10 CFR 2.390(b) to support a request for withholding confidential 
+commercial or financial information).  If safeguards information is necessary to provide an 
+acceptable response, please provide the level of protection described in 10 CFR 73.21, 
+“Protection of Safeguards Information: Performance Requirements.” 
+ 
+       S i n c e r e l y ,  
+ 
+ 
+  /RA/ 
+ 
+             Juan D. Peralta, Chief  
+Quality and Vendor Branch 1 
+Division of Construction Inspection 
+  & Operational Programs 
+Office of New Reactors 
+ 
+Docket No. 99901387 
+ 
+Enclosures: 
+1.  Notice of Nonconformance 
+2.  Inspection Report No. 99901387/2011-202 and Attachments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DISTRIBUTION
+: 
+PUBLIC  RidsNroDcipCqvb  RidsNroDcip  RidsNroDcipCqva 
+david.barry@shawgrp.com geoff.grant@shawgrp.com 
+ 
+ADAMS Accession No.:  ML112500226         *concurred via email          NRO-002 
+OFFICE NRO/DCIP/CQVB NRO/DCIP/CQVA NRO/DCIP/CQVA 
+NAME SEdmonds MVaaler KKavanagh 
+DATE 09/19/2011 09/19/2011 09/19/2011 
+OFFICE NRO/DCIP/CAEB NRO/DCIP/CQVA  
+NAME TFrye JPeralta  
+DATE 09/19/2011 09/20/2011  
+OFFICIAL RECORD COPY 
+ 
+Enclosure 1 
+NOTICE OF NONCONFORMANCE 
+ 
+Shaw Nuclear Services            Docket Number 99901387 
+Charlotte, North Carolina            Inspection Report Number 9901387/2011-202 
+ 
+Based on the results of a U.S. Nuclear Regulatory Commission (NRC) inspection conducted 
+from August 1-4, 2011, at the Shaw Nuclear Services (SNS) facility in Charlotte, NC, certain 
+activities were not conducted in accordance with NRC requirements which were contractually 
+imposed upon SNS by NRC applicants or licensees:  
+ 
+A. Criterion VII, “Control of Purchased Material, Equipment, and Services,” of Appendix B 
+to Title 10 of the Code of Federal Regulation (10 CFR) Part 50 states, in part, that 
+“measures shall be established to assure that purchased material, equipment, and 
+services, whether purchased directly or through contractors and subcontractors, conform 
+to the procurement documents.  These measures shall include provisions, as 
+appropriate, for source evaluation and selection, objective evidence of quality furnished 
+by the contractor or subcontractor, inspection at the contractor or subcontractor source, 
+and examination of products upon delivery.” 
+ 
+The SNS Standard Nuclear Quality Assurance Program (SWSQAP 1-74A), Section 7, 
+“Control of Purchased Material, Equipment, and Services,” Revision B, dated 
+June 1, 2009, requires, in part, that a supplier evaluation shall be documented and 
+include the supplier’s technical and quality capability as determined by a direct 
+evaluation via survey/audit of the facilities, personnel, and the implementation of the 
+supplier’s quality assurance program.  
+ 
+Contrary to the above, as of August 4, 2011, SNS failed to audit the Gerdau Ameristeel 
+Charlotte Steel Mill and verify the implementation of the Mill Group Quality Assurance 
+Manual as required by the SWSQAP 1-74A, Section 7.  Specifically, SNS Purchase 
+Orders 132175-J400A-00 and 132177-J400-00 state that SNS shall perform a 
+post-award implementation audit of Gerdau Ameristeel’s quality assurance program(s) 
+and facilities.  
+ 
+This issue has been identified as Nonconformance 99901387/2011-202-01. 
+ 
+B. Criterion VII of Appendix B to 10 CFR Part 50 states, in part, that “measures shall be 
+established to assure that purchased material, equipment, and services, whether 
+purchased directly or through contractors and subcontractors, conform to the 
+procurement documents.”  Criterion VII continues to state, in part, that “the effectiveness 
+of the control of quality by contractors and subcontractors shall be assessed by the 
+applicant or designee at intervals consistent with the importance, complexity, and 
+quantity of the product or services.” 
+ 
+Criterion IV, “Procurement Document Control,” of Appendix B to 10 CFR Part 50 states, 
+in part, that “measures shall be established to assure that applicable regulatory 
+requirements and the design basis, and other requirements which are necessary to 
+assure adequate quality are suitably included or referenced in the documents for 
+procurement of material, equipment, and services, whether purchased by the applicant 
+or by its contractors or subcontractors.”   
+ 
+ 
+- 2 - 
+Contrary to the above, as of August 4, 2011, SNS failed to ensure the effectiveness of 
+the control of quality by contractors.  Specifically, SNS failed to provide adequate 
+oversight of Gerdau Ameristeel’s procurement process to ensure that other 
+requirements, such as the provisions for inspection and test records, which are 
+necessary to ensure adequate quality, were suitably included or referenced in the 
+procurement documents for mechanical couplers.  
+ 
+This issue has been identified as Nonconformance 99901387/2011-202-02. 
+ 
+Please provide a written statement or explanation to the U.S. Nuclear Regulatory Commission, 
+ATTN:  Document Control Desk, Washington, DC 20555-0001, with a copy to the Chief, Quality 
+and Vendor Branch 1, Division of Construction Inspection and Operational Programs, Office of 
+New Reactors, within 30 days of the date of the letter transmitting this Notice of 
+Nonconformance.  This reply should be clearly marked as a “Reply to a Notice of 
+Nonconformance” and should include for each noncompliance (1) the reason for the 
+noncompliance or, if contested, the basis for disputing the noncompliance, (2) the corrective 
+steps that have been taken and the results achieved, (3) the corrective steps that will be taken 
+to avoid noncompliance, and (4) the date when the corrective action will be completed.  Where 
+good cause is shown, the NRC will consider extending the response time. 
+ 
+Because your response will be made available electronically for public inspection in the NRC 
+Public Document Room or from the NRC Agencywide Documents Access and Management 
+System, accessible from the NRC website at http://www.nrc.gov/reading-rm/adams.html, to the 
+extent possible, it should not include any personal privacy, proprietary, or Safeguards 
+Information so that it can be made available to the public without redaction.  If personal privacy 
+or proprietary information is necessary to provide an acceptable response, please provide a 
+bracketed copy of your response that identifies the information that should be protected, as well 
+as a redacted copy that deletes such information.  If you request that such material be withheld 
+from public disclosure, you must
+ specifically identify the portions of your response that you seek 
+to have withheld and provide in detail the bases for your claim (e.g., explain why the disclosure 
+of information will create an unwarranted invasion of personal privacy or provide the information 
+required by 10 CFR 2.390(b) to support a request for withholding confidential commercial or 
+financial information).  If Safeguards Information is necessary to provide an acceptable 
+response, please provide the level of protection described in 10 CFR 73.21, “Protection of 
+Safeguards Information: Performance Requirements.” 
+ 
+Dated at Rockville, Maryland, this 20th day of September 2011. 
+ 
+ 
+Enclosure 2 
+U.S. NUCLEAR REGULATORY COMMISSION 
+OFFICE OF NEW REACTORS 
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS 
+VENDOR INSPECTION REPORT 
+ 
+ 
+Docket No.:   99901387  
+ 
+Report No.:    99901387/2011-202 
+ 
+Vendor:                        Shaw Nuclear Services 
+                                128 South Tryon Street 
+                Suite 400 
+    Charlotte, NC 28202 
+ 
+Vendor Contact:   Mr. Robert Otis, Manager 
+Quality Assurance 
+    Telephone: (704) 343-7628 
+E-mail: robert.otis@shawgrp.com 
+ 
+Nuclear Industry Activities:  Shaw Nuclear Services (SNS), located in Charlotte, NC, provides 
+new nuclear plant design and construction services worldwide.  
+SNS is a member of the AP1000 Consortium with Westinghouse 
+Electric Company and others. 
+ 
+Inspection Dates:   August 1 - 4, 2011   
+ 
+Inspectors:    Kerri Kavanagh NRO/DCIP/CQVA  Team Leader 
+    Marlayna Vaaler NRO/DCIP/CQVA 
+    Shavon Edmonds NRO/DCIP/CQVB 
+ 
+Approved by:   Juan D. Peralta, Chief      
+Quality and Vendor Branch 1 
+Division of Construction Inspection  
+    & Operational Programs 
+Office of New Reactors 
+ 
+- 2 - 
+EXECUTIVE SUMMARY 
+ 
+Shaw Nuclear Services 
+Report Number 99901387/2011-202 
+ 
+The U.S. Nuclear Regulatory Commission (NRC) conducted this inspection to verify that Shaw 
+Nuclear Services (SNS) implemented an adequate quality assurance (QA) program that 
+complies with the requirements of Appendix B, “Quality Assurance Criteria for Nuclear Power 
+Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of Federal Regulations (10 CFR) 
+Part 50, “Domestic Licensing of Production and Utilization Facilities.”  The NRC inspection team 
+conducted the inspection at the SNS facility in Charlotte, NC, from August 1-4, 2011. 
+ 
+The following regulations served as the bases for the NRC inspection: 
+ 
+• Appendix B to 10 CFR Part 50  
+ 
+The NRC inspection team implemented Inspection Procedure (IP) 43003, “Reactive 
+Inspection of Nuclear Vendors,” as supplemented by IP 43002, “Routine Inspections of 
+Nuclear Vendors,” during the conduct of this inspection. 
+ 
+The NRC conducted a previous limited-scope inspection of the Shaw Nuclear Services facility in 
+Charlotte, NC, in June 2011.  The inspection report for this June 2011 limited-scope inspection 
+had not been issued at the time of this NRC inspection.  
+ 
+The results of the current inspection are summarized below.  
+ 
+Control of Purchased Material, Equipment, and Services 
+ 
+ 
+The NRC inspection team identified Nonconformance 99901387/2011-202-01 for SNS’s failure 
+to audit the Gerdau Ameristeel Charlotte Steel Mill in order to verify the implementation of the 
+Mill Group Quality Assurance Manual as required by Purchase Orders 132175-J400A-00 and 
+132177-J400-00.  In addition, the NRC inspection team identified Nonconformance 
+99901387/2011-202-02 for SNS’s failure to provide adequate oversight of Gerdau Ameristeel’s 
+procurement process to ensure that applicable requirements necessary to assure adequate 
+quality, such as the provisions for inspection and test records, were suitably included or 
+referenced in procurement documents for mechanical couplers. 
+ 
+ 
+- 3 - 
+REPORT DETAILS 
+ 
+1. Control of Purchased Material, Equipment, and Services  
+ 
+a.  Inspection Scope  
+ 
+The NRC inspection team reviewed the SNS policies and implementing procedures that 
+govern the control of purchased material, equipment, and services, as well as SNS 
+external audits to verify compliance with the requirements of Criterion VII, “Control of 
+Purchased Material, Equipment, and Services,” of Appendix B to 10 CFR Part 50.  The 
+NRC inspection team reviewed a sample of safety-related purchase orders (POs) and 
+associated external audit reports in order to evaluate compliance with the SNS program 
+requirements and adequate implementation of those requirements.  In addition, the NRC 
+inspection team reviewed the disposition of corrective actions to resolve deficiencies 
+identified by audit findings for adequacy and timeliness.   
+ 
+Within the scope of this inspection, the NRC inspection team reviewed the POs and 
+external audits associated with SNS’s safety-related subcontractors and suppliers, 
+including National Technical Systems, Shaw Modular Solutions, Exelon PowerLabs, 
+B.F. Shaw, Inc., Mactec, William Lettis & Associates, Gerdau Ameristeel, the Lincoln 
+Electric Company, and Shaw SSS Fabricators, Inc. 
+ 
+The SNS policies, procedures, and supporting documentation that were reviewed by the 
+NRC inspection team are listed in Attachment B to this inspection report. 
+ 
+b. Observations and Findings
+  
+ 
+b.1 Policies and Procedures 
+ 
+The NRC inspection team reviewed Section 7, “Control of Purchased Material, 
+Equipment, and Services,” of the Shaw Standard Nuclear Quality Assurance Program 
+(SWSQAP 1-74A) and the implementing procedures that govern the establishment of 
+measures to ensure that the applicable regulatory, design basis, and other requirements, 
+necessary to assure adequate quality of products and services, are suitably included or 
+referenced in the pertinent procurement documents.  The NRC inspection team noted 
+that SNS’s control of the procurement of items and services consisted of maintenance of 
+a Quality Rating List (QRL), periodic evaluation of qualified suppliers, activities to verify 
+quality, audits, surveillances, and receipt examination of items and services. 
+ 
+SNS Quality Assurance Directive (QAD) 7.17, “Supplier and Contractor QA Program 
+Manual Reviews and Qualification Audits,” specifies that qualification audits be 
+performed prior to the award of a PO or contract.  The qualification audit is conducted 
+based on the examination and evaluation of objective evidence, and by using the audit 
+checklist; when the evaluation is completed, SNS rates the qualification audit report. 
+ 
+SNS QAD 18.11, “Post Award QA Audits of Suppliers and Site Contractors,” provides 
+the means to verify a contractor’s / supplier’s compliance with the PO or contract 
+requirements, as well as the requirements of their QAP or SNS’s QAP when the PO or 
+contract requires the contractor / supplier to perform work in accordance with the SNS 
+QAP.  The procedure also requires that elements of the QAP of a supplier listed on the 
+SNS QRL be audited at least once every three years, or once within the life of the  
+ 
+- 4 - 
+PO/contract, whichever is the shorter period, contingent on sufficient work being in 
+progress to demonstrate implementation of the QAP. 
+ 
+Stone & Webster Nuclear Quality Standard 7.10, “Control of Purchased Material, 
+Equipment, and Offsite Services for Safety Related Applications,” requires that QA 
+assess the effectiveness of suppliers’ control of quality by auditing the suppliers’ QAP 
+implementation related to PO and contract activities, in accordance with SNS 
+QAD 18.11.  The procedure also details the purchase requirements for safety-related 
+materials and services under Appendix B to 10 CFR Part 50 and invokes the provisions 
+of 10 CFR Part 21, as required by 10 CFR 21.31.  
+ 
+SNS QAD 18.12, “Quality Assurance Surveillances,” establishes provisions for the 
+conduct of surveillance activities to monitor or observe processes, activities, or items in 
+order to assess their adequacy and effectiveness and verify their conformance to 
+specified requirements.  Surveillances are not performed in place of audits or required 
+first line inspections.  Surveillances are scheduled and performed on a quarterly basis, 
+or more frequently depending on previous surveillance results and when requested to 
+assess areas of interest or concern, complex tasks, emerging issues, or previously 
+identified conditions.  The procedure also specifies that internal audits may be 
+recognized as satisfying the quarterly requirement in lieu of surveillance. 
+ 
+The NRC inspection team performed a review of SNS’s QA process to verify that 
+programs and procedures were in place for the adequate control of purchased materials, 
+equipment, and services, including the performance of external audits, for quality 
+activities related to design and construction support for AP1000 new reactor applicants.  
+The NRC inspection team reviewed the POs and contracts associated with the 
+safety-related suppliers on the SNS QRL, as discussed below, to verify compliance with 
+the provisions and requirements of the implementing procedures outlined above. 
+ 
+b.2 Shaw Nuclear Services Safety-Related Purchase Orders
+ 
+ 
+The NRC inspection team reviewed the SNS POs to verify that adequate quality and 
+technical requirements were imposed.  The NRC inspection team verified that the POs 
+included the applicable regulatory, technical, and testing requirements, as well as 
+specifying the applicability of 10 CFR Part 21 and 50.55(e).  SNS did not have a  
+safety-related PO in place with Shaw SSS Fabricators, Inc., at the time of the inspection. 
+ 
+ National Technical Systems (NTS)
+ 
+ 
+The NRC inspection team reviewed PO 132177-E-C-00002 679043 and 
+PO 132175-J800.09, as well as the associated change notices (CNs), which establish 
+the quality and technical requirements of the POs for NTS.  The NRC inspection team 
+noted that the scope of supply for PO 132177-E-C-00002 679043 and  
+PO 132175-J800.09 encompasses the nuclear island waterproof membrane testing for 
+V.C. Summer Units 2 and 3 and Vogtle Units 3 and 4, and includes an additional option 
+to complete the commercial grade dedication for the waterproof membrane at 
+V.C. Summer Unit 3.   
+ 
+ 
+- 5 - 
+Exelon PowerLabs (EPL) 
+ 
+The NRC inspection team reviewed PO 677650OP, which establishes the quality and 
+technical requirements of the PO for EPL.  The NRC inspection team noted that the  
+scope of supply for PO 677650OP encompasses services to provide QA Category 1 
+(i.e., safety-related, off-site measuring and test equipment (M&TE) calibration, testing 
+services, and commercial grade dedication) activities for the V.C. Summer Units 2 and 3 
+project.  The EPL PO specifies that activities affecting quality must be controlled in 
+accordance with the EPL QA Manual, Revision 20, which was approved by SNS QA.  
+ 
+Shaw Modular Solutions (SMS)
+ 
+ 
+The NRC inspection team reviewed PO 527358, PO 527359, PO 527363, PO 527365, 
+PO 132175-D100.M034, PO 132176-D100.M034, PO 132177-D100.M034, and 
+PO 132178-D100.M034, as well as the associated CNs, which establish the quality and 
+technical requirements of the POs for SMS.  The NRC inspection team noted that the 
+scope of supply for PO 527358, PO 527359, PO 527363, and PO 527365 encompasses 
+activities related to the fabrication and assembly of the AP1000 CA type modules, which 
+are steel formwork modules with concrete filled in place.  Specifically, these POs 
+address the CA01, CA02, CA03, CA04, CA05, and CA20 modules for V.C. Summer 
+Units 2 and 3 and Vogtle Units 3 and 4. 
+ 
+The NRC inspection team observed that the additional restrictions and requirements 
+identified as a result of the 2010 SNS audit of SMS (Audit V2010-02) were imposed on 
+PO 527358, PO 527359, PO 527363, and PO 527365 in CN 3.  In addition, the NRC 
+inspection team verified that the SNS QRL was updated to reflect the new requirements 
+and restrictions imposed on SMS. 
+ 
+The NRC inspection team noted that CN 34 for PO 527358, PO 527359, PO 527363, 
+and PO 527365 implemented a stop work order for SMS until all corrective action reports 
+(CARs) related to numerous internal audit findings were resolved.  CN 35, CN 36, 
+CN 37, and CN 39 allowed specific fabrication and assembly activities to continue, 
+subject to ongoing restrictions and requirements.  CN 44 provided for the SNS QRL 
+wording to be changed to allow SMS to resume full fabrication and assembly activities 
+for PO 527358, PO 527359, PO 527363, and PO 527365.  The NRC inspection team 
+reviewed the disposition of the corrective actions and nonconformances related to the 
+stop work order and verified that SNS had adequately evaluated and approved the 
+remedial actions taken by SMS. 
+ 
+The NRC inspection team reviewed the scope of supply for PO 132175-D100.M034, 
+PO 132176-D100.M034, PO 132177-D100.M034, and PO 132178-D100.M034, which 
+encompass activities related to the fabrication and assembly of the AP1000 CB type 
+structural modules for V.C. Summer Units 2 and 3 and Vogtle Units 3 and 4.  AP1000 
+CB modules are remain in place steel formwork modules with concrete poured around. 
+  
+The initial issuance of PO 132175-D100.M034, PO 132176-D100.M034, 
+PO 132177-D100.M034, and PO 132178-D100.M034 stated that SMS cannot 
+(1) complete work under Section III, “Rules for Construction of Nuclear Facility 
+Components,” of the American Society of Mechanical Engineers Boiler and Pressure 
+Vessel Code (ASME Code); (2) apply safety-related coatings; or (3) perform product 
+testing activities in accordance with 10 CFR Part 50, Appendix B, Criterion 11, “Test 
+ 
+- 6 - 
+Control,” until further QA program implementation is verified by SNS.  This action was 
+taken in response to the need for SMS to address several CARs, significant conditions 
+adverse to quality (SCAQs), and nonconformances before AP1000 CB structural module 
+fabrication activities could commence.  
+ 
+The NRC inspection team observed that CN 3 for PO 132175-D100.M034, 
+PO 132176-D100.M034, PO 132177-D100.M034, and PO 132178-D100.M034 provided 
+for the SNS QRL wording to be changed to allow SMS to return to full fabrication and 
+assembly activities for the AP1000 CB Structural Modules.  The NRC inspection team 
+reviewed the disposition of the corrective actions, SCAQs, and nonconformances related 
+to the initial POs and verified that SNS had adequately evaluated and approved the 
+remedial actions taken by SMS.     
+  
+B.F. Shaw, Inc.
+  
+ 
+The NRC inspection team reviewed PO J132175-C601.02, as well as the associated 
+CNs, which establish the quality and technical requirements of the PO for B.F. Shaw.  
+The NRC inspection team noted that the scope of supply for PO J132175-C601.02 
+encompasses the furnishing and fabrication of safety-related ASME Code Class 3 
+piping.  SNS specified that PO J132175-C601.02 was to be performed according to 
+SNS Specification 134948-S-P-00003.  
+ 
+Mactec
+ 
+ 
+The NRC inspection team reviewed SNS Subcontracts 132175-1004-1421 and 
+132177-1104-1205, which establish the quality and technical requirements for Mactec.  
+The NRC inspection team noted that the scope of supply for Subcontract 
+132175-1004-1421 encompasses the procurement of safety-related soil and concrete 
+testing services in support of the Vogtle Units 3 and 4 project, and the scope of supply 
+for Subcontract 132177-1104-1205 encompasses the procurement of safety-related 
+concrete testing services in support of the V.C. Summer Units 2 and 3 project.  
+ 
+William Lettis & Associates
+ 
+ 
+The NRC inspection team reviewed the PO issued to William Lettis & Associates.  The 
+NRC inspection team noted that the scope of supply for the PO encompasses the 
+performance of surveys and tests for geological mapping services in support of the 
+Vogtle Units 3 and 4 project.  The NRC inspection team noted that William Lettis & 
+Associates began providing a limited number of non safety-related services to SNS in 
+October 2009.  However, since then William Lettis & Associates has not performed any 
+safety-related activities for SNS.  
+ 
+Gerdau Ameristeel
+ 
+ 
+The NRC inspection team reviewed PO 132175-J400A-00, PO 132178-J400-00, and 
+PO 132177-J400-00, as well as the associated CNs, which establish the quality and 
+technical requirements of the POs for Gerdau Ameristeel of Tampa, FL.  The NRC 
+inspection team noted that the scope of supply for PO 132175-J400A-00 and 
+PO 132177-J400-00 encompasses billet production; billet storage; billet loading and 
+handling; conversion of billets to bar; detailing; fabrication; shipment of fabricated bar to 
+jobsite location; and installation support through the furnishing of placing plans and 
+ 
+- 7 - 
+personnel visits as mutually agreed upon for Vogtle Units 3 and 4 and V.C. Summer 
+Units 2 and 3, respectively.  The scope of supply for PO 132178-J400-00 includes 
+reinforcing steel for the foundations of cooling towers 3A and 3B for V.C. Summer Unit 3. 
+ 
+The NRC inspection team observed that the restrictions and requirements identified as a 
+result of the 2011 SNS audit of Gerdau Ameristeel were imposed on 
+PO 132175-J400A-00 and PO 132177-J400-00 in CN 8 and CN 7, respectively.  In 
+addition, the NRC inspection team verified that the SNS QRL contained the applicable 
+restrictions for Gerdau Ameristeel.   
+ 
+During its review of PO 132175-J400A-00, PO 132178-J400-00, and 
+PO 132177-J400-00, the NRC inspection team identified that the revisions of the Gerdau 
+Ameristeel QA manuals imposed in the POs did not reflect the current revisions listed in 
+the QRL.  Specifically, section 10 of the POs state that SNS has reviewed and approved 
+Gerdau Ameristeel’s Corporate QA Program Manual (CQAM), Revision 24, dated 
+October 14, 2009; Fabricated Products Group QA Manual (FQAM), Revision 15, dated 
+October 14, 2009; and Mill Group QA Manual (MQAM), Revision 24, dated 
+October 24, 2009.  However, the 2011 SNS audit of Gerdau Ameristeel was based on 
+CQAM Revision 25 and FQAM Revision 16, while the SNS QRL reflects CQAM 
+Revision 26, FQAM Revision 17, and MQAM Revision 26.  SNS provided objective 
+evidence that each revision of the Gerdau Ameristeel QA manuals were reviewed and 
+accepted in accordance with the applicable SNS procedures.  SNS issued 
+CAR 2011-0267 to initiate purchase requisitions and resultant revisions to the POs in 
+order to reconcile the quality requirements to address the current Gerdau Ameristeel QA 
+manuals revisions.  This failure constitutes a violation of minor significance and is not 
+subject to formal enforcement action. 
+ 
+Lincoln Electric Company
+ 
+ 
+The NRC inspection team reviewed PO 695750-000, PO 711798-000, and Shaw Weld 
+Filler Material Specification TR-5.9-2209, which establish the quality and technical 
+requirements of the POs for the Lincoln Electric Company of Cleveland, OH.  The NRC 
+inspection team noted that the scope of supply for PO 695750-000 and PO 711798-000 
+encompasses spooled weld wire for machine welding for the Vogtle and V.C. Summer 
+sites, respectively.  Specification TR-5.9-2209 defines the technical and QA program 
+requirements for purchase of ER2209 bare stainless steel welding wire / rods or 
+electrodes for use in the gas tungsten arc welding (GTAW) or gas metal arc welding 
+(GMAW-P) process for AP1000 reactor plants.   
+ 
+With the exception of the issue noted above regarding the correct Gerdau Ameristeel QA 
+manual revisions being referenced in the applicable POs, the NRC inspection team’s 
+review of the SNS safety-related POs identified no issues of significance. 
+ 
+b.3 Shaw Nuclear Services External Audits and Supplier Evaluations
+ 
+ 
+The NRC inspection team reviewed the qualification audits, routine periodic audits, 
+annual evaluations, and surveillances of the SNS safety-related vendors, contractors, 
+and suppliers in order to verify that adequate controls have been established and 
+implemented for contracted activities.  The NRC inspection team reviewed the SNS 
+audits to verify that SNS provides adequate oversight of its suppliers for quality activities 
+related to design and construction support for AP10000 new reactor applicants.  At the 
+ 
+- 8 - 
+time of the inspection, SNS had performed an audit of the Lincoln Electric Company, but 
+had not completed the audit report. 
+ 
+The NRC inspection team verified that procedures have been established and 
+implemented to select and qualify suppliers supplying basic components.  The NRC 
+inspection team also verified that the SNS procedures describe the scope and purpose 
+of audits to be performed, frequency or schedule of audits (including supplemental 
+audits to provide adequate coverage), applicable audit criteria, basis for re-audit, 
+documentation of audit results, provisions for management review and assessment, 
+corrective action requirements, and follow-up activities. 
+ 
+The NRC inspection team noted that SNS changed their audit checklist in 2010 to make 
+it more consistent with the Nuclear Procurement Issues Committee (NUPIC) checklist.  
+The NUPIC checklist contains a greater level of detail in the objective evidence required 
+while performing the audit, as well as in the questions answered to determine the overall 
+effectiveness of the implementation of a QA program. 
+ 
+The NRC inspection team observed that the SNS audit program has been enhanced 
+through use of the revised checklist and that more observations were documented in the 
+SNS audit reports as a result of the new checklist.  While more documented 
+observations can be an indication of ineffective quality assurance program 
+implementation by SNS suppliers, the NRC inspection team noted that SNS weighs the 
+significance of the observations against the overall performance of the suppliers and the 
+safety significance of the activity being performed, as documented in the SNS audit 
+reports, before making a final determination regarding the effectiveness of the supplier’s 
+quality assurance program. 
+ 
+National Technical Systems
+ 
+ 
+The NRC inspection team reviewed the SNS audits of NTS conducted in 2010 
+and 2011.  SNS conducted Audit V2010-21 in November 2010 to evaluate the adequacy 
+and implementation of NTS’s safety-related QA program for the testing of the nuclear 
+island waterproof membrane, as well as to confirm the establishment of applicable 
+testing procedures and a qualification program.  The SNS audit resulted in 2 
+observations related to the lack of imposing NTS QA requirements on subsuppliers.  
+NTS responded to these audit observations in a timely fashion and they were 
+subsequently closed by SNS.  SNS conducted Audit V2011-08 in April 2011 to evaluate 
+the adequacy and implementation of NTS’s commercial grade dedication program.  The 
+SNS audit resulted in no observations.  The NRC inspection team review identified no 
+issues of significance in this area. 
+ 
+Exelon PowerLabs
+ 
+ 
+The NRC inspection team reviewed the SNS qualification audit of EPL conducted in 
+December 2010.  SNS conducted Audit V2010-23 to evaluate the adequacy and 
+implementation of EPL’s QA program in relation to off-site M&TE calibration, testing 
+services, and CG dedication activities.  The SNS audit resulted in no observations.  The 
+NRC inspection team review identified no issues of significance in this area. 
+ 
+ 
+ 
+ 
+- 9 - 
+Shaw Modular Solutions 
+ 
+The NRC inspection team reviewed the SNS audits of SMS conducted in 2009, 2010, 
+and 2011.  SNS conducted Audit V2009-02 in June 2009 to evaluate the adequacy and 
+implementation of SMS’s QA program in relation to procurement activities.  The SNS 
+audit resulted in 10 observations.  SMS responded to these audit observations in a 
+timely fashion and they were subsequently closed by SNS. 
+ 
+SNS conducted Audit V2009-09 in December 2009 to evaluate the overall adequacy and 
+implementation of SMS’s QA program (full scope audit).  The audit was initially 
+postponed from October 2009 due to equipment problems and a lack of actual  
+safety-related fabrication activities completed by SMS.  The SNS audit resulted in 
+14 audit observations.  Five of the observations identified were related to receipt 
+inspections, which led SNS to restrict SMS’s ability to perform receipt inspections on 
+safety-related materials until the associated CARs were implemented.   
+ 
+SMS CAR 09-025/0 captured the SCAQ which determined that SMS had not 
+successfully achieved the level of work quality necessary to produce nuclear safety-
+related products.  The NRC inspection team verified that these restrictions were 
+appropriately translated to the SNS QRL.   
+ 
+In January 2010, SNS conducted a pre-audit visit with SMS in order to follow-up and 
+provide final resolution of all remaining open items from Audit V2009-09 prior to 
+performance of the next SNS supplier audit.  SMS responded to the remaining audit 
+observations throughout 2010, and the audit was closed by SNS in November 2010. 
+ 
+SNS conducted Audit V2010-02 in February 2010 to evaluate the overall adequacy and 
+implementation of SMS’s QA program (full scope audit).  The SNS audit resulted in 
+20 audit observations.  The audit determined that SMS was appropriately applying the 
+requirements of 10 CFR Part 21, as necessary, and adequately implementing the 
+corrective actions for the previous audit observations, actions, and commitments.  
+However, the results of Audit V2010-02 led to a continuation of the QRL restrictions 
+placed upon SMS, noting that SMS must appropriately address and implement several 
+additional recommendations and observations before safety-related work could resume.  
+ 
+As a follow-up activity to Audit V2010-02, SNS conducted Surveillance 
+S-CH-AP1000-2010-008, in accordance with the applicable SNS procedural 
+requirements for providing supplemental oversight.  The surveillance activity resulted in 
+the discovery of multiple issues related to inaccurate weld travelers.  This discovery led 
+SNS to implement a stop work order on July 22, 2010, in order to allow SMS to address 
+the programmatic and procedural issues present at the facility.  Surveillance 
+S-CH-AP1000-2010-009, conducted in August 2010, reevaluated the issues identified by 
+the previous surveillance and concluded that SMS appropriately addressed corrective 
+actions and implemented the necessary improvements.     
+ 
+SNS conducted Audit V2011-03 in March 2011 to evaluate the overall adequacy and 
+implementation of SMS’s QA program (full scope audit).  The SNS audit resulted in 
+14 audit observations and 20 recommendations.  While the final review and disposition 
+of the observations related to this audit was still underway as of the date of the NRC 
+inspection, the NRC inspection team observed that, for the observation responses 
+already received from SMS, SNS was appropriately evaluating the responses in 
+ 
+- 10 - 
+accordance with the appropriate requirements and procedures, including the provision 
+that the auditors provide a justification for the acceptability of each response.  In 
+addition, the NRC inspection team noted that for SMS responses that were found to be 
+unacceptable, SNS elevated the issue to the attention of the appropriate management 
+and ensured that the issue was acted upon by SMS in a timely manner.     
+ 
+Based on its review of the SMS audits and associated documentation, the NRC 
+inspection team verified that the SNS audit process has been implemented effectively 
+and performed in accordance with established requirements.  The NRC inspection team 
+review identified no issues of significance in this area. 
+ 
+B.F. Shaw, Inc.
+ 
+ 
+The NRC inspection team reviewed the SNS audits of B.F. Shaw conducted in 2010 and 
+2011.  SNS conducted Audit V2010-12 in June 2010 to evaluate the adequacy and 
+implementation of B.F. Shaw’s QA program.  The SNS audit indicated that B.F. Shaw 
+was effectively implementing its QA program and resulted in B.F. Shaw being placed on 
+the SNS QRL.  SNS conducted Audit V2011-15 in June 2011 to verify that the 
+B.F. Shaw QA program and implementing procedures for ASME Code Class 3 piping 
+were effective.  The SNS audit resulted in 7 observations and concluded that B.F. Shaw 
+was effectively implementing its nuclear QA program specific to procurement activities.  
+The NRC inspection team review identified no issues of significance in this area. 
+ 
+Mactec
+ 
+ 
+The NRC inspection team reviewed the SNS audits of Mactec conducted in 2009, 2010, 
+and 2011.  SNS conducted qualification Audit V2009-13 in December 2009 to evaluate 
+the adequacy and implementation of Mactec’s QA program.  The SNS audit resulted in 
+10 observations and concluded that Mactec was effectively implementing its QA 
+program, which resulted in Mactec being placed on the SNS QRL. 
+ 
+SNS conducted limited-scope Audit V2010-10 in May 2010 to evaluate the adequacy 
+and implementation of selected portions of the Mactec QA program.  The SNS audit 
+resulted in 2 observations.  Mactec responded to these audit observations in a timely 
+fashion and they were subsequently closed by SNS. 
+ 
+SNS conducted Audit V2010-19 in October 2010 to evaluate Mactec’s nondestructive 
+evaluation (NDE) program in Charlotte and Greensboro, NC.  The SNS audit resulted in 
+10 observations, with 3 of the observations being characterized as potential SCAQ.  
+Mactec responded to these audit observations in a timely fashion and they were 
+subsequently closed by SNS. 
+ 
+SNS conducted an Audit V2011-07 in April 2011 to verify the implementation of Mactec’s 
+QA program for concrete testing services at its Charlotte, NC, facilities in support of 
+Westinghouse design specification APP-CC01-Z0-027 and the V.C. Summer project.  
+The SNS audit resulted in 2 observations.  Mactec responded to these audit 
+observations in a timely fashion and they were subsequently closed by SNS. 
+ 
+SNS conducted audit Audit V2011-01 in May 2011 at the Mactec Charlotte, NC, offices 
+to verify implementation of the quality and technical requirements related to the soil 
+ 
+- 11 - 
+samples and associated testing supporting the V.C. Summer site.  The SNS audit 
+resulted in no observations. 
+ 
+For all of the Mactec audits and supporting documentation, the NRC inspection team 
+reviewed the Mactec responses to the SNS audit observations, as well as SNS’s 
+evaluation of those responses, to verify that the appropriate requirements and 
+procedures were being implemented.  The NRC inspection team review identified no 
+issues of significance in this area. 
+ 
+William Lettis & Associates
+ 
+ 
+The NRC inspection team reviewed the SNS audits of William Lettis & Associates 
+conducted in 2009 and 2010.  SNS conducted Audit V2009-07 in September 2009 to 
+evaluate the adequacy and implementation of William Lettis & Associates’ QA program 
+specific to procurement activities.  The SNS audit indicated that William Lettis & 
+Associates was effectively implementing its QA program in regard to procurement 
+activities and resulted in William Lettis & Associates being placed on the SNS QRL.  
+SNS conducted Audit V2010-15 in August 2010 to verify that the quality and technical 
+requirements of the William Lettis & Associates geologic mapping services were being 
+effectively implemented.  The SNS audit resulted in 2 observations.  The NRC inspection 
+team reviewed the William Lettis & Associates responses to the SNS audit observations, 
+as well as SNS’s evaluation of those responses, to verify that the appropriate 
+requirements and procedures were being implemented.  The NRC inspection team 
+review identified no issues of significance in this area. 
+ 
+Gerdau Ameristeel
+ 
+ 
+The NRC inspection team reviewed the SNS audits of the Gerdau Ameristeel fabrication 
+shop in Charlotte, NC, conducted in 2010 and 2011.  SNS completed an audit of the 
+Gerdau Ameristeel fabrication shop in Duluth, GA, in July 2011; however, the audit 
+report was not complete at the time of the NRC inspection. 
+ 
+SNS conducted Audit V2010-07 in May 2010, which resulted in 2 observations and 
+Audit V2011-06 in April 2011, which resulted in 19 observations.  The NRC inspection 
+team noted that there was no objective evidence that Gerdau Ameristeel’s Part 21 
+program was evaluated during the 2010 SNS audit.  The NRC inspection team also 
+observed that the original 2011 SNS audit report for Gerdau Ameristeel, which 
+concluded that Gerdau Ameristeel was not effectively implementing its QA program, was 
+changed by SNS corporate to indicate that Gerdau Ameristeel had an effective QA 
+program.  The change in terminology from Revision 0 to Revision 1 of the 
+SNS V2011-06 audit report, which were issued within two days of each other, 
+documents the significance of the 19 audit observations and their effect on the overall 
+performance of the supplier. 
+ 
+SNS initiated CAR 2011-0057 on May 6, 2011, to document the issue of only identifying 
+that the supplier is not effectively following their QA program, without providing additional 
+detail or observations.  CAR 2011-0057 stated that this would give the reader of the 
+audit report the impression that nothing is being implemented correctly and that a stop 
+work order should be issued.  The NRC inspection team noted that SNS was evaluating 
+the proper corrective actions for CAR 2011-0057, such as providing additional guidance 
+ 
+- 12 - 
+to lead auditors for procedures related to reporting the overall effectiveness of the 
+supplier’s QA program implementation.   
+ 
+As noted previously, there are three different QA manuals for Gerdau Ameristeel  
+(i.e., corporate (CQAM), fabricated products (FQAM), and mill group (MQAM)) that were 
+reviewed and approved by SNS and listed on the SNS QRL.  During both audits of the 
+Charlotte fabrication shop, SNS audited the implementation of the Gerdau Ameristeel 
+CQAM and FQAM.  The NRC inspection team observed that an implementation audit of 
+the Gerdau Ameristeel MQAM had not been conducted at the Charlotte steel mill where 
+billet production and storage had occurred consistent with PO 132175-J400A-00 and 
+PO 132177-J400-00.  The NRC inspection team noted that Section 7 of the 
+SWSQAP 1-74A requires that a supplier evaluation shall be documented and shall 
+include the supplier’s technical and quality capability as determined by a direct 
+evaluation via survey/audit of the facilities, personnel, and the implementation of the 
+supplier’s quality assurance program.   
+ 
+In addition, Section 10 of PO 132175-J400A-00 and PO 132177-J400-00 states that 
+Shaw “shall perform a post-award (implementation) audit of Gerdau Ameristeel’s quality 
+assurance program(s) and facilities.”  During discussions between the NRC inspection 
+team and SNS management it was stated that SNS was taking credit for internal audits 
+conducted by the Gerdau Ameristeel Charlotte fabrication shop of the Charlotte steel 
+mill.  The NRC inspection team observed objective evidence in Audit V2010-07 and 
+Audit V2011-06 that alludes to the reliance of SNS on the Gerdau Ameristeel fabrication 
+shop to audit the steel mills which are owned by the same company.  SNS also provided 
+a copy of surveillance report S-CH-AP100-V-2011-001, which documents the verification 
+of SNS owned material traceability from Gerdau Ameristeel inventory through finished 
+product at the Charlotte steel mill, consistent with Article 8 of the MQAM. 
+ 
+Based on its review, the NRC inspection team concluded that the SNS surveillance was 
+not comparable to an implementation audit of the Gerdau Ameristeel Charlotte steel mill, 
+and would therefore be inconsistent with the requirements of SNS QAD 18.12.  In 
+addition, SNS Audit V2010-07 and Audit V2011-06 both recommend that an audit of the 
+steel mill be performed.  The NRC inspection team determined that SNS’s failure to 
+conduct an implementation audit at the Gerdau Ameristeel Charlotte steel mill is 
+inconsistent with the SWSQAP 1-74A, as well as PO 132175-J400A-00 and 
+PO 132177-J400-00, and is identified as Nonconformance 99901387/2011-202-01. 
+ 
+CN 9 to PO 132177-J400-00 released Gerdau Ameristeel to procure rebar mechanical 
+couplers on behalf of SNS.  The NRC inspection team reviewed the SNS audits of 
+Gerdau Ameristeel to verify that SNS performed adequate oversight of procurement 
+activities conducted on behalf of SNS.  The NRC inspection team noted that SNS 
+Audit V2010-07 and Audit V2011-06 determined that Gerdau Ameristeel was effectively 
+implementing their procurement document control process even though the Gerdau 
+Ameristeel Charlotte fabrication shop had not undertaken any safety-related 
+procurements.  In addition, the NRC inspection team observed that SNS Audit V2011-06 
+did not provide objective evidence to support the satisfactory result documented in 
+Section 4 and Table C of the audit report. 
+ 
+During the same period as the inspection at SNS, the NRC conducted an inspection at 
+the Gerdau Ameristeel Charlotte fabrication shop.  The NRC inspection team at Gerdau 
+Ameristeel identified that Gerdau Ameristeel did not have a procedure for the creation of 
+ 
+- 13 - 
+procurement documents.  Specifically, the NRC inspection team at Gerdau Ameristeel 
+identified that the procurement document issued to Erico Products for mechanical 
+couplers failed to specify the applicable inspection and testing records needed for 
+subsequent review by Gerdau Ameristeel.  The NRC inspection team at SNS observed 
+that SNS Audit V2011-06 documents that Gerdau Ameristeel was “actively initiating a 
+quotation to Shaw for rebar mechanical couplers that will eventually be purchased from 
+Erico Products for nuclear applications.”  Based on the above, the NRC inspection team 
+determined that SNS failed to provide adequate oversight of Gerdau Ameristeel’s 
+procurement process to ensure that other requirements, such as the provisions for 
+inspection and test records, which are necessary to assure adequate quality, were 
+suitably included or referenced in the procurement documents for mechanical couplers.  
+This issue is identified as Nonconformance 99901387/2011-202-02. 
+ 
+Shaw SSS Fabricators, Inc. (SSS)
+ 
+ 
+The NRC inspection team reviewed the SNS audits of SSS conducted in 2010 and 2011.  
+SNS conducted Audit V2010-08 in May 2010 to evaluate the adequacy and 
+implementation of SSS’s safety-related and non safety-related QA programs for the 
+fabrication of structural steel items for domestic nuclear power plant applications.  The 
+SNS audit resulted in 18 observations and concluded that SSS was not effectively 
+implementing its QA program for either safety-related or non safety-related activities.  As 
+a result of the SNS audit, SSS decided to develop and implement a new QA program. 
+ 
+SNS conducted limited-scope Audit V2010-16 in August 2010 to evaluate SSS’s revised 
+QA program for compliance with the applicable requirements of Appendix B to 10 CFR 
+Part 50 and ASME NQA-1-1994, "Quality Assurance Requirements for Nuclear Facility 
+Applications," as well as to assess QA program implementation relative to the 
+procurement prebuy process for structural steel to be provided to SNS for work 
+associated with V.C. Summer Units 2 and 3 and Vogtle Units 3 and 4.  The NRC 
+inspection team observed that the SSS QA manual verified during Audit V2010-16 was 
+Revision 0, dated August 16, 2010.  The SNS QRL listed Revision 0 as the approved 
+SSS QA manual and restricts QA Category I work to procurement only.  The QRL also 
+stated that a full qualification audit will need to be conducted prior to extending this 
+qualification or removing the restriction. 
+ 
+The NRC inspection team observed that SNS attempted an additional audit of SSS 
+during the week of May 16, 2011, which was halted after 1 day.  The NRC inspection 
+team noted that the SSS QA manual presented to the SNS audit team was Revision 2.  
+However, the nuclear QA procedures in use at SSS at the time of the SNS audit were 
+still written to implement Revision 0 of the SSS QA manual (i.e., the implementing 
+procedures did not match the SSS QA manual, Revision 2).  The NRC inspection team 
+reviewed the available documentation associated with the SNS audit of SSS, which was 
+still open at the time of the NRC inspection.  SNS initiated CAR 2011-0266, dated 
+August 4, 2011, to document the attempted audit and to restrict SSS on the SNS QRL to 
+QA Category II and III work only (i.e., non safety-related activities). 
+ 
+The NRC inspection team review identified no issues of significance in this area. 
+ 
+ 
+- 14 - 
+b.4 Qualification of Shaw Nuclear Auditors 
+ 
+Section 2 of the SWSQAP 1-74A requires that personnel performing quality assurance 
+and quality control functions be qualified, certified, and recertified as required by 
+applicable codes and standards.  SNS QAD 2.13 establishes the requirements for the 
+qualification and certification of lead auditors.  The NRC inspection team reviewed a 
+sample of five lead auditor qualification records and six auditor qualification records and 
+confirmed that auditing personnel had completed all required training and maintained 
+qualification and certification in accordance with the applicable SNS policies and 
+procedures.  No issues of significance were identified. 
+ 
+c. Conclusions
+ 
+ 
+The NRC inspection team identified Nonconformance 99901387/2011-202-01 for SNS’s 
+failure to audit the Gerdau Ameristeel Charlotte Steel Mill in order to verify the 
+implementation of the Mill Group Quality Assurance Manual as required by Purchase 
+Orders 132175-J400A-00 and 132177-J400-00.  In addition, the NRC inspection team 
+identified Nonconformance 99901387/2011-202-02 for SNS’s failure to provide adequate 
+oversight of Gerdau Ameristeel’s procurement process to ensure that applicable 
+requirements necessary to assure adequate quality, such as the provisions for 
+inspection and test records, were suitably included or referenced in procurement 
+documents for mechanical couplers. 
+    
+2.  Entrance and Exit Meetings
+ 
+ 
+On August 1, 2011, the NRC inspection team discussed the scope of the inspection with 
+Mr. Robert Otis, SNS Quality Assurance Manager, and other members of the SNS 
+management and staff.  On August 4, 2011, the NRC inspection team presented the 
+inspection results and observations during an exit meeting with Mr. Robert Otis and other 
+SNS staff.  Attachment A to this report lists the entrance and exit meeting attendees, as well 
+as those individuals interviewed by the NRC inspection team.  
+ 
+- 15 - 
+ATTACHMENT A 
+ 
+ 
+1. ENTRANCE / EXIT MEETING ATTENDEES
+ 
+ 
+Name Title Affiliation Entrance Exit Interviewed 
+Kerri Kavanagh Inspection Team Leader NRC/NRO/DCIP X X  
+Marlayna Vaaler Inspector NRC/NRO/DCIP X X  
+Shavon Edmonds Inspector NRC/NRO/DCIP X X  
+Bill Curtis Audits Manager Shaw Nuclear   X 
+Bill Fox V.C. Summer Project 
+Director Shaw Nuclear  X*  
+Curt Castell Lead Licensing Engineer Shaw Power X X  
+David Jantosik Director, Quality 
+Operations Management Shaw Power X X X 
+Dennis Dreyfus  Vice President, Quality 
+Assurance Shaw Nuclear X X* X 
+Geoffrey Grant Vice President, Licensing 
+and Regulatory Affairs Shaw Power X X X 
+John Oddo  Licensing Manager Shaw Nuclear  X*  
+Kerry David  Chief Comp Officer Shaw Nuclear  X*  
+Mark McKain   Vice President and 
+General Counsel  Shaw Power  X*  
+Matthew Maradeo Lead Auditor Shaw Nuclear   X 
+Mike Huss Lead Auditor Shaw Nuclear   X 
+Richard Fay Director, Quality 
+Assurance Operations Shaw Power  X  
+Robert Otis Quality Assurance 
+Manager Shaw Nuclear X X X 
+Virgil Barton Senior Vice President, 
+Quality Shaw Power  X  
+    * by conference call 
+ 
+2.  INSPECTION PROCEDURES USED  
+  
+ IP 43003, “Reactive Inspections of Nuclear Vendors”  
+  
+ IP 43002, “Routine Inspections of Nuclear Vendors” 
+ 
+3.  LIST OF ITEMS OPENED, CLOSED, AND DISCUSSED  
+ 
+The NRC conducted its previous limited-scope inspection of the Shaw Nuclear Services 
+facility in Charlotte, NC, in June 2011.  The inspection report for the June 2011 
+limited-scope inspection was not issued at the time of this NRC inspection.   
+ 
+The following issues were identified during this inspection:  
+ 
+Item Number
+   Status   Type   Description  
+ 
+99901387/2011-202-01  Open  NON  Criterion VII 
+99901387/2011-202-02  Open  NON  Criterion VII and Criterion IV 
+ 
+- 16 - 
+ATTACHMENT B 
+ 
+LIST OF DOCUMENTS REVIEWED: 
+ 
+Policy and Procedure Related Documents
+ 
+ 
+− Shaw Standard Nuclear Quality Assurance Program (SWSQAP 1-74A) Revision B, 
+June 1, 2009 
+− Shaw Nuclear Quality Rating List, as of July 29, 2011 
+− Nuclear Quality Assurance Directive (QAD) 2.13, “Qualification and Certification of 
+Personnel Performing Quality Assurance Audits,” Revision F, September 21, 2006 
+− Shaw Nuclear QAD 7.1, “Inspection Report System for Procurement Quality Assurance 
+Source Inspection,” Revision A, December 22, 2010 
+− Shaw Nuclear QAD 7.3, “Procurement Quality Assurance Supplier Oversight Program,” 
+Revision O, February 8, 2010 
+− Shaw Nuclear QAD 7.8, “Supplier’s Documentation Review,” Revision F, May 19, 2011 
+− Shaw Nuclear QAD 7.14, “Receiving Inspection,” Revision B, April 28, 2010 
+− Shaw Nuclear QAD 7.17, “Supplier and Contractor QA Program Manual Reviews and 
+Qualification Audits,” Revision L, October 4, 2010 
+− Shaw Nuclear QAD 7.19, “Shaw Nuclear Use of Nuclear Industry Assessment 
+Committee (NIAC) Member Audits,” Revision O, November 5, 2007 
+− Shaw Nuclear QAD 7.20, “Shaw Nuclear Responsibilities When Performing Audits as a 
+Member of NIAC,” Revision O, November 5, 2007 
+− Shaw Nuclear QAD 7.21, “Shaw Nuclear Use of Third Party Audits,” Revision O, 
+August 24, 2010 
+− Shaw Nuclear QAD 10.68, “Inspection Planning,” Revision O, January 25, 2010 
+− Shaw Stone and Webster Nuclear Services Nuclear QAD 18.2, “Quality Audit Plans,” 
+Revision H, March 1, 2005 
+− Shaw Nuclear QAD 18.11, “Post Award QA Audits of Suppliers and Site Contractors,” 
+Revision T, September 29, 2010 
+− Shaw Nuclear QAD 18.11, “Post Award QA Audits of Sellers and Site Contractors,” 
+Revision S, April 27, 2010 
+− Shaw Nuclear QAD 18.11, “Post Award QA Audits of Sellers and Site Contractors,” 
+Revision R, August 14, 2009 
+− Shaw Nuclear QAD 18.12, “Quality Assurance Surveillances,” Revision C, 
+October 25, 2010 
+− Shaw Nuclear Quality Standard 4.1, “Site Procurement and Subcontracts,” Revision D, 
+July 14, 2000 
+− Shaw Nuclear Quality Standard 7.1, “Receiving Process” Revision F, June 30, 2009 
+− Stone and Webster Nuclear Quality Standard 7.10, “Control of Purchased Material, 
+Equipment, and Offsite Services for Safety Related Applications,” Revision E, 
+July 14, 2000 
+− Shaw Nuclear Quality Standard 10.67, “Inspection Planning System,” Revision O, 
+March 1, 2010 
+− Shaw Nuclear Quality Standard 10.67, “Quality Audit Program,” Revision K, 
+April 18, 2011 
+− Nuclear Worldwide Procurement Procedure, WPP 9.0, “Nuclear Procurement,” 
+Revision 2, June 10, 2009 
+ 
+- 17 - 
+− Engineering & Design Coordination Report (E&DCR) SV3-CR01-GEF-000006, “NI 
+Basemat Rebar Shop Drawings,” Revision 0, March 31, 2011 
+− Nuclear Quality Standard (QS) 4.3, “Office Procurement and Subcontracting and 
+Selection of Suppliers,” Revision H, August 13, 2010 
+− Bidder Quality Assurance Manual Questionnaire QA Category I, “Gerdau Ameristeel,” 
+October 22, 2009 
+− Memorandum to Vendor File, “Review of Gerdau Ameristeel Fabricated Products Group 
+Quality Assurance Manual Revision 16 dated October 18, 2010,” December 7, 2010 
+− Memorandum to Vendor File, “Review of Gerdau Ameristeel Corporate Quality 
+Assurance Manual Revision 25 dated June 4, 2010,” March 3, 2011 
+− Memorandum to Vendor File, “Review of Gerdau Ameristeel Steel Mill Group Quality 
+Assurance Manual Revision 25 dated June 4, 2010,” March 3, 2011 
+− Memorandum to Vendor File, “Review of Gerdau Corporate Quality Assurance Manual, 
+Revision 26, dated 7/15/11,” July 15, 2011 
+− Memorandum to Vendor File, “Review of Gerdau Quality Assurance Manual – 
+Fabricated Products Group, Revision 17, dated 7/15/11,” July 15, 2011 
+− Memorandum to Vendor File, “Review of Gerdau Quality Assurance Manual – Steel Mill 
+Group, Revision 26, dated 7/15/11,” July 15, 2011 
+ 
+Audit Reports and Related Documentation
+ 
+ 
+− Letter to Exelon PowerLabs: Shaw Nuclear Services Quality Assurance Audit of Exelon 
+PowerLabs, Audit No. V2010-23, dated November 2, 2010 
+− Audit Plan No. V2010-23 and Completed Checklist – Audit of Exelon PowerLabs, dated 
+December 10, 2010 
+− Letter to Exelon PowerLabs: Shaw Nuclear Services Quality Assurance Audit of Exelon 
+PowerLabs, Audit No. V2010-23, dated December 13, 2010 
+− Letters to National Technical Systems: Shaw Nuclear Services, Inc. Quality Assurance 
+Audit of National Technical Systems, Acton, MA, dated September 22, 2010 and 
+September 30, 2010  
+− Letter to National Technical Systems: Shaw Nuclear Services, Inc., Quality Assurance 
+Audit of NTS, Acton, MA, Audit No. V2010-21, dated November 9, 2010  
+− Shaw Nuclear Services Quality Assurance Audit Observation Response Evaluations for 
+the National Technical Systems Quality Assurance Audit 
+− Letter to National Technical Systems: Shaw Nuclear Services Quality Assurance Audit of 
+National Technical Systems (NTS), Audit No. V2011-08, dated March 29, 2011  
+− Audit Plan No. V2011-08 and Completed Checklist – Audit of National Technical 
+Systems, dated April 29, 2011 
+− Letter to National Technical Systems: Shaw Nuclear Services, Inc., Quality Assurance 
+Audit of National Technical Systems (NTS), Audit No. V2011-08, dated April 29, 2011 
+− Letter to Outokumpu Stainless: Supplier Qualification of Outokumpu Stainless, 
+Degerfors, Sweden, Audit V2009-01, dated April 6, 2009 
+− Letter to Outokumpu Stainless: Audit V2009-01, Shaw Nuclear Services Quality 
+Assurance Supplier Audit of Outokumpu, Degerfors Sweden April 14-17, 2009, dated 
+May 1, 2009  
+− Audit Plan No. V2009-01 and Completed Checklist – Audit of Outokumpu - Degerfors 
+Sweden, dated April 30, 2009  
+− Letter to Outokumpu Stainless: Supplier Qualification of Outokumpu Stainless Inc., New 
+Castle, Indiana, Audit V2009-03, dated May 5, 2009 
+ 
+- 18 - 
+− Letter to Outokumpu Stainless: Shaw Nuclear Services, Inc. Audit of Outokumpu 
+Stainless, Inc., New Castle, Indiana, Audit V2009-03, dated June 23, 2009 
+− Audit Plan No. V2009-03 and Completed Checklist – Audit of Outokumpu Stainless Inc. - 
+New Castle, Indiana, dated June 30, 200 
+− Letter to Shaw Modular Solutions: Audit No. V2009-02 – Supplier Qualification Audit 
+SMS Modular Solutions LLC, Lake Charles, Louisiana, dated May 4, 2009  
+− Audit Plan No. V2009-02 and Completed Checklist – Audit of Shaw Modular Solutions 
+LLC, dated June 2, 2009  
+− Letter to Shaw Modular Solutions: Audit No. V2009-02, Shaw Nuclear Services Audit of 
+Shaw Modular Solutions (SMS), LLC May 12-14, 2009, dated May 21, 2009  
+− Letter to Shaw Nuclear Services: Shaw Modular Solutions, LLC response to Shaw 
+Nuclear Services audit V2009-02, dated June 2, 2009 
+− Shaw Stone and Webster, Inc. Quality Assurance Observation Response Evaluations for 
+the Shaw Modular Solutions Quality Assurance Audit 
+− Letters to Shaw Modular Solutions: Shaw Nuclear Services, Inc. Audit No. V2009-09 – 
+Audit of Shaw Modular Solutions (SMS), LLC, Lake Charles, Louisiana, dated 
+October 15, 2009 and November 2, 2009  
+− Audit Plan No. V2009-09 and Completed Checklist – Audit of Shaw Modular Solutions 
+LLC, dated December 16, 2009  
+− Letter to Shaw Modular Solutions: Audit No. V2009-09 – Shaw Nuclear Services (SNS) 
+Audit of Shaw Modular Solutions (SMS), LLC, December 1-3,2009, dated 
+December 16, 2009  
+− Letter to Shaw Nuclear Services: Shaw Modular Solutions (SMS) Responses to Shaw 
+Nuclear Services (SNS) Observations from Audit V2009-09, dated December 24, 2009 
+− Letter to Shaw Modular Solutions: Shaw Nuclear Services, Inc.: Pre-audit Visit – 
+January 25-27, 2010, dated January 18, 2010  
+− Letter to Shaw Modular Solutions: Shaw Nuclear Services, Inc. Audit No. V2009-09 – 
+Audit of Shaw Modular Solutions (SMS), LLC Has Been Closed, dated 
+November 8, 2010   
+− Letter to Shaw Modular Solutions: Shaw Nuclear Services, Inc. Audit of Shaw Modular 
+Solutions. LLC – Audit No. V2010-02 – February 8-12, 2010, dated February 2, 2010 
+− Audit Plan No. V2010-02 and Completed Checklist – Audit of Shaw Modular Solutions, 
+LLC, dated March 17, 2010  
+− Letter to Shaw Modular Solutions: Shaw Nuclear Services (SNS) Audit No. V2010-02 – 
+Audit of Shaw Modular Solutions (SMS), LLC, February 8-March 11, 2010, dated 
+March 18, 2010  
+− Shaw Nuclear Services Quality Assurance Audit Observation Response Evaluations for 
+the Shaw Modular Solutions Quality Assurance Audit 
+− Letter to Shaw Modular Solutions: Shaw Nuclear Services, Inc. Audit of Shaw Modular 
+Solutions, LLC – Audit No. V2011-03 – March 7-11, 2011, dated February 16, 2011 
+− Audit Plan No. V2011-03 and Completed Checklist – Audit of Shaw Modular Solutions, 
+LLC, dated April 6, 2011 
+− Letter to Shaw Modular Solutions: Shaw Nuclear Services, Inc. Audit of Shaw Modular 
+Solutions, LLC – Audit No. V2011-03 – March 7-10, 2011, dated April 8, 2011  
+− Shaw Nuclear Surveillance S-CH-AP1000-2010-008 on Job Number 1321750001 and 
+1321770001 
+− Shaw Nuclear Surveillance S-CH-AP1000-2010-009 on Job Number 1321750001 and 
+1321770001 
+ 
+- 19 - 
+− Commercial Grade Survey Report CGS-11-002 – Survey Number CGS-11-002 – Metals 
+USA – Waggaman, LA, dated April 26-27, 2011 
+− Audit No. V2010-07, “Audit of Gerdau Ameristeel,” dated July 6, 2010 
+− Audit No. V2010-08, “Shaw Nuclear Services, Inc. Audit of Shaw SSS Fabricators, Inc., 
+Addis, LA,” dated June 3, 2010 
+− Audit No. V2010-16, “Limited Scope Audit Report – Audit No. V2010-16 – Shaw Nuclear 
+Services Quality Assurance Audit of Shaw SSS Fabricators, Inc.,” dated 
+August 30, 2010 
+− Audit No. V2011-01, “Audit of Mactec,” May 4, 2011 
+− Audit No. V2009-13, “Audit of Mactec,” December 28, 2009, and January 5, 2010 
+− Audit No. V2010-10, “Audit of Mactec,” May 4-5 , 2011 
+− Audit No. V2010-19, “Audit of Mactec,” October 18, 2010 
+− Audit No. V2011-07, “Audit of Mactec,” April 5-7, 2011 
+− Audit No. V2011-15, “Audit of BF Shaw,” June 13-17, 2011 
+− Audit No. V2010-12, “Audit of BF Shaw,” June 21, 2010 
+− Audit No. V2009-07, “Audit of William & Lettis,” September 1, 2009 
+− Audit No. V2010-15, “Audit of William & Lettis,” August 9-11, 2010 
+ 
+Purchase Orders and Associated Design Specifications 
+ 
+− Purchase Order (PO) 132175-J400A-00, Gerdau Ameristeel US, Inc., dated 
+December 24, 2009 
+− Westinghouse Design Specification APP-CR01-Z0-001, “Furnishing of Safety Related 
+Reinforcing Steel,” Revision 2, dated December 21, 2009 
+− PO 132175-J400A-00, Revision 1, dated February 26, 2010 
+− PO 132175-J400A-00, Revision 2, dated March 25, 2010 
+− PO 132175-J400A-00, Revision 3, dated July 29, 2010 
+− PO 132175-J400A-00, Revision 4, dated March 31, 2011 
+− PO 132175-J400A-00, Revision 5, dated March 31, 2011 
+− PO 132175-J400A-00, Revision 6, dated April 1, 2011 
+− PO 132175-J400A-00, Revision 7, dated April 15, 2011 
+− PO 132175-J400A-00, Revision 8, dated April 21, 2011 
+− PO 132175-J400A-00, Revision 9, dated April 28, 2011 
+− PO 132175-J400A-00, Revision 10, dated May 11, 2011 
+− PO 132175-J400A-00, Revision 11, dated May 27, 2011 
+− PO 132175-J400A-00, Revision 12, dated June 6, 2011 
+− PO 132175-J400A-00, Revision 13, dated June 9, 2011 
+− E&DCR SV0-CR01-GEF-000007, “NI Basemat Layer 2 Rebar Lengths,” Revision 0, 
+dated June 2, 2011 
+− PO 132175-J400A-00, Revision 14, dated June 20, 2011 
+− PO 132175-J400A-00, Revision 15, dated July 5, 2011 
+− PO 132175-J400A-00, Revision 16, dated July 5, 2011 
+− PO 695750-000, Lincoln Electric Company, May 25, 2011 
+− Shaw Nuclear Weld Filler Material Specif ication, TR-5.9-309L, “ER309L Stainless Steel 
+Bare Wire/Rods or Electrodes,” Revision 0, dated November 22, 2010 
+− PO 711798-000, Lincoln Electric Company, dated July 25, 2011 
+− Shaw Nuclear Weld Filler Material Specification, TR-5.9-2209, “ER2209 Duplex 
+Stainless Steel Bare Wire/Rods or Electrodes,” Revision 3, dated May 12, 2011 
+− PO 132178-J400.00, Gerdau Ameristeel US Inc., dated May 25, 2011 
+ 
+- 20 - 
+− PO 132178-J400.00, Revision 1, dated July 13, 2011 
+− PO 132177-J400-00, Gerdau Ameristeel US Inc., dated December 24, 2009 
+− PO 132177-J400-00, Revision 1, dated March 25, 2010 
+− PO 132177-J400-00, Revision 2, dated June 8, 2010 
+− PO 132177-J400-00, Revision 3, dated December 9, 2010 
+− PO 132177-J400-00, Revision 4, dated March 28, 2011 
+− PO 132177-J400-00, Revision 5, dated April 7, 2011 
+− PO 132177-J400-00, Revision 6, dated April 8, 2011 
+− PO 132177-J400-00, Revision 7, dated April 21, 2011 
+− E&DCR VS2-Cr01-GEF-000004, “Safety Related Rebar Criteria,” Revision 0, dated 
+April 7, 2011. 
+− PO 132177-J400-00, Revision 8, dated May 11, 2011 
+− PO 132177-J400-00, Revision 10, dated June 17, 2011 
+− PO 132177-J400-00, Revision 11, dated June 29, 2011 
+− PO 132177-J400-00, Revision 12, dated July 5, 2011 
+− Training Records for M. Goyda, R. Stevenson, P. Edwards, D. Lanham, D. McCorkle, D. 
+Capouellez, M. Huss, T. Dukes, M. Maradeo, R. Avrich, and F. Cello. 
+− Purchase Order 677650OP, dated March 21, 2011  
+− Noncompetitive Procurement Justification – Scope of Work for Off-Site M&TE 
+Calibration Services, dated March 21, 2011  
+− Purchase Order 132177-E-C-00002 679043, Revision 0 – Engineering Scope of Work 
+for Nuclear Island Waterproof Membrane Testing (VC Summer Units 2 and 3), dated 
+March 23, 2011  
+− Engineering Services Scope of Work for Nuclear Island Waterproofing Membrane 
+Testing, dated February 23, 2011  
+− Domestic AP1000 Project Specification VSG-AT01-Z0-001 – Nuclear Island 
+Waterproofing Membrane, Revision 2, dated May 26, 2010  
+− Project Technical Report VSG-AT01-A0R-001 – Analysis of Critical Characteristics for 
+VC Summer Units 2 and 3 Waterproof Membrane Material, Revision 0, dated 
+September 23, 2010  
+− Purchase Order 132175-J800.09, Revision 0 – Nuclear Island Waterproofing Membrane 
+Testing (Vogtle Unit 3 and Site), dated August 4, 2010  
+− Purchase Order 132175-J800.09, Revision 1 – Nuclear Island Waterproofing Membrane 
+Testing (Vogtle Unit 3 and Site), dated November 9, 2010  
+− Purchase Order 132175-J800.09, Revision 2 – Nuclear Island Waterproofing Membrane 
+Testing (Vogtle Unit 3 and Site), dated December 2, 2010  
+− Purchase Order 132175-J800.09, Revision 3 – Nuclear Island Waterproofing Membrane 
+Testing (Vogtle Unit 3 and Site), dated December 2, 2010  
+− Purchase Order 132175-J800.09, Revision 4 – Nuclear Island Waterproofing Membrane 
+Testing (Vogtle Unit 3 and Site), dated January 11, 2011  
+− Purchase Order 132175-J800.09, Revision 5 – Nuclear Island Waterproofing Membrane 
+Testing (Vogtle Unit 3 and Site), dated February 4, 2011  
+− Purchase Order 132175-J800.09, Revision 6 – Nuclear Island Waterproofing Membrane 
+Testing (Vogtle Unit 3 and Site), dated February 10, 2011  
+− Purchase Order 132175-J800.09, Revision 7 – Nuclear Island Waterproofing Membrane 
+Testing (Vogtle Unit 3 and Site), dated March 16, 2011  
+− Purchase Order 132175-J800.09, Revision 8 – Nuclear Island Waterproofing Membrane 
+Testing (Vogtle Unit 3 and Site), dated May 5, 2011  
+ 
+- 21 - 
+− Engineering Services Scope of Work for Nuclear Island Waterproofing Membrane 
+Testing, dated April 5, 2011  
+− APP-PL02-ZO-001 – Piping Class Sheets and Standard Details, Revision 6, dated 
+March 31, 2011  
+− Design Specification APP-PY30-ZO-001 – Single Stage Orifice Plates, Revision 3, dated 
+September 28, 2010 
+− Design Specification APP-PY25-ZO-001 – Single Stage, ASME Boiler and Pressure 
+Vessel Code, Section III, Class 1, 2, and 3 Orifices, Revision 3, dated August 27, 2010 
+− APP-PY10-ZO-001 – Functional Requirements for Inline Piping Component Gaskets, 
+Revision 0, dated March 12, 2010  
+− Design Specification APP-G1-PX-003 – Protective Coatings for Piping, Revision 3, dated 
+April 8, 2011 
+− APP-GW-GEX-003 – Module Equipment Listing, Revision 2, dated June 14, 2011  
+− APP-CR01-ZO-010 – Specification for Supply and Installation of Mechanical Splices for 
+Reinforcing Steel, Revision 6, dated April 19, 2011  
+− Design Specification APP-CR01-ZO-011 – Furnishing of Safety Related Reinforcing 
+Steel, Revision 2, dated December 21, 2009  
+− Design Specification APP-GI-MX-001 – AP1000 Painting of OEM Mechanical 
+Components, Revision 4, dated April 8, 2011 
+− APP-GW-VH-002 – AP1000 Packing and Packaging Components and Spare Parts for 
+Shipment, Revision 1, dated February 24, 2009  
+− Design Specification APP-PO02-ZO-102 – AP1000 Class 2, 3 Piping and B31.1 
+Extensions Design Specification, Revision 1, dated August 25, 2010 
+− Design Specification APP-GI-AX-001 – Field Coating and Lining for Concrete and Metal 
+Surfaces, Revision 3, dated April 8, 2011 
+− Design Specification APP-GI-SX-001 – AP1000 Painting of Shop Fabricated Steel, 
+Revision 4, dated April 8, 2011 
+− Design Specification APP-GI-PX-003 – Protective Coatings for Piping, Revision 3, dated 
+April 8, 2011 
+− Design Specification APP-GW-XO-604 – Application of Protective Coatings to Systems, 
+Structures, and Components for the AP1000 Reactor Plant, Revision 4, dated 
+August 1, 2010 
+− APP-GW-ZO-200 – Material Specification for ASTM B861 Titanium Pipe Grade 2, 
+Revision 0, dated May 11, 2009  
+− Design Specification APP-SS01-ZO-001 – Shop Fabrication of Structural Steel, 
+Revision 2, dated February 25, 2011 
+− APP-GW-VLR-002 – Technical Requirements of Stainless Steels, Nickel-Base Alloys, 
+Carbon and Low Alloy Steels, and Welding Materials for the AP1000, Revision 1, dated 
+February 27, 2009  
+− APP-PH03-ZO-002 – AP1000 ASME B31.1 Pipe Supports/Tubing Supports Fabrication 
+and Installation Specification, Revision 2, dated December 13, 2010 
+− APP-GW-ZO-602 – AP1000 Cleaning and Cleanliness Requirements of Equipment for 
+Use in Nuclear Supply and Associated Systems, Revision 2, dated September 16, 2010 
+− APP-VW20-ZO-023 – Welding Specification for ASTM A240 UNS S32101 Duplex 
+Stainless Steel Plate, Revision 3, dated February 11, 2011  
+− APP-VW10-ZO-001 – Structural Module Shear Stud Welding Specification, Revision 2, 
+dated April 20, 2011  
+− APP-VL52-ZO-040 – Material Specification for ASTM B265 Grade 2, Titanium Plate, 
+Revision 0, dated April 11, 2009 
+ 
+- 22 - 
+− APP-VL52-ZO-023 – Material Specification for ASTM A240 UNS S32101 Duplex 
+Stainless Steel Plate, Revision 1, dated April 16, 2008 
+− Design Specification APP-SS01-ZO-003 – Embedded and Miscellaneous Steel, 
+Westinghouse Safety Class C, Revision 3, dated March 3, 2011 
+− APP-GW-ZO-620 – AP1000 Requirements for Marking of Reactor Plant Components 
+and Piping, Revision 1, dated February 24, 2009 
+− APP-GW-ZO-610 – Supplementary Manufacturing Information, Revision 0, dated 
+September 26, 2006 
+− APP-GW-ZO-607 – Determination of Surface Chloride and Fluoride Contamination of 
+Stainless Steel Materials, Revision 0, dated August 4, 2006 
+− APP-GW-ZO-606 – Requirements for Pressure Sensitive Tapes for use on Unheated 
+Austenitic Stainless Steel Reactor Components and Systems, Revision 1, dated 
+August 24, 2010 
+− Design Specification APP-PH02-ZO-001 – AP1000 ASME Section III Class 1, 2, and 3 
+and Seismic Category II Pipe Supports/Tubing Supports, Revision 0, dated 
+March 18, 2011 
+− Release Purchase Order 527358, dated August 28, 2009 – Vogtle Unit 3 Project – 
+CA01, CA02, CA03, CA04, CA05, and CA20 Modules – Fabrication and Assembly 
+− Release Purchase Order 527359, dated August 28, 2009 – Vogtle Unit 4 Project – 
+CA01, CA02, CA03, CA04, CA05, and CA20 Modules – Fabrication and Assembly 
+− Release Purchase Order 527363, dated August 28, 2009 – VC Summer Unit 2 Project – 
+CA01, CA02, CA03, CA04, CA05, and CA20 Modules – Fabrication and Assembly  
+− Release Purchase Order 527365, dated August 28, 2009 – VC Summer Unit 3 Project – 
+CA01, CA02, CA03, CA04, CA05, and CA20 Modules – Fabrication and Assembly  
+− Change Order No. 1-80 for PO No. 527358, dated November 24, 2009 – Vogtle Unit 3 
+Project  
+− Change Order No. 1-80 for PO No. 527359, dated November 24, 2009 – Vogtle Unit 4 
+Project 
+− Change Order No. 1-80 for PO No. 527363, dated November 24, 2009 – VC Summer 
+Unit 2 Project 
+− Change Order No. 1-80 for PO No. 527365, dated November 24, 2009 – VC Summer 
+Unit 3 Project 
+− Purchase Order Number 132175-D100.M034, Revision 0, dated March 9, 2011 – Vogtle 
+EPC-Unit 3 and Site – CB Structural Modules  
+− Purchase Order Number 132175-D100.M034, Revision 1, dated June 22, 2011 – Vogtle 
+EPC-Unit 3 and Site – CB Structural Modules  
+− Purchase Order Number 132175-D100.M034, Revision 2, dated July 21, 2011 – Vogtle 
+EPC-Unit 3 and Site – CB Structural Modules  
+− Purchase Order Number 132176-D100.M034, Revision 0, dated March 9, 2011 – Vogtle 
+EPC-Unit 4 – CB Structural Modules  
+− Purchase Order Number 132176-D100.M034, Revision 1, dated June 22, 2011 – Vogtle 
+EPC-Unit 4 – CB Structural Modules  
+− Purchase Order Number 132176-D100.M034, Revision 2, dated July 21, 2011 – Vogtle 
+EPC-Unit 4 – CB Structural Modules 
+− Purchase Order Number 132177-D100.M034, Revision 0, dated March 9, 2011 – VC 
+Summer EPC Unit 2 – CB Structural Modules 
+− Purchase Order Number 132177-D100.M034, Revision 1, dated June 22, 2011 – VC 
+Summer EPC Unit 2 – CB Structural Modules  
+ 
+- 23 - 
+− Purchase Order Number 132177-D100.M034, Revision 2, dated July 21, 2011 – VC 
+Summer EPC Unit 2 – CB Structural Modules  
+− Purchase Order Number 132178-D100.M034, Revision 0, dated March 9, 2011 – VC 
+Summer EPC Unit 3 – CB Structural Modules 
+− Purchase Order Number 132178-D100.M034, Revision 1, dated June 22, 2011 – VC 
+Summer EPC Unit 3 – CB Structural Modules  
+− Purchase Order Number 132178-D100.M034, Revision 2, dated July 21, 2011 – VC 
+Summer EPC Unit 3 – CB Structural Modules  
+− Mactec Subcontract 1321771104-1205, Revision 0, dated June 14, 2010 
+− Mactec Subcontract 1321751004-1421 and Change Orders 1 - 40, Revision 0, dated 
+February 15, 2010 
+− William and Lettis PO1321771104-1166, Revision 0, dated September 29, 2009 
+− BF Shaw PO J132175-C601.02 Revision 0, dated September 3, 2010 
+− BF Shaw Change Order PO J132177-C601.02, Revision 0, dated September 3, 2010 
+− BF Shaw Change Order PO J132176-C601.02, Revision 0, dated September 3, 2010 
+− BF Shaw Change Order PO 132175-C601.04, Revision 0, dated September 29, 2010 
+− BF Shaw Change Order PO 132177-C601.04, Revision 0, dated September 29, 2010 
+ 
+ 

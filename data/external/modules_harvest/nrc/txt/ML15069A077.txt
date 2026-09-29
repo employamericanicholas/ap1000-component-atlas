@@ -1,0 +1,263 @@
+ 
+ 
+ 
+SCE&G    New Nuclear Deployment ● P. O. Box 88 ● MC 800 ● Jenkinsville, South Carolina 29065 ● www.sceg.com 
+ 
+Ronald A. Jones 
+ Vice President 
+New Nuclear Deployment 
+ 
+ 
+March 09, 2015 
+          NND-15-0138 
+10 CFR 50.55(e) 
+ATTN: Document Control Desk 
+U.S. Nuclear Regulatory Commission 
+Document Control Desk 
+Washington, DC 20555 
+ 
+Virgil C. Summer Nuclear Station (VCSNS) Units 2 and 3 
+Combined License Nos. NPF-93 and NPF-94 
+Docket Nos. 52-027 & 52-028 
+ 
+Subject: 10 CFR 50.55(e) Report Regarding Results of a Root Cause Analysis 
+for Deviations on Sub Modules Supplied by CB&I to Another AP1000 
+Project 
+ 
+ 
+This letter provides a written notification in accordance with 10 CFR 50.55(e)(4)(iii) 
+pertaining to the fabrication and construction of material, equipment, and services 
+associated with basic components by Stone & Webster, Inc, and currently doing 
+business under the name of its parent, Chicago Bridge and Iron (hereinafter CB&I), for 
+the Virgil C. Summer Nuclear Station (VCSNS) Units 2 and 3 nuclear project. 
+ 
+The written notification pursuant to 50.55(e) is for a failure to comply by CB&I, a 
+member of the Consortium that is the EPC Contractor for the Licensees of VCSNS 
+Units 2 and 3, to meet the requirements of 10 CFR 50, Appendix B.  The QA Criteria 
+that were determined to be relevant to the identified conditions and the root and 
+contributing causes include, Criterion I Organization, Criterion IV Procurement 
+Document Control, Criterion VII Control of Purchased Material, Equipment, and 
+Services, Criterion IX Control of Special Processes, Criterion X Inspection, Criterion XVI 
+Corrective Action, and Criterion XVIII Audits.  It is concluded that the QA programmatic 
+issues, as identified by the root cause analysis, could have produced a defect, and this 
+condition is reportable in accordance with 10 CFR 50.55(e)(3)(iii)(C).  This written 
+notification closes the interim report submitted on December 9, 2014 by CB&I and is the 
+follow up to the initial notification by South Carolina Electric & Gas on February 12, 
+2015 (EN# 50815).  See Enclosure 1 for the detailed content of the notification. 
+ 
+ 
+Document Control Desk 
+NND-15 -0138 
+Page 2 of 3 
+Should you have any questions, please contact Ms. April R. Rice, Manager, Nuclear 
+Licensing, New Nuclear Deployment, by telephone at (803) 941-9858, or by email at 
+arice@scana .com . 
+MRP/RAJ/mrp 
+a A. Jones 
+Vice President 
+New Nuclear Deployment 
+Enclosure 1: 10 CFR 50.55(e) Report Regarding EN# ·50815 
+c: 
+Victor McCree 
+William M. Cherry 
+Stephen A Byrne 
+Jeffrey B. Archie 
+Ronald A. Jones 
+Bill Macecevic 
+Joel Hjelseth 
+Dan Churchman 
+Brian Mcintyre 
+Tom Geer 
+Miachael Frankie 
+Brian Bedford 
+Joseph Cole 
+Ken Hollenbach 
+Alvis J. Bynum 
+Kathryn M. Sutton 
+Curtis Castell 
+Charles Baucom 
+AJ Marciano 
+Sean Burk 
+Benny Buras 
+Charlie White 
+Denise McGovern 
+Jim Reece 
+Patrick Donnelly 
+April Rice 
+Document Control Desk 
+NND-15-0138 
+Page 3 of 3 
+ 
+ 
+ 
+Matthew Presson 
+Larry Cunningham 
+Findlay Salter 
+VCSummer2&3ProjectMail@cbi.com 
+Vcsummer2&3project@westinghouse.com 
+DCRM-EDMS@SCANA.COM 
+VCSNNDCorrespondence@SCANA.COM 
+ 
+ 
+ 
+South Carolina Electric & Gas Company (SCE&G) 
+ 
+Virgil C. Summer Nuclear Station Units 2 and 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NND-15-0138 
+ 
+Enclosure 1 
+ 
+ 
+10 CFR 50.55(e) Report Regarding EN# 50815 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (This enclosure contains 4 pages, including this cover page.) 
+ 
+NND-15-0138 
+Enclosure 1 
+10 CFR 50.55(e) Report Regarding EN# 50815 
+ 
+Page 2 of 4 
+ 
+(i) Name and address of the individual or individuals informing the Commission. 
+ 
+ 
+Ronald A. Jones 
+South Carolina Electric & Gas 
+Vice President, New Nuclear Deployment 
+V.C. Summer Nuclear Station Units 2 & 3  
+PO Box 88, Mail Code 800 
+Jenkinsville, SC 29065 
+ 
+(ii)   Identification of the facility, the activity, or the basic component supplied for such 
+facility or such activity within the United States which fails to comply or contains a 
+defect. 
+ 
+The activity being conducted is fabrication and procurement of AP1000® project 
+construction sub-modules and associated assemblies.  The basic components are 
+structural components being used for the construction of AP1000® safety-related 
+structures.  This report is related to evaluation of activities and conditions previously 
+identified in interim 10 CFR Part 21 reports submitted by CB&I, dated October 23, and 
+December 9, 2014.  Specifically, deviations were found in sub-modules CA03-06, -08, and 
+-09, which initiated the discovery and evaluation processes for both Part 21 and 10 CFR 
+50.55(e) by CB&I.  Those sub-modules are for use in the fabrication and assembly of 
+structural module CA03 for Vogtle Unit 3 AP1000® project.  These sub-modules were 
+received from SMCI Division of MetalTek International.  The deviations being evaluated 
+include some identified circumstances of weld undersize, underfill, lack-of fusion, and 
+incomplete weld fusion.  The CA03 structural module being fabricated and assembled is a 
+wall module for the In-containment Refueling Water Storage Tank (IRWST) for the Vogtle 
+Unit 3 AP1000® construction project.  It has been concluded that the material deviations 
+did not result in the introduction of a defect or substantial safety hazard.  This report is 
+associated with the Quality Assurance Program elements that failed to prevent the 
+conditions from occurring.   
+A root cause analysis of the identified conditions was performed by CB&I (Corrective 
+Action Report 2014-1961).  The results of that analysis were utilized in the evaluation of 
+these conditions in accordance with 10 CFR 50.55(e)(3)(iii)(C).  The QA Criteria that were 
+determined to be relevant to the identified conditions and the root and contributing causes 
+include Criterion I Organization, Criterion IV Procurement Document Control, Criterion VII 
+Control of Purchased Material, Equipment, and Services, Criterion IX Control of Special 
+Processes, Criterion X Inspection, Criterion XVI Corrective Action, and Criterion XVIII 
+Audits.  Additionally, other recently identified conditions (e.g., overlay plate coupler weld 
+issues, CA01 sub-module deviations as reported in CB&I interim Part 21 reports dated 
+January 20, January 22, and January 29, 2015, and conditions reported in CB&I interim 
+Part 21 report dated December 4, 2014) are considered to be additional examples of 
+recent QA issues that are consistent with the circumstances of the QA breakdown 
+identified in this report. 
+ 
+NND-15-0138 
+Enclosure 1 
+10 CFR 50.55(e) Report Regarding EN# 50815 
+ 
+Page 3 of 4 
+ 
+(iii)  Identification of the firm constructing the facility or supplying the basic component which 
+fails to comply or contains a defect. 
+The CA03 sub-modules with identified deviations were fabricated and supplied by SMCI 
+Division of MetalTek International, 4015 Drane Field Road, Lakeland, FL 22813.  The 
+procurement activities are being performed by CB&I Power, 128 South Tryon Street 
+Charlotte, NC 28202, for both the V.C. Summer and Vogtle AP1000® projects.  The 
+identified CA01 sub-module fabrication (interim reports dated January 20 and 29, 2015) 
+was performed by CB&I Lake Charles, 3191 West Lincoln Rd., Lake Charles, LA 70605. 
+(iv)  Nature of the defect or failure to comply and the safety hazard which is created or 
+could be created by such defect or failure to 
+comply. 
+ 
+As previously stated, it has been concluded that the material deviations did not result in the 
+introduction of a defect or substantial safety hazard.  This report is associated with the 
+Quality Assurance Program elements that failed to prevent the conditions from occurring.  
+It is postulated that identified QA Program failures presented the potential for introduction 
+of a defect.  The preventive and corrective actions being taken are intended to identify and 
+resolve these conditions.
+ 
+ 
+(v)  The date on which the information of such defect or failure to comply was obtained. 
+ 
+The earliest discovery date of the identified deviations is August 25, 2014, based on date 
+of the earliest completed inspections that identified the weld deviations.  The root cause 
+analysis associated with this condition was completed on December 16, 2014. 
+ 
+(vi)   In the case of a basic component which contains a defect or fails to comply, the 
+number and location of these components in use at, supplied for, being supplied for, 
+or may be supplied for, manufactured, or being manufactured for one or more 
+facilities or activities subject to the regulations in this part. 
+ 
+No basic components were found to contain a defect or fail to comply such that a 
+substantial safety hazard was introduced.  This report is based on the criterion in 10 CFR 
+50.55(e)(3)(iii)(C), which states, “Undergoes any significant breakdown in any portion of 
+the quality assurance program conducted under the requirements of Appendix B to 10 CFR 
+part 50 which could have produced a defect in a basic component. These breakdowns in 
+the quality assurance program are reportable whether or not the breakdown actually 
+resulted in a defect in a design approved and released for construction, installation, or 
+manufacture.”
+ 
+(vii)  In the case of a completed reactor manufactured under part 52 of this chapter, the 
+entities to which the reactor was supplied 
+ 
+Not Applicable. 
+ 
+NND-15-0138 
+Enclosure 1 
+10 CFR 50.55(e) Report Regarding EN# 50815 
+ 
+Page 4 of 4 
+ 
+(viii)  The corrective action which has been, is being, or will be taken; the name of the 
+individual or organization responsible for the action; and the length of time that has 
+been or will be taken to complete the action. 
+ 
+The actions necessary to correct the identified conditions and causes will be established 
+and tracked to completion under the CB&I Power Corrective Action Program (CAP). The 
+preventive action listed in the CB&I CAP to correct the root causes of the condition is 
+currently identified with a due date of April 30, 2015.  The corrective actions for these  
+conditions have various due dates, with the latest currently identified due date of June 15, 
+2015.  Note that these dates are subject to change and will be managed via the CB&I  
+CAP.  The immediate actions put in place are the development of interim guidance for the 
+development and approval of recovery plans, interim guidance for investigating corrective 
+actions requests for issues found during or after receipt inspection and interim guidance 
+for the communication of significant module supplier quality issues.  The licensee will 
+perform a review of the effectiveness of preventative actions subsequent to 
+implementation by CB&I. 
+ 
+(ix)  Any advice related to the defect or failure to comply about the facility, activity, or 
+basic component that has been, is being, or will be given to purchasers or licensees. 
+ 
+The condition was discovered by CB&I Power and a Root Cause Analysis has been 
+performed.  Corrective actions have been developed and are being tracked under the CB&I 
+Corrective Action Program.  Therefore, there is no additional action or advice needed at 
+this time.   
+ 
+ 

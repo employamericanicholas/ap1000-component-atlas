@@ -1,0 +1,1958 @@
+ 
+ 
+ 
+ 
+November 18, 2014 
+ 
+ 
+Mr. Dean Hudson, Quality Manager 
+Oregon Iron Works, Inc. 
+Nuclear Product Division 
+9700 S.E. Lawnfield Rd. 
+Clackamas, Oregon 97015 
+ 
+SUBJECT: NUCLEAR REGULATORY COMMISSION INSPECTION REPORT OF 
+OREGON IRON WORKS NO. 99901448/2014-201 AND 99901449/2014-201 
+AND NOTICE OF NONCONFORMANCE 
+ 
+Dear Mr. Hudson: 
+ 
+On September 22-26, 2014, the U.S. Nuclear Regulatory Commission (NRC) staff conducted an 
+inspection at the Oregon Iron Works, Inc. (OIW) facilities in Clackamas, OR and Vancouver, 
+WA.  The purpose of this limited-scope routine inspection was to assess OIW’s compliance with 
+provisions of Title 10 of the Code of Federal Regulations (10 CFR) Part 21, “Reporting of 
+Defects and Noncompliance,” and selected portions of Appendix B, “Quality Assurance Criteria 
+for Nuclear Power Plants and Fuel Reprocessing Plants,” to 10 CFR Part 50, “Domestic 
+Licensing of Production and Utilization Facilities.” 
+ 
+This technically focused inspection specifically evaluated OIW’s implementation of quality 
+activities associated with the fabrication and inspection of the CA20 Auxiliary Building Modules 
+for the Westinghouse Electric Company AP1000 reactor design.  The enclosed report presents 
+the results of the inspection.  This NRC inspection report does not constitute an NRC 
+endorsement of OIW’s overall quality assurance (QA) or Part 21 programs.  During this 
+inspection, the NRC inspection team looked at fabrication and inspection activities associated 
+with inspections, tests, analyses, and acceptance criteria (ITAAC) from Revision 19 of the 
+approved certified AP1000 design control document.  Specifically, these activities were 
+associated with the future closure of ITAAC 3.3.00.02a.i.d.  The NRC inspection team did not 
+identify any findings associated with the ITAAC contained in Section 4 of the attachment to this 
+report. 
+ 
+During this inspection, the NRC inspection team found that the implementation of OIW’s QA 
+program failed to meet certain NRC requirements imposed on you by your customers.  
+Specifically, the NRC inspection team determined that OIW was not fully implementing its QA 
+program in the areas of (1) corrective action, (2) design control, (3) nonconforming materials, 
+parts, or components, and (4) control of purchased material, equipment, and services.  The 
+specific findings and references to the pertinent requirements are identified in the enclosures to 
+this letter.  In response to the enclosed notice of nonconformance (NON), OIW should 
+document the results of the extent of condition review for these findings and determine if there 
+are any effects on other safety-related components.
+D. Hudson - 2 - 
+ 
+Please provide a written explanation or statement within 30 days of this letter in accordance with 
+the instructions specified in the enclosed NON.  The agency will consider extending the 
+response time if you show good cause for us to do so.  In accordance with 10 CFR 2.390, 
+"Agency Rules of Practice and Procedure," a copy of this letter, its enclosure(s), and your 
+response will be made available electronically for public inspection in the NRC Public Document 
+Room or from the NRC’s document system ADAMS (Agencywide Documents Access and 
+Management System), accessible at http://www.nrc.gov/reading-rm/adams.html.  To the extent 
+possible, your response, (if applicable), should not include any personal privacy, proprietary, or 
+Safeguards Information so that it can be made available to the public without redaction.  If 
+personal privacy or proprietary information is necessary to provide an acceptable response, 
+then please provide a bracketed copy of your response that identifies the information that 
+should be protected and a redacted copy of your response that deletes such information.  If you 
+request that such material is withheld from public disclosure, you must specifically identify the 
+portions of your response that you seek to have withheld and provide in detail the bases for your 
+claim (e.g., explain why the disclosure of information will create an unwarranted invasion of 
+personal privacy or provide the information required by 10 CFR 2.390(b) to support a request for 
+withholding confidential commercial or financial information).  If Safeguards Information is 
+necessary to provide an acceptable response, please provide the level of protection described 
+in 10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.” 
+ 
+Sincerely, 
+ 
+/RA/ 
+ 
+ 
+Edward H. Roach, Chief 
+Mechanical Vendor Inspection Branch  
+Division of Construction Inspection  
+  and Operational Programs 
+Office of New Reactors 
+ 
+Docket No.:  99901448 and 99901449 
+ 
+Enclosures: 
+1. Notice of Nonconformance  
+2. Inspection Report No. 99901448/2014-201 
+and 99901449/2014-201 and Attachment 
+D. Hudson -2- 
+ 
+ 
+Please provide a written explanation or statement within 30 days of this letter in accordance with the 
+instructions specified in the enclosed NON.  The agency will consider extending the response time if you 
+show good cause for us to do so.  In accordance with 10 CFR 2.390, "Agency Rules of Practice and 
+Procedure," a copy of this letter, its enclosure(s), and your response will be made available electronically 
+for public inspection in the NRC Public Document Room or from the NRC’s document system ADAMS 
+(Agencywide Documents Access and Management System), accessible at http://www.nrc.gov/reading-
+rm/adams.html.  To the extent possible, your response, (if applicable), should not include any personal 
+privacy, proprietary, or Safeguards Information so that it can be made available to the public without 
+redaction.  If personal privacy or proprietary information is necessary to provide an acceptable response, 
+then please provide a bracketed copy of your response that identifies the information that should be 
+protected and a redacted copy of your response that deletes such information.  If you request that such 
+material is withheld from public disclosure, you must specifically identify the portions of your response that 
+you seek to have withheld and provide in detail the bases for your claim (e.g., explain why the disclosure 
+of information will create an unwarranted invasion of personal privacy or provide the information required 
+by 10 CFR 2.390(b) to support a request for withholding confidential commercial or financial information).  
+If Safeguards Information is necessary to provide an acceptable response, please provide the level of 
+protection described in 10 CFR 73.21, “Protection of Safeguards Information: Performance 
+Requirements.” 
+ 
+Sincerely, 
+ 
+/RA/ 
+ 
+ 
+Edward H. Roach, Chief 
+Mechanical Vendor Inspection Branch  
+Division of Construction Inspection  
+  and Operational Programs 
+Office of New Reactors 
+ 
+Docket No.:  99901448 and 99901449 
+ 
+Enclosures: 
+1. Notice of Nonconformance  
+2. Inspection Report No. 99901448/2014-201 
+and 99901449/2014-201 and Attachment 
+ 
+DISTRIBUTION
+: 
+ASakadales 
+KKavanagh 
+RRasmussen 
+MErnstes 
+dhudson@oregoniron.com 
+bdunkin@oregoniron.com 
+ 
+ADAMS Accession No.:  ML14308A463     N R O - 0 0 2  
+OFFICE NRO/DCIP/MVIB NRO/DCIP/MVIB NRO/DC IP/EVIB NRO/DCIP/MVIB NRR/DE/MCB 
+NAME RPatel LMicewski ARamirez 
+(JOrtega for) JOrtega JHoncharik 
+DATE 11/7/2014 11/7/2014 11/7/ 2014 11/7/2014 11/7/2014 
+OFFICE NRO/DCIP/MVIB RII/DCP/CPB1* NRO/DCIP NRO/DCIP/MVIB  
+NAME NMcMurray CHuffman TFrye ERoach  
+DATE 11/7/2014 11/5/2014 11/7/2014 11/18/2014  
+OFFICIAL RECORD COPY 
+ 
+Enclosure 1 
+NOTICE OF NONCONFORMANCE 
+ 
+Oregon Iron Works, Inc.      Oregon Iron Works, Inc. 
+9700 S.E. Lawnfield Rd.       3515 SE Columbia Way 
+Clackamas, OR 97015      Vancouver, WA 98661 
+Docket No. 99901448       Docket No. 99901449 
+ 
+Based on the results of a NRC inspection conducted at the Oregon Iron Works, Inc. (OIW) 
+facilities located in Clackamas, OR and Vancouver, WA, on September 22, 2014, through 
+September 26, 2014, certain activities were not conducted in accordance with NRC 
+requirements which were contractually imposed on OIW by its customers or NRC licensees: 
+ 
+A. Criterion XVI, “Corrective Action,” of Appendix B, “Quality Assurance Criteria for Nuclear 
+Power Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of Federal 
+Regulations (10 CFR) Part 50, “Domestic Licensing of Production and Utilization 
+Facilities,” states, in part, that “Measures shall be established to assure that conditions 
+adverse to quality, such as failures, malfunctions, deficiencies, deviations, defective 
+material and equipment, and nonconformances are promptly identified and corrected.” 
+ 
+Section 16 of OIW’s Quality Assurance Manual, Issue 3, Revision 1, dated July 18, 
+2014, states, in part, that “Conditions adverse to quality are to be identified promptly and 
+corrected as soon as practical.”  It further states that “… a Corrective Action Request 
+(CAR) will be utilized to document the condition, cause, and actions taken to prevent 
+recurrence.” 
+ 
+Contrary to the above, as of September 26, 2014, OIW did not ensure that conditions 
+adverse to quality, such as deficiencies and nonconformances were promptly 
+documented and corrected.  In addition, OIW’s records did not always document the 
+current status, plan of action, or commitments for work in progress to correct problems 
+and prevent recurrence.   
+ 
+Specifically, 
+ 
+1. On July 7, 2014, OIW documented in NPD-CAR-14-34 that an internal 
+audit identified that that a third party vendor, Cal-Cert, was used to 
+determine the weight of rebar used as a basic component installed in 
+CA20 module, which was not in the scope of their accreditation.  The 
+NRC inspection team identified that NPD-CAR-14-34 corrective actions 
+only included actions to obtain Cal-Cert’s procedure for weight calibration, 
+as well as a copy of training records.  OIW corrective actions failed to 
+identify for the evaluation of scope of supply and method of verification to 
+establish Cal-Cert as an appropriate provider of weight measurement 
+services to verify the density of the rebar.   
+ 
+ 
+ 
+ 
+ 
+- 2 - 
+ 
+2. On November 1, 2013, an OIW employee initiated NPD-CAR-13-31 which 
+identified an issue associated with the temporary storage of measuring 
+and test equipment (M&TE).  The NRC inspection team identified that 
+NPD-CAR-13-31 did not identify any proposed corrective actions to 
+address the temporary storage of M&TE and that no objective evidence 
+was found to demonstrate the action(s) taken by OIW to correct this 
+issue.  
+ 
+3. On July 7, 2014, OIW documented in NPD-CAR-14-33 that an internal 
+audit identified that OIW was using a light meter which had been 
+calibrated by a calibration laboratory that was neither audited nor 
+dedicated by OIW for their calibration services.  The NRC inspection team 
+identified that NPD-CAR-14-33 did not identify any proposed corrective 
+actions to address the inadequate procurement of commercial grade 
+calibration services used for a light meter and that no objective evidence 
+was found to demonstrate the action(s) taken by OIW to correct this 
+issue.  
+ 
+This issue has been identified as Nonconformances 99901448/2014-201-01 and 
+99901449/2014-201-01. 
+ 
+B. Criterion III, “Design Control,” of Appendix B to 10 CFR Part 50 states, in part, that 
+“Measures shall be established for the selection and review for suitability of application 
+of materials, parts, equipment, and processes that are essential to the safety-related 
+functions of the structures, systems and components.” 
+ 
+Criterion VII of Appendix B to 10 CFR Part 50 states, in part, that “These measures shall 
+include provisions, as appropriate, for source evaluation and selection, objective 
+evidence of quality furnished by the contractor or subcontractor, inspection at the 
+contractor or subcontractor source, and examination of products upon delivery.” 
+ 
+Sections 4.1 of OIW QP-2786-(07)-10, “Commercial Grade Dedication of Items and 
+Services for 10 CFR 50 Appendix B Project,” Revision 1, January 31, 2014, states, in 
+part, that “The dedicating entity shall assure that a component technical evaluation has 
+been performed which identifies the item as safety-related, determines the item’s critical 
+characteristics and safety function, identifies the failure modes and effects, and defines 
+the tolerances for acceptance criteria based on the item’s intended safety-related 
+function.” 
+ 
+Section 4.6 of OIW QP-2786-(07)-10 states, in part, that “Sampling of the items for 
+dedication shall, as a minimum, meet the requirements of one of the three options 
+including production traceability, line item/single product manufacturer, or line 
+item/multiple product manufacturers based on a random sample selection as defined in 
+Section 1.4.3 of EPRI TR-017218, “Guideline for Sampling in the Commercial-Grade 
+Item Acceptance Process.’” 
+ 
+ 
+ 
+- 3 - 
+Contrary to the above, as of September 26, 2014, OIW failed to ensure the selection and 
+review for suitability of application of materials, parts, equipment, and processes that are 
+essential to the safety-related functions of the structures, systems, and components. 
+Additionally, OIW failed to establish appropriate measures that included provisions for 
+source evaluation of subcontractors. 
+ 
+Specifically,  
+ 
+1. OIW, as a dedicating entity failed to perform a technical evaluation to justify that the 
+selection of critical characteristics for dedication of various components such as 
+plates, rebar, weld wires, and metallurgical testing services used as basic 
+components installed in CA20 module assemblies would provide reasonable 
+assurance that they would perform their intended safety functions.  The NRC 
+inspection team identified six examples of plates, rebar, weld wires, and metallurgical 
+testing services that were procured as commercial-grade and then inadequately 
+dedicated to be used as safety-related components by OIW. 
+ 
+2. OIW failed to perform a technical evaluation to identify additional technical 
+requirements such as tolerances, accuracies, ranges over which the item is to be 
+calibrated, specific industry standards to be used, etc., to be included in the 
+purchase order for commercial calibration services. The NRC inspection team 
+identified two examples where OIW procured commercial calibration services (CAL-
+CERT and JJ Calibration), without performing a technical evaluation to identify 
+critical characteristics and acceptance methods for the dedication of calibration 
+services as required by OIW’s commercial grade dedication program. 
+ 
+3. OIW failed to perform and document adequate engineering justification to support 
+their determination of the dedication sampling plan. The NRC inspection team 
+identified several examples of plates, rebar, weld wires, and testing services that 
+were procured as commercial grade items and then inadequately sampled as part of 
+the dedication process to be used as safety-related components by OIW. 
+ 
+4. OIW failed to conduct a commercial-grade survey or source surveillance to verify that 
+American Steel Portland, Industrial Welding Services, Inc., and Professional 
+Services Inc.’s quality programs included the requisite processes, such as material 
+traceability and lot and batch controls, for the control of critical characteristics 
+necessary to provide reasonable assurance that commercial-grade materials and 
+services to be used as basic components will perform their intended safety function.   
+OIW relied on these suppliers’ issued certified material test reports or certificate of 
+conformances as the sole method to verify critical characteristics of acceptance (e.g., 
+tensile properties, yield, and elongation) during the commercial-grade dedication of 
+plates, rebar, weld wires and metallurgical testing services. 
+ 
+This issue has been identified as Nonconformances 99901448/2014-201-02 and 
+9990149/2014-201-02 
+ 
+ 
+ 
+- 4 - 
+C. Criterion XV, “Nonconforming Materials, Parts or Components,” of Appendix B 10 CFR 
+Part 50 states, in part, that “Nonconforming items shall be reviewed and accepted, 
+rejected, repaired or reworked in accordance with documented procedures.” 
+ 
+Criterion XVII, “Quality Assurance Records,” of Appendix B states, in part, that 
+“Sufficient records shall be maintained to furnish evidence of activities affecting quality.  
+Records shall be identifiable and retrievable.” 
+ 
+Section 15 of OIW’s Quality Assurance Manual, Issue 3, Revision 1, dated July 18, 
+2014, states, in part, that “… a nonconform ance and its disposition shall be documented 
+on a Nonconformance Report, and that proposed disposition shall be made by a Project 
+Engineer or Project Manager.”  It further states that Nonconformance Reports are 
+maintained as Quality Records in accordance with Section 17 of OIW’s Quality 
+Assurance Manual, which states, in part, that “…records are preserved and controlled.” 
+ 
+Contrary to the above, as of September 26, 2014, OIW failed to review, disposition, and 
+appropriately document resolution on several nonconforming items and was unable to 
+retrieve some nonconformance reports. 
+ 
+Specifically,  
+ 
+1. On February 28, 2014, nonconformance reports NPD-NCR-14-032 and NPD-NCR-
+14-033 were generated to document that during recalibration the “as found” condition 
+of four calibrated tools was identified as being outside of specified tolerances.  On 
+July 30, 2014, NPD-NCR-14-236 documented an additional calibrated item that was 
+identified “as found” out of tolerance.  The NRC inspection team did not identify any 
+objective evidence to demonstrate that OIW had performed an evaluation of usage, 
+the extent of condition, or dispositioned the item identified as nonconforming. 
+ 
+2. OIW could not retrieve nonconformance reports NPD-NCR-14-032, NPD-NCR-14-
+033, and NPD-NCR-14-236 when the inspectors requested them for review. 
+ 
+This issue has been identified as Nonconformances 99901448/2014-201-03 and 
+99901449/2014-201-03. 
+ 
+Please provide a written statement or explanation to the U.S. Nuclear Regulatory Commission, 
+ATTN:  Document Control Desk, Washington, DC 20555-0001 with a copy to the Chief, 
+Mechanical Vendor Inspection Branch, Division of Construction and Operational Programs, 
+Office of New Reactors, within 30 days of the date of the letter transmitting this notice of 
+nonconformance.  This reply should be clearly marked as a “Reply to a Notice of 
+Nonconformance” and should include for each noncompliance:  (1) the reason for the 
+noncompliance, or if contested, the basis for disputing the noncompliance, (2) the corrective 
+steps that have been taken and the results achieved, (3) the corrective steps that will be taken 
+to avoid noncompliances, and (4) the date when your corrective action will be completed.  
+Where good cause is shown, consideration will be given to extending the response time. 
+ 
+Because your response will be made available electronically for public inspection in the NRC 
+Public Document Room or from the NRC’s document system (Agencywide Documents Access 
+ 
+ 
+- 5 - 
+Management System), accessible from the NRC Web site at http://www.nrc.gov/reading-
+rm/adams.html, to the extent possible, it should not include any personal privacy, proprietary, or 
+Safeguards Information so that it can be made available to the public without redaction.  If 
+personal privacy or proprietary information is necessary to provide an acceptable response, 
+then please provide a bracketed copy of your response that identifies the information that 
+should be protected and a redacted copy of your response that deletes such information.  If you 
+request withholding of such material, you must specifically identify the portions of your response 
+that you seek to have withheld and provide in detail the bases for your claim of withholding (e.g., 
+explain why the disclosure of information will create an unwarranted invasion of personal 
+privacy or provide the information required by 10 CFR 2.390(b) to support a request for 
+withholding confidential commercial or financial information).  If Safeguards Information is 
+necessary to provide an acceptable response, please provide the level of protection described 
+in 10 CFR 73.21, “Protection of Safeguards Information: Performance Requirements.” 
+ 
+Dated this 18th day of November 2014. 
+ 
+ 
+Enclosure 2 
+U.S. NUCLEAR REGULATORY COMMISSION 
+OFFICE OF NEW REACTORS 
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS 
+VENDOR INSPECTION REPORT 
+ 
+Docket No.:   99901448 and 99901449 
+ 
+Report No.:    99901448/2014-201 and 99901449/2014-201 
+ 
+Vendor:    Oregon Iron Works, Inc. 
+ 
+9700 S.E. Lawnfield Rd. 
+Clackamas, OR 97015 
+ 
+3515 S.E. Columbia Way 
+Vancouver, WA 98661 
+ 
+Vendor Contact:   Mr. Dean Hudson 
+Quality Assurance Manager 
+E-mail:  dhudson@oregoniron.com  
+  Phone:  503-653-6300 
+ 
+Nuclear Industry Activity:  Oregon Iron Works, Inc. is under contract to Chicago Bridge & 
+Iron to fabricate, assemble, inspect, transport, and deliver the 
+CA20 Auxiliary Building modules for the Westinghouse Electric 
+Company AP1000 reactor design.   
+ 
+Inspection Dates:   September 22-26, 2014 
+ 
+Inspectors:    Jonathan Ortega-Luciano NRO/DCIP/MVIB  Team Leader 
+Laura Micewski   NRO/DCIP/MVIB 
+Raju Patel    NRO/DCIP/MVIB 
+Nicholas McMurray  NRO/DCIP/MVIB 
+Annie Ramirez  NRO/DCIP/EVIB 
+John Honcharik  NRO/DE/MCB 
+Chad Huffman   RII/DCP/CPB1 
+ 
+Approved by:   Edward H. Roach, Chief 
+Mechanical Vendor Inspection Branch 
+Division of Construction Inspection  
+  and Operational Programs 
+Office of New Reactors 
+ 
+ 
+- 2 - 
+EXECUTIVE SUMMARY 
+ 
+Oregon Iron Works, Inc. 
+99901448; 99901449/2014-201 
+ 
+The NRC staff conducted a vendor inspection at the Oregon Iron Works, Inc. (OIW) facilities to 
+verify that it had implemented an adequate quality assurance (QA) program that complies with 
+the requirements of Appendix B, “Quality Assurance Criteria for Nuclear Power Plants and Fuel 
+Reprocessing Plants,” to Title 10 of the Code of Federal Regulations (10 CFR) Part 50, 
+“Domestic Licensing of Production and Utilization Facilities.”  In addition, the NRC inspection 
+also verified that OIW implemented a program under 10 CFR Part 21, “Reporting of Defects and 
+Noncompliance,” that met the NRC’s regulatory requirements.  The NRC inspection team 
+conducted the inspection from September 22-26, 2014.  This was the first NRC inspection at the 
+OIW facilities.  
+ 
+This technically-focused inspection specifically evaluated OIW’s implementation of quality 
+activities associated with the fabrication and inspection of the CA20 Auxiliary Building modules 
+for the Westinghouse Electric Company (WEC) AP1000 reactor design.  These modules and 
+submodules are being fabricated for the Vogtle Electric Generating Plant Unit 4 and VC 
+Summer Unit 3. 
+ 
+Some of the specific activities observed by the NRC inspection team included: 
+ 
+• Machine stud welding on Submodule CA20_08      
+• Flux-cored arc welding (FCAW) of partial joint penetrations numbers 15c and 16c on 
+Submodule CA20_15 and the channel truss weld on Submodule CA20_17   
+• FCAW of complete joint penetrations numbers 41 and 42 on Submodule CA20_11   
+• Fit-up and tack welding of weld joint 817 for pancake assembly on Submodule CA20_08    
+• Visual inspection of stud welds on Submodule CA20_08   
+• Magnetic-particle and ultrasonic inspections of angle splice for channel truss on 
+Submodule CA20_11  
+• Calibration of ultrasonic inspection equipment  
+• Calibration of FCAW welding machine  
+• Lift and rotation of Submodule CA20_08  
+• Review of commercial grade dedication packages for plates, rebar, and weld wires 
+• Review of numerous training records; specific examples include qualification and 
+certification for the lead auditors 
+ 
+In addition to observing these activities, the NRC inspection team verified that measuring and 
+test equipment (M&TE) was properly identified, marked, calibrated, and used within its 
+calibrated range.   
+ 
+The following regulations served as the bases for the NRC inspection: 
+ 
+• Appendix B to 10 CFR Part 50 
+• 10 CFR Part 21 
+ 
+ 
+ 
+- 3 - 
+During the course of this inspection, the NRC inspection team implemented Inspection 
+Procedure (IP) 43002, “Routine Inspections of Nuclear Vendors”; IP 43004, “Inspection of 
+Commercial-Grade Dedication Programs”; IP 36100, “Inspection of 10 CFR Part 21 and 
+Programs for Reporting Defects and Noncompliance”; IP 36100.01, “Inspection of 10 CFR 
+50.55(e) Programs for Reporting Defects and Noncompliance During Construction”;  
+IP 65001.01, “Inspection of ITAAC-Related Foundations and Buildings”; IP 65001.A, “Inspection 
+of the As-Built Attributes for Structures, Systems, and Components Associated with ITAAC”; 
+and IP 65001.F, “Inspection of the ITAAC-Related Design and Fabrication Requirements.” 
+ 
+The information below summarizes the results of this inspection. 
+ 
+Corrective Action
+ 
+ 
+The NRC inspection team issued Nonconformances 99901448/2014-201-01 and 
+99901449/2014-201-01 in association with OIW’s failure to implement the regulatory 
+requirements of Criterion XVI, “Corrective Action,” of Appendix B to 10 CFR Part 50.  
+Nonconformances 99901448/2014-201-01 and 99901449/2014-201-01 cite OIW for failure to 
+document and correct deviations, nonconformances, and concerns documented in corrective 
+action requests (CARs).  Immediate and interim corrective actions, cause(s), and extent of 
+conditions are not always documented in a prompt manner.  The status of the CAR in progress 
+is left to the memory of the individual staff member assigned to work on the actions.  This has 
+resulted in several CARs not being performed adequately and in a timely manner, and CARs 
+that had been closed without addressing the issue(s) of concern. 
+ 
+Commercial Grade Dedication
+ 
+ 
+The NRC inspection team issued Nonconformance 99901448/2014-201-02 and 9990149/2014-
+201-02 in association with OIW’s failure to implement the regulatory requirements of Criterion 
+III, “Design Control,” and Criterion VII, “Control of Purchased Material Equipment and Services,” 
+of Appendix B to 10 CFR Part 50.  Nonconformances 99901448/2014-201-02 and 
+9990149/2014-201-02 cite OIW for failing to perform a technical evaluation to justify that the 
+critical characteristics and associated acceptance methods selected for various components of 
+the CA20 module assemblies to provide reasonable assurance that the CA20 module would 
+perform their intended safety functions.   
+ 
+Further, for the procurement of commercial calibration services from CAL-CERT and JJ 
+Calibration, OIW failed to conduct a technical evaluation to identify additional technical 
+requirements such as tolerances, accuracies, ranges over which the item is to be calibrated, 
+specific industry standards to be used, etc., to be included in the purchase order for the specific 
+M&TE being calibrated.  OIW failed to perform and document adequate engineering justification 
+to support their determination of the dedication sampling plan. In addition, OIW failed to conduct 
+a commercial-grade survey, source verification, or other surveillance of its commercial suppliers 
+to verify that the suppliers’ quality programs were capable of appropriate control of material 
+traceability.  This issue is common for OIW’s procurement and dedication of rebar, weld wires, 
+plates, and flat bars used as safety-related components in AP1000 CA20 module. 
+ 
+  
+ 
+ 
+- 4 - 
+Nonconforming Material, Parts, or Components 
+ 
+The NRC inspection team issued Nonconformances 99901448/2014-201-03 and 
+99901449/2014-201-03 in association with OIW’s failure to implement the regulatory 
+requirements of Criterion XV, “Nonconforming Materials, Parts, or Components,” and Criterion 
+XVII, “Quality Assurance Records,” of Appendix B to 10 CFR Part 50.  Nonconformances 
+99901448/2014-201-03 and 99901449/2014-201-03 cite OIW for failing to review, disposition, 
+and appropriately document resolution of several nonconforming items.  OIW was also unable 
+to retrieve three nonconformance reports, which are required quality records. 
+ 
+Other Inspection Areas
+ 
+ 
+The NRC inspection team determined that OIW is implementing its programs for 10 CFR Part 
+21; training and qualification of personnel; manufacturing control; inspection; and handling, 
+storage, and shipping in accordance with the applicable regulatory requirements of Appendix B 
+to 10 CFR Part 50.  Based on the limited sample of documents reviewed and activities 
+observed, the NRC inspection team also determined that OIW is implementing its policies and 
+procedures associated with these programs.  No findings of significance were identified.
+ 
+ 
+- 5 - 
+REPORT DETAILS 
+ 
+1. Corrective Action  
+ 
+a. Inspection Scope
+ 
+ 
+The NRC inspection team reviewed Oregon Iron Works’ (OIW) policies and implementing 
+procedures that govern the corrective action program to verify compliance with the requirements 
+of Criterion XVI, “Corrective Action,” of Appendix B to 10 CFR Part 50.   
+ 
+The NRC inspection team reviewed a sample of the Corrective Action Requests (CARs) 
+associated with the fabrication of safety-related AP1000 CA20 modules to verify the adequacy 
+of OIW’s implementation and control of its corrective action program (CAP).  The inspectors 
+also evaluated the adequacy of OIW’s implementation of corrective actions for findings of 
+conditions adverse to quality identified by Chicago Bridge and Iron (CB&I) source inspectors as 
+Notices of Unsatisfactory Conditions.  In addition, inspectors verified that OIW’s corrective 
+action process provides a connection to the 10 CFR Part 21 program. 
+ 
+The NRC inspection team discussed the CAP with OIW’s management and technical staff.  The 
+attachment to this inspection report lists the documents reviewed by the NRC inspection team. 
+ 
+b. Observations and Findings
+ 
+ 
+During the review of corrective action reports, the NRC inspection team identified three 
+examples where OIW had not corrected and documented conditions adverse to quality 
+adequately or in a timely manner, as required by Criterion XVI of Appendix B to 10 CFR Part 50.  
+The NRC inspection team noted that OIW initiated CARs for deviations, nonconformances, or 
+concerns; but failed to perform and document their corrective actions completely and in a 
+prompt manner.  The NRC inspection team issued Nonconformances 99901448/2014-201-01 
+and 99901449/2014-201-01 for the following examples: 
+ 
+1. On July 7, 2014, OIW documented in NPD-CAR-14-34 that an internal auditor identified that 
+OIW incorrectly contracted the services of a third party vendor, Cal-Cert, to determine the 
+weight of rebar that was used for the fabrication of AP1000 CA20 safety-related modules.  
+Cal-Cert is in OIW’s Approved Vendor Database for performance of some types of 
+calibration. However, calibration of weight is not in their scope of accreditation.  OIW’s 
+corrective actions to NPD-CAR-14-34 were to obtain Cal-Cert’s procedure for weight 
+calibration, as well as a copy of training records of the personnel weighing the rebar. The 
+NRC inspection team determined that these actions were inadequate in that OIW corrective 
+actions failed to identify for the evaluation of scope of supply and method(s) of verification to 
+establish Cal-Cert as an appropriate provider of weight measurement services. In addition 
+the inspectors were not able to find any objective evidence documenting the cause, 
+recommendations for corrective or preventative actions, commitment to corrective actions, 
+management review and verification, or implementation and effectiveness of corrective 
+actions taken by OIW to address NPD-CAR-14-34.  This is contrary to Section 16 of OIW’s 
+Quality Assurance Manual, which states, in part, that for a condition adverse to quality “a 
+Corrective Action Request (CAR) will be utilized to document the condition, cause, and 
+actions taken to prevent recurrence.” 
+ 
+ 
+- 6 - 
+  
+2. On November 1, 2013, an OIW employee documented a concern in NPD-CAR-13-31 which 
+identified issues with control of measuring and test equipment (M&TE).  Section 9.1 of 
+OIW’s Quality Assurance Manual states, in part, that “All calibrated equipment is handled, 
+stored and transported in a manner which shall not adversely affect calibration or condition 
+of the equipment.”  NPD-CAR-13-31 was closed without addressing the concern about 
+temporary M&TE equipment storage in a wooden crate that was neither labeled as M&TE 
+nor secured in a manner similar to the secured storage location for M&TE issuance.  This is 
+contrary to Section 16 of OIW’s Quality Assurance Manual, which states, in part, that 
+“Conditions adverse to quality are to be identified promptly and corrected as soon as 
+practical.”  
+ 
+3. On July 7, 2014, OIW documented in NPD-CAR-CAR-14-33 that an internal auditor 
+identified that OIW was using Light Meter S/N 839537/839538 that was calibrated by an 
+OEM Spectronics. This commercial laboratory was neither audited nor dedicated as an 
+approved supplier by OIW.  Use of this light meter to validate the adequacy of hand-held 
+lights prior to visual inspections is required by OIW procedure, but is not an American 
+Society of Mechanical Engineers (ASME) or the American Welding Society (AWS) Code 
+requirement.  The NRC inspection team requested OIW to verify the status of the light meter 
+and found that it was still in use and had not been segregated.  The inspectors identified that 
+NPD-CAR-14-33 did not identify any proposed corrective action(s) to address the 
+inadequate procurement of commercial grade calibration services used for a light meter and 
+that no objective evidence was found to demonstrate the action(s) taken by OIW to correct 
+this issue.  This is contrary to Section 16 of OIW’s Quality Assurance Manual, which states, 
+in part, that for a condition adverse to quality “a Corrective Action Request (CAR) will be 
+utilized to document the condition, cause, and actions taken to prevent recurrence.”  OIW 
+staff stated that the corrective actions are in progress, and consist of identifying and 
+contracting with a new calibration laboratory, purchasing additional light meters, and 
+maintaining the M&TE usage log to track the use of the light meter.  
+ 
+c. Conclusion
+ 
+ 
+The NRC inspection team issued Nonconformances 99901448/2014-201-01 and 
+99901449/2014-201-01 in association with OIW’s failure to implement the regulatory 
+requirements of Criterion XVI, “Corrective Action,” of Appendix B to 10 CFR Part 50.  
+Nonconformances 99901448/2014-201-01 and 99901449/2014-201-01 cite OIW for failure to 
+document and correct deviations, nonconformances, and concerns documented in corrective 
+action requests.  Immediate and interim corrective actions, cause(s), and extent of conditions 
+are not always documented in a prompt manner.  The status of the CAR in progress is left to the 
+memory of the individual staff member assigned to work on the actions.  This has resulted in 
+several corrective actions not always being performed adequately and in a timely manner, and 
+CARs closed without addressing all issues of concern.  
+ 
+ 
+- 7 - 
+2. Design Control  
+ 
+a. Inspection Scope  
+ 
+The NRC inspection team reviewed OIW’s policies and implementing procedures that govern 
+the design control programs to verify their compliance with the regulatory requirements of 
+Criterion III, “Design Control,” in Appendix B to 10 CFR Part 50.  The inspectors reviewed 
+procedures, work packages, shop drawings, and as-built submodules to determine whether the 
+design control process was performed in a planned, controlled, and orderly manner.  The NRC 
+inspection team also reviewed the process for implementing design changes initiated by 
+Westinghouse Electric Company (WEC), CB&I, and OIW; which are handled through an 
+Engineering & Design Coordination Report (E&DCR).   
+ 
+The NRC inspection team confirmed that OIW is using the latest approved design drawings for 
+fabrication, that the appropriate quality standards were specified and included in design 
+documents, that sufficient coordination between WEC, CB&I, and OIW was taking place for the 
+design and fabrication of the module, and that design changes were being effectively controlled 
+and approved.  The inspectors reviewed nonconformance reports with dispositions of “repair” or 
+“use-as-is,” requests for information to the design authority by OIW, and the resulting WEC 
+E&DCRs to determine whether organizational interfaces were intact and preserved the 
+approved design of submodules. 
+ 
+The NRC inspection team reviewed applicable E&DCRs to determine whether design changes 
+were subject to design control measures commensurate with those applied to the original 
+design.  The inspectors reviewed the WEC Technical Documents List and OIW Master 
+Document List to determine whether supplemental design documents applicable to the modules 
+were appropriately communicated to OIW, tracked, and implemented.  
+ 
+The NRC inspection team reviewed the design drawings, standard structural details, and 
+standard weld details supplied from WEC to OIW and compared them to the detailed shop 
+drawings used for fabrication to determine whether the structural dimensions, weld types, weld 
+sizes, and materials matched those originally specified for submodules CA20_04, CA20_06, 
+CA20_07, and CA20_08.  The inspectors observed completed work on modules CA20_06 
+(06001A-1), CA20_07 (07001A-2), CA20_07 (07001-A1), and CA20_04 (04001A-1) to 
+determine whether the as-built products matched the design drawings and were fabricated and 
+tested in accordance with applicable code requirements from AWS D1.1, AWS D1.6, and ACI 
+349.  Specifically, the inspectors reviewed stud weld installation, ladder truss fabrication and 
+final assembly of the wall plates to form the submodules.  The inspectors reviewed work 
+packages WO 2786-4507 Release 1 and 2 (lower halves of CA20_07), WO 2786-4507 Release 
+3 (upper half of CA20_07), and WO 2786-4004 Release 1 (CA20_04) to determine whether 
+documents provided to the shop matched the approved design and were sufficiently detailed to 
+allow the design to be implemented. 
+ 
+The NRC inspection team also reviewed OIW’s quality procedure (QP)-2786-(07)-10, 
+“Commercial Grade Dedication of Items and Services for 10 CFR 50 Appendix B Projects,” 
+which provides the methodology for dedicating commercial-grade items and services for use in 
+safety-related applications, including the development of critical characteristics, dedication 
+methods, and the acceptance criteria.  The inspectors reviewed several dedication packages, 
+ 
+ 
+- 8 - 
+including dedication plans, the criteria for the selection of critical characteristics, the basis for 
+sampling plan selection, and the selection of acceptance methods to verify effective 
+implementation of the OIW commercial grade dedication process.  The inspectors also reviewed 
+the dedication of calibration services to verify how OIW developed its commercial-grade 
+dedication plan for third-party calibration services. 
+ 
+The NRC inspection team discussed the design control and commercial-grade dedication 
+programs with OIW’s management and technical staff.  The attachment to this inspection report 
+lists the documents reviewed by the NRC inspection team. 
+ 
+b. Observations and Findings
+ 
+ 
+The NRC inspection team did not observe any dedication activities.  However, they reviewed 
+completed dedication packages to verify that OIW properly developed and implemented a plan 
+for commercial grade items (CGIs).  For seismic category 1, Class C, safety-related CA20 
+modules fabricated by OIW for the AP1000 WEC reactor design, the inspectors reviewed a 
+sample of dedication packages that includes weld wire, rebar, plates, and flat bar that were 
+commercially procured.  The inspectors reviewed several OIW’s commercial grade dedication 
+(CGD) packages to verify that the associated material specifications contained the critical 
+characteristics and that the inspection reports adequately documented the acceptance of the 
+criteria. 
+ 
+Sections 4.1 of QP-2786-(07)-10 requires OIW as the dedicating entity to perform and 
+document technical evaluations to identify the necessary technical and quality assurance 
+requirements that ensure the part will meet the intended design conditions, and that the 
+associated dedication plan addresses the technical evaluation as well as the basis for selection 
+of the critical characteristics and the acceptance methods.  Section 4.6 of OIW QP-2786-(07)-10 
+states, in part, that “Sampling of the items for dedication shall, as a minimum, meet the 
+requirements of one of the three options including production traceability, line item/single 
+product manufacturer, or line item/multiple product manufacturers based on a random sample 
+selection as defined in Section 1.4.3 of EPRI TR-017218, “Guideline for Sampling in the 
+Commercial-Grade Item Acceptance Process.”  For each part or item been dedicated by OIW, 
+the deputy QA Manager prepares the dedication plan with a CGD form.  This CGD form 
+contains information relevant to the determination of a part as a CGI, as well as the safety 
+function classification, critical characteristics, and acceptance method for the item.  
+ 
+For the sample of commercial-grade components selected, the NRC inspection team requested 
+that OIW provide the technical evaluations performed by the engineering group to create a 
+dedication plan associated with the part.  During discussions with OIW personnel, the inspectors 
+determined that OIW did not document the technical evaluations or the engineering justification 
+performed to select the critical characteristics and acceptance methods contained within the 
+dedication plans.  The inspectors found that OIW as the dedicating entity did not perform the 
+technical evaluations; instead OIW provided the dedication plan that were been used by its 
+customers to perform technical evaluations.  Technical evaluations identify the necessary 
+technical and quality requirements needed to provide reasonable assurance that the CGI will 
+perform its intended safety functions.  The NRC inspection team identified this issue as one 
+example of Nonconformances 99901448/2014-201-02 and 99901449/2014-201-02 for OIW’s 
+failure to provide objective evidence that technical evaluations had been performed by OIW as 
+ 
+ 
+- 9 - 
+the dedicating entity to provide reasonable assurance that the commercial-grade items to be 
+used as basic components will perform their intended safety function. 
+ 
+During review of OIW’s CGD program, the NRC inspection team noted that OIW uses the 
+process described in the Arizona Public Service (APS) Company safety evaluation report 
+(Agencywide Documents Access and Management System Accession (ADAMS) No. 
+ML052710224) to dedicate commercial calibration services for use in safety-related 
+applications.  Accreditation by an accrediting body recognized by the National Voluntary 
+Laboratory Accreditation Program (NVLAP) through the International Laboratory Accreditation 
+Cooperation (ILAC) Mutual Recognition Arrangement (MRA) may only be used as the basis for 
+qualifying a commercial calibration laboratory as part of the CGD process when all of the 
+requirements described in the APS safety evaluation report are met.  These requirements 
+include performing a technical evaluation to identify any additional technical requirements for 
+the specific M&TE being calibrated that need to be included in the purchase order (PO), such as 
+tolerances, accuracies, ranges over which the item is to be calibrated, specific industry 
+standards to be used, etc.  For the procurement of commercial calibration services from CAL-
+CERT and JJ Calibration Services, OIW did not perform a technical evaluation to identify 
+additional technical requirements to be included in the PO for the specific M&TE being 
+calibrated.  The NRC inspection team identified OIW’s failure to conduct a technical evaluation 
+to identify critical characteristics for the dedication of calibration services as an example of 
+Nonconformances 99901448/2014-201-02 and 99901449/2014-201-02.  
+ 
+In addition, during review of CGD packages, the NRC inspection team identified that OIW 
+performs sampling during dimensional inspection and destructive testing for material verification 
+on a sample of items procured.  OIW’s Dedication Procedure, QP-2786-(07)-10, outlines OIW’s 
+standard for sampling.  This procedure follows EPRI-TR-0172818, “Guideline for Sampling in 
+the Commercial-Grade Item Acceptance Process,” for sampling.  OIW adopts the Normal 
+Sampling Plan methodology, the most conservative approach outlined in the EPRI document.  
+However, the NRC inspection team determined that OIW did not establish adequate 
+engineering justification to support their determination of the sampling plan selected to be used 
+as part of the dedication process. The NRC inspection team identified several examples of 
+plates, rebar, weld wires, and testing services that were procured as commercial grade items 
+and then inadequately sampled as part of dedication process to be used as safety-related 
+components by OIW. The NRC inspection team identified this issue as an example of 
+Nonconformances 99901448/2014-201-02 and 99901449/2014-201-02. 
+ 
+The NRC inspection team noted that OIW did not adequately verify its commercial suppliers’ 
+(American Steel Portland for plates; Harris Rebar Columbia Basin for rebar; Industrial Welding 
+Supply LLC a distributor of Lincoln Electric for weld wires; and Professional Services Inc., a 
+metallurgical testing supplier) performance, and failed to establish assurance that the remaining 
+items were from the same controlled lot, heat, or batch and would reasonably be able to perform 
+their safety function.  Further, the inspectors identified that OIW relied on Certified Material Test 
+Report (CMTR) or Certificate of Conformance or Analysis as the sole method to verify critical 
+characteristics of acceptance of entire lots of rebar, weld wire, and plates without conducting a 
+commercial grade survey and source surveillance of the supplier to verify that the supplier 
+quality program was capable of appropriate control and material traceability.  The NRC 
+inspection team identified these issues as an example of Nonconformances 99901448/2014-
+201-02 and 99901449/2014-201-02. 
+ 
+ 
+- 10 - 
+c. Conclusion  
+ 
+The NRC inspection team issued Nonconformance 99901448/2014-201-02 and 9990149/-2014-
+201-02 in association with OIW’s failure to implement the regulatory requirements of Criterion 
+III, “Design Control,” and Criterion VII, “Control of Purchased Material, Equipment and 
+Services,” of Appendix B to 10 CFR Part 50.  Nonconformances 99901448/2014-201-02 and 
+9990149/-2014-201-02 cite OIW for failing to perform a technical evaluation to justify that the 
+critical characteristics and associated acceptance methods selected for various components of 
+the CA20 module assemblies provide reasonable assurance that the CA20 module would 
+perform their intended safety functions.   
+ 
+Further, for the procurement of commercial calibration services from CAL-CERT and 
+JJ Calibration, OIW failed to conduct a technical evaluation to identify additional technical 
+requirements such as tolerances, accuracies, ranges over which the item is to be calibrated, 
+specific industry standards to be used, etc., that may need to be included in the purchase order 
+for the specific M&TE being calibrated.  OIW failed to perform and document adequate 
+engineering justification to support their determination of the dedication sampling plan.   In 
+addition, OIW failed to conduct a commercial-grade survey, source verification, or other 
+surveillance of its commercial suppliers to verify that the suppliers’ quality programs were 
+capable of appropriate control of material traceability.  This issue is common for OIW’s 
+procurement and dedication of rebar, weld wires, plates, and flat bars used as safety-related 
+components in AP1000 CA20 module. 
+ 
+3. Nonconforming Materials, Parts, or Components
+ 
+ 
+a. Inspection Scope  
+ 
+The NRC inspection team reviewed policies and implementing procedures that govern the 
+control of nonconforming materials, parts, and components to verify compliance with Criterion 
+XV, “Nonconforming Materials, Parts, or Components,” of Appendix B to 10 CFR Part 50.  The 
+inspectors verified that OIW’s processes and procedures include the identification, 
+documentation, segregation, evaluation, and disposition of nonconforming items.  These 
+processes also apply the categories of “repair,” “rework,” “reject,” or “use-as-is” and list the 
+applicable justifications that will be adequately supported and properly documented. 
+ 
+The NRC inspection team verified that OIW’s nonconformance process provides a link to the 10 
+CFR Part 21 program.  In addition, the inspection team reviewed a sample of NCRs and 
+nonconforming items on the shop floor to verify implementation of OIW’s nonconformance 
+program. 
+ 
+b. Observations and Findings
+ 
+ 
+During the review of a sample of nonconformance reports (NCRs), the NRC inspection team 
+identified two examples of deficiencies involving failure to review, take action, and appropriately 
+document resolution on several nonconforming items, and three examples of NCRs that were 
+irretrievable for inspection. 
+ 
+ 
+ 
+- 11 - 
+On February 28, 2014, NPD-NCR-14-032 and NPD-NCR-14-033 were generated to document 
+that during recalibration, the “as found” conditions of four calibrated tools were identified as 
+being outside of specified tolerances.  These items included a ½-13 UNC-2B thread plug gage, 
+a 1-8 UNC thread plug gage, a ¼” drive 30-150 inlb CDI torque wrench, and a 3/8” drive 5-75 
+ftlb Snap-On torque wrench.  On July 30, 2014, NPD-NCR-14-236 documented that an 
+additional item, a torque screwdriver model C47410, was identified “as found” out of tolerance.  
+The NRC inspection team noted that OIW had not performed an evaluation of usage, the extent 
+of condition, or dispositioned the items identified as nonconforming.  This is not in accordance 
+with Section 15 of OIW’s Quality Assurance Manual, which states, in part, that “… a 
+nonconformance and its disposition shall be documented on a Nonconformance Report...”  As 
+no evaluation of usage was performed or documented, the inspectors were not able to rule out 
+the possibility that these tools had been used in the performance of work on safety-related items 
+being manufactured at the facility.  The NRC inspection team identified these issues as an 
+example of Nonconformances 99901448/2014-201-03 and 99901449/2014-201-03. 
+ 
+OIW could not retrieve nonconformance reports NPD-NCR-14-032, NPD-NCR-14-033, and 
+NPD-NCR-14-236 when the NRC inspection team requested them for review.  The inspectors 
+determined that OIW failure to retrieve three out of twenty four Nonconformance reports 
+requested, which are required to be maintained because they furnish evidence of activities 
+affecting is not in accordance with Sections 15 and 17 of OIW’s Quality Assurance Manual, 
+which state, in part, that Nonconformance Reports are maintained as Quality Records and that 
+records are preserved and controlled.  The NRC inspection team identified these issue as an 
+example of Nonconformances 99901448/2014-201-03 and 99901449/2014-201-03. 
+ 
+c. Conclusion
+ 
+ 
+The NRC inspection team issued Nonconformances 99901448/2014-201-03 and 
+99901449/2014-201-03 in association with OIW’s failure to implement the regulatory 
+requirements of Criterion XV, “Nonconforming Materials, Parts, or Components,” and Criterion 
+XVII, “Quality Assurance Records,” of Appendix B to 10 CFR Part 50.  Nonconformances 
+99901448/2014-201-03 and 99901449/2014-201-03 cite OIW for failing to review, disposition, 
+and appropriately document resolution on several nonconforming items.  OIW was also unable 
+to retrieve three nonconformance reports, which are required quality records. 
+ 
+4. Oversight of Contracted Activities and Audits 
+ 
+ 
+a. Inspection Scope  
+ 
+The NRC inspection team reviewed OIW’s policies and implementing procedures that govern 
+the implementation of its oversight of contracted activities and audits programs to verify 
+compliance with the requirements of Criterion IV, “Procurement Document Control,” Criterion 
+VII, “Control of Purchased Material, Equipment, and Services,” and Criterion XVIII, “Audits,” of 
+Appendix B to 10 CFR Part 50.   
+ 
+The NRC inspection team reviewed a sample of POs issued by OIW in support of several 
+safety-related activities to verify that the requirements identified in the procedures were imposed 
+in the applicable purchasing documents.  The inspection team verified that the OIW POs 
+adequately defined contract deliverables, instructions for the disposition of nonconformance, 
+ 
+ 
+- 12 - 
+access rights, and provisions for the extension of contractual requirements to subcontractors.  In 
+addition, the inspection team verified that all of the safety-related POs reviewed included 
+clauses invoking the provisions of 10 CFR Part 21 and requiring the vendor or supplier to 
+conduct safety-related work under its approved QA program. 
+ 
+The NRC inspection team reviewed OIW’s approved vendor database (AVD) to ensure that 
+qualified and approved suppliers were listed; that authorized personnel maintained, distributed, 
+and periodically updated the list; and that any revisions to the list were implemented following 
+the applicable procedures.  The inspectors verified that the AVD documented (1) the vendor 
+name, (2) the scope of work, (3) the approval date, and (4) the due date.  The inspectors also 
+confirmed that the suppliers performing work for OIW were appropriately listed on the AVD and 
+that the scope of supply was documented and consistent for the activities contracted.  In 
+addition, the inspectors verified that, for the sample of vendors selected, OIW performed 
+supplier audits as required and that the corrective actions related to these audits were 
+implemented in a timely manner. 
+ 
+The NRC inspection team reviewed a sample of receipt inspection records, and external audit 
+reports (including those conducted by third parties) to evaluate compliance and adequate 
+implementation of OIW’s technical and oversight program requirements.  In addition, the 
+inspectors reviewed a sample of internal audits, and auditor qualification records.  Also, the 
+inspection team reviewed the disposition of corrective actions to resolve deficiencies identified 
+by audit findings for adequacy and timeliness.  The inspectors confirmed that the audits are 
+performed in accordance with the OIW program and regulatory requirements.   
+ 
+The NRC inspection team discussed the oversight of contracted activities and external and 
+internal audit programs with OIW’s management and technical staff.  The attachment to this 
+inspection report lists the documents reviewed by the NRC inspection team.  
+ 
+a. Observations and Findings
+ 
+ 
+No findings of significance were identified. 
+ 
+b. Conclusion
+ 
+ 
+The NRC inspection team determined that OIW is implementing its oversight of contracted 
+activities in accordance with the regulatory requirements of Criterion IV, “Procurement 
+Document Control,” Criterion VII, “Control of Purchased Material, Equipment, and Services,” 
+and Criterion XVIII, “Audits,” of Appendix B to 10 CFR Part 50.  Based on the limited sample of 
+documents reviewed, the NRC inspection team also determined that OIW is implementing its 
+policies and procedures associated with the oversight of contracted activities.  No findings of 
+significance were identified. 
+ 
+5. 10 CFR Part 21 Program 
+ 
+ 
+a. Inspection Scope
+ 
+ 
+The NRC inspection team reviewed OIW’s policies and implementing procedures that govern 
+the facility’s compliance with the requirements of 10 CFR Part 21, “Reporting of Defects and 
+ 
+ 
+- 13 - 
+Noncompliance.”  In addition, the NRC inspection team evaluated the 10 CFR Part 21 postings 
+and a sample of OIW’s purchase orders (POs) for compliance with the requirements of 10 CFR 
+21.21, “Notification of Failure to Comply or Existence of a Defect and its Evaluation,” and 10 
+CFR 21.31, “Procurement Documents.”  The NRC inspection team also verified that OIW’s 
+nonconformance and corrective action procedures provide a link to the 10 CFR Part 21 
+program.  Furthermore, the NRC inspection team discussed the 10 CFR Part 21 program with 
+OIW’s management and technical staff.  At the time of the inspection, OIW had not performed 
+any evaluations under 10 CFR Part 21.  The attachment to this inspection report lists the 
+documents reviewed by the NRC inspection team. 
+ 
+b. Observations and Findings
+ 
+ 
+No findings of significance were identified. 
+ 
+c. Conclusion
+ 
+ 
+The NRC inspection team determined that OIW is implementing its 10 CFR Part 21 program in 
+accordance with the regulatory requirements of 10 CFR Part 21.  Based on the limited sample 
+of documents reviewed, the NRC inspection team also determined that OIW is implementing its 
+policies and procedures associated with the 10 CFR Part 21 program.  No findings of 
+significance were identified. 
+ 
+6. Training and Qualification of Personnel
+ 
+ 
+a. Inspection Scope  
+ 
+The NRC inspection team reviewed OIW’s policies and implementing procedures that govern 
+the training and qualification program to verify compliance with the requirements of Criterion II, 
+“Quality Assurance Program,” of Appendix B to 10 CFR Part 50.   
+ 
+The NRC inspection team reviewed OIW’s long-range and short-range training plans and the 
+system used to track training.  The NRC inspection team reviewed the indoctrination, training, 
+and qualification of lead auditors and auditors, nondestructive examination personnel, Quality 
+Control (QC) personnel, and welding personnel to ensure that proficiency is achieved and 
+maintained.  The NRC inspection team verified that all personnel performing activities affecting 
+quality had completed the required training and met all the specified requirements in 
+accordance with OIW’s policies and implementing procedures. 
+ 
+The NRC inspection team discussed the training and qualification program with OIW’s staff.  
+The attachment to this inspection report lists the documents reviewed by the NRC inspection 
+team. 
+ 
+b. Observations and Findings
+ 
+ 
+No findings of significance were identified. 
+  
+ 
+ 
+- 14 - 
+c. Conclusion  
+ 
+The NRC inspection team determined that OIW is implementing its training and qualification 
+program in accordance with the regulatory requirements of Criterion II of Appendix B to 
+10 CFR Part 50.  Based on the limited sample of documents reviewed, the NRC inspection 
+team also determined that OIW is implementing its policies and procedures associated with the 
+training and qualification program.  No findings of significance were identified. 
+ 
+7. Material Traceability 
+ 
+ 
+a. Inspection Scope
+ 
+ 
+The NRC inspection team reviewed OIW’s policies and implementing procedures that govern 
+material traceability to verify compliance with the regulatory requirements of Criterion VIII, 
+“Identification and Control of Material, Parts, and Components,” of Appendix B to 10 CFR Part 
+50.   
+ 
+The NRC inspection team observed that all materials were marked with unique identifiers 
+traceable to procurement records.  This number is unique and assigned once the receipt 
+inspection is completed.  Only the Clackamas, OR facility receives material and performs 
+receipt inspections.  For a sample of the CA20 submodules, the NRC inspection team observed 
+that identification markings were: (1) traceable to design and shop drawings, (2) carried and 
+remained legible through the manufacturing process between both facilities, and (3) applied 
+using materials and methods that provided a clear and legible identification that did not 
+adversely affect the function or service life of the modules. 
+ 
+The NRC inspection team verified the traceability and storage of material between the multiple 
+storage locations.  OIW uses Fab-Trol-MRP, an internal computer database system, to track 
+material locations per project.  This system is also used to track the location of materials 
+between the two facilities. 
+ 
+The NRC inspection team discussed the material traceability program with OIW’s management 
+and technical staff.  The attachment to this inspection report lists the documents reviewed by 
+the NRC inspection team.  
+ 
+b. Observations and Findings
+ 
+ 
+No findings of significance were identified. 
+ 
+c. Conclusions
+ 
+ 
+The NRC inspection team determined that OIW is implementing its material traceability program 
+in accordance with the regulatory requirements of Criterion VIII of Appendix B to 
+10 CFR Part 50.  Based on the limited sample of documents reviewed, the NRC inspection 
+team also determined that OIW is implementing its policies and procedures associated with the 
+material traceability program.  No findings of significance were identified. 
+  
+ 
+ 
+- 15 - 
+8. Manufacturing Control  
+ 
+a. Inspection Scope  
+ 
+The NRC inspection team reviewed OIW’s policies and implementing procedures that govern 
+the control of special processes to verify compliance with the regulatory requirements Criterion 
+IX, “Control of Special Processes,” of Appendix B to 10 CFR Part 50, AWS D1.1 Structural 
+Welding Code – Steel, 2000 Edition, and the American Society for Nondestructive Testing 
+(ASNT) SNT-TC-1A, “Personnel Qualification and Certification in Nondestructive Testing,” 1996 
+Edition. 
+ 
+The NRC inspection team reviewed a sample of welding and nondestructive examination (NDE) 
+documents associated with the fabrication and inspection of the CA20 building submodules for 
+the Westinghouse Electric Company (WEC) AP1000 reactor design.  The inspectors verified 
+that the applicable welding data; such as weld material identification number, welding procedure 
+specifications (WPS), inspection procedures, and the final inspection results were recorded on 
+weld travelers.  
+ 
+The NRC inspection team witnessed semi-automatic Flux Cored Arc Welding (FCAW) on 
+submodules 11, 15 and 17 for the AP1000 CA20 building, and machine stud welding for 
+submodule CA20_08 for the AP1000 CA20 building.  The inspectors verified that WPSs CS-ST-
+002 and CS-2101 used for these submodules were qualified in accordance with the 
+requirements of AWS D1.1 and the applicable OIW procedures.  The inspectors also reviewed 
+an additional sample of WPSs and procedure qualification records (PQR) to verify that the 
+documents were in accordance with the requirements of AWS D1.1 and the applicable OIW 
+procedures. 
+ 
+The NRC inspection team observed OIW’s weld filler wire control storage and issue areas to 
+ensure that the weld filler metal was adequately controlled at all times until its consumption, and 
+reviewed records associated with the storage, issuance, and return of weld filler wires.  The 
+weld filler metal was either in hermetically sealed containers or was kept in baking ovens to 
+control the moisture content within the requirements of AWS D1.1.  The inspectors also verified 
+that baking ovens used for SMAW filler metal used calibrated thermometers in accordance with 
+the applicable OIW procedures.  In addition, the inspectors verified that OIW’s storage and 
+control of weld filler material was in accordance with OIW PP-NPD-(09)-08 “Handling and 
+Control of Welding” Revision 5, dated April 16, 2014. 
+ 
+The NRC inspection team witnessed in-process visual (VT), magnetic particle (MT), and 
+ultrasonic testing (UT) inspection on complete joint penetration weld joint numbers 41 and 42 on 
+submodule CA20_11.  The inspectors also observed visual inspection of the fit-up for tack weld 
+number 817 for the ladder truss on submodule CA20_08, fillet weld numbers 15c and 16c for 
+submodule CA20_15, and stud welds on submodule CA20_08.  The inspectors found the OIW 
+NDE procedures to be consistent with the AWS Code. 
+ 
+During VT, MT, and UT, the NRC inspection team witnessed and verified that the Level II 
+inspectors performed the examinations in accordance with the OIW procedures and appropriate 
+acceptance criteria.  The inspectors also reviewed a Level III non-destructive examiner and a 
+sample of Level II non-destructive inspector qualification records and confirmed that they were 
+ 
+ 
+- 16 - 
+qualified in accordance with the requirements in ASNT SNT-TC-1A.  The inspectors verified that 
+vision tests were performed yearly and inspectors and Level III examiners are recertified as 
+required by the AWS Code and ASNT SNT-TC-1A.  The NRC inspection team noted that most 
+non-destructive inspectors had previous experience and training in their respective non-
+destructive test methods.   
+ 
+The NRC inspection team discussed the special processes program with OIW’s management 
+and technical staff.  The attachment to this inspection report lists the documents reviewed by 
+the NRC inspection team.  
+ 
+b. Observations and Findings
+ 
+ 
+No findings of significance were identified. 
+ 
+c. Conclusion
+ 
+ 
+The NRC inspection team determined that OIW is implementing its program to control the use of 
+special processes in accordance with the regulatory requirements of Criterion IX, “Control of 
+Special Processes,” of Appendix B to 10 CFR Part 50.  Based on the limited sample of 
+documents reviewed, the NRC inspection team also determined that OIW is implementing its 
+policies and procedures associated with the control of special processes program.  No findings 
+of significance were identified. 
+ 
+9. Inspection
+  
+ 
+a. Inspection Scope  
+ 
+The NRC inspection team reviewed OIW’s policies and implementing procedures that govern 
+the inspection program to verify compliance with the regulatory requirements of Criterion X, 
+“Inspection,” of Appendix B to 10 CFR Part 50.   
+ 
+The NRC inspection team verified that OIW’s procedures for inspection activities provided 
+measures for the generation of inspection documents such as travelers, instructions, checklists, 
+or other appropriate means.  For a sample of inspection documents, the inspectors verified that 
+these documents included the appropriate information as required by OIW procedures such as 
+the inspection date, type of observation, results of examinations and tests, the initials of the QC 
+inspector, and mandatory hold points were indicated and work did not proceed without 
+appropriate approval. 
+ 
+The NRC inspection team verified that OIW had a process in place to initiate a nonconformance 
+report when a counterfeit, fraudulent, and suspect item (CFSI) was suspected.  The inspectors 
+interviewed two QC inspectors to assess their understanding of controlling and documenting 
+when CFSI is suspected.  The inspectors noted that the QC inspectors were knowledgeable on 
+the use of documents to verify, document, and report CFSI.  
+ 
+The NRC inspection team evaluated OIW’s receipt inspection area to determine if OIW had 
+adequate material control.  The inspectors observed that accepted materials were adequately 
+ 
+ 
+- 17 - 
+identified, and that rejected materials segregated in a nonconformance hold area were properly 
+marked with red and yellow hold tags depending on the level of approval. 
+ 
+The NRC inspection team discussed the inspection program with OIW’s management and 
+technical staff.  The attachment to this inspection report lists the documents reviewed by the 
+NRC inspection team.  
+ 
+b. Observations and Findings
+ 
+ 
+No findings of significance were identified. 
+ 
+c. Conclusions
+ 
+ 
+The NRC inspection team determined that OIW is implementing its inspection program in 
+accordance with the regulatory requirements of Criterion X of Appendix B to 10 CFR Part 50.  
+Based on the limited sample of documents reviewed, the NRC inspection team also determined 
+that OIW is implementing its policies and procedures associated with the inspection program.  
+No findings of significance were identified. 
+ 
+10. Control of Measuring and Test Equipment
+  
+ 
+a. Inspection Scope
+ 
+ 
+The NRC inspection team reviewed OIW’s policies and implementing procedures that govern 
+the M&TE program to verify compliance with the requirements of Criterion XII, “Control of 
+Measuring and Test Equipment,” of Appendix B to 10 CFR Part 50.   
+ 
+The NRC inspection team, for a sample of M&TE, determined that they had the appropriate 
+calibration stickers with the respective calibration service and current calibration dates including 
+the calibration due date.  The inspectors also verified that the M&TE had been calibrated, 
+adjusted, and maintained at prescribed intervals.  In addition, the calibration records reviewed 
+by the inspectors indicated the “as-found” or “as-left” conditions, accuracy required, calibration 
+results, calibration dates, owner of the calibration services, and the due date for recalibration.  
+The inspectors also verified that the selected M&TE was calibrated using procedures traceable 
+to known industry standards including those outsourced for calibration.  All M&TE equipment 
+was traceable with a unique ID number.  The number is traced and can be retrieved using an 
+M&TE log which contains all of the information regarding the calibration of the item. 
+ 
+The NRC inspection team performed a walk down to ensure that equipment located in the 
+M&TE storage area, the M&TE hold area, and the fabrication shop were labeled, handled, and 
+stored in a manner that indicated the calibration status of the instrument and ensured its 
+traceability to calibration test data.   
+ 
+The NRC inspection team discussed the M&TE program with OIW’s management and technical 
+staff.  The attachment to this inspection report lists the documents reviewed by the NRC 
+inspection team.  
+ 
+ 
+- 18 - 
+b. Observations and Findings  
+ 
+No findings of significance were identified. 
+ 
+c. Conclusion
+ 
+ 
+The NRC inspection team determined that OIW is implementing its M&TE  program in 
+accordance with the regulatory requirements of Criterion XII of Appendix B to 10 CFR Part 50.  
+Based on the limited sample of documents reviewed, the NRC inspection team also determined 
+that OIW is implementing its policies and procedures associated with the control of M&TE.  No 
+findings of significance were identified. 
+ 
+11. Handling, Storage, and Shipping 
+ 
+ 
+a. Inspection Scope  
+ 
+The NRC inspection team reviewed OIW’s policies and implementing procedures that govern 
+the handling, storage, and shipping program to verify compliance with the requirements of 
+Criterion XIII, “Handling, Storage, and Shipping,” of Appendix B to 10 CFR Part 50.   
+ 
+The NRC inspection team reviewed the onsite storage and handling of materials.  The 
+inspectors verified the control and segregation of carbon and stainless steel, and the support 
+and protection for CA20 modules currently in fabrication.  The inspectors also reviewed the 
+classification and use of storage level B, C, and D areas in accordance with Subpart 2.2, 
+“Quality Assurance Requirements for Packaging, Shipping, Receiving, Storage, and Handling of 
+Items for Nuclear Power Plants,” of the American Society of Mechanical Engineers Nuclear 
+Quality Assurance-1-1994 Edition.  
+ 
+The NRC inspection team observed permanent storage of carbon steel bars, studs, flat bars, 
+and welding wire spools.  The inspectors also evaluated the different locations of storage 
+available including Clackamas, Vancouver, and the Green Transfer Storage facilities.  These 
+facilities are used to store the overflow of heat treated trusses produced for CA20 modules and 
+other raw materials.  In addition, the inspectors verified implementation of OIW’s monthly 
+inspections to confirm that the conditions of items stored are in compliance with PO 
+requirements and OIW procedures. 
+ 
+The NRC inspection team discussed the handling, storage, and shipping program with OIW’s 
+management and technical staff.  The attachment to this inspection report lists the documents 
+reviewed by the NRC inspection team. 
+ 
+b. Observations and Findings
+ 
+ 
+No findings of significance were identified. 
+ 
+c. Conclusion
+ 
+ 
+The NRC inspection team determined that OIW is implementing its nonconforming materials, 
+parts, or components program in accordance with the regulatory requirements of Criterion XIII of 
+ 
+ 
+- 19 - 
+Appendix B to 10 CFR Part 50.  Based on the limited sample of documents reviewed, the NRC 
+inspection team also determined that OIW is implementing its policies and procedures 
+associated with handling, storage, and shipping.  No findings of significance were identified. 
+ 
+12. Entrance and Exit Meetings
+ 
+ 
+On September 22, 2014, the NRC inspection team discussed the scope of the inspection with 
+Mr. Bradley D. Dunkin, Vice President, and other members of OIW’s management and technical 
+staff.  On September 26, 2014, the NRC inspection team presented the inspection results and 
+observations during an exit meeting with Mr. Bradley D. Dunkin and other members of OIW’s 
+management and technical staff.  The attachment to this report lists the attendees at the 
+entrance and exit meetings, as well as those individuals whom the NRC inspection team 
+interviewed.  
+ 
+ 
+- 20 - 
+ATTACHMENT 
+ 
+1. ENTRANCE AND EXIT MEETING ATTENDEES
+ 
+ 
+Name Title Affiliation Entrance Exit Interviewed
+Jonathan Ortega-
+Luciano Inspection Team Leader NRC X X  
+Annie Ramirez Inspector NRC X X  
+Raju Patel Inspector NRC X X  
+Laura Micewski Inspector NRC X X  
+John Honcharik Inspector NRC X X  
+Nicholas McMurray Inspector NRC X X  
+Chad Huffman Inspector NRC X X  
+Dean Hudson 
+Quality Assurance 
+Manager Nuclear 
+Products 
+OIW X X X 
+Adam Wilcher Module Compliance 
+Supervisor SNC  X  
+Alex Baldin Storage Staff OIW   X 
+Alex Berlin Project Engineer OIW   X 
+Andrew Chaney Manufacturing Engineer OIW   X 
+Anna McLendon Quality Assurance 
+Engineer SNC  X  
+Asia Jenkins Supplier Compliance 
+Manager SNC  X  
+Bill Bartlett Source Inspector CB&I   X 
+Bill White Warehouse Storage & 
+Shipping Manager OIW   X 
+Billy Caldwell Welder OIW   X 
+Bradley Dunkin Vice President Nuclear 
+Products OIW X X X 
+Brent Morris Control M&TE OIW   X 
+Byron lowery Quality Assurance Project 
+Manager SNC  X  
+ 
+ 
+- 21 - 
+Name Title Affiliation Entrance Exit Interviewed
+Candi Larsen CAPA Coordinator OIW X X X 
+Chess Archibald QC Inspector OIW   X 
+Chris Huggard Lead Source Inspector CB&I X X X 
+Dan Teas Quality Control Inspector OIW   X 
+Daniel Grannan Manager CB&I X X  
+Darren Delozier Welder OIW   X 
+Dave Johnson Deputy Quality Assurance 
+Manager OIW X X X 
+Dave Worsley Purchasing Manager OIW   X 
+Devlyn Kozol Project Engineer OIW   X 
+Forrest Hundley Quality Assurance 
+Manager SNC  X  
+James Neigel Maintenance Manager OIW   X 
+Jamie Schlarb Project Inspection 
+Coordinator OIW X X  
+Jason Wimmer Quality Assurance 
+Engineer OIW X X X 
+Jeff Burgess Maintenance Manager OIW   X 
+Joe Ernst Project Manger CB&I X X X 
+John Heilman Fabrication Foreman OIW   X 
+Joshua Olson Quality Assurance 
+Supervisor SNC  X  
+Kahnne Bankston Quality Specialist SNC  X  
+Kathy O’Donnell Source Inspector OIW   X 
+Ken Adams Quality Assurance 
+Engineer OIW  X  
+Kevin Kueller Source Inspector OIW   X 
+Kurt Erspamer Receipt Inspector OIW   X 
+Lana Wright Lead Auditor OIW  X X 
+Mike Yox Licensing Manager SNC  X  
+ 
+ 
+- 22 - 
+Name Title Affiliation Entrance Exit Interviewed
+Patrick McDevitt Quality Control Level II OIW   X 
+Rick Hinkle Welder OIW   X 
+Rod Konkin Project Manger OIW   X 
+Rusty Kaminsky QA Engineer OIW   X 
+Scott Goodman Welder OIW   X 
+Scott Ruth Fabrication Foreman OIW   X 
+Seth Fluharty QA Engineer OIW   X 
+Stacey Raben Manager of Projects OIW X X X 
+Thomas Saunders Supplier Compliance 
+Director SNC  X  
+Verl Moultrie Yard Shipping Manager OIW   X 
+Vince Archibald Quality Assurance 
+Inspector Level III OIW   X 
+Warren Washburn Project Manger OIW X X X 
+ 
+2. INSPECTION PROCEDURES USED  
+ 
+Inspection Procedure (IP) 36100, “Inspection of 10 CFR Part 21 and Programs for Reporting 
+Defects and Noncompliance,” dated February 13, 2012. 
+ 
+IP 36100.01, “Inspection of 10 CFR 50.55(e) Programs for Reporting Defects and 
+Noncompliance during Construction,” dated February 13, 2012. 
+ 
+IP 43002, “Routine Inspections of Nuclear Vendors,” dated July 15, 2013. 
+ 
+IP 43004, “Inspection of Commercial-Grade Dedication Programs,” dated November 29, 2013. 
+ 
+IP 65001.01, “Inspection of ITAAC-Related Foundations and Buildings,” dated October 3, 2007. 
+ 
+IP 65001.A, “Inspection of the As-Built Attributes for Structures, Systems, and Components 
+Associated with ITAAC,” dated September 25, 2013. 
+ 
+IP 65001.F, “Inspection of the ITAAC-Related Design and Fabrication Requirements,” dated 
+September 20, 2013.  
+ 
+ 
+- 23 - 
+3. LIST OF ITEMS OPENED, CLOSED, AND DISCUSSED  
+ 
+Item Number Status Type Description Applicable ITAAC 
+99901448/2014-201-01 Opened NON Criterion XVI N/A 
+99901449/2014-201-01 Opened NON Criterion XVI  N/A 
+99901448/2014-201-02 Opened NON Criterion III 
+Criterion VII N/A 
+99901449/2014-201-02 Opened NON Criterion III 
+Criterion VII N/A 
+99901448/2014-201-03 Opened NON Criterion XV 
+Criterion XVII N/A 
+99901449/2014-201-03 Opened NON Criterion XV 
+Criterion XVII N/A 
+ 
+4. INSPECTIONS, TESTS, ANALYSES, AND ACCEPTANCE CRITERIA  
+ 
+The NRC inspection team identified the following inspections, tests, analyses, and acceptance 
+criteria (ITAAC) related to components being fabricated and inspected by OIW.  At the time of 
+the inspection, OIW was fabricating the CA20 Auxiliary Building submodules for Vogtle Electric 
+Generating Plant Unit 4 and V.C. Summer Unit 3.  For the ITAAC listed below, the NRC 
+inspection team reviewed OIW’s quality assurance controls in the areas of design control, 
+inspection, nonconforming materials parts and components, and corrective actions. 
+ 
+The ITAAC’s design commitments referenced below are for future use by the NRC staff during 
+the ITAAC closure process; the listing of these ITAAC design commitments does not indicate 
+that they have been met and closed.  The NRC inspection team did not identify any findings 
+associated with the ITAAC identified below. 
+ 
+Appendix C to the Combined License for Vogtle 
+Electric Generating Plant Unit 3 No. 763 ITAAC 3.3.00.02a.i.d 
+ 
+5. DOCUMENTS REVIEWED  
+ 
+Calibration, Heat Treatment, Non-Destructive Examination, Inspection and Material Reports 
+ 
+• CAL-CERT Certificate of Calibration (C of C) Report No. 41632-O-06 dated April 13, 2013, 
+for OIW PO No. 636-10-00316 for calibration of Plastic Shim S/Ns. PS-0005, PS-0010, PS-
+0020, PS-0030, PS-0040 and PS-0050 
+• CAL-CERT Certificate of Calibration Report No. 41632-O-06, dated April 13, 2012 for OIW 
+Shim Serial No. PS-0040, on PO No. 636-10-00316 
+ 
+ 
+- 24 - 
+• CAL-CERT Certificate of Calibration  for calibration of Pressure Gauge Model # 42070533, 
+S/N M012270 per PO 2659-00118, dated March 14, 2014 
+• Cal-Cert Certificate of Calibration for calibration of Torque Wrench S/N 1110102846 per PO 
+636-60-00063, dated February 13, 2014 
+• CAL-CERT Certificate of Calibration for calibration of Torque Wrench S/N 0805500918 per 
+PO 636-60-00065, dated February 14, 2014 
+• Transcat Certificate of Calibration for calibration of Dial Depth Gage, S/N 140709-1 per PO 
+2659-00118, dated July 9, 2014 
+• OIW Receipt Inspection Report (RIR) No. 1332, dated July 15, 2014, for PO No. 2786-
+00017, Revision 03, Line Items, 5, 6,8,9,10,16,18,22,23 and 25, acceptance of deformed 
+hook bars to ASTM A706, Gr. 60 specification with source surveillance by OIW at Harris 
+Rebar Columbia Basin with material procured by Harris Rebar Columbia Basin from 
+Cascade Steel Rolling Mills Inc. 
+• RIR-1332, Revision 1, dated July 14, 2014, at Harris Rebar Basin, conducting source 
+surveillance of bending and threading operation of rebar to OIW PO No. 2786-0017 
+• RIR No. 1095, dated April 23, 2014, PO No. 2786-00061, Revision 1, for acceptance of flat 
+bar ¾” x 3” x 20’ to ASTM A36-1991 Edition, received from American Steel Portland, 
+traceable to NUCOR 
+• RIR No. 1216 dated April 21, 2014 for PO No. 2786-00018, Revision 1 for acceptance of 
+851 pieces of Flange Coupler EL28SAQSP004, Heat# L7899, HIC No. N6200 received from 
+ERICO, an audited supplier of OIW 
+• RIR No. 1347 dated July 15, 2014, PO No. 2786-00089 for acceptance of safety-related 
+angles 7”x4”x1/2” x 23’ to ASTM A36-1991, Heat No. 1027051, received from EDGEN 
+Murray Corporation, an audited supplier of OIW 
+• RIR No. 1396, dated July 19, 2014 for PO No. 636-60-0009114, Revision 2, for calibration 
+services of OIW M&TE performed by Transcat, Inc., an audited supplier of OIW 
+• RIR No. 1411, dated August 1, 2014 for PO No. 2786-00082, Revision 1, for acceptance of 
+Lenton Couplers P/N PJ9-EL28P9JQ, C3J EL28P9JQ, and Lenton Couplar Weldable Clevis 
+C3J 36MM#11 procured from ERICO, an audited supplier of OIW 
+• RIR No. 1419, dated July 31, 2014 for PO No. 2786-00136, Revision 2, for acceptance of 12 
+Pipe Caps 16” True SCH. 40, material specification ASTM A403, Gr. 304L-13 to APP-CA20-
+GEF-701-100 with Heat# EE110 identified HIC No. N6493 received from Energy & Process 
+Corporation, an audited and approved supplier of OIW 
+• Transcat Certificate of Calibration Report No. 1407101/1407102, dated July 11, 2014 for 
+OIW Fluke Infrared Thermometer s/n 27620010 on PO No. 636-60-00091 
+• NELSON Stud Welding Certificate of Compliance Report dated March 31, 2014 for safety-
+related S3L ¾”x63/16” studs P/N 102098085-NQA material specification ASTM A108 Gr. 
+1015, on OIW PO No. 2786-00010, Revision 03, with technical evaluation performed by 
+CB&I 
+ 
+Commercial Grade Dedication Packages
+ 
+ 
+• OIW Commercial Grade Dedication Report (CGDR) No.NPD-CGD-2786-023A Revision 0, 
+dated April 21, 2014, PO No. 2786-00061 Line Items 1 & 3 for 200 ¾”x 3” x 20’ flat bars to 
+ASTM A36, Heat No. SE13105891 from American Steel-Portland, material procured from 
+NUCOR Steel Seattle, Inc., with technical evaluation performed by CB&I 
+ 
+ 
+- 25 - 
+• CGDR No.NPD-CGD-2786-021, dated May 30, 2014, PO No. 2786-0035 Line Item 6, for 
+weld wire 1/8” AWS E8018-C1MR, OIW HIC No. N6115 from Industrial Welding Supply Inc., 
+with technical evaluation performed by CB&I 
+• CGDR No. NPD-CGD-2786-013, Revision 1, dated June 2, 2014, PO No. 2786-00006, 
+Revision 7, Items 7, OIW HIC No. N6037 and N6038 for ½” x 123’ x 488’ ASTM A572 Grade 
+60-07 plates from EVRAZ Oregon Steel Mills with slabs melted by NTMK Nizhny Tagil, 
+Russia, with technical evaluation performed by CB&I 
+• CGDR No. NPD-CGD-2786-004, Revision 1, dated June 2, 2014, PO No. 2786-00006 Line 
+Item 4, OIW HIC Nos. N6044 and N6045 for plate ½” x 74” x 486’ to ASTM A 572 Gr. 60-07, 
+with technical evaluation performed by CB&I 
+• CGDR No. NPD-CGD-2786-024, Revision 1, dated August 21, 2014, PO No.2786-00017 
+Line Items 9, 10, 18, 19, 23, 28, 28, 29 and 30 for #9 reinforced steel rebar, OIW HIC Nos. 
+N6156, N6176, N6288, to ASTM A 706-13 Edition, from Harris Rebar Columbia Basin, with 
+material from CASCO Steel Rolling Mills, metallurgical test by PSI and Verification of 
+Weights Report No. 48451-O-23 by CAL-CERT, with technical evaluation performed by 
+CB&I 
+• CGDR No. NPD-CGD-2786-028G Revision 0, dated September 20, 2014, PO No. 636-60-
+00085 Line Items 1 through 3 for calibration of coating thickness gauge serial no. 649455, 
+sling Psychrometer serial no. 72954, PTC surface thermometer serial no. 73959 and 50’ 
+tape measure serial no. 040501 commercially calibrated by CAL-CERT 
+ 
+Corrective Action Reports
+ 
+ 
+13-23, 13-26, 13-31, 14-29, 14-30, 14-31, 14-32, 14-33, 14-34, 14-35, 14-36, 14-37, 14-38, 14-
+39, 14-41, 14-43, 14-44, 14-45, 14-46, 14-47, 14-48, 14-49, 14-50, 14-61, 14-71 
+ 
+Corrective Action Reports Generated during the NRC Inspection
+ 
+ 
+14-73, 14-77, 14-78, 14-79, 14-80, 14-81, 14-82, 14-84, 14-85, 14-86, 14-87, 14-88, 14-90 
+ 
+Design Documents
+ 
+ 
+• APP-1230-GEF-500, Floor Reinforcement Procurement Release Auxiliary Building Areas 5 
+and 6 EL 100’ 0”, Revision 0 
+• APP-CA00-GEF-000002, Module Reinforcement Clarification, Revision 0 
+• APP-CA00-GEF-058, Stud Spacing – General Note 3.7.5 Requirements, Revision 0 
+• APP-CA00-GEF-850020,  General Note 3.7.5.11 - Studs, Revision 0 
+• APP-CA20-GEF-1021, E&DCR to change overlay plate E230 from type OC3 to Direct Weld 
+and correct mislabeled plate number on Sub-module CA20_05, Revision 0 
+• APP-CA20-GEF-1109, CA20 EL 135’ 3” Rebar Placement at Access Opening, Revision 0 
+• APP-CA20-GEF-1196, Lateral Support OLPs for RNS-ME-01 A & B Heat Exchangers, 
+Revision 0 
+• APP-CA20-GEF-1211, CA20 Security System (SES) Conduit Penetrations and NCS 
+Penetrations, Revision 0 
+• APP-CA20-GEF-1271, CA20 OLP Plate Modifications for Sheet 350, Revision 0 
+• APP-CA20-GEF-1285, Modifications to CA20 Floor Rebar L-Hooks in 30 Inch Wide Walls, 
+Revision 0. 
+ 
+ 
+- 26 - 
+• APP-CA20-GEF-201W, E&DCR to Revise CA20 Sub Assembly #06, Revision 0. 
+• APP-CA20-GEF-220, E&DCR for CA20 BOM Inconsistencies (Part II), Revision 0 
+• APP-CA20-GEF-359, E&DCR for sub-module 08 corrections, Revision 0 
+• APP-CA20-GEF-409, E&DCR for CA20 BOM Inconsistencies, Revision 0 
+• APP-CA20-GEF-850033, CA20 Fillet Weld Mod – Pipe Struts, Revision 0 
+• APP-CA20-GEF-850046, CA20 Mod Elect Penetrations, Revision 0. 
+• APP-CA20-GEF-850054, SSD/SWD-80 CA20 Edge Truss SA01, Revision 0. 
+• APP-CA20-GEF-850057, CA20-06 Weld Modifications, Revision 0 
+• APP-CA20-GEF-850065, CA20-08 Weld Modifications, Revision 0 
+• APP-CA20-GEF-850066, SSD/SWD-80 CA20 Edge Truss SA01, Revision 0. 
+• APP-CA20-GNR-850396, OIW APP-CA20-GEF-850054 detail SWD-80 Edge Truss, 
+Revision 0 
+• APP-CA20-GNR-850402, CA20_07 1-5/8” hole centerline dimension out of tolerance, 
+Revision 0 
+• APP-CA20-GNR-850410, OIW-CA20_07 Previously Cut Penetrations, Revision 0 
+• APP-CA20-GNR-850411, OIW CA_07 Missing Chamfer, Revision 0 
+• APP-CA20-S5-04001, Auxiliary Building Areas 5 & 6 Module CA20 Submodule CA20_04 
+Isometric Views, Revision 6 
+• APP-CA20-S5-04002, Auxiliary Building Areas 5 & 6 Module CA20 Submodule CA20_04 
+Break-Down, Revision 6 
+• APP-CA20-S5-04003, Auxiliary Building Areas 5 & 6 Module CA20 Submodule CA20_04 
+Structural Outline Horizontal Sections/Views, Revision 5 
+• APP-CA20-S5-04004, Auxiliary Building Areas 5 & 6 Module CA20 Submodule CA20_04 
+Structural Outline Vertical Sections/Views, Revision 6 
+• APP-CA20-S5-04005, Auxiliary Building Areas 5 & 6 Module CA20 Submodule CA20_04 
+Structural Outline Specific Details (Sheet 1), Revision 6 
+• APP-CA20-S5-04006, Auxiliary Building Areas 5 & 6 Module CA20 Submodule CA20_04 
+Structural Outline Specific Details (Sheet 2), Revision 3 
+• APP-CA20-S5-06001, Auxiliary Building Areas 5 & 6 Module CA20 Submodule CA20_06 
+Isometric Views, Revision 4 
+• APP-CA20-S5-06002, Auxiliary Building Areas 5 & 6 Module CA20 Submodule CA20_06 
+Break-Down, Revision 4 
+• APP-CA20-S5-06003, Auxiliary Building Areas 5 & 6 Module CA20 Submodule CA20_06 
+Structural Outline Horizontal Sections/Views, Revision 3 
+• APP-CA20-S5-06004, Auxiliary Building Areas 5 & 6 Module CA20 Submodule CA20_06 
+Structural Outline Vertical Sections/Views, Revision 5 
+• APP-CA20-S5-06005, Auxiliary Building Areas 5 & 6 Module CA20 Submodule CA20_06 
+Structural Outline Specific Details, Revision 4 
+• APP-CA20-S5-07003, Auxiliary Building Areas 5 & 6 Module CA20 Submodule CA20_07 
+Structural Outline Horizontal Sections/Views, Revision 4 
+• APP-CA20-S5-07004, Auxiliary Building Areas 5 & 6 Module CA20 Submodule CA20_07 
+Structural Outline Vertical Sections/Views, Revision 6 
+• APP-CA20-S5-08001, Auxiliary Building Areas 5 & 6 Module CA20 Submodule CA20_08 
+Isometric Views, Revision 4 
+• APP-CA20-S5-08002, Auxiliary Building Areas 5 & 6 Module CA20 Submodule CA20_08 
+Break-Down, Revision 4 
+ 
+ 
+- 27 - 
+• APP-CA20-S5-08003, Auxiliary Building Areas 5 & 6 Module CA20 Submodule CA20_08 
+Structural Outline Horizontal Sections/Views (Sheet 1), Revision 6 
+• APP-CA20-S5-08004, Auxiliary Building Areas 5 & 6 Module CA20 Submodule CA20_08 
+Structural Outline Vertical Sections/Views, Revision 4. 
+• APP-CA20-S5-08005, Auxiliary Building Areas 5 & 6 Module CA20 Submodule CA20_08 
+Structural Outline Specific Details, Revision 6. 
+• APP-CA20-S5-08006, Auxiliary Building Areas 5 & 6 Module CA20 Submodule CA20_08 
+Structural Outline Horizontal Sections/Views (Sheet 2), Revision 0 
+• APP-CA20-S5B-04001, Auxiliary Building Areas 5 & 6 Module CA20 Submodule CA20_04 
+Bill of Materials, Revision 6 
+• APP-CA20-S5B-06001, Auxiliary Building Areas 5 & 6 Module CA20 Submodule CA20_06 
+Bill of Materials, Revision 3 
+• APP-CA20-S5B-08001, Auxiliary Building Areas 5 & 6 Module CA20 Submodule CA20_08 
+Bill of Materials, Revision 7 
+• APP-CA20-S5Y-00001, Auxiliary Building Areas 5 & 6 Module CA20 Submodules General 
+Notes – I, Revision 6 
+• APP-CA20-S5Y-00200, Auxiliary Building Areas 5 & 6 Module CA20 Standard Welding 
+Details, Revision 6 
+• APP-CA20-S5Y-00201, Auxiliary Building Areas 5 & 6 Module CA20 Standard Welding 
+Details, Revision 6 
+• APP-CA20-S5Y-00202, Auxiliary Building Areas 5 & 6 Module CA20 Standard Welding 
+Details, Revision 4 
+• APP-CA20-S5Y-00203, Auxiliary Building Areas 5 & 6 Module CA20 Standard Welding 
+Details, Revision 4 
+• APP-CA20-S5Y-00204, Auxiliary Building Areas 5 & 6 Module CA20 Standard Welding 
+Details, Revision 1 
+• APP-CA20-S5Y-00205, Auxiliary Building Areas 5 & 6 Module CA20 Standard Welding 
+Details, Revision 0 
+• APP-ML05-GEF-030, Weld Number Additions to ML05 Drawings, Revision0 
+• APP-ML05-GEF-068, Tolerances for Nelson Stud Placement on ML05 Pipe Penetrations, 
+Revision 0. 
+• APP-WRS-GEF-089, Correct Sloping on Embedded WRS Piping, Revision 0 
+• APP-WRS-GEF-108, Reroute of WRS Piping to Resolve Clash with Reinforcing Bars, 
+Revision 0 
+• DWG 2786-0600, Auxiliary Building Areas 5 & 6 Module CA20 – Standard Edge Truss, 
+Revision 3 
+• DWG 2786-06001, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_06 
+Wall Pancake, Sheets 1-11, Revision 7 
+• DWG 2786-06021, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_06 
+Male Panel Sub-Assy, Sheets 1-4, Revision 7 
+• DWG 2786-06031, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_06 
+Female Panel Sub-Assy, Sheets 1-2, Revision 4 
+• DWG 2786-06201, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_06 
+Male Panel Plate, Sheets 1-4, Revision 3 
+• DWG 2786-06301, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_06 
+Female Panel Plate, Sheets 1-5, Revision 3 
+ 
+ 
+- 28 - 
+• DWG 2786-06501, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_06 
+Ladder Truss, Revision 5 
+• DWG 2786-06502, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_06 
+Ladder Truss, Revision 4 
+• DWG 2786-06503, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_06 
+Ladder Truss, Revision 4 
+• DWG 2786-06504, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_06 
+Ladder Truss, Revision 4 
+• DWG 2786-06601, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_06 
+Edge Truss, Revision 4 
+• DWG 2786-06602, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_06 
+Edge Truss, Revision 5 
+• DWG 2786-06603, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_06 
+Edge Truss, Revision 5 
+• DWG 2786-06604, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_06 
+Edge Truss, Revision 1 
+• DWG 2786-06605, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_06 
+Edge Truss, Revision 1 
+• DWG 2786-06606, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_06 
+Edge Truss, Revision 1 
+• DWG 2786-06607, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_06 
+Edge Truss, Revision 1 
+• DWG 2786-06801, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_06 
+Panel Assembly, Revision 4 
+• DWG 2786-06802, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_06 
+Panel Assembly, Revision 1 
+• DWG 2786-06803, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_06 
+Panel Assembly, Revision 1 
+• DWG 2786-08001, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_08 
+Wall Pancake, Sheets 1-12, Revision 3 
+• DWG 2786-08021, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_08 
+Male Panel Sub-Assy, Sheets 1-3, Revision 3 
+• DWG 2786-08022, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_08 
+Male Panel Sub-Assy, Sheets 1-3, Revision 2 
+• DWG 2786-08031, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_08 
+Female Panel Sub-Assy, Sheets 1-2, Revision 3 
+• DWG 2786-08032, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_08 
+Female Panel Sub-Assy, Sheets 1-2, Revision 3 
+• DWG 2786-08201, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_08 
+Male Panel Plate, Sheets 1-4, Revision 3 
+• DWG 2786-08202, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_08 
+Male Panel Plate, Sheets 1-4, Revision 4 
+• DWG 2786-08301, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_08 
+Female Panel Plate, Sheets 1-3, Revision 3 
+• DWG 2786-08302, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_08 
+Female Panel Plate, Sheets 1-4, Revision 5 
+ 
+ 
+- 29 - 
+• DWG 2786-08501, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_08 
+Module Ladder Truss, Sheet 1, Revision 3 
+• DWG 2786-08502, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_08 
+Module Ladder Truss, Sheet 1, Revision 3 
+• DWG 2786-08601, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_08 
+Edge Truss, Sheet 1, Revision 1 
+• DWG 2786-08602, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_08 
+Edge Truss, Sheet 1, Revision 1 
+• DWG 2786-08603, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_08 
+Edge Truss, Sheet 1, Revision 2 
+• DWG 2786-08604, Auxiliary Building Areas 5 & 6 Module CA20 – Module 08 Edge Truss, 
+Sheet 1, Revision 0 
+• DWG 2786-08801, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_08 Box 
+Assembly, Sheet 1, Revision 3 
+• DWG 2786-08802, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_08 
+Panel Assembly, Sheet 1, Revision 2 
+• DWG 2786-08803, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_08 
+Panel Assembly, Sheet 1, Revision 2 
+• DWG 2786-08804, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_08 
+Panel Assembly, Sheet 1, Revision 2 
+• DWG 2786-08805, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_08 
+Panel Plate Assembly, Sheets 1-2, Revision 2 
+• DWG 2786-08808, Auxiliary Building Areas 5 & 6 Module CA20 – Submodule CA20_08 
+Panel Assembly, Sheet 1, Revision 3 
+ 
+Miscellaneous 
+ 
+• OIW-OR-NOUC-007, dated July 18, 2014 
+• OIW-OR-NOUC-009, dated July 22, 2014 
+• OIW-OR-NOUC-011, dated July 24, 2014 
+• OIW-OR-NOUC-0012, dated July 25, 2014 
+• OIW-OR-NOUC-0015, dated July 31, 2014 
+• M&TE Activity Tracker for Bay 2 and Bay 6 
+• Form D-11, “Ultrasonic Examination Report,” Revision 3 
+• Weekly CAR Agenda, dated September 24, 2014 
+ 
+Nonconformance Reports 
+ 
+• 14-032, 14-033, 14-050,14-060, 14-082, 14-085, 14-095. 14-114, 14-124, 14-125, 14-0129, 
+14-133, 14-152, 14-154, 14-161, 14-170, 14-236, 14-245, 14-246, 14-254, 14-276, 14-290, 
+14-291, 14-300 
+ 
+Policies and Procedures 
+ 
+• DCI-NPD-(17)-12.03, “Quality Records,” Revision 0, dated June 13, 2013 
+ 
+ 
+- 30 - 
+• OIW Nuclear Products NQA-1 Quality Assurance Manual Section 12- Control of Measuring 
+test Equipment Revision 0 
+• OIW Project Plan (PP)-2786 (9)-1, “2786 Wall Fabrication –CA20 Manufacturing, Inspection 
+and Testing Plan,” Revision 4, dated July 31, 2014 
+• OIW Quality Procedure (QP)-NPD- (7)-01, “Receiving Inspection Control,” Revision 5, dated 
+March 31, 2014 
+• OIW Vendor Report dated August 27, 2014 
+• PI-2786-(09)-01, CB&I Sub-Mod Guidance for Welded Studs, Revision 1 
+• PI-2786-(09)-02, General Fabrication Instruction, Revision 1 
+• PI-2786-(9)-01, CB&I Sub-Module Guidance for Welded Studs, Revision 0 
+• PI-2786-(9)-02, CB&I General Fabrication Instruction, Revision 0 
+• PP- 2786 (9)-1, “2786 Wall Fabrication –CA20-08 Manufacturing, Inspection and Testing 
+Plan Supplement,” Revision 0, dated July 25, 2014 
+• PP-2786-(5)-01, Supplement to Control of Redline Corrections/Changes, Revision 1 
+• PP-2786-(9)-01, “Wall Fabrication – CA20 Manufacturing, Inspection, and Testing Plan,” 
+Revision 4, dated August 13, 2014 
+• PP-2786-(9)-01, “Wall Fabrication – CA20 Manufacturing, Inspection, and Testing Plan,” 
+Revision 2, dated March 7, 2014 
+• PP-2786-15-003, “Coating Application Procedure,” Revision 3, dated July 28, 2014 
+• PP-NPD (13)-(7) Storage, Handling, Packing and Shipping, Rev 2. 4/7/2014 
+• PP-NPD-(9)-01, Base Metal Repair Control Procedures, Revision 12 
+• PP-NPD-(9)-02 Production Control Revision 4 
+• PP-NPD-(9)-08, “Handling and Control of Welding Consumables,” Revision 5, dated April 
+15, 2013 
+• QI-NPD-(06)-07, Detail Drawing Approval and Distribution, Revision 0 
+• QI-NPD-(16)-05, “Corrective Action Levels,” Revision 1, dated March 27, 2014 
+• QP-2155-(12)-06, “Control of Measuring and Test Equipment,” Revision 1, dated March 14, 
+2007 
+• QP-2786-(07)-10, “Commercial Grade Dedication of Items and Services for 10CFR50 
+Appendix B Projects,” Revision 1, dated January 31, 2014 
+• QP-2786-(07)-10, “Commercial Grade Dedication of Items and Services for 10CFR50 
+Appendix B Projects,” Revision 2, dated September 5, 2014 
+• QP-NPD-(15)-01, “Nonconformance Control,” Revision 0, dated October 3, 2013 
+• QP-NPD-(18)-01, “Internal Audits,” Revision 0, dated October 3, 2013 
+• QP-NPD-(7)-08, “Dimensional Inspection,” Revision 5, dated July 31,2014 
+• QP-NPD-(7)-09, “Suspect Counterfeit, Items,” Revision 3, dated December 27, 2013 
+• RP-OIW-(16)-02, “Reporting of Defects, Deficiencies, or Hazards,” Revision 2, dated July 
+16, 2014 
+• NP-NPD(09)-04, Revision 3 Ultrasonic Testing Procedure AWS D1.1 and D1.5 
+• NP-NPD-(09)-05, Revision 1, MT/PT Acceptance Criteria AWS D1.1 
+• NP-NPD-(9)-09, Revision 2, Magnetic Particle Testing Procedure 
+• NP-NPD-(9)-10, Revision 0, Visual Examination of Welds and Material Surface Finishes
+ 
+ 
+- 31 - 
+Purchase Orders, Internal and External Audit Reports  
+ 
+• Audit Plan for Audit NP-13-01-01, “QAM Issue 2, Revision 1, Section 1 – Organization,” 
+dated March 26, 2013 
+• Audit Plan for internal audit June 23 to July 3, dated June 16, 2014 
+• Audit Report for Oregon Iron Works Internal Audit 2014, June 23 to July 3 
+• OIW-NP-13-15-V07, Audit report of Lincoln Electric, a welding material supplier, dated 
+March 24, 2014 
+• OIW-NP-14-V02, Audit report of Nelson Stud Welding Inc., supplier of Nelson studs, dated 
+January 31, 2014 
+• OIW-NP-14-V05, Audit report of Erico International Inc., a fabricator of Lenton Threaded 
+couplers and Lenton Concrete products, dated February 25, 2014 
+• OIW-NP-14-V10, Audit report of IMR-KHA, a testing service supplier, dated September 11, 
+2014 
+• OIW Vendor Surveillance Report of Albina, dated September 15, 2014, for 90°bend test on 
+3 pieces of galvanized electrical conduit, OIW HIC No. N6363 on PO No. 2786-00166, 
+Revision 1, Line 1 & 2 with Conduit Bend Inspection Report performed by Kevin Keeler on 
+CGD Report No. NPD-CGD-2786-051A-2 
+• OIW Vendor Surveillance Report of EVRAZ Oregon Steel Mills, dated January 27-30, 2014, 
+for PO No. 2786-00006, Revision 5, for plate finishing and die stamping of prolong material 
+• PO No. 2786-00006, Revision 7, dated May 14, 2014, to Evraz Oregon Steel Mills for 
+procurement of commercial grade plates of different sizes to ASTM A572 Grade 60-2007 
+Edition, with PO Attachment B OIW Internal Receiving Instruction had invoked 
+• PO No. 2786-00007, Revision 4, dated April 28, 2014, to OUTO KUMPU, for procurement of 
+commercial duplex stainless steel ASTM A240, UNS S32101 
+• PO No. 2786-00008 Revision 4 – Edgen Murray RIR# 1269 
+• PO No. 2786-00017, Revision 5, dated August 29, 2014, to Harris Rebar Basin, for 
+procurement of deformed bar for Lenton C3J coupler couplers to ASTM A706 Grade 60, 
+invoking source surveillance by OIW with PO Attachment A; Flowdowns PO 2786-00017 
+• PO No. 2786-00032- RIR # 1230- Independent Welding Supply 
+• PO No. 2786-00032, Revision 3, dated May 13, 2014, to Independent Welding Supply LLC., 
+for procurement of safety-related E71T-1C-J Outer Shield 71m 0.045 x 33# AWS A5.20 
+weld spool, 3240 pounds of ENi-5 (Lincoln trade name LA-85) 
+• PO No. 2786-00050- Green Transfer & Storage 
+• PO No. 2786-00061- American Steel-Portland Five Flat-bars ¾ x 20’0” ASTM A36-1991 Ed 
+• PO No. 2786-00061, dated February 21, 2014 to American Steel-Portland, for commercial 
+¾” x 3’ x 20’ flat bar 
+• PO No. 2786-00077 Nelson Stud Welding 
+• PO No. 2786-00110, dated April 16, 2014, to Professional Service Inc., for safety-related 
+mechanical analysis of rebar, OIW HIC No. N6152, N6153, N6154, N6155, N6156, N6157, 
+N6158 
+• PO No. 2786-00112 American Steel RIR # 1217 
+• PO No. 2786-00137 – Independent Welding Supply 
+• PO No. 2786-00141, dated May 14, 2014, to American Steel-Portland, for procurement of 2 
+x 96 x 5” plates to ASTM A572, Grade 50, to 2007 Edition 
+• PO No. 2786-00182- Independent Welding Supply LLC 
+ 
+ 
+- 32 - 
+• PO No. 636-10-00316, Revision 0, dated April 5, 2012, to CAL-CERT Company, for 
+commercial calibration services of Plastic Shims serial nos. PS-0005, PS-0010, PS-0015, 
+PS-0020, PS-0030, PS-0040, PS-0050 and Fluke clamp Volt/Amp meter s/n 76505336 
+• PO No. 636-60-00085 Revision 0, dated May 23, 2014, to CAL CERT Company, for 
+commercial calibration services of 50’ tape, coating thickness gauge serial no. (s/n) 649455, 
+sling Psychrometer s/n 72954, and surface thermometer s/n 73959 
+• PO No. 636-60-00091, dated July 14, 2014, issued to Transcat, Inc., for safety-related 
+calibration services of go/no-go thread plug gages, feeler gages, Fluke Clamp meter and 
+Fluke Surface Temperature Probe Model No. 80PK-27 
+• PO No. 636-60-00098, Revision 0, dated September 9, 2014, to JJ Calibration, for 
+commercial calibration services of 12 Go/No-Go thread plug sets, and a stop watch model 
+No. 1030 S/N W 
+• PO# 636-60-00080- Calibration Certificate Digital Caliper Calibration S/N 1073813 April 17, 
+2015 
+• PO#636-60-00074- Calibration Certificate Depth Micrometer S/N WSN071826 March 25, 
+2015 
+• PO#7516-00065r1- JJ Calibration Insulation Multimeter S/N 21150008 May 2, 2015 
+• PO # 636-10-00389- JJ Calibration Coating Thickness Gauge S/N 176461 July 2, 2015 
+• PO#2786-00026- Calibration Certificate Temperature/ Humidity Data Logger S/N 
+1403000/14070013 April 17, 2015 
+• PO# 636-60-00054- Fox Valle Metrology Thread Ring S/N 11E10-2 January 30, 2015 
+• PO#636-60-00065- Calibration Certificate Torque Wrench S/N 0908019437 February 14, 
+2015 
+• PO# 636-60-00048 IR Thermometer S/N 25170018 January 3, 2015 
+• PO# 636-60-00094 Radiometer White Light Only S/N 131375A/131375C December 5, 2015 
+• PO#2786-00049 Torque Wrench C081726 April 25, 2014 
+• PO# 2786-00026 Temperature/ Humidity Data logger S/N1430008/14035297 March 17, 
+2014 
+• PO#636-60-00094 Radiometer, White Light Only S/N 131376A/131376C, August 1, 2014 
+ 
+Training and Qualification Records 
+ 
+• Billy Caldwell, Welder Qualification, SMAW CS-2103 
+• Dan Teas, Quality Control Level II, MT and PT 
+• Darren Delozier, Welder Qualification, FCAW CS-2101 
+• Jason Bonnell, Welder Qualification, FCAW CS-2101 
+• Kevin Williams, Quality Control Level II, VT, MT, UT 
+• Nick Andrews, Welder Qualification, FCAW CS-2101 
+• Patrick McDevitt, Quality Control Level II, VT, MT, UT 
+• Rick Hinkle, Welder Qualification, FCAW CS-2101 
+• Scott Goodman, Welder Qualification, FCAW CS-2101 
+• Vince Archibald, Quality Assurance Level III, VT, MT, PT, UT 
+• Welder Maintenance Log 
+• Quality Assurance NPD Lead Auditor Certification, Form QF-37, Revision 1, for Brad Booth, 
+dated September 19, 2014 
+ 
+ 
+- 33 - 
+• Quality Assurance NPD Lead Auditor Certification, Form QF-37, Revision 1, for Ken Adams, 
+dated February 6, 2014 
+• Quality Assurance NPD Lead Auditor Certification, Form QF-37, Revision 1, for Vince 
+Archibald, dated September 11, 2014 
+• Quality Assurance NPD Lead Auditor Certification, Form QF-37, Revision 1, for Lana Wright, 
+dated January 23, 2014 
+• Quality Assurance NPD Lead Auditor Certification, Form QF-37, Revision 1, for Jerry 
+Takeuchi, dated October 31, 2013 
+• Quality Assurance NPD Lead Auditor Certification, Form QF-37, Revision 1, for Robert 
+Hossman, dated August 27, 2013 
+• OIW Personnel Certification Record to QP-NPD-(10)-03, for Receipt Inspection Personnel,” 
+SOL Angulo certified May 23, 2014 due May 23, 2017, with annual vision exam dated May 
+23, 2014 
+• OIW Personnel Certification Record to QP-NPD-(10)-03, Receipt Inspection personnel 
+Kathy O’Donnell, certified on May 23, 2014 due May 23, 2017, eye exam dated June 11, 
+2014 
+• OIW QF-37 for Ken Adams, certified by written exam of score of 80%, and recertified with 
+annual performance dated March 18, 2014 
+• OIW Quality Form (QF)-37, Revision 1, “Qua lity Assurance NPD Lead Auditor Certification,” 
+for Lana Wright, certified originally by a written exam with a score of 80%, and recertified 
+with satisfactory performance dated January 3, 2014 
+• OIW Receipt Inspection Qualification Record to QP-NPD-(10)-03, for Kevin Keeler certified 
+on July 17, 2014, due July 17, 2017 and eye exam dated June 27, 2014 
+• OIW-QF-37 for Brad Boothe, certified by written exam of score of 81%, certified date August 
+4, 2014 
+• OIW-QF-37 for Gregory Johnson, subcontracted auditor from LMJ International, certified 
+through review of qualification and examination record dated March 25, 2013 
+• OIW Indoctrination and training record dated July 28, 2014 of Oregon Sandblasting and 
+Coating personnel to OIW QA Program and procedures 
+ 
+Travelers
+ 
+ 
+• 2786-TR06-PNK-1B, “Final Pancake Assy Sub Module 06 Mk 06001A-2” 
+• 2786-TR08-MSC-2, “Fabricate Panel Sub-Assemblies Mk 08805A” 
+• 2786-TR08-PNK-2A, “Final Pancake Assy Sub-Module 08 MK 08002A-1” 
+• 2786-TR11-CH-1, “Angle Splices for Channel Trusses CA20-11) 
+• 2786-TR15-CHT-1 Rev 0, “Fit + Weld Channel Trusses for CA-2015” 
+• 2786-TR17-CHT-1, “Fit + Weld Angle Splices for Channel Trusses for CA20-11 Mk 11510A 
+(Weld 39x8) + (Weld 40x8)” 
+ 
+Weld Repair Report 
+ 
+• NPD-WRR-14-107 
+• NPD-WRR-14-130 
+• NPD-WRR-14-148 
+ 
+ 
+ 
+- 34 - 
+• NPD-WRR-14-254 
+• NPD-WRR-14-162 
+ 
+Weld Data Sheets 
+ 
+• 2786-WDS06-CHT-2, “Fit and Weld Channel Trusses for CA20-06 Mk 06501A (Qty 2), 
+06502A (Qty 2), 06502B (Qty 2), 06503A (Qty 2), 06504A (Qty 2), 06504B (Qty 2)” 
+• 2786-WDS06-MPL-1A, “Fit and Weld Internal Assy. @ at Male Panel  06021A-1 (Qty 1)” 
+• 2786-WDS06-PNK-1A, “Final Pancake Assy. Sub-Module 06 Mk 06001A-1” 
+• 2786-WDS06-PNK-1B, “Final Pancake Assy. Sub Module 06 Mk 06001A-2” 
+• 2786-WDS08-PNK-2A, “Final Pancake Assy. Sub-Module 08 MK 08002A-1” 
+• 2786-WDS11-CHT-1, “Fit + Weld Angle Splices for Channel Trusses for CA20-11 Mk 
+11510A (Weld 39x8) + (Weld 40x8)” 
+• 2786-WDS17-CHT-1, “Welded Channel Trusses” 
+• 2786-WDS-WDS08-MSC-2, “Fabricate Panel Sub-assembly MK08805A” 
+• 2786-WDS-WDS15-CHT-1, “Channel Trusses for CA20-15” 
+ 
+Welding Procedure Specification (WPS) and Procedure Qualification Records (PQRs) 
+ 
+• WPS CS-2101: “Weld Procedure Specification WPS FCAW CJP, PJP and Fillet,” Revision 
+9; Supporting PQRs: CS-636, CS-637, CS-632, CS-661, CS-662 
+• WPS CS-2102: “Weld Procedure Specification WPS SAW CJP, Fillet 02G-A572-60,” 
+Revision 3; Supporting PQR: CS-639 
+• WPS CS-2103: “Weld Procedure Specification WPS SMAW CJP, PJP, FW -2G, 3G, 4G,” 
+Revision 4; Supporting PQRs: CS-641, CS-643, CS-644 
+• WPS CS-ST-002: “Weld Procedure Specification WPS CS Weld Studs to CS Base Metal,” 
+Revision 1; Supporting PQRs: CS-630, CS-631, CS-632, CS-681 
+• WPS CS-ST-003: “FCAW Stud Fillet weld option, Revision 4; Supporting PQRs: CS-633, 
+CS-634, CS-635, CS-682” 
+• WPS-2104, “OIW Partial Joint Penetration Welding Procedure,” Revision 5 
+ 

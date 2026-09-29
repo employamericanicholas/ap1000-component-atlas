@@ -1,0 +1,1241 @@
+ 
+ 
+ 
+September 13, 2017 
+ 
+ 
+Mr. Robert Michiels 
+Project Quality Manager 
+Aecon Industrial 
+150 Sheldon Drive 
+Cambridge ON N1R 7K9 
+Canada 
+ 
+SUBJECT: NUCLEAR REGULATORY COMMISSION INSPECTION OF AECON 
+INDUSTRIAL REPORT NO. 99901444/2017-201 
+ 
+Dear Mr. Michiels: 
+ 
+From August 8-11, 2017, the U.S. Nuclear Regulatory Commission (NRC) staff conducted an 
+inspection at the Aecon Industrial (Aecon) facility in Cambridge, Ontario.  The purpose of this 
+limited-scope routine inspection was to assess Aecon’s compliance with provisions of Title 10 of 
+the Code of Federal Regulations (10 CFR) Part 21, “Reporting of Defects and Noncompliance,” 
+and selected portions of Appendix B, “Quality Assurance Program Criteria for Nuclear Power 
+Plants and Fuel Reprocessing Plants,” to 10 CFR Part 50, “Domestic Licensing of Production 
+and Utilization Facilities.” 
+ 
+This technically-focused inspection specifically evaluated Aecon’s implementation of the quality 
+activities associated with the fabrication, assembly, and testing activities of mechanical modules 
+being supplied to the Westinghouse Electric Company AP1000 reactor design.  The inspection 
+also evaluated activities related to Section III, “Rules for Construction of Nuclear Power Plant 
+Components,” of the American Society of Mechanical Engineers Boiler and Pressure Vessel 
+Code.  The enclosed report presents the results of the inspection.  This NRC inspection report 
+does not constitute NRC endorsement of Aecon’s overall quality assurance (QA) or Part 21 
+programs. 
+ 
+Based on the results of this inspection, the NRC inspection team found that the implementation 
+of your QA program met the regulatory requirements imposed on you by your customers or 
+NRC licensees.  No findings of significance were identified. 
+ 
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,” 
+of the NRC’s “Rules of Practice,” the NRC will make available electronically for public inspection 
+a copy of this letter, its enclosure, and your response through the NRC Public Document Room 
+or from the NRC’s Agencywide Documents Access and Management System, which is 
+accessible at http://www.nrc.gov/reading-rm/adams.html.  To the extent possible, your response 
+should not include any personal privacy, proprietary, or Safeguards Information so that it can be 
+made available to the public without redaction.  If personal privacy or proprietary information is 
+necessary to provide an acceptable response, please provide a bracketed copy of your 
+response that identifies the information that should be protected and a redacted copy of your 
+response that deletes such information.  If you request that such material be withheld from 
+public disclosure, you must specifically identify the portions of your response that you seek to 
+have withheld and provide in detail the bases for your claim (e.g., explain why the disclosure
+R. Michiels 2 
+ 
+of information would create an unwarranted invasion of personal privacy or provide the 
+information required by 10 CFR 2.390(b) to support a request for withholding confidential 
+commercial or financial information).  If Safeguards Information is necessary to provide an 
+acceptable response, please provide the level of protection described in 10 CFR 73.21, 
+“Protection of Safeguards Information:  Performance Requirements.” 
+ 
+Sincerely, 
+ 
+ 
+/RA/ 
+ 
+John P. Burke, Chief 
+Quality Assurance Vendor Inspection Branch-2 
+Division of Construction Inspection  
+  and Operational Programs 
+Office of New Reactors 
+ 
+Docket No.:  99901444 
+ 
+Enclosure: 
+Inspection Report No. 99901444/2017-201 
+and Attachment 
+  
+R. Michiels 3 
+ 
+SUBJECT: NUCLEAR REGULATORY COMMISSION INSPECTION OF AECON 
+INDUSTRIAL REPORT NO. 99901444/2017-201 
+ 
+ Dated:  September 13, 2017 
+ 
+ 
+DISTRIBUTION: 
+RMusser 
+KKavanagh 
+TJackson 
+ASakadales 
+NRO_DCIP_Distribution 
+ConE Resource 
+rmichiels@aecon.com 
+ 
+ 
+ADAMS Accession No.:  ML17254A117 *via e-mail  NRO-002 
+OFFICE NRO/DCIP NRO/DCIP RII/DCI 
+NAME RPatel AFerguson AArtayet* 
+DATE 09/11/17 09/11/17 09/07/17 
+OFFICE NRO/DCIP NRO/DCIP NRO/DCIP 
+NAME JOrtega-Luciano SSmith JBurke 
+DATE 09/11/17 09/12/17 09/13/17 
+OFFICIAL RECORD COPY 
+ 
+ 
+Enclosure 
+U.S. NUCLEAR REGULATORY COMMISSION 
+OFFICE OF NEW REACTORS 
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS 
+VENDOR INSPECTION REPORT 
+ 
+Docket No.:   99901444 
+ 
+Report No.:   99901444/2017-201 
+ 
+Vendor:    Aecon Industrial 
+150 Sheldon Drive 
+Cambridge ON N1R 7K9 
+Canada 
+ 
+Vendor Contact:  Robert Michiels 
+Project Quality Manager 
+rmichiels@aecon.com 
+(519) 740-7477 x3873 
+ 
+Nuclear Industry Activity: Aecon located in Cambridge, Ontario supplies mechanical 
+modules to Vogtle Units 3 and 4.  Aecon has a NCA 4000 Quality 
+Assurance Manual approved by the American Society of 
+Mechanical Engineers.  Aecon also has an ASME NPT Certificate 
+of Authorization for Class 1, 2, & 3 fabrication without design 
+responsibility and an NS Certificate. 
+ 
+Inspection Dates: August 8-11, 2017 
+ 
+Inspectors:   Jonathan Ortega NRO/DCIP/QVIB-2    Team Leader 
+Raju Patel NRO/DCIP/QVIB-2 
+Ashley Ferguson NRO/DCIP/QVIB-3 
+Alain Artayet RII/DCI/CIB3 
+ 
+Approved by:   John P. Burke, Chief 
+Quality Assurance Vendor Inspection Branch-2 
+Division of Construction Inspection 
+  and Operational Programs 
+Office of New Reactors 
+ 
+ 
+2 
+EXECUTIVE SUMMARY 
+ 
+Aecon Industrial 
+99901444/2017-201 
+ 
+The U.S. Nuclear Regulatory Commission (NRC) staff conducted a vendor inspection at the 
+Aecon Industrial (Aecon) facility in Cambridge, Ontario, to verify that Aecon had implemented an 
+adequate quality assurance (QA) program that complies with the requirements of Appendix B, 
+“Quality Assurance Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to Title 10 
+of the Code of Federal Regulations (10 CFR) Part 50, “Domestic Licensing of Production and 
+Utilization Facilities.”  In addition, the NRC inspection also verified that Aecon implemented a 
+program under 10 CFR Part 21, “Reporting of Defects and Noncompliance,” that met the NRC’s 
+regulatory requirements.  The NRC inspection team conducted the inspection from  
+August 8-11, 2017.  This was the second NRC inspection at this Aecon facility. 
+ 
+This technically-focused inspection specifically evaluated Aecon’s implementation of QA 
+activities related to the fabrication, assembly, and testing of mechanical modules for the AP1000 
+project associated with the American Society of Mechanical Engineers (ASME) Boiler and 
+Pressure Vessel (B&PV) Code Section III Class 1, 2, and 3 Subsection NCA, “General 
+Requirements for Division I and Division 2,” and non-code safety-related fabrication, assembly, 
+and testing.  Also during the inspection, the NRC inspection team evaluated WECTEC’s (a 
+subsidiary of Westinghouse Electric Company) corrective actions taken to address piping spool 
+welds that did not meet the ASME B&PV Code that were identified during the July 2016 NRC 
+inspection.  Additionally, the NRC inspection team reviewed Aecon’s disposition of 
+nonconformance report No. A00002-000-0259, associated with the piping spools, which 
+addressed the design requirements.  Results of the July 2016 inspection are documented in 
+inspection report 99901444/2016-201 (ADAMS Accession No. ML16228A086).  The NRC 
+inspection team noted that WECTEC had taken adequate actions to perform weld repairs and 
+100 percent inspection by its Source Inspectors on all of the piping spool welds manufactured 
+by the Chicago Bridge and Iron facility at Laurens, South Carolina.  The NRC inspection team 
+determined WECTEC’s corrective actions adequately addressed the issue identified during the 
+July 2016 NRC inspection. 
+ 
+Specific activities observed by the NRC inspection team included: 
+ 
+• Set-up and performance of receipt inspection of WECTEC supplied pipe spool assembly 
+SV4-RCS-PLW-011F-1A serial No. PL7; 
+• Set-up and performance of visual testing of weld No. W46 on Module Q305, “Piping 
+Assembly Series I Y05,” for Vogtle Unit 4; 
+• Set-up and performance of solvent removable liquid penetrant examination on 3/16-inch 
+fillet weld for support pad weld No. W46 on Module Q305 for Vogtle Unit 4; 
+• Set-up and performance of gas tungsten arc welding (GTAW) of weld No. W0-1 
+performed on Module Q305, for Vogtle Unit 4; 
+• Set-up and performance of magnetic particle examination on 1/4-inch fillet welds for 
+support weld Nos. W50 and W51 on Module Q305 for Vogtle Unit 4; 
+• Set-up and performance of flux cored arc welding (FCAW) process of weld Nos. W0036 
+and W0031, on Ring Girder XRG Bumper to Ring Weld for Vogtle Unit 4 
+• Set-up and performance of FCAW of weld Nos. W7242 and W7243 on A-Frame 
+Weldment module for Vogtle Unit 4; and 
+ 
+3 
+• Set-up and performance of surface preparation and coating of frame/support weld areas 
+on module KB-36 for Vogtle Unit 3 in accordance with work instructions for assessment 
+of dust residue, ambient air, soluble salts, and surface profile witnessed by quality 
+control (QC) using calibrated measuring instruments. 
+ 
+In addition to observing these activities, the NRC inspection team verified that measuring and 
+test equipment (M&TE) was properly identified, marked, calibrated, and used within its 
+calibrated range. 
+ 
+These regulations served as the bases for the NRC inspection: 
+ 
+• Appendix B to 10 CFR Part 50 
+• 10 CFR Part 21 
+ 
+During the course of this inspection, the NRC inspection team implemented the following 
+Inspection Procedures (IP): 
+ 
+• IP 36100, “Inspection of 10 CFR Part 21 and Programs for Reporting Defects and 
+Noncompliance”  
+• IP 43002, “Routine Vendor Inspections”  
+• IP 43004, “Inspection of Commercial-Grade Dedication Programs” 
+ 
+Inspection Areas 
+ 
+The NRC inspection team determined that Aecon is implementing its programs for design 
+control, commercial-grade dedication, supplier oversight, manufacturing control, inspection, 
+control of special processes, control M&TE, nonconforming material parts, and components, 
+and corrective action in accordance with the applicable regulatory requirements of Appendix B 
+to 10 CFR Part 50.  In addition, Aecon is implementing its 10 CFR Part 21 program in 
+accordance with the regulatory requirements.  Based on the limited sample of documents 
+reviewed and activities observed, the NRC inspection team also determined that Aecon is 
+implementing its policies and procedures associated with these programs and no findings of 
+significance were identified.  
+ 
+4 
+REPORT DETAILS 
+ 
+1. 10 CFR Part 21 Program 
+ 
+a. Inspection Scope 
+ 
+The NRC inspection team reviewed Aecon’s policies and implementing procedures that 
+govern Aecon’s Title 10 of the Code of Federal Regulations (10 CFR) Part 21, 
+“Reporting of Defects and Noncompliance,” program to verify compliance with the 
+regulatory requirements.  In addition, the NRC inspection team evaluated the 10 CFR 
+Part 21 postings and a sample of Aecon’s purchase orders (PO) for compliance with the 
+requirements of 10 CFR 21.21, “Notification of Failure to Comply or Existence of a 
+Defect and its Evaluation,” and 10 CFR 21.31, “Procurement Documents.” 
+ 
+In addition the NRC inspection team evaluated a sample of nonconformance reports that 
+resulted in a Part 21 evaluation under Aecon’s Part 21 program.  The NRC inspection 
+team evaluated and determined that the conclusion of those evaluations were adequate.  
+The NRC inspection team also verified that Aecon’s nonconformance and corrective 
+action procedures provide a link to the 10 CFR Part 21 program.  The attachment to this 
+inspection report lists the documents reviewed by the NRC inspection team. 
+ 
+b. Observations and Findings 
+ 
+No findings of significance were identified. 
+ 
+c. Conclusion 
+ 
+The NRC inspection team concluded that Aecon is implementing its 10 CFR Part 21 
+program in accordance with the regulatory requirements of 10 CFR Part 21.  Based on 
+the limited sample of documents reviewed, the NRC inspection team also determined 
+that Aecon is implementing its policies and procedures associated with the 10 CFR 
+Part 21 program.  No findings of significance were identified. 
+ 
+2. Design Control  
+ 
+a. Inspection Scope 
+ 
+The NRC inspection team reviewed Aecon’s policies and implementing procedures that 
+govern the design control program to verify compliance with the regulatory requirements 
+of Criterion III, “Design Control,” of Appendix B, “Quality Assurance Program Criteria for 
+Nuclear Power Plants and Fuel Reprocessing Plants,” to 10 CFR Part 50, “Domestic 
+Licensing of Production and Utilization Facilities,” and the requirements of Section III, 
+“Rules for Construction of Nuclear Facility Components,” of the ASME B&PV Code. 
+ 
+Although Aecon does not have responsibility for any design activities, the NRC 
+inspection team reviewed Aecon’s processes for reviewing WECTEC procurement 
+requirements and translating the requirements into fabrication drawings and work 
+travelers, including translation of technical and quality requirements into procedures and 
+process controls.  The NRC inspection team examined Aecon’s quality control 
+procedures and associated forms that control design changes, as well as a sample of 
+ 
+5 
+engineering drawings and inspection plans related to Westinghouse Electric Company 
+(WEC) AP1000 Q601 module. 
+ 
+The NRC inspection team reviewed Aecon’s procedures for its process to control design 
+changes and examples of their implementation, as well as a sample of engineering 
+drawings, contract changes, and the associated WEC POs.  Additionally the NRC 
+inspection team reviewed a sample of WECs Engineering and Design Consolidation 
+Reports (E&DCRs) and the implementation of E&DCRs into engineering, as-built 
+drawings and document technical lists for both Q601 and Q305 mechanical modules that 
+were being fabricated to ASME B&PV Code Section III, Subsections NB, NC, and ND 
+requirements for the Vogtle Units 3 and 4 AP1000 units.  Lastly, the NRC inspection 
+team reviewed the shop travelers and  design specifications to ensure that the 
+mechanical modules were designed and constructed in accordance with the ASME 
+B&PV Code requirements.  
+ 
+The NRC inspection team discussed the design control program with Aecon’s 
+management and technical staff.  The attachment to this inspection report lists the 
+documents reviewed by the NRC inspection team.  
+ 
+b. Observations and Findings 
+ 
+No findings of significance were identified. 
+ 
+c. Conclusion 
+ 
+The NRC inspection team concluded that Aecon is implementing its design control 
+program in accordance with the regulatory requirements of Criterion III of Appendix B to 
+10 CFR Part 50.  Based on the limited sample of documents reviewed, the NRC 
+inspection team also determined that Aecon is implementing its policies and procedures 
+associated with the design control program.  No findings of significance were identified. 
+ 
+3. Manufacturing Control and Control of Special Processes  
+ 
+a. Inspection Scope 
+ 
+The NRC inspection team reviewed Aecon’s policies and implementing procedures that 
+govern the implementation for the control of manufacturing and special processes 
+programs to verify compliance with Criterion VIII, “Identification and Control of Materials, 
+Parts and Components,” and Criterion IX, “Control of Special Processes,” of Appendix B 
+to 10 CFR Part 50. 
+ 
+The NRC inspection team reviewed Aecon’s Welding Procedure Specifications (WPSs) 
+with supporting Procedure Qualification Records (PQRs) and welder performance 
+qualification records to determine whether applicable essential, nonessential, and 
+supplementary essential (fracture toughness) variables for each welding process were in 
+accordance with the requirements of the 1998 Edition including 2000 Addenda of ASME 
+B&PV Code Section IX, “Welding and Brazing Qualifications”. 
+ 
+The NRC inspection team witnessed several welding activities being performed on 
+mechanical modules for Vogtle Unit 4 that included: (1) set-up and performance of 
+GTAW of weld No. W0-1 on module Q305; (2) set-up and performance of FCAW 
+ 
+6 
+process on weld Nos. W0036 and W0031 on Ring Girder XRG Bumper to Ring Weld; 
+(3) set-up and performance of FCAW of weld No. W7242, and W7243 on A-Frame 
+Weldment module; and (4) set-up and performance of GTAW of weld No. W0-1 on 
+Module Q305.  The NRC inspection team verified that the WPS used for these 
+submodules were qualified in accordance with the requirements of ASME Section III, 
+Section IX and the applicable Aecon procedures.  The NRC inspection team also 
+reviewed an additional sample of WPSs and PQRs to verify that the documents were in 
+accordance with the requirements of ASME Section IX, and the applicable Aecon’s 
+procedures. 
+ 
+The NRC inspection team performed a walk-down of the Aecon weld filler wire control 
+storage area to verify that the weld filler metal was adequately controlled at all times 
+until its consumption, and reviewed records associated with the storage, issuance, and 
+return of weld filler wires.  The weld filler metal was kept in locked containers and the 
+environmental condition of the storage facility controlled and monitored daily using 
+calibrated instrument in accordance with the requirements of ASME Section IX. 
+ 
+The NRC inspection team reviewed Aecon and their subcontractor’s nondestructive 
+examination (NDE) procedures and personnel qualifications (including annual vision 
+tests) to determine whether examination methods and practices were in accordance with 
+the applicable requirements of Articles and Appendices for the 1998 Edition including 
+2000 addenda of ASME B&PV Code Section V, “Nondestructive Examination”. 
+ 
+During visual test (VT), magnetic particle (MP) and liquid penetrant (LP) examination, 
+the NRC inspection team witnessed and verified that the Level II performed the 
+examinations in accordance with procedures and appropriate acceptance criteria using 
+calibrated instruments.  The NRC inspection team also reviewed qualification records for 
+a sample of three Level II NDE inspectors and Aecon’s third-party Level III inspector to 
+confirm that they were qualified in accordance with the requirements in  
+ASNT SNT-TC-1A.  The NRC inspection team verified that vision tests were performed 
+yearly and Level II and Level III inspectors are recertified as required by the ASME Code 
+and ASNT SNT-TC-1A.  The NRC inspection team reviewed certified material test 
+reports for the penetrant, developer, and cleaner to verify that they belong to same 
+family and that their halogen contents were below one percent by weight in accordance 
+with the requirements of ASME Section V. 
+ 
+The NRC inspection team discussed the control of manufacturing and special processes 
+programs with Aecon’s management, technical staff, and shop floor craft supervision 
+and labor force.  The attachment to this inspection report lists the documents reviewed 
+by the NRC inspection team. 
+ 
+b. Observations and Findings 
+ 
+No findings of significance were identified. 
+ 
+c. Conclusions 
+ 
+The NRC inspection team concluded that Aecon is implementing its manufacturing 
+control and control of special processes programs in accordance with the regulatory 
+requirements of Criterion VIII and IX, of Appendix B to 10 CFR Part 50.  Based on the 
+limited sample of documents reviewed and operations observed, the NRC inspection 
+ 
+7 
+team also determined that Aecon is effectively implementing its policies and procedures 
+associated with the manufacturing control and control of special processes programs.  
+No findings of significance were identified. 
+ 
+4. Inspection 
+ 
+a. Inspection Scope 
+ 
+The NRC inspection team reviewed Aecon’s policies and implementing procedures that 
+govern the inspection program to verify compliance with the regulatory requirements of 
+Criterion X, “Inspection,” of Appendix B to 10 CFR Part 50. 
+ 
+The NRC inspection team verified that Aecon’s procedures for inspection activities 
+provided measures for the generation of inspection documents, such as shop travelers, 
+instructions, or other appropriate means.  For a sample of shop travelers and as-built 
+drawings, the NRC inspection team verified that these documents included the 
+appropriate information as required by Aecon’s procedures such as the heat numbers, 
+welding material, welding procedures, inspection date, results of examination, and the 
+initials/signature of the QC inspector.  The NRC inspection team also verified that 
+mandatory hold points were indicated and that work did not proceed without appropriate 
+approval.   
+ 
+The NRC inspection team observed Aecon’s QC inspector perform receipt inspection of 
+two pipe spool assembly SV4-RCS-PLW-011F-1A serial No. PL7, received from 
+WECTEC and reviewed the receipt inspection report.  The receipt inspection report 
+documented the inspection attributes to be verified, procedure and revision used and the 
+acceptance results.  The final report was approved by the QC supervisor and the 
+Authorized Nuclear Inspector who witnessed the inspection. 
+ 
+The NRC inspection team verified that inspections are performed by persons other than 
+those who performed or directly supervise the work being inspected and that the 
+documents included appropriate information as required by Aecon’s procedures such as 
+inspection date, observations, results of examinations and tests, and the appropriate 
+signature and/or initials of the QC inspector.  The NRC inspection team verified that: 
+(1) the inspections were performed by qualified personnel in accordance with approved 
+policies and procedures and (2) specific part numbers and heat numbers were traceable 
+to the raw material purchased or supplied from the suppliers and maintained throughout 
+the production process. 
+ 
+The NRC inspection team discussed the inspection program with Aecon’s management 
+and technical staff.  The attachment to this inspection report lists the documents 
+reviewed by the NRC inspection team. 
+ 
+b. Observations and Findings 
+ 
+No findings of significance were identified.  
+ 
+c. Conclusion 
+ 
+The NRC inspection team concluded that Aecon is implementing its inspection program 
+in accordance with the regulatory requirements of Criterion X of Appendix B to 
+ 
+8 
+10 CFR Part 50.  Based on the limited sample of documents reviewed and operations 
+observed, the NRC inspection team also determined that Aecon is implementing its 
+policies and procedures associated with the inspection program.  No findings of 
+significance were identified. 
+ 
+5. Control of Measuring and Test Equipment  
+ 
+a. Inspection Scope 
+ 
+The NRC inspection team reviewed Aecon’ policies and implementing procedures that 
+govern the M&TE program to verify compliance with the requirements of Criterion XII, 
+“Control of Measuring and Test Equipment,” of Appendix B to 10 CFR Part 50. 
+ 
+The NRC inspection team selected a sample of M&TE, and determined that they had the 
+appropriate calibration stickers with the respective calibration service and current 
+calibration dates including the calibration due date.  The NRC inspection team also 
+verified that the M&TE had been calibrated, adjusted, and maintained at prescribed 
+intervals.  In addition, the calibration records reviewed by the NRC inspection team 
+indicated the “as-found,” “as-left” conditions, accuracy required, calibration results, 
+calibration dates, owner of the calibration services, standard(s) used, and the due date 
+for recalibration.  The NRC inspection team verified that the selected M&TE was 
+calibrated using standards traceable to known industry standards including those 
+outsourced for calibration and used within acceptable tolerance range of application.  All 
+M&TE equipment was traceable with a unique identification (ID) number.  The ID 
+number is traceable and retrievable to an M&TE log, which contains all of the information 
+regarding the calibration history of the item. 
+ 
+The NRC inspection team also verified Aecon’s process of handling out-of-tolerance 
+M&TE received from a calibration supplier or when identified during the re-calibration 
+process.  The NRC inspection team verified that Aecon initiated nonconformance reports 
+(NCRs) for M&TE found out-of-tolerance to track all the items previously inspected and 
+accepted using the same M&TE to evaluate the validity of acceptance of the items, and 
+if necessary conduct an extent of condition review for potential deficiency on items 
+shipped.  
+ 
+The NRC inspection team performed a walk-down of Aecon’s facility to ensure that 
+M&TE  located in the M&TE storage area, the M&TE hold area, and the fabrication shop 
+were labeled, handled, and stored in a manner that indicated the calibration status of the 
+instrument and ensured its traceability to calibration test data. 
+ 
+The NRC inspection team discussed the M&TE program with Aecon’s management and 
+technical staff.  The attachment to this inspection report lists the documents reviewed by 
+the NRC inspection team. 
+ 
+b. Observations and Findings 
+ 
+No findings of significance were identified. 
+  
+ 
+9 
+c. Conclusion 
+ 
+The NRC inspection team concluded that Aecon is implementing its M&TE program in 
+accordance with the regulatory requirements of Criterion XII of Appendix B to 
+10 CFR Part 50.  Based on the limited sample of documents reviewed and operations 
+observed, the NRC inspection team also determined that Aecon is implementing its 
+policies and procedures associated with the M&TE program.  No findings of significance 
+were identified. 
+ 
+6. Commercial-Grade Dedication and Supplier Oversight  
+ 
+a. Inspection Scope 
+ 
+The NRC inspection team reviewed Aecon’s policies and implementing procedures that 
+govern the implementation of its commercial-grade dedication and supplier oversight 
+programs to verify compliance with the requirements of Criterion III, “Design Control,” 
+Criterion IV, “Procurement Document Control,” and Criterion VII, “Control of Purchased 
+Material, Equipment, and Services,” of Appendix B to 10 CFR Part 50. 
+ 
+The NRC inspection team reviewed a sample of commercial-grade dedication plans, 
+checklists, reports, associated POs, and commercial-grade surveys of several 
+commercial vendors on Aecon’s Approved Supplier’s List.  The NRC inspection team 
+evaluated a sample of technical evaluations and concluded that the technical 
+evaluations in the dedication plans appropriately identify the critical characteristics and 
+technical attributes necessary to provide reasonable assurance that the item or services 
+would perform their intended safety function.  Also, the NRC inspection team verified a 
+sample of Certified Material Test Reports, Certificates of Conformance, and receipt 
+inspection records to verify that these documents contained the appropriate technical 
+and quality requirements. 
+ 
+The NRC inspection team verified that the POs included, as appropriate: the scope of 
+work, right of access to facilities, and extension of contractual requirements to 
+subcontractors.  In addition, the NRC inspection team confirmed that the reviewed safety 
+related POs invoked the requirements of Appendix B to 10 CFR Part 50 and 10 CFR 
+Part 21. 
+ 
+The NRC inspection team reviewed a sample of commercial-grade surveys to verify the 
+implementation of Aecon’s supplier oversight program.  The NRC inspection team 
+verified that Aecon had prepared and approved commercial-grade dedication plans that 
+identify the scope, critical characteristics to be verified and applicable checklist criteria 
+before the initiation of the survey activity.  The NRC inspection team confirmed that the 
+survey reports contained objective evidence of the review of the relevant critical 
+characteristics being verified.  For commercial-grade surveys that resulted in findings, 
+the NRC inspection team verified that the supplier had established a plan for corrective 
+action and that Aecon had reviewed and approved the corrective action and verified its 
+satisfactory completion and proper documentation. 
+ 
+The NRC inspection team reviewed Aecon’s measures established for the use of 
+accreditation in lieu of commercial-grade surveys for procurement of calibration and 
+testing services.  Aecon’s QA manual allows for the utilization of the International 
+Laboratory Accreditation Cooperation (ILAC) accreditation process in lieu of  
+ 
+10 
+commercial-grade surveys for calibration services as approved by the NRC in the 
+Arizona Public Service Company QA program safety evaluation (ADAMS Accession 
+Number ML052710224).  The NRC inspection team observed that Aecon is also utilizing 
+ILAC accreditation for testing services; however the provisions for this methodology had 
+not been incorporated into Aecon’s QA manual.  Aecon initiated Nuclear 
+Corrective/Preventative Action Report (NCPAR) 2017-0109 to revise its QA manual to 
+include the appropriate provisions, as required by Nuclear Energy Institute (NEI) 
+technical report NEI 14-05, “Guidance for the Use of Accreditation In Lieu of  
+Commercial-Grade Surveys for Procurement of Laboratory Calibration and Test 
+Services,” for the utilization of ILAC accreditation for calibration and testing services in 
+lieu of performing a commercial-grade survey.  
+ 
+The NRC inspection team reviewed a sample of safety-related supplier quality audits 
+performed since the last NRC inspection (July 2016).  The NRC inspection team verified 
+that: (1) the supplier quality audits were performed at the required frequency; (2) the 
+audits were performed using approved checklists and procedures; (3) and that the audit 
+report contained objective evidence of the review of the relevant QA criteria of 
+Appendix B to 10 CFR Part 50.  Additionally, the NRC inspection team reviewed a 
+sample of supplier annual assessments to verify Aecon’s measures for ensuring that its 
+suppliers are continuing to meet the quality requirements imposed.  The NRC inspection 
+team verified that Aecon took appropriate corrective actions for suppliers whose 
+assessment showed degraded performance.  
+ 
+The NRC inspection team also reviewed a sample of training and qualification records of 
+lead auditors and QC inspection personnel and confirmed that auditing and inspection 
+personnel had completed the required training and maintained qualification and 
+certification in accordance with Aecon’s policies and procedures. 
+ 
+The NRC inspection team also discussed the commercial-grade dedication and supplier 
+oversight programs with Aecon’s management and technical staff.  The attachment to 
+this inspection report lists the documents reviewed by the NRC inspection team. 
+ 
+b. Observations and Findings 
+ 
+No findings of significance were identified. 
+ 
+c. Conclusion 
+ 
+The NRC inspection team concluded that Aecon is implementing its commercial-grade 
+dedication and supplier oversight programs in accordance with the regulatory 
+requirements of Criterion III, Criterion IV, and Criterion VII of Appendix B to 10 CFR 
+Part 50.  Based on the limited sample of documents reviewed, the NRC inspection team 
+also determined that Aecon is implementing its policies and procedures associated with 
+the commercial-grade dedication and supplier oversight programs.  No findings of 
+significance were identified.  
+ 
+11 
+7. Nonconforming Materials, Parts, or Components and Corrective Action 
+ 
+a. Inspection Scope 
+ 
+The NRC inspection team reviewed Aecon’s policies and implementing procedures that 
+govern the control of nonconformance and corrective action programs to verify 
+compliance with the requirements of Criterion XV, “Nonconforming Materials, Parts, or 
+Components,” and Criterion XVI, “Corrective Action,” of Appendix B to 10 CFR Part 50. 
+ 
+The NRC inspection team performed a walk-down of Aecon’s fabrication and receiving 
+storage areas to verify that nonconforming items were properly identified, marked, and 
+segregated, when practical, to ensure that they were not reintroduced into the production 
+processes.  Additionally the NRC inspection team reviewed a sample of NCRs and 
+NCPARs generated since the last NRC inspection to verify that: (1) nonconforming items 
+were dispositioned in accordance with procedures; (2) technical justification were 
+documented as appropriate for dispositions; and (3) nonconforming items were 
+evaluated for 10 CFR Part 21 applicability, as appropriate.  For NCRs dispositioned as 
+repair for ASME Section III components, the NRC inspection team verified that the 
+repairs were performed in accordance with prescribed procedures and that the required 
+re-examinations (NDE) were performed.  
+ 
+Furthermore, the NRC inspection team reviewed Aecon’s NCR and NCPAR log for the 
+incorporation of conditions identified by WECTEC source inspectors Notice of 
+Unsatisfactory Conditions. 
+ 
+The NRC inspection team also reviewed the implementation of the corrective actions for 
+NCPARs generated during the previous NRC inspection.  The NRC inspection team 
+reviewed the objective evidence for the closeout of NCPARs 2016-141, 2016-142,  
+2016-143 and 2016-144, that were generated during the July 2016 inspection.  The NRC 
+inspection team determined that Aecon had implemented adequate corrective actions in 
+accordance with the requirements of Criterion XVI of Appendix B to 10 CFR Part 50. 
+ 
+The NRC inspection team discussed the nonconforming materials, parts, or components 
+and corrective action programs with Aecon’s management and technical staff.  The 
+attachment to this inspection report lists the documents reviewed by the NRC inspection 
+team. 
+ 
+b. Observations and Findings 
+ 
+No findings of significance were identified. 
+ 
+c. Conclusion 
+ 
+The NRC inspection team concluded that Aecon is implementing its nonconforming 
+materials, parts, or components and corrective action programs in accordance with the 
+regulatory requirements of Criterion XV and Criterion XVI of Appendix B to 10 CFR 
+Part 50.  Based on the limited sample of documents reviewed, the NRC inspection team 
+also determined that Aecon is implementing its policies and procedures associated with 
+the control of nonconforming materials, parts, or components.  No findings of 
+significance were identified. 
+ 
+ 
+12 
+8. Entrance and Exit Meetings 
+ 
+On August 8, 2017, the NRC inspection team discussed the scope of the inspection with 
+Dave Pankratz, Quality Director, Robert Michiels, Quality Manager, and other members of 
+Aecon’s management and technical staff.  On August 11, 2017, the NRC inspection team 
+presented the inspection results and observations during an exit meeting with 
+Dave Pankratz, Robert Michiels, and other members of Aecon’s management and technical 
+staff.  The attachment to this report lists the attendees of the entrance and exit meetings, as 
+well as those individuals whom the NRC inspection team interviewed. 
+ 
+ 
+1 
+ATTACHMENT 
+ 
+ 
+1. ENTRANCE/EXIT MEETING ATTENDEES 
+ 
+Name Title Affiliation Entrance Exit Interviewed
+Jonathan Ortega-
+Luciano 
+Inspection Team 
+Leader NRC X X  
+Ashley Ferguson Inspector NRC X X  
+Alain Artayet Inspector NRC X X  
+Raju Patel Inspector NRC X X  
+Andrew St. Cyr Welding Supervisor Aecon   X 
+Chas Williams Manufacturing 
+Specialist Aecon X X X 
+Chris Armstrong QC Inspector Aecon   X 
+Dave Pankratz Quality Director Aecon X X  
+David Leclen Manufacturing 
+Specialist Aecon   X 
+David Whitehead QC Inspector Level II Aecon   X 
+Debbie Goad QC Inspector  Aecon   X 
+Eric Dyke Manager, Nuclear 
+Fabrication Aecon X X X 
+Greg Martin Fabrication Manager Aecon X   
+John Hogarth QC Supervisor Aecon  X X 
+Kevin Cassells Senior Quality 
+Manager Aecon X   
+Louis Vizi Manufacturing 
+Specialist Aecon   X 
+Nadia Crystal Welder  Aecon   X 
+Pamela Stewart 
+QC Inspector/ 
+Corrective action 
+Coordinator 
+Aecon X X X 
+Patrick Gregus Production manager Aecon X   
+Rick Berg QC Inspector Aecon   X 
+Robert Michiels Quality  Manager Aecon X X X 
+ 
+2 
+Name Title Affiliation Entrance Exit Interviewed
+Vikram Bassan QC Inspector Aecon   X 
+Wilfrid Bagley 
+Auditing 
+Supervisor/QA Lead 
+Auditor 
+Aecon X X X 
+Wilson Kuang QC Inspector Level II Aecon   X 
+ 
+ 
+2. INSPECTION PROCEDURES USED 
+ 
+Inspection Procedure (IP) 36100, “Inspection of 10 CFR Part 21 and Programs for Reporting 
+Defects and Noncompliance,” dated February 13, 2012. 
+ 
+IP 43002, “Routine Inspections of Nuclear Vendors,” dated January 27, 2017. 
+ 
+IP 43004, “Inspection of Commercial-Grade Dedication Programs,” dated January 27, 2017 
+ 
+3. DOCUMENTS REVIEWED 
+ 
+Policies and Procedures 
+ 
+• Quality Assurance Manual for Nuclear Class Items, Revision 19, dated  
+December 10, 2015 
+• Quality Assurance Manual Project Specific Supplement –Stone & Webster-A00002, 
+Revision 4, dated November 15, 2015 
+• Quality Control Procedure (QCP)-302.1, “Qualification of Audit Personnel,” Revision 10, 
+dated October 3, 2013 
+• QCP-302.3, “Certification of QC Inspectors,” Revision 7, dated January 19, 2012 
+• QCP-302.4, “Quality Assurance Auditing,” Revision 17, dated June 8, 2017 
+• QCP-306.5, “Control of Suppliers,” Revision 14, dated November 3, 2016 
+• QCP-309.44, “Fabrication Shop Nonconformance,” Revision 10, dated April 12, 2017 
+• QCP-309.48, “Control of Nuclear Items,” Revision 5, dated March 20, 2017 
+• QCP-309.54, “Production Engineering Drawing Work Flow (Nuclear),” Revision 3, dated 
+June 12, 2017 
+• QCP-309.57, “Preparation of Quality Control Procedures, Work Instructions, Technical 
+Specifications and Forms,” Revision 7, dated June 7, 2016 
+• QCP-309.62, “Field Change Request,” Revision 1, dated November 11, 2013 
+• QCP-309.64, “Request for Information,” Revision 0, dated November 5, 2013 
+• QCP-309.65, “Customer Change Request,” Revision 1, dated May 13, 2014 
+• QCP-309.74, “ Corrective Action,” Revision 3, dated March 30, 2017 
+• QCP-310.2, “Visual Inspection,” Revision 19, dated December 6, 2016 
+• QCP-310.21, “Written Practice,” Revision 13, dated October 30, 2015 
+• QCP-310.42, “Statistical Sampling Procedure,” Revision 2, dated January 16, 2012 
+• QCP-311.6, “Verification of Welding Machines,” Revision 5, dated January 31, 2017 
+• QCP-311.7, “Calibration of Weld Rod Ovens,” Revision 9, dated February 23, 2015 
+• QCP-311.13, “Calibration of Magnetic Particle Yoke,” Revision 5, dated  
+October 31, 2014 
+ 
+3 
+• QCP-311.22, “Verification of Dial Depth Gauges,” Revision 0, dated  
+November 10, 2016 
+• QCP-405.12, “Nuclear Purchasing,” Revision 14, dated May 1, 2015 
+• QCP-405.9, “10CFR21 and 10 CFR50.55(e) Reporting of defects and noncompliance,” 
+Revision 9, dated February 3, 2017 
+• QCP-405.7, “Receiving, Receiving Inspection, and Source Inspection of Nuclear Items,” 
+Revision 13, dated March 29, 2017 
+• QCP-409.19, “Commercial-Grade Dedication,” Revision 1, dated January 10, 2014 
+• QCP-409.20, “Commercial-Grade Surveys,” Revision 0, dated September 25, 2013 
+• QCP-409.4, “Training for Nuclear Personnel,” Revision 7, dated March 27, 2012 
+• QCP-409.8, “Marking and Identification of Nuclear Material,” Revision 5, dated  
+October 28, 2011  
+• QCP-410.4, “Magnetic Particle Examination,” Revision 15, dated October 31, 2016 
+• QCP-410.5, “Liquid Penetrant Examination,” Revision 12, dated October 31, 2016 
+• QCP-410.8, “ITPS and Travelers for Nuclear Items,” Revision 9, dated March 2, 2017 
+• QCP-410.9, “Inspection (Nuclear and EPC Program) Revision 9, dated July 6, 2016 
+• Acuren Radiographic Examination Procedure Qualification (CEN-RT-14P001 
+and Addenda A001) with authorize nuclear inspector (ANI) signature, dated 
+August 30, 2013 
+• Acuren Ultrasonic Examination Procedure Qualification (CEN-UT-14P001) with 
+ANI signature, dated August 30, 2013 
+• AcurenCan-CP-02P001, “Acuren SNT-TC-1A Written Practice,” Revision 11, 
+dated June 14, 2017 
+• Acuren CEN-RT-14A001, “NB, NC, ND, NE & NF Addendum to the 
+Radiographic Procedure”, Revision 3, dated July 25, 2014 
+• Acuren CEN-RT-14P001, “Acuren Radiographic Examination”, Revision 4, 
+dated January 27, 2016 
+• Acuren CEN-UT-14P001, “Acuren Ultrasonic Examination of Pressure Vessel, 
+Piping and Support Welds”, Revision 3, dated December 17, 2015 
+• CEN-UT-14P003, “Acuren Ultrasonic Thickness Measurements”, Revision 2, 
+dated May 7, 2014 
+• Work Instruction (WI)-018, “Receiving of Free Issue Material Job 2210 (Stone 
+and
+ Webster),” Revision 1, dated June 11, 2014 
+• WI-019, “Commercial Grade Dedication of Services,” Revision 1, dated  
+April 28, 2014 
+• WI-020, “Control of WEC E&DCRS Job No. 2210N,” Revision 9, dated  
+April 11, 2016 
+• WI-025, Surface Preparation and Coatings for Stone and Webster 2210N,” 
+Revision 6, dated October 17, 2016 
+• WI No. 038, “CFM/PFM Preventative Work Maintenance Work Instruction Job 
+A00002,”
+ Revision 0, dated June 15, 2005 
+• WI-057, “General Fabrication Requirements for Module Assembly Job 
+A00002,” Revision 1, dated April 4, 2016 
+ 
+Part 21 Evaluations 
+ 
+• A00002-02, “Evaluation Form (10CFR21 / 10CFR50.55(e)),” dated  
+August 4, 2017 
+  
+ 
+4 
+• A00002-000-0468-00, “Evaluation Form (10CFR21 / 10CFR50.55(e)),” dated 
+November 7, 2016 
+• A00002-00-0468, “Non-conformance Report,” dated November 1, 2016 – 
+A572 Gr. 50 plate, Heat U5409 Lot 1 did not receive Charpy Impact Test per 
+ATS 059 Section 6 
+• A00002-000-0926, “Non-conformance Report,” dated June, 17, 2017 – 
+Multiple visual inspection reports were submitted by members of the A00002 
+QC group where a repeat error has been detected.  Light meters 81-008,  
+81-009 and 81-010 were referenced on reports as having been used at time of 
+inspection when this would have been impossible because they were out for 
+calibration at time of said inspections.   
+• A00002-000-1006, “Non-conformance Report,” dated August 4, 2017 – Op 45 
+– Fit and tack test caps to spool as per drawing (W1) Aecon  
+DWG: SV4-Q305-CVS-PLW-HYD-281 R.1.  The welder deposited tack welds 
+in Op. 45 on August 3, 2017, (88-200-N28) on W1, joining Item 1 to  
+SV4-Q305-CVS-PLW-HYD-281.  The components being welded are ½” 
+diameter.  Weld ticket No. 405979 is qualified for 1-inch diameter and higher.  
+Therefore, the welder is unqualified for the pipe diameter being used.  The 
+welder was signed in by the welding supervisor in Op. 5 and verified by QC in 
+Op. 10 prior to tack welding 
+ 
+Design Documents  
+ 
+• WEC purchase order (PO) 132175-G230.04, Revision 27, dated  
+June 21, 2017 
+• WEC APP-GW-GAH-030, “Quality Assurance Requirements for  
+Safety-Related Components/Services of Standard AP1000 Plants,” Revision 8 
+• WEC Design Specification APP-GW-P0-008, “AP1000 Specification for Field 
+Fabricated Piping and Installation, ASME III, Code Classes 1, 2, and 3 and 
+ASME B31.1,” Revision 6, dated June 12, 2014 
+• WEC Engineering and Design Coordination Report (E&DCR)  
+No. APP-PH01-GEF-850010, “EDCR PH01 Ring Girder Bumper Tolerance 
+Change APP-PH-01-V2-006 & APP-PH01-V2-007,” Revision 0, dated  
+April 4, 2017 
+• WEC E&DCR No. APP-Q601-GEF-850023, “Q601 Fire Barrier Support 
+Update,” Revision 0, dated May 4, 2017 
+• WEC E&DCR No. APP-Q601-GEF-850022, “EDCR Q601 Welded Grating 
+Supports,” Revision 0, dated April 20, 2017 
+ 
+Drawings 
+ 
+• Aecon Drawing SV4-Q305-CVS-PLW-090-00, “Q305 Piping Assemblies,” 16, 
+Revision 2, dated July 16, 2017, with document list, Revision 5, dated  
+July 6, 2017 
+• SV4-Q305-CVS-PLW-090-003, “Chemical & Volume Containment System,” 
+Revision 2, dated July 6, 2017 
+• SV4-Q305-CVS-PLW-HYD-090-B, “Chemical Volume Control System Class 
+1,” Revision 1, dated June 19, 2017 
+• SV4-Q240-RWS-PLW-01.15, “Normal Residual Heat Removal for AP1000 
+Vogtle EPC-4,” Revision 0, dated September 28, 2016  
+ 
+5 
+• S8084-XRG, “Ring Girder Assembly,” Revision 2, dated June 30, 2017, for 
+Q601 module for Vogtle Unit 3 
+• A6250-6, “A-Frame Weldment,” Revision 0, dated January 26, 2017, for Q601 
+module for Vogtle Units 3 & 4 
+• S7370, “RCS-PH-1-1R0814 – Beam Weldment,” for Vogtle Units 3 & 4, 
+Revision 0, dated June 5, 2017 
+• S7365, “RCS-PH-11R0814 – Combined Back Beam Weldment,” Revision 0, 
+dated June 5, 2017 
+• Aecon Drawing SA7365,”RCS-PH-11R0814 – Box Beam Machined,” 
+Revision 0, dated June 5, 2017 
+• S6415, “Grading Support 801 & 806 Barrier Support Weldment,” Revision 0, 
+dated July 26, 2017 
+• S6610, “Grating Support 803, 804, & 805 Barrier Support Weldment,” 
+Revision 0, dated July 26, 2017 
+• S6499, “Grading Support 828 & 831 Weldment,” Revision 0, dated  
+July 26, 2017 
+• S6609, “Grating Support 829 Barrier Support Weldment,” Revision 0, dated 
+July 26, 2017 
+• P6489, “Grating Support 827 Upper PF,” Revision 0, dated July 26, 2017 
+• S6493, “Grating Support 829 Weldment,” Revision 0 dated July 26, 2017 
+• S6297, “Fire Barrier Steel Weldment to Upper PF,” Revision 2, dated  
+May 18, 2017 
+• S6484, “Grating Steel Welding to Upper PF,” Revision 2, dated May 18, 2017 
+• S8084-BRG, “Ring Girder Assembly,” for Mechanical Module Q601, 
+Revision 2, dated June 30, 2017 
+• Aecon Drawing Index “Q601-SV3,” for Vogtle Units 3, Revision 1, dated 
+August 10, 2017 
+ 
+Audit Reports and Commercial-Grade Surveys 
+ 
+• Aecon Surveillance/Source Inspection Report A00002-0006, performed at LP 
+Custom Machining Ltd., dated August 19, 2015 
+• Audit Report AI-SA-16-046 of TW Metals, Nuclear Material Solutions (NMS), 
+dated August 19, 2016 
+• Audit Report AI-SA-16-047 of Lincoln Electric Company, Revision 0, dated 
+January 20, 2017 
+• Audit Report No. A1-SA-17-053, of Aberfoyle Metal Treaters Ltd., Revision 0, 
+dated April 24, 2017 
+• Audit Repot No. AI-SA-15-036 of Superheat FGH, Revision 0, dated  
+May 22, 2015 
+• Supplier Annual Assessment of Cambridge Materials Testing Limited, dated 
+September 2, 2016 
+• Supplier Annual Assessment of LP Customs, dated May 4, 2017 
+• Supplier Annual Assessment of The Lincoln Electric Company, dated 
+December 13, 2016 
+• Supplier Annual Assessment of TW Metals- nuclear Material Solutions, dated 
+July 27, 2016 
+• Survey Report No. A1-SA-14-049, of Hexagon Metrology Inc., dated  
+January 19, 2015 
+ 
+6 
+• Survey Report No. A1-SA-15-072, Revision 0, of Acuren Group Inc., dated 
+September 16, 2015  
+• Survey Report No. A1-SA-17-044 of Cambridge Material Testing Ltd., 
+Mississauga Division, dated June 6, 2017 
+• Survey Report No. A1-SA-17-048, of LP Custom Machining Ltd., dated 
+March 21, 2017  
+• Survey Report No. A1-SA-17-053, of Aberfoyle Metal Treaters Ltd., 
+Revision 2, dated April 12, 2017 
+• Survey Report No. A1-SA-17-43 of Cambridge Material Testing Ltd. 
+Cambridge Division, Revision 0, dated June 1, 2017  
+• Survey Report No. AI-SA-14-049 of Hexagon Metrology, Inc. Revision 1, 
+dated January 19, 2015 
+• Survey Report No. AI-SA-17-043 of Cambridge Material Testing Ltd., 
+Cambridge Division, Revision 0, dated June 6, 2017 
+ 
+Commercial Grade Dedication Package 
+ 
+• Commercial-Grade Dedication (CGD) package for Aecon Project No. A00002, 
+Laboratory chemical testing services,” per CGD Plan No. CGD-002, 
+Revision 01, from Cambridge Materials Testing Ltd, for Module No. KB36, 
+Q223, Q240, Q305, Q601, dated January 9, 2015, includes technical 
+evaluation, determination of CGD, critical characteristics, receipt inspection 
+report and review of test report. 
+• CGD Package for Aecon project No. 2210N, for calibration services performed 
+by Hexagon Metrology Inc., per CGD Plan No. CGD-005, Revision 1, for 
+Module KB36, Q223, Q240, Q305, Q601, dated August 12, 2016 
+• CGD Package for Aecon Project No. 2210N, for machining services performed 
+by LP Custom Machining per CGD Plan No. CGD-004, Revision 1, for Module 
+KB36, Q233, Q305, Q601, dated July 31, 2017, includes Surveillance/Source 
+Inspection Report for SB2013-2 Box beam end prep machining services dated 
+August 19, 2015 
+• CGD Package for Aecon Project No. 2210N/A00002 for Modules KB36, Q223, 
+Q240, Q305 and Q601 for CGD Plan No. CGD-007 Revision 0, for 
+nondestructive examination services performed by Acuren Group Inc., dated 
+September 8, 2016 
+• CGD Plan CGD-004, for machining services performed by LP Custom 
+Machining Ltd., Revision 2, dated September 30, 2016 
+• CGD Plan CGD-005, for calibration services performed by Hexagon Metrology 
+of Motorized Industrial Total Station, Revision 1, dated November 28, 2014 
+• CGD Plan No.CGD-002, for chemical testing services performed by 
+Cambridge Material Testing Ltd., Mississauga Division Revision 2, dated 
+May 1, 2017 
+• CGD Plan CGD-009, for heat-treatment services performed by Aberfoyle 
+Metal Treaters Ltd., Revision 0, dated March 6, 2017 
+• CGD Plan No. CGD-001 Revision 2, dated July 2, 2014, for the supply of 
+mechanical testing services by Cambridge Material Testing Ltd., Cambridge 
+Division 
+• CGD Plan No. CGD-001 for mechanical testing services by Cambridge 
+Material Testing Ltd., Cambridge Division, Revision 2, dated April 19, 2017 
+ 
+7 
+• CGD Plan No. CGD-005, for calibration services performed by Hexagon 
+Metrology, Inc., Revision 1, dated November 28, 2014 
+• CGD Plan No. CGD-007 for non-destructive examination services performed 
+by Acuren Group Inc., Revision 0, dated July 27, 2015 
+• ATS-085, “CMTL CGD Survey Critical Characteristics,” Revision 0, dated 
+July 16, 2014 
+• ATS-104, “Commercial Grade Dedication CMTL Mississauga Chemical 
+Testing,” Revision 2, dated August 25, 2016 
+• ATS-114, “Commercial Grade Dedication: LP Custom Machining Ltd. Project 
+A00002,”
+ Revision 2, dated June 27, 2017 
+• ATS-147, “Commercial Grade Dedication: Acuren Group, Inc. Project 
+A00002,”
+ Revision 1, dated December 22, 2015 
+• ATS-164, “Testing Requirements for Pressure Sensitive Tapes Job A00002,” 
+Revision 0, January 25, 2016 
+• ATS-175, “Nuclear Weld Consumables Ordering Specification,” Revision 1, 
+dated February 6, 2017 
+• ATS-191, “Machining Services Supply for Ring Girder,” Revision 1, dated 
+October 26, 2016 
+• ATS-193, “Fabrication Service Supply for Ring Girder,” Revision 2, dated 
+November 24, 2016 
+• ATS-209, “Heat-treatment Services for Ring Girder,” Revision 1,  
+April 18, 2017 
+• ATS-221, “Local Heat Treatment by Superheat FGH for Job A00002,” 
+Revision 0, dated May 11, 2017 
+ 
+Calibration, Inspection and Test Reports 
+ 
+• Cambridge Material Testing Limited (CMTL) Test Report No. 749305-17, 
+dated March 17, 2017, for seven wipe cloths tested for chemical analysis for 
+chloride, fluoride for Baseline check per Aecon technical specification 
+procedure ATS-104, Revision 2, for PO 4500102091 Change Order No. 04,  
+• CMTL Test Report No. 79964-17, dated March 30, 2017, for 2 wipe cloths 
+tested for chemical analysis for chloride, fluoride for Baseline check per Aecon 
+technical specification procedure ATS-104, Revision 2, for PO 4500102091 
+Change Order No. 04,  
+• CMTL Test Report No. 749040-17 Revised, dated March 17, 2017, for 12 wipe 
+cloths tested for chemical analysis for chloride, fluoride for Baseline check per 
+Aecon technical specification procedure ATS-104, Revision 2, for 
+PO 4500102091 Change Order No. 04,  
+• Hexagon Metrology Precision calibration certificate No. 2015100365816, for 
+Leica TDRA600 serial no. 365816, dated March 24, 2017 
+• Aecon Nuclear Material report dated January 21, 2016, for machined box 
+beams SA3008-1 and SA3016-2 for module Q223, machined by LP Custom 
+Machining Ltd., PO 4500034514,  
+• LP Custom Machining Ltd., certificate of compliance for SA3008-01 Box 
+Beams dated December 17, 2015, reviewed and accepted by Aecon on 
+January 19, 2016 
+• LP Custom Machining Ltd., dimensional inspection report for Aecon Box 
+Beams SA3008-01, dated January 13, 2016, inspected and accepted by 
+Aecon on January 19, 2016, to PO 45000034514 
+ 
+8 
+• Lincoln Electric Company (LEC) Certificate of Conformance (CofC) dated 
+May 5, 2017, for 5250 pounds of 5/32-inch x E10018-D2-H4R Excalibur 
+electrode lot no. 1334A to Aecon procedure ATS-175, and PO 
+No. 4300000517 
+• LEC CofC dated May 8, 2017, for 8610 pounds of 1/8-inch x E10018-D2-MR 
+Excalibur electrode lot no. 1333Z, ASME SFA 5,5 to Aecon procedure  
+ATS-175, and PO No. 4300000517 
+• LEC CofC dated March 1, 2017, for 3408 pounds of 
+3/32-inch x E10018-D2-MR Excalibur electrode lot no. 1323V, ASME SFA 5,5 
+to Aecon procedure ATS-175, and PO No. 4300000517 
+• LEC CofC dated December 8, 2015, for 2500 pounds of 3/32 x 36-inch Lincoln 
+ER70S-2 lot no. 1269G, ASME SFA 5.18 to Aecon procedure ATS-076, and 
+PO No. 430002329 
+• LEC CofC dated July 5, 2016, for 50 pounds of 1/16 x 36-inch Lincoln 
+ER308/308L lot no. 1256K, ASME SFA 5.9 to Aecon procedure ATS-061, and 
+PO No. 4500100275 
+• LEC CofC dated June 20, 2016, for 6000 pounds of 1/8 x 36-inch Lincoln 
+Excalibur 7018-1MR lot no. 12090H, ASME SFA 5.1 to Aecon procedure  
+ATS-069, and PO No. 4500100275 change order 2 
+• Aecon receiving inspection report (RIR) No. 2210N-001/A00002-468 dated 
+May 9, 2017, for 5/32-inch x E10018-D2-H4R Excalibur electrode lot 
+no. 1334A; 1/8-inch E10018-D2-H4R SFA 5.5 electrodes Lot No. 1333Z, on 
+PO No. 4300000517  
+• RIR No. 2210N-001/A000002-269, dated August 10, 2017, for one piece of 
+spool assembly serial No. SV4-RCS-PLW-013-1 to PO 4500002695 
+• RIR No. 2210N-001/A00002-266, dated August 10, 2017, for one piece of 
+spool assembly serial No. SV4-RCS-PLW-01F-1A to PO 4500002695 
+• RIR No. 2210N-001-A900002-407 dated May 7, 2017, for 3408 pounds of 
+3/32-inch electrode E10018-D2-H4R, SFA 5.5 NF Class 1 traceable to Lincoln 
+Electric lot No. 1323V on PO No. 4300000517 
+• RIR No. 2210N-001/A00002-273, dated August 23, 2016, for 50 pounds of 
+1/16 x 36-inch weld wire ER308/308L, SFA 5.9, traceable to Lincoln Electric 
+lot No. 1256K 
+• RIR No. 2210N-001A00002-100, dated January 27, 2016, for 3/32 x 36-inch 
+Lincoln weld wire ER70S-2, Lot No. 1269G 
+• RIR No. 2210N-001A00002-213, dated July 5, 2016, for 1/16 x 36-inch Lincoln 
+weld wire ER316/316L, Lot No. 1290K 
+• Visual Weld Examination Report VT-Y40-246, dated July 10, 2017, for Job 
+No. A00002 for welds W83, W84, W85, W86, W87, W88, W89, W90 on  
+SV4-Q240-RNS-PLW-15 x R.0 and SV4-Q240-RNS-PLW-01-04 x R.0 1 on 
+Y40 module for Vogtle Unit 4, per QCP-310.2 procedure using flashlight in 
+accordance with ASME Section III, 1998 Edition 2000 Addenda on Traveler 
+TRV-A00002Y040-011, operation No. 90, using measuring and test 
+equipment calibrated to current status, and drawing. 
+  
+ 
+9 
+• Visual Weld Examination Report VT-Y05-146, dated July 17, 2017, for Job 
+No. A00002 for welds W46, W50, W51 on CVS-PH-11R0202 Part 5 on Q305 
+module for Vogtle Unit 4, per QCP-310.2 procedure using flashlight in 
+accordance with ASME Section III, 1998 Edition 2000 Addenda on Traveler 
+TRV-A00002Y05-003, operation No. 325, using measuring and test 
+equipment calibrated to current status and drawing  
+SV4-Q305-CVS-PLW-090-03, Revision 2 
+• Visual Weld Examination Report VT-Y05-136, dated July 12, 2017, for Job 
+No. A00002 of weld W46 on SV4-Q305-CVS-PLW-090-03 on Q305; Y05 
+module for Vogtle Unit 4, per QCP-310.2 procedure using flashlight in 
+accordance with ASME Section III, 1998 Edition 2000 Addenda on Traveler 
+TRV-A00002Y05-003, operation No. 315, using measuring and test 
+equipment calibrated to current status 
+• Chemetall Certificate of Analysis/Compliance for Ardrox 9PR50 solvent 
+remover for NDE-PT, Lot-No. 65012717 (Aecon-No. 600) 
+• Chemetall Certificate of Analysis/Compliance for Ardrox 906 penetrant for 
+NDE-PT, Lot-No. 65050216 (Aecon-No. 508) 
+• Chemetall Certificate of Analysis/Compliance for Ardrox 9D1B developer for 
+NDE-PT, Lot-No. 65050216 (Aecon-No. 443) 
+• Certificate of Calibration No. AIC006-16-10-36403-3 for Digital Clamp Meter 
+100-001, dated October 13, 2016 
+• Welding machine Meter Verification for 50-53 Orbital Weld, dated  
+January 5, 2017 
+• Load Bank Calibration Report for Maintenance Load Bank, dated  
+February 9, 2017 
+• AIC006-17-07-26296-2, Calibration Certificate from Laboratory Testing Inc., 
+(LTI) for Infrared Thermometer (13-022) dated July 17, 2017 
+• AIC006-17-01-02836-2, Calibration Certificate from LTI for Digital Light Meter 
+(81-008) dated  February 6, 2017 
+• Aecon Certificate of Calibration for Active Assets\Weld Rod Oven (31-169) 
+dated November 2, 2016 
+• Aecon Certificate of Calibration for Active Assets\AC Yoke (40-064) dated 
+July 18, 2017 
+• AIC006-14-04-14938-7, Calibration Certificate from LTI for  
+Thermo-Hygrometer (10-015) dated May 14, 2014 
+• Aecon Certificate of Calibration for Load Bank (MF276013U) dated  
+June 13, 2017 
+• AIC006-16-10-36403-3 from LTI for Digital Clam Meter W/Flexible Probe  
+(100-001) dated October 13, 2016 
+• QCP 311.3, “Calibration of Verniers & Micrometers,” Revision 9 dated 
+October 29, 2014 
+• AIC006-16-11-41746-4 from LTI for Coating Thickness Probe (11 / 14-013) 
+dated December 4, 2016 
+• AIC006-16-11-41746-9 from LTI for Dew Point/Surface Temperature Probe 
+(282467) dated November 29, 2016 
+• AIC006-16-11-41746-11 from LTI for Dial Thickness Gage (WEC767) dated 
+November 18, 2016 
+• Cambridge Materials Testing Limited, Cambridge, ISO/IEC 17025:2005 
+certificate expires date August 8, 2017 
+ 
+10 
+• Cambridge Materials Testing Limited, Mississauga Division, 
+ISO/IEC 17025:2005 certificate expires date May 13, 2018 
+ 
+Purchase Orders 
+ 
+• Purchase Order (PO) No. 45000102091 to Cambridge Material Testing 
+Limited for the supply of testing services in accordance with Aecon WI 028, 
+Revision 4, Table 3 Cleanliness Class C requirements, dated  
+December 12, 2016 
+• PO No. 4300001051 to Hexagon Metrology Inc., for the supply of calibration 
+services in accordance with Aecon ATS-016, Revision 01, dated  
+March 21, 2017 
+• PO No. 4500034514, to LP Custom Machining Ltd., for the supply of 
+machining services of box beams SA3008-01, dated October 14, 2015 
+• PO No. 4300000517 to Lincoln Electric Company dated March 6, 2017, for 
+procurement of weld electrodes to Acuren procedure ATS-117 
+• PO 4500001979, Revision 2, issued to TW Metals Nuclear for the supply of 
+ferrous and nonferrous materials 
+ 
+Qualification and Training Records 
+ 
+• Auditor Qualification Record for Wilfrid Bagley 
+• Inspection Qualification for Rick Berg, dated December 19, 2016, with annual 
+evaluation performed on January 2017 
+• Appointment Letter for Brad Gamble, Aecon SNT-TC-1A NDE Level III – 
+VT/MT/PT, February 1, 2017 
+• Certification of Qualification for Brad Gamble, Aecon NDE Level III – MT, PT, 
+VT 
+• NDE Qualification & Certification & Supporting Information for Brad Gamble, 
+SNT-TC-1A NDE Level III – VT(weld)/MT/PT Exp. May 31, 2022, and UT Exp. 
+February 28, 2021 
+• Visual Acuity Report for Brad Gamble on Jan. 30, 2017 
+• Certification of Qualification for Tom Michels, Aecon NDE Level II – MT, PT, 
+VT 
+• NDE Qualification & Certification & Supporting Information for Tom Michels, 
+SNT-TC-1A NDE Level II – MT & PT Exp. 3 & 4/2018, and CWI with VT Exp. 
+December 2018 
+• Visual Acuity Report for Tom Michels on January 11, 2017 
+• Certification of Qualification for Pamela Stewart, Aecon NDE Level II – MT, 
+PT, VT 
+• NDE Qualification & Certification & Supporting Information for Pamela 
+Stewart, SNT-TC-1A NDE Level II – MT/PT Exp. August 2019, and VT(weld) 
+Exp. November 2018 
+• Visual Acuity Report for Pamela Stewart on Jan. 19, 2017 
+• Certification of Qualification for David Whitehead, Aecon NDE Level II – MT, 
+PT, VT 
+• NDE Qualification & Certification & Supporting Information for David 
+Whitehead, SNT-TC-1A NDE Level II – MT/PT/VT(weld), Exp. June 20, 2020 
+• Visual Acuity Report for David Whitehead on December 12, 2016 
+ 
+11 
+• Certification of Qualification for Wilson Kuang, Aecon NDE Level II – MT, PT, 
+VT 
+• NDE Qualification & Certification & Supporting Information for Wilson Kuang, 
+SNT-TC-1A NDE Level II – MT/PT/VT(weld), Exp. July 27, 2020 
+• Visual Acuity Report for Wilson Kuang on July 29, 2017 
+• Certificate of Qualification for Debbie Goad on Coatings QC Inspection, 
+December 3, 2015 
+• Visual Acuity Report for Debbie Goad on November 19, 2016 
+• Aecon WPS-No. 33-21-N63, Revision 3, dated March 2, 2017 with supporting 
+PQR-No. 33-21-005, Revision 1 used for manual GTAW and SMAW of  
+P-No. 3 materials 
+• Aecon WPS-No. 33-500-N64, Revision 3, dated March 2, 2017 with 
+supporting PQR-No. 33-500-006, Revision 1 used for semi-automatic FCAW 
+of P-No. 3 materials 
+• Welder performance qualification records (36 total) and welder qualification 
+logs for ID-Nos. 154 (8), 511 (4) , 524 (7), 549 (4), 557 (3), 564 (6), and 
+566 (4) 
+• Training record for CAR 2016-144, dated November 26, 2016 
+ 
+Nonconformance Reports 
+ 
+• NCR A00002-000-0206 
+• NCR A00002-000-0238 
+• NCR A00002-000-0118 
+• NCR A00002-000-0260 
+• NCR A00002-000-0684 
+• NCR A00002-000-0741 
+• NCR A00002-000-0618 
+• NCR A00002-000-0118 
+• NCR A00002-000-0864 
+• NCR A00002-000-0659 
+• NCR A00002-000-0741 
+• NCR A00002-000-0899 
+• NCR A0002-000-0486  
+• NCR A0002-000-0729 
+ 
+NCPARs 
+ 
+• NCPARs 2016-144, 2016-140, 2016-142, 2016-071, 2016-0239, 2016-0193, 
+2016-141, 2016-0143, 2016-0145; and NCPAR 2017-0999  
+ 
+Opened during the inspection: 
+ 
+• NCPARs N2017-0193, 2017-0190, N2017-0196, and NCPAR 2017-0195 
+  
+ 
+12 
+Miscellaneous 
+ 
+• Aecon Contract Review for Job No. 2210N (A00002), dated July 31, 2017, for 
+WECTEC PO 1321750G230.04 for ASME Section III Module Q240, “Residual 
+Heat Removal Module,” 
+• Aecon Inspection and Test Plan (ITP)-2210N-Q601-16, “Module Q601: 
+Fabrication of Support Box Beams for Piping,” Revision 0, dated July 17, 2017 
+• Aecon ITP-A0023-RG-01, “Fabrication of Ring Girder Assembly,” Revision 2, 
+dated February 24, 2017 
+• Aecon request for information (RFI)-1655, “Q601 Welded Grating Supports,” 
+Revision 0, dated March 17, 2017 
+• Aecon RFI-1656, “Q601: Fire Barrier and Grating Support Steel Interface,” 
+Revision 0, dated April 20, 2017 
+• Aecon RFI-1672, “Q601 Box Beams for Pipe Supports CVS-PH-11R0814,” 
+Revision 0, dated May 29, 2017 
+• Aecon RFI-1695, “Q601 Welding of Stiffener Plates (Item 6) for  
+App-RCS-PH-11R0059,” Revision 0, August 2, 2017 
+• Aecon traveler TRV-A00002G01-169, Revision 0, with Technical Document 
+List (TDL)-DL-TRV-A00002G01-169, released on May 29, 2017, “A-Frame 
+Weldment-Q601 module,” for Vogtle Unit 3 
+• Traveler TRV-A00002Y40-01, Revision 0, released on June 12, 2017, with 
+operation No. 90, “Visually Inspection of completed welds,” conducted on 
+July 10, 2017, on VT-Y240-246 
+• Technical Document List (TDL)TRV-A00002Y40-011, Revision 2, released on 
+July 4, 2017, for traveler TRV-A00002Y40-01 
+• TDL TRV-A00002Y05-004, released on July 7, 2017, for traveler  
+TRV-A00002Y05-003 for Q305 Piping assemblies 
+• Traveler TRV-A00023XRG-003 Revision 0, released on June 19, 2017, 
+indicate operation No. 105, Weld No. 0036, “Bumper to Ring Girder,” being 
+welded 
+• Weld Data Sheet A6250-6 for S6240 P6502 for issuance of weld wire issued 
+to welder No. 549 for operation No. 65-Complete Welds W7247 and W7243 
+on A-Frame on August 8, 2017 
+• Procurement Strategy List of Suppliers dated July 31, 2017 

@@ -1,0 +1,1399 @@
+UNITED STATES 
+NUCLEAR REGULATORY COMMISSION 
+REGION II 
+245 PEACHTREE CENTER AVENUE NE, SUITE 1200 
+ATLANTA, GEORGIA  30303-1257 
+  
+ 
+     September 20, 2017 
+ 
+Michael Yox     
+VEGP 3 & 4 Regulatory Affairs Director 
+Southern Company 
+7825 River Road 
+Waynesboro, GA 30830 
+ 
+SUBJECT: VOGTLE UNIT 3 COMBINED LICENSE, VOGTLE UNIT 4 COMBINED 
+LICENSE - NRC INTEGRATED INSPECTION REPORTS 05200025/2017007, 
+05200026/2017007 
+ 
+Dear Mr. Yox: 
+ 
+On August 8, 2017, the U.S. Nuclear Regulatory Commission (NRC) completed an inspection at 
+your Vogtle Electric Generating Plant (VEGP) Units 3 and 4.  The enclosed inspection report 
+documents the inspection results, which the inspectors discussed on August 8, 2017 with Mr. 
+Hundley, Southern Nuclear Operating Company, Inc. (SNC) Performance Improvement & 
+Corrective Action Program Manager, along with other members of your staff. 
+ 
+The inspection examined a sample of construction activities conducted under your Combined 
+License (COL) as it relates to safety and compliance with the Commission’s rules and 
+regulations and with the conditions of these documents. The inspectors reviewed selected 
+procedures and records, observed activities, and interviewed personnel. 
+ 
+Based on the inspection sample, the inspection team concluded that the implementation of the 
+Correction Action Program (CAP) and overall performance related to identifying, evaluating, and 
+resolving problems at Vogtle Electric Generating Plant Units 3 and 4 was adequate.  Licensee 
+and contractor identified problems were entered into the CAP at an appropriate 
+threshold.  Problems were prioritized and evaluated commensurate with the safety significance 
+of the problems.  Corrective actions were effectively implemented in a timely manner 
+commensurate with their importance to safety and addressed the identified causes of 
+problems.  Lessons learned from industry construction experience were effectively reviewed 
+and applied when appropriate.  Audits and self-assessments were generally used to identify 
+problems and appropriate actions.  Based on the assessment of safety culture results, 
+interviews conducted during the inspection, and a review of the employee concerns program, 
+employee freedom to raise nuclear safety concerns without fear of reprisal appeared to be 
+demonstrated.
+ 
+ 
+This report documents one licensee-identified violation (LIV), which was determined to be of 
+very low safety significance.  Because of the very low safety significance and because it is 
+entered into your corrective action program, the NRC is treating this finding as non-cited 
+violation consistent with Section 2.3. of the NRC’s Enforcement Policy.  
+M. Yox 2 
+ 
+In accordance with 10 CFR 2.390 of the NRC's "Rules of Practice," a copy of this letter, its 
+enclosure, and your response (if any),  will be made available electronically for public inspection 
+in the NRC Public Document Room or from the Publically Available Records (PARS) component 
+of NRC's document system ADAMS.  ADAMS is accessible from the NRC Web site at 
+http://www.nrc.gov/reading-rm/adams.html (the Public Electronic Reading Room).  
+ 
+Should you have any questions concerning this letter, please contact us. 
+ 
+Sincerely, 
+ 
+      / R A /  
+ 
+Jamie Heisserer, Chief  
+Construction Inspection Branch 1 
+Division of Construction Oversight 
+ 
+ 
+Docket Nos.: 5200025, 5200026 
+License Nos: NPF-91, NPF-92 
+ 
+Enclosure:  NRC Inspection Report (IR) 05200025/2017007, 05200026/2017007 
+w/attachment: Supplemental Information 
+ 
+M. Yox 3 
+SUBJECT: VOGTLE UNIT 3 COMBINED LICENSE, VOGTLE UNIT 4 COMBINED 
+LICENSE - NRC INTEGRATED INSPECTION REPORTS 05200025/2017007, 
+05200026/2017007 
+ 
+ 
+Distribution 
+ 
+V. Hall, NRO 
+C. Weber, NRO 
+C. Haney, RII 
+L. Dudes, RII  
+W. Jones, RII 
+M. Ernstes, RII 
+J. Heisserer, RII 
+R. Musser, RII 
+R. Nease, RII 
+T. Brimfield, RII  
+N. Coovert, RII 
+B. Kemker, RII 
+G. Khouri, RII 
+A. Lerch, RII 
+S. Smith, RII 
+T. Steadham, RII 
+PUBLIC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ADAMS Accession No.: ML17263B207  
+Publicly Available   Non-Publicly Available  Sensitive  Non-Sensitive  SUNSI Review Complete Form 665 Attached 
+OFFICE RII: DCO RII: DCO RII: DCO RI I: DCO RII: DCO RII: DCO RII: DCO 
+SIGNATURE Via email Via email  Via email Via email Via email Via email JH 
+NAME N. Coovert B. Griman S. Smith J. Li zardi T. Brimfield G. Khouri  J. Heisserer 
+DATE 09/05/2017 09/05/2017 09/06/2017 09/07/2017 09/12/ 2017 09/18/2017 09/20/2017 
+OFFICIAL RECORD COPY 
+ 
+M. Yox 4 
+cc: 
+Southern Nuclear Operating Company Resident Inspector 
+Document Control Coordinator Vogtle Plant Units 3 & 4 
+42 Inverness Center Parkway, Bin 237 8805 River Road 
+Birmingham, AL  35242 Waynesboro, GA  30830 
+              
+Office of the Attorney General Mr. Barty Simonton 
+40 Capitol Square, SW Team Leader 
+Atlanta, GA  30334 Environmental Radiation Program 
+       Air Protection Branch 
+Resident Manager Environmental Protection Division 
+Oglethorpe Power Corporation 4244 International Parkway, Suite 120 
+Alvin W. Vogtle Nuclear Plant Atlanta, GA  30354-3906 
+7821 River Road        
+Waynesboro, GA  30830 Mr. Robert E. Sweeney 
+       IBEX ESI 
+Anne F. Appleby 4641 Montgomery Avenue 
+Olgethorpe Power Corporation Suite 350 
+2100 East Exchange Place Bethesda, MD  20814 
+Tucker, GA  30084        
+       George B. Taylor, Jr. 
+County Commissioner 2100 East Exchange Pl 
+Office of the County Commissioner Atlanta, GA  30084-5336 
+Burke County Commission        
+Waynesboro, GA  30830 Brian H. Whitley 
+       Regulatory Affairs Director 
+Mr. Wayne Guilfoyle Southern Nuclear Operating Company 
+Commissioner District 8 42 Inverness Center Parkway, BIN B237 
+Augusta-Richmond County Commission Birmingham, AL  35242 
+4940 Windsor Spring Rd        
+Hephzibah, GA  30815 Mr. Michael Yox 
+       Site Regulatory Affairs Director 
+Gwendolyn Jackson Vogtle Units 3 & 4 
+Burke County Library 7825 River Road, Bin 63031 
+130 Highway 24 South Waynesboro, GA  30830 
+Waynesboro, GA  30830        
+       
+Mr. Reece McAlister 
+Executive Secretary 
+Georgia Public Service Commission 
+Atlanta, GA  30334 
+       
+  
+ 
+M. Yox 5 
+Email 
+acchambe@southernco.com   (Amy Chamberlian) 
+agaughtm@southernco.com   (Amy Aughtman) 
+ALPUGH@southernco.com   (Amanda Pugh) 
+annacom@westinghouse.com   (Michael J. Annacone) 
+awc@nei.org   (Anne W. Cottingham) 
+becky@georgiawand.org  (Becky Rafter) 
+bhwhitley@southernco.com   (Brian Whitley) 
+Bill.Jacobs@gdsassociates.com   (Bill Jacobs) 
+bjadams@southernco.com   (Brad Adams) 
+bwwaites@southernco.com   (Brandon Waites) 
+castelca@westinghouse.com  (Curtis Castell) 
+comerj@westinghouse.com  (James Comer) 
+couturgf@westinghouse.com   (Gerald Couture) 
+crenshjw@westinghouse.com   (John Crenshaw) 
+crpierce@southernco.com   (C.R. Pierce) 
+dahjones@southernco.com   (David Jones) 
+david.hinds@ge.com   (David Hinds) 
+david.lewis@pillsburylaw.com   (David Lewis) 
+dgbost@southernco.com   (Danny Bost) 
+dlfulton@southernco.com   (Dale Fulton) 
+drculver@southernco.com   (Randy Culver) 
+durhamdc@westinghouse.com   (David Durham) 
+ed.burns@earthlink.net   (Ed Burns) 
+edavis@pegasusgroup.us  (Ed David) 
+erg-xl@cox.net   (Eddie R. Grant) 
+fdhundle@southernco.com   (Forrest Hundley) 
+fhwillis@southernco.com   (Fred Willis) 
+G2NDRMDC@southernco.com  (SNC Document Control) 
+graysw@westinghouse.com   (Scott W. Gray) 
+jadwilli@southernco.com   (J.D. Williams) 
+james1.beard@ge.com   (James Beard) 
+jannina.blanco@pillsburylaw.com   (Jannina Blanco) 
+jantol1dj@westinghouse.com    (David Jantosik) 
+jenmorri@southernco.com  (Jennifer Buettner) 
+JHaswell@southernco.com   (Jeremiah Haswell) 
+jim@ncwarn.org   (Jim Warren) 
+John.Bozga@nrc.gov   (John Bozga) 
+Joseph_Hegner@dom.com    (Joseph Hegner) 
+jpredd@southernco.com   (Jason R. Redd) 
+jranalli@meagpower.org   (Jerry Ranalli) 
+jtgasser@southernco.com   (Jeff Gasser) 
+karen.patterson@ttnus.com   (Karen Patterson) 
+karlg@att.net   (Karl Gross) 
+kdfili@southernco.com   (Karen Fili) 
+  
+ 
+M. Yox 6 
+kim.haynes@opc.com   (Kim Haynes) 
+kmstacy@southernco.com   (Kara Stacy) 
+KSutton@morganlewis.com   (Kathryn M. Sutton) 
+kwaugh@impact-net.org   (Kenneth O. Waugh) 
+lchandler@morganlewis.com   (Lawrence J. Chandler) 
+markus.popa@hq.doe.gov   (Markus Popa) 
+mcintyba@westinghouse.com   (Brian McIntyre) 
+mdmeier@southernco.com   (Mike Meier) 
+mdrauckh@southernco.com   (Mark Rauckhorst) 
+media@nei.org   (Scott Peterson) 
+Melissa.Smith@Hq.Doe.Gov   (Melissa Smith) 
+Michael.Kuca@hq.doe.gov   (Michael Kuca) 
+mike.price@opc.com   (M.W. Price) 
+mlgraves@southernco.com   (Michelle Graves) 
+MSF@nei.org   (Marvin Fertel) 
+myox@southernco.com   (Mike Yox) 
+nirsnet@nirs.org   (Michael Mariotte) 
+Nuclaw@mindspring.com   (Robert Temple) 
+patriciaL.campbell@ge.com   (Patricia L. Campbell) 
+Paul@beyondnuclear.org   (Paul Gunter) 
+pbessette@morganlewis.com   (Paul Bessette) 
+r.joshi15@comcast.net   (Ravi Joshi) 
+rjarrett@southernco.com   (Robyn Jarrett) 
+RJB@NEI.org   (Russell Bell) 
+Ronald.Jones@scana.com   (Ronald Jones) 
+russpa@westinghouse.com   (Paul Russ) 
+rwink@ameren.com   (Roger Wink) 
+sabinski@suddenlink.net   (Steve A. Bennett) 
+sara@cleanenergy.org   (Sara Barczak) 
+sblanton@balch.com   (Stanford Blanton) 
+sfrantz@morganlewis.com   (Stephen P. Frantz) 
+Shiva.Granmayeh@hq.doe.gov   (Shiva Granmayeh) 
+sjackson@meagpower.org   (Steven Jackson) 
+skauffman@mpr.com   (Storm Kauffman) 
+sroetger@psc.state.ga.us   (Steve Roetger) 
+stephan.moen@ge.com   (Stephan Moen) 
+tom.miller@hq.doe.gov   (Tom Miller) 
+TomClements329@cs.com   (Tom Clements) 
+Vanessa.quinn@dhs.gov   (Vanessa Quinn) 
+wasparkm@southernco.com   (Wesley A. Sparkman) 
+wayne.marquino@gmail.com   (Wayne Marquino) 
+weave1dw@westinghouse.com   (Doug Weaver) 
+x2gabeck@southernco.com   (Gary Becker) 
+x2kmseib@southernco.com   (Kristin Seibert)
+ 
+ 
+Enclosure 
+ 
+U.S. NUCLEAR REGULATORY COMMISSION 
+Region II 
+ 
+ 
+Docket Numbers: 5200025 
+5200026 
+ 
+License Numbers: NPF-91 
+NPF-92 
+ 
+Report Numbers: 05200025/2017007 
+05200026/2017007 
+ 
+Licensee: Southern Nuclear Operating Company, Inc. 
+Southern Nuclear Operating Company, Inc. 
+ 
+Facility: Vogtle Unit 3 Combined License 
+Vogtle Unit 4 Combined License 
+ 
+Location: Waynesboro, GA
+ 
+Inspection Dates: July 10, 2017 through August 8, 2017 
+ 
+Inspectors: N. Coovert, Senior Construction Inspector, DCO 
+G. Khouri, Senior Construction Inspector, DCO 
+S. Smith, Senior Construction Inspector, DCO 
+B. Griman, Construction Inspector, DCO 
+J. Lizardi-Barreto, Construction Inspector, DCO 
+T. Brimfield, Resident Inspector (In Training), DCO 
+ 
+ 
+Approved by: 
+ 
+Jamie Heisserer, Chief 
+Construction Inspection Branch 1 
+Division of Construction Oversight 
+ 
+ 
+ 
+ 
+ 
+SUMMARY OF FINDINGS 
+ 
+Inspection Report (IR) 05200025/2017007, 05200026/2017007; 07/10/2017 through 
+08/08/2017; Vogtle Unit 3 Combined License, Vogtle Unit 4 Combined License, routine 
+integrated inspection report. 
+ 
+This report covers a three week long inspection by regional inspectors of the Corrective Action 
+Program (CAP).  The significance of most findings is indicated by their color (Green, White, 
+Yellow, or Red) using IMC 2519, “Construction Significance Determination Process,” dated July 
+15, 2013.  Construction Cross Cutting Aspects are determined using IMC 0613, “Power Reactor 
+Construction Inspection Reports,” dated February 9, 2017.  The NRC's program for overseeing 
+the construction of commercial nuclear power reactors is described in IMC 2506, “Construction 
+Reactor Oversight Process General Guidance and Basis Document,” dated February 20, 2017 
+and IMC 2504, “Construction Inspection Program: Inspection of Construction and Operational 
+Programs,” dated October 24, 2012.  The CAP inspection was performed in accordance with 
+inspection procedure (IP) 35007, “Quality Assurance Program Implementation during 
+Construction and Pre-Construction Activities,” dated December 8, 2016.
+ 
+ 
+Problem Identification and Resolution
+ 
+ 
+Based on the inspection sample, the inspection team concluded that the implementation of the 
+CAP and overall performance related to identifying, evaluating, and resolving problems at 
+Vogtle Electric Generating Plant Units 3 and 4 was adequate.  Licensee and contractor 
+identified problems were entered into the CAP at an appropriate threshold.  Problems were 
+prioritized and evaluated commensurate with the safety significance of the problems.  Corrective 
+actions were effectively implemented in a timely manner commensurate with their importance to 
+safety and addressed the identified causes of problems.  Lessons learned from industry 
+construction experience were effectively reviewed and applied when appropriate.  Audits and 
+self-assessments were generally used to identify problems and appropriate actions.  Based on 
+the assessment of safety culture results, interviews conducted during the inspection, and a 
+review of the employee concerns program, employee freedom to raise nuclear safety concerns 
+without fear of reprisal appeared to be demonstrated.
+ 
+ 
+A. NRC-Identified and Self Revealed Findings 
+ 
+No findings were identified. 
+ 
+B. Licensee-Identified Violations 
+ 
+A violation of very low safety significance that was identified by the licensee has been reviewed 
+by the NRC.  Corrective actions taken by the licensee have been entered into the licensee’s 
+CAP.  This violation and corrective action tracking numbers are listed in Section 4OA7 of this 
+report.
+ 
+ 
+ 
+REPORT DETAILS 
+ 
+Summary of Plant Construction Status 
+  
+1. CONSTRUCTION REACTOR SAFETY  
+ 
+Cornerstones: Design/Engineering, Procurement/Fabrication, 
+Construction/Installation, Inspection/Testing 
+ 
+IMC 2504, Construction Inspection Program – Inspection of Construction and Operational 
+Programs 
+ 
+1P01 Construction Quality Assurance (QA) Crit erion 16 - CAP - Assessment of the Corrective 
+Action Program Effectiveness 
+ 
+ a.  Inspection Scope  
+         
+The inspectors reviewed the licensee’s CAP to determine if the licensee was 
+effectively implementing their approved quality assurance plan as required by 10 CFR 
+Part 50, Appendix B, “Quality Assurance Criteria for Nuclear Power Plants and Fuel 
+Reprocessing Plants.”  The licensee delegated responsibility for implementing 
+elements of the CAP to its  engineering, procurement, and construction (EPC) 
+contractor.  The delegation was permitted by the licensee’s quality assurance plan; 
+however, the plan also stated that the licensee maintained responsibility for the 
+effectiveness of corrective action measures.  Consequently, the inspection scope 
+included a review of programs established by both the licensee and its contractors. 
+ 
+The inspectors reviewed implementing procedures and documents for the 
+identification, evaluation, and resolution of conditions adverse to quality (CAQs).  The 
+review was performed to determine whether the procedures and documents 
+established by the licensee and their engineering, procurement, and construction 
+(EPC) contractor followed the licensee’s quality assurance program description 
+(QAPD) requirements, NQA-1, Updated Final Safety Analysis Report (UFSAR), and 
+other license commitments.  
+ 
+The inspectors reviewed CAP procedures revisions to verify that the changes made 
+did not reduce commitments, license requirements, etc. and to verify that the 
+procedure changes did not negatively impact CAQs, Condition Reports (CRs,) 
+reportable items, etc.  Specifically the inspectors reviewed: 
+ 
+• ND-AD-002, “Nuclear Development Corrective Action Program,” Revs. 24 to 26      
+• ND-AD-VNP-001, “Interface of Corrective Action Process,” Revs 5 to 6                     
+• ND-LI-001, “10 CFR Part 21 and 10 CFR 50.55(e),” Revs. 12 to 13 
+ 
+The inspectors reviewed the thresholds established for problem identification, the 
+effectiveness of immediate and preventive corrective actions, the accuracy and 
+thoroughness of problem documentation, and the adequacy of corrective actions for 
+previously identified compliance issues.  
+4 
+ 
+The review scope included an evaluation whether the following CAP performance 
+attributes were addressed: 
+ 
+• classification, prioritization, and evaluation for reportability of CAQs  
+• complete and accurate identification of problems in a timely manner 
+commensurate with their significance and ease of discovery 
+• screening of items entered into the CAP as necessary to determine the proper 
+level of evaluation 
+• identification and correction of procur ement program deviations and deficiencies; 
+• identification and correction of design deficiencies or errors  
+• considerations for extent of conditions, generic implications, common causes, and 
+previous occurrences as appropriate 
+• classification and prioritization of the resolution of problems commensurate with 
+safety significance 
+• for significant conditions adverse to quality (SCAQs), identification of root and 
+contributing causes, as well as actions to preclude recurrence 
+• identification of corrective actions that were appropriately focused to correct the 
+problem 
+• completion of corrective actions in a timely manner commensurate with the safety 
+significance of the issue (including the use of interim corrective actions and/or 
+compensatory actions to minimize the problem and/or mitigate its effects until 
+permanent actions can be implemented)
+ 
+• provisions for escalating to higher m anagement those corrective actions that are 
+not adequate or not timely 
+• overview of trends in CAQs  
+• coverage to include important non-safety related structures, systems, and 
+components (SSCs) 
+• evaluation of operating experience (OE) information 
+ 
+The inspectors reviewed a sample of issues processed or identified since the last CAP 
+inspection in July 2016 to evaluate whether the CAPs were implemented in 
+accordance with program procedures.  The selection of issues included a diverse 
+sample across the two CAPs used by the licensee and the EPC contractor.  The 
+inspectors sampled issues related to CAQs, issues categorized as SCAQs, and items 
+that had been determined to not represent CAQs to determine whether: 
+ 
+• conditions adverse to quality were promptly identified and corrected;  
+• classification and prioritization of the resolution of each problem was 
+commensurate with its safety significance; 
+• conditions were screened upon entry into the CAP to determine the proper level of 
+evaluation; 
+• the items entered into the CAP included the identification and correction of issues 
+throughout all aspects of the project scope; 
+• for SCAQs, the cause was determined, corrective actions were taken to prevent 
+recurrence, and the cause and corrective actions taken were documented and 
+reported to appropriate levels of management; 
+• proper consideration of extent of conditions, generic implications, common 
+causes, and previous occurrences was performed;
+5 
+ 
+• the corrective actions developed were appropriately focused to ensure the 
+problems were corrected; 
+• the licensee and their contractors properly evaluated and reported conditions in 
+accordance with 10 CFR 50.55(e) and 10 CFR 21; 
+• the identification and correction of design deficiencies were being adequately 
+addressed; 
+• extent of conditions were adequately addressed and appropriate corrective 
+actions were developed and implemented; and 
+• the evaluations properly considered the escalation of issues to higher 
+management if the corrective actions were not adequate or timely. 
+ 
+The inspectors reviewed the procedures and a sample of issues from the licensee and 
+contractor’s observation, trending, and metrics programs to determine if the licensee 
+was identifying CAQs and transferring those issues to the respective CAP program.
+ 
+The inspectors reviewed a sample of recent trend reports and metrics to determine 
+whether: 
+ 
+• the trend reports were issued within the time frames established by procedures;  
+• the content of the trend reports and metrics contained information and analysis of 
+licensee and EPC contractor performance improvement activities; and 
+• CAP inputs were generated for adverse trends or recommendations as required 
+by program procedures. 
+ 
+The inspection scope included an evaluation of the handling of issues introduced into 
+the CAPs from sources including self-assessments and audits, NRC generic 
+communications, and operating and construction experience (ConE). 
+ 
+The processing of identified issues was evaluated to determine whether personnel 
+were identifying issues at the proper threshold, entering the issues into the CAP in a 
+timely manner, and assigning the appropriate prioritization for resolution of the issues. 
+The inspectors also determined whether personnel assigned the appropriate 
+investigation method to ensure the proper determination of root, apparent, and/or 
+contributing causes. The inspectors evaluated the timeliness and effectiveness of 
+corrective actions, and actions to prevent recurrence where required by 10 CFR Part 
+50, Appendix B. 
+ 
+The inspectors evaluated the CAP screening for potentially significant and reportable 
+conditions to determine whether reviewers adequately considered risk, safety 
+significance, consequence of malfunctions or failures, complexity of design and 
+fabrication, needs for special controls or surveillance over activities, the degree to 
+which functional compliance could be demonstrated by inspection or test, the quality 
+history and degree of standardization of items, and the difficulty of repair or 
+replacement.  In addition, the inspectors reviewed previously identified 10 CFR 
+50.55(e) notifications sent by the licensee to the NRC to determine whether the 
+licensee and their contractor adequately described the issue, met the timeliness for 
+evaluation and reportability, and performed adequate corrective actions. 
+ 
+The inspectors reviewed a sample of Nonconformance and Disposition reports (N&Ds) 
+to determine whether: 
+6 
+ 
+• the reports correctly and clearly identified the nonconformances; 
+• the N&Ds were adequately initiated, processed, reviewed, dispositioned, and 
+closed in accordance with the quality assurance program implementing 
+documents for the control of nonconforming material, parts, and components;
+ 
+• N&Ds were appropriately screened for non-hardware related CAQs; 
+• reportability screening and evaluations under 10 CFR Part 21 and 10 CFR 
+50.55(e) were performed; 
+• applicability to project documents, records, and inspections, tests, analysis, and 
+acceptance criteria (ITAAC) was properly identified and documented; 
+• the dispositions were properly identified and documented; 
+• adequate technical justification for the acceptability of a nonconforming item, 
+dispositioned repair, or use-as-is was appropriately documented; 
+• nonconformances dispositioned use-as-is or repair were subjected to design 
+control measures commensurate with those applied to the original design; and 
+• repaired or reworked items were re-examined in accordance with applicable 
+procedures and with the original acceptance criteria unless the disposition had 
+established alternate acceptance criteria. 
+ 
+As part of the N&D review, inspectors also reviewed the contractor significance 
+evaluation screening and N&D trend analysis/reporting programs. 
+ 
+In addition, inspectors reviewed applicable Engineering and Design Coordination 
+Reports (E&DCRs) to determine if: 
+ 
+• the licensee was identifying design issues at an appropriate threshold;  
+• design activities were completed in accordance with the approved procedures; 
+• design inputs were correctly identified and documented, and were reviewed and 
+approved by the responsible engineering group; 
+• deviations from requirements were effectively dispositioned; and 
+• documents were consistent with the design commitments and requirements of the 
+technical specifications, the UFSAR, and code commitments. 
+Last, the inspectors reviewed the CAP processing and handling of regulatory treatment 
+of non-safety systems (RTNSS).  The inspectors reviewed a sampling of condition 
+reports (CRs) and corrective action prevention and learnings (CAPALs) for RTNSS 
+components to verify that requirements in the QAPD, UFSAR, and other licensing 
+documents were correctly flowed down into the corrective action program and 
+implemented at the site level.   
+ 
+b.  Assessment 
+ 
+Assessment – Effectiveness of Problem Identification 
+ 
+The inspectors determined that CAQs were being identified on a timely basis and the 
+decision threshold for entering issues into the CAP was conservative.  Where 
+identified issues and corrective actions involved multiple organizations, procedures, 
+and processes, and screening meetings had been implemented to ensure shared 
+7 
+ 
+issues were entered into the respective CAPs.  Trending of CAP entries and activities 
+was periodically performed to identify areas for management attention. 
+ 
+The inspectors did identify that the EPC contractor did not have specific procedural 
+guidance for processing RTNSS issues within the corrective action program. 
+Specifically, the applicable procedure, W2-5.1-102, “Westinghouse Issue Review 
+Committee, Rev. 3.0,” did not contain specific decision criteria for identifying and 
+categorizing RTNSS significance.  
+ 
+The inspectors noted that the effective performance of EPC contractor reviewers for 
+RTNSS issues was highly dependent upon the personal insights of individual 
+reviewers.  The inspectors also observed that both the licensee and the EPC 
+contractor were challenged when asked to search and retrieve RTNSS issues in their 
+associated CAP.  However, the inspectors did not identify any RTNSS issues that 
+were not adequately dispositioned and corrected in the CAP.  This issue was 
+documented in CAPAL 100482542 and CR 10389687. 
+ 
+  
+Assessment – Effectiveness of Prioritization and Evaluation of Issues 
+ 
+The inspectors determined that the prioritization and evaluation of adverse conditions 
+were conducted in accordance with licensee and EPC contractor procedures.  The 
+inspectors noted that under the licensee’s oversight, the EPC contractor downgraded 
+CAQs to non-CAQs and screened CAPALs at a lower significance level, as a result of 
+a change in the CAQ definition in W2-5.1-102, “Issue Review Committee,” revision 
+2.1.  This issue is discussed in more detail in section A4O7 and the licensee and 
+contractor were performing an extent of condition review at the time of the NRC 
+inspection.  The inspectors did not identify any additional CAQs that had not been 
+screened correctly or any immediate safety issues that were not promptly addressed.  
+ 
+Based on the samples selected for inspection, significance determinations performed 
+by the licensee and EPC contractor were properly conceived and were sufficiently 
+thorough to determine the causes that would require actions to prevent or mitigate 
+recurrence.  
+ 
+Assessment – Effectiveness of Corrective Actions 
+ 
+The inspectors determined in most cases, corrective actions for identified deficiencies 
+were timely, adequately implemented, and commensurate with their safety 
+significance.  Corrective actions associated with SCAQs included provisions for 
+preventing recurrence. Problems identified through root and apparent cause 
+methodologies were resolved in accordance with applicable program and NRC 
+requirements. 
+ 
+  
+c.  Findings 
+  
+No findings were identified. 
+  
+ 
+ 
+ 
+1P02 Construction QA Criterion 16 - CAP - Assessment Use of Construction Experience 
+ 
+ a.  Inspection Scope  
+         
+The inspectors reviewed the licensee and EPC contractor’s ConE programs to 
+determine if: 
+ 
+• relevant internal and external construction and operating experience items were 
+collected; 
+• collected experience items were adequately evaluated; 
+• relevant experience items were communicated to affected stakeholders; and 
+• experience items were used to inform plant design and work processes. 
+The inspectors reviewed CAP procedures revisions to verify that the changes made did 
+not reduce commitments, license requirements, etc. and to verify that the procedure 
+changes did not negatively impact CAQs, CRs, reportability items, etc.  Specifically the 
+inspectors reviewed the following CAP implementing procedures used to evaluate 
+ConE and OE: 
+• ND-AD-VNP-004, “Construction Experience,” Revs. 10 to 11                                        
+• NMP-GM-008, “Operating Experience Program,” Revs. 17 to 17.1 to 17.2 to 17.3 
+ 
+The inspectors interviewed the licensee and EPC contractor’s principal managers of 
+construction and operating experience to gain a better understanding of their handling 
+of relevant internal and external experiences.  The inspectors reviewed the licensee’s 
+ConE database and CAP to determine whether items that were classified as applicable 
+were stored in the ConE database and entered into the CAP as specified by 
+procedure.  The inspectors reviewed the licensee ConE database to determine whether 
+the licensee appropriately added NRC related information, such as 10 CFR Part 21 
+notifications and Generic Letters. The inspectors reviewed a sample of CAP documents 
+to determine if the licensee was entering applicable industry experience items into the 
+CAP and dispositioning the items appropriately. 
+ 
+b.  Assessment 
+ 
+The inspectors determined that the licensee and EPC contractor adequately identified 
+construction and operating experience and adequately screened and evaluated these 
+experiences for applicability to the project.  The inspectors noted that the licensee and 
+EPC contractor routinely entered this information in the CAP for evaluation and 
+tracking.  The inspectors reviewed a sample of CRs and CAPALs that were initiated in 
+order to capture and evaluate relevant external and internal ConE.  The inspectors 
+determined that the licensee and EPC contractor had established adequate measures 
+to identify and evaluate construction and operating experience and had properly 
+communicated relevant operating and experience commensurate with the safety 
+significance of the issue.  
+ 
+  
+c.  Findings 
+  
+No findings were identified.
+ 
+ 
+9 
+ 
+1P03 Construction QA Criterion 16 - CAP - Assessment of Self-Assessments and Audits 
+ 
+ a.  Inspection Scope  
+         
+The inspectors reviewed the program and procedures used by the licensee and its EPC 
+contractor to conduct self-assessments, audits, observations, and surveillance 
+reports.  The inspectors reviewed a sample of documented self-assessments, audits, 
+and effectiveness reviews.  The review was performed to determine whether the 
+oversight of the CAP by the licensee and EPC contractor was sufficient to verify the 
+health of the program and to identify areas for improvement as needed.  The inspectors 
+also compared the results of the audits and self-assessments to the results of the 
+inspection to determine if there were any discrepancies between the results of the 
+inspection and the licensee’s conclusions. 
+ 
+b.  Assessment 
+ 
+The inspectors determined that the conduct of audits, self-assessments, and 
+effectiveness reviews by the licensee and EPC contractor were accomplished in 
+accordance with established procedures.  The implementation of the oversight and 
+independent verifications provided assessments of program effectiveness, including the 
+interfaces of CAPs across organizational boundaries.  Corrective actions to address the 
+identified issues were generally prioritized, evaluated, and completed within applicable 
+procedural requirements.  
+ 
+  
+c.  Findings 
+  
+No findings were identified. 
+ 
+ 
+ 
+1P04 Construction QA Criterion 16 - CAP - Assessment of Safety Conscious Work 
+Environment 
+ 
+ a.  Inspection Scope  
+         
+The inspectors conducted a review to provide insight into whether a safety conscious 
+work environment (SCWE) was being maintained and to confirm that Vogtle Electric 
+Generating Plant and its contractors were complying with NRC requirements.  The 
+review also assessed Vogtle and the EPC contractor Employee Concern Programs’ 
+(ECP) effectiveness, and evaluated management oversight of the corrective action 
+process including anonymous CAP entries.  These reviews were used to help 
+determine if licensee and contractor personnel were willing to report safety issues via 
+the different avenues available (CAP, ECP, management, etc.).   
+ 
+The inspectors interviewed construction staff and observed other activities involving 
+licensee personnel during the inspection to identify areas and issues that may 
+represent challenges to the free flow of information, such as areas where employees 
+may be reluctant to raise concerns or report issues in the CAP.  The inspectors 
+interviewed ECP personnel and other staff who were the designated SCWE subject 
+matter experts.  Interviews with SCWE subject matter experts were conducted to: 
+10 
+ 
+•       determine if the staff was knowledgeable of SCWE processes and procedures;
+•       understand the interrelationship between the licensee and contractor ECPs; and 
+•       understand any current perceived challenges as they related to SCWE. 
+ 
+Licensee and contractor ECP audits and self-assessments were reviewed to determine 
+if identified issues were addressed and actions to prevent recurrence were put in 
+place.  Licensee and contractor ECP procedures and files were reviewed to determine 
+if: 
+ 
+•       procedures were adequate; 
+•       files contained adequate documentation; 
+•       issues were entered and reviewed in a timely manner; 
+•       concerns were adequately addressed; 
+•       corrective actions were tracked; and 
+•       individuals were provided feedback. 
+ 
+The inspectors evaluated SCWE training material to determine if it provided: 
+ 
+•       clear, concise, and complete information regarding how to report concerns; 
+•       contact information for reporting concerns; 
+•       roles and responsibilities; 
+•       importance of reporting safety concerns and its impact; and 
+•       a means to determine training effectiveness. 
+ 
+The inspectors evaluated a sample of anonymous concerns entered into the CAP and 
+the methods used to resolve safety significant issues where the methods represented 
+alternatives to the CAP (e.g. ECP).  The inspectors reviewed both licensee and 
+contractor anonymous CAP entries, CAP entries by ECP or about ECP, and CAP 
+entries pertaining to SCWE issues to determine if: 
+ 
+•      these were entered into the CAP in a timely manner consistent with the safety 
+significance of the issue; 
+•      recurring issues were adequately evaluated and trended; and 
+•      the identified issues were adequately resolved. 
+ 
+These CAP entries were also reviewed to determine if area trends raised via different 
+avenues (e.g. management, ECP and CAP programs) were promptly identified and 
+addressed, and to determine if the various programs were identifying the cross-cutting 
+and underlying causes. The inspectors also reviewed repeat issue identification in 
+anonymous CAP entries to determine if these had been the result of inadequate 
+corrective action which could cause personnel to be reluctant to identify additional 
+related issues. 
+ 
+The inspectors reviewed corrective actions associated with the Nuclear Safety Culture 
+(NSC) Recovery Plan and NSC Improvement Plan for 2017.  The team utilized 
+attributes of IP 35007, “Quality Assurance Program Implementation during Construction 
+and Pre-Construction Activities,” dated December 8, 2016, and IP 40100, “Independent 
+Safety Culture Assessment Followup,” dated April 9, 2015, to perform these 
+reviews.  The inspectors also reviewed SCWE assessments and audits, along with 
+NSC/SCWE metrics.   
+11 
+ 
+Additionally, interviews were conducted to determine if personnel knew how to raise 
+safety concerns, if they felt free to raise such concerns, and if they were aware of 
+alternate means for reporting safety concerns.  The inspectors conducted 
+approximately 50 interviews with randomly selected construction employees from 
+Southern Nuclear Company (SNC), Westinghouse (WEC), and Fluor, from Vogtle Unit 
+3 and 4.  The interviewees included craft foreman, craft, and individual contributors and 
+included individuals from Construction Engineering, Field Engineering, Fitness for Duty, 
+and the Operational Readiness Organization. 
+ 
+b. Assessment 
+ 
+The inspectors concluded that the foundation for a healthy safety conscious work 
+environment existed at the site.  The ECP for both the Licensee and its contractor were 
+effective in evaluating concerns.  Anonymous CAP entries were properly investigated 
+and dispositioned.  Increased leadership emphasis, from both the Licensee and their 
+contractor, were in place to enhance the nuclear safety culture at the site. Based on the 
+sample of people interviewed, the individuals generally responded that they 
+acknowledged receiving training on SCWE and how to raise nuclear safety concerns; 
+were aware of the various avenues available to raise nuclear safety concerns; were 
+willing to raise nuclear safety concerns without fear of retaliation; and felt management 
+supported their ability to raise concerns. 
+ 
+  
+c.  Findings 
+  
+No findings were identified. 
+ 
+ 
+ 
+4. OTHER INSPECTION RESULTS  
+ 
+4OA6 Meetings, Including Exit 
+ 
+ On August 8, 2017, the inspectors presented the inspection results to Mr. Hundley, 
+SNC Performance Improvement & Corrective Action Program Manager, along with 
+other licensee and contractor staff members.  The inspectors stated that no proprietary 
+information would be included in the inspection report.
+ 
+ 
+ 
+4OA7 Licensee-Identified Violations. 
+ 
+ On January 18, 2017, the EPC contractor revised the definition of condition adverse to 
+quality in W2-5.1-102, “Issue Review Committee,” revision 2.1.  As a result of the 
+revision, issues that were previously classified as CAQs were downgraded to non-CAQs 
+and CAPALs were screened at a lower significance level.  As part of this inspection, the 
+inspectors reviewed the change in definition and the actions the EPC contractor and 
+licensee had taken to date. 
+ 
+  The following licensee-identified violation of NRC requirements was determined to be 
+of very low significance (Green) and meets the NRC Enforcement Policy criteria for 
+12 
+ 
+being dispositioned as a Non-cited Violation.  Corrective actions taken by the 
+licensee have been entered into the licensee’s CAP.   
+ 
+The inspectors noted that under the licensee’s oversight, the EPC contractor 
+downgraded CAQs to non-CAQs and screened CAPALs at a lower significance level, 
+as a result of a change in the CAQ definition in W2-5.1-102, “Issue Review 
+Committee,” revision 2.1.  From the change, at least 800 CAPALs were being 
+reviewed for potential impact as part of an extent of condition.  
+ 
+  
+The inspectors determined that the implementation of the revised CAQ definition in 
+W2-5.1-102, Revision 2.1, Appendix A guidance was a performance deficiency.  The 
+revised CAQ definition was “an all-inclusive term used in reference to any of the 
+following degraded conditions: failures, malfunctions, deficiencies, defective items 
+and nonconformance that have affected, or have the potential to affect the capability 
+of a structure, system or component to satisfactorily perform a safety-related 
+function.”
+ 
+ 
+Criterion XVI, Corrective Action, in 10 CFR 50 Appendix B, states in part that 
+measures shall be established to assure that conditions adverse to quality, such as 
+failures, malfunctions, deficiencies, deviations, defective material and equipment, 
+and nonconformances are promptly identified and corrected.  Contrary to above, on 
+January 18, 2017, the EPC contractor, under the licensee’s oversight, implemented a 
+new CAQ definition and as a result of the implementation, the measures established 
+did not assure that all CAQs, not just safety-related issues were promptly identified 
+and corrected.  On March 1, 2017, the CAQ definition was changed back to the 
+NQA-1 version in procedure W2-5.1-102, Revision 3. 
+ 
+ 
+This issue was considered more than minor because the performance deficiency 
+represents a substantive failure to establish or implement an adequate program, 
+process, procedure, or quality oversight function.  In addition, the team determined 
+that the performance deficiency also represents an adverse condition that rendered 
+the quality of an SSC, unacceptable or indeterminate, and requires substantive 
+corrective action.  Using IMC 2519, Appendix A, “AP1000 Construction Significance 
+Determination Process,” the inspectors determined that this finding was of very low 
+safety significance (Green) because the finding was involved with the requirements 
+of an operational or construction program listed in IMC 2504; it was associated with 
+the failure to properly implement a program requirement; and the finding is not 
+associated with a system or structure.  There are no cross-cutting aspects assigned 
+to licensee identified violations. 
+ 
+ 
+The licensee and EPC contractors documented this issue in the corrective action 
+program as CAPALs 100443330, 100443586, 100450198, 100454571, 100470672, 
+100471783, 100477148 and CRs 10319896 and 10373352.  The inspectors 
+reviewed the corrective actions associated with this LIV, which included the timeline 
+associated with the LIV and the extent of condition, which was in progress at the time 
+of the inspection.  This issue is closed because the finding is not associated with an 
+ITAAC acceptance criteria.  LIV 05200025/2017007-01 and 05200026/2016007-01, 
+"Inadequate Implementation of CAQ Definition.” 
+ 
+ 
+ 
+ 
+ 
+ 
+SUPPLEMENTAL INFORMATION 
+ 
+KEY POINTS OF CONTACT 
+ 
+Licensees and Contractor Personnel 
+ 
+R. Berube, SNC CE/OE Coordinator, Vogtle 3&4
+ 
+A. Buckley, WECTEC Licensing Engineer 
+R. Calia, WEC Performance Improvement Manager 
+M. Connor, SNC CAP Manager 
+F. Hundley, SNC Performance Improvement & Corrective Action Program Manager 
+C. Kelley, Fluor QC Electrical, Vogtle 3&4 
+C. Long, Fluor QC Modules Supervisor, Vogtle 3&4 
+L. McClernan, WECTEC CAP 
+C. Montgomery, SNC Medical Services Manager 
+J. O'Dell, SNC Licensing 
+R. Pennenga, WECTEC OE/CE Coordinator, Vogtle 3&4 
+L. Reaves, WEC ECP Manager 
+D. Rose, WEC ECP Manager 
+P. Shaw, WEC Licensing Engineer 
+D. Swain, SNC Trending Coordinator 
+M. Washington, Vogtle 3&4 Licensing Supervisor - Construction 
+ 
+LIST OF ITEMS OPENED, CLOSED, AND DISCUSSED 
+ 
+Item Number Type Status Description 
+    
+05200025/2017007-01 Licensee Identified 
+Violation  
+Open/Closed Inadequate Implementation of 
+CAQ Definition  
+ 
+05200026/2017007-01 Licensee Identified 
+Violation  
+Open/Closed Inadequate Implementation of 
+CAQ Definition  
+ 
+ 
+ 
+LIST OF DOCUMENTS REVIEWED 
+ 
+Section 1P01 
+ 
+Procedures
+ 
+  
+APP-GW-AGL-026, Rev. 2.0, AP1000 Implementation of the RTNSS Process 
+APP-GW-GAH-020, AP1000® Plant Systems, Structures, and Components Quality 
+Requirements, Rev. 6 
+APP-GW-GAM-200, AP1000 Quality Assurance Requirements for RTNSS SSCs, Rev. 2.0   
+APP-GW-GAP-420, Engineering and Design Coordination Reports, Rev. 13 
+APP-GW-GAP-428, Nonconformance and Disposition Report (N&D), Rev. 11 
+APP-GW-GL-014, AP1000® Plant Nuclear Safety Classification and Seismic Requirement 
+Methodology, Rev. 8 
+APP-GW-GL-022, Rev. 8, AP1000 Probabilistic Risk Assessment 
+2 
+ 
+APP-GW-GL-026, AP1000 Implementation of the Regulatory Treatment of Nonsafety-Related 
+Systems Process, Rev. 2 
+APP-GW-GRR-009, AP1000 Design Reliability Assurance Program, Rev. 3 
+APP-PLS-GR-002, AP1000 Plant Control System Reliability Analysis, Rev. 0 
+APP-PLS-J7X-001, AP1000 Plant Control System Equipment Classification List, Rev. 2   
+B-GEN-ENG-003-002, Master Equipment List (MEL) Acquisition and Processing, Rev. 3 
+ND-AD-002, SNC Nuclear Development Corrective Action Program, Revs. 24, 25, and 26 
+ND-AD-002-010, Performance Monitoring and Trending, Rev. 2  
+ND-AD-006, SNC Nuclear Development Cause Analysis, Rev. 13.0 
+ND-AD-006-001, Cause Analysis and Corrective Action Guideline, Rev. 5.0 
+ND-AD-VNP-001, Interface of Corrective Action Processes, Revs. 5.0 and 6.0 
+ND-AD-VNP-006, Nuclear Development Cause Analysis, Rev. 13.0 
+ND-LI-001, 10 CFR Part 21 and 10 CFR 50.55(e) Evaluating and Reporting of Defects and 
+Noncompliance for Nuclear Development, Revisions 12.0 and 13.0 
+QAD 12.01, Verification of Measured Data, Rev. 2.01 
+QS 16.03, Identifying and Reporting Defects and Failures to Comply Under 10 CFR Part 21 and 
+10 CFR Part 50.55(e), Rev. 6.0 
+W2-5.1-101, Westinghouse Corrective Action Program Procedure, Rev. 3.0 
+W2-5.1-102, Westinghouse Issue Review Committee, Rev. 3.0 
+W2-5.1-104, Apparent Cause Analysis, Rev. 1.1 
+W2-5.1-105, Limited Cause Analysis, Rev. 1.0 
+W2-5.1-106, Common Cause Analysis, Rev. 1.0 
+W2-5.1-201, Identification and Reporting of Conditions Adverse to Nuclear Safety, Rev. 0.1 
+ 
+Corrective Action Prevention and Learning (CAPALs), Corrective Action Requests (CARs), and 
+Condition Reports (CRs) 
+  
+CAPALs: 
+CAPAL 100000157, Lack of Tool and Human Diversity Between CIM and DAS 
+CAPAL 100171012, Impacts of Freeze Seals on AP1000 Class 1 Piping 
+CAPAL 100337234, CCS relief valve discharge protection 
+CAPAL 100360628, SNC ICAP CR 10177789 Inadequate CAPAL Justification 100337234 
+CAPAL 100396286, ITAAC Testing of Class 1E Components from their respective divisions 
+CAPAL 100396729, Error in APP-GW-PVR-003 
+CAPAL 100398439, SNC CR: 10249827 - WECTEC CAPAL Implementation of SNC Identified 
+Issues - Level 3 Finding ND-QA-003 
+CAPAL 100398469, SNC CR 10249836 - WECTEC Implementation of CAPAL- Employees 
+Missing Required Training ND-QA-003 Lv 3. 
+CAPAL 100400789, SWS cooling fan motor rating larger than specified in design documents 
+CAPAL 100401628, SNC CR: 10254648 - NRC IOC 16-029 - N&D, SV4-ML05-GNR-000002, 
+Missing Part 21 Evaluation 
+CAPAL 100402907, Bolt holes on the butterfly valve 
+CAPAL 100407589, SNC ICAP CR 10259914 Inconsistencies Identified in PCS V001A/B/C 
+description between UFSAR Rev. 5 
+CAPAL 100410146, Q240 Module Valve / Actuator SV3-RNS-PL-V023 was disassembled 
+incorrectly 
+CAPAL 100410795, Weld Cracks on CA Floor Modules 
+CAPAL 100410872, Revise MG02 Documents to Invoke APP-GW-GAM-200 Requirements 
+CAPAL 100411488, eCAR XFER-2015-4644: Overdue Out of Tolerance Reports 
+CAPAL 100414159, NRC Identified: Vogtle Unit 3 SBW Missing Reinforcing Steel 
+CAPAL 100421142, SNC ICAP CR 10281246 WEC Response to CAR 265925/DI 10003650 
+3 
+ 
+CAPAL 100422419, SNC ICAP CR 10281680 Digital Testing – PMS Site Acceptance Testing 
+CAPAL 100424057, APP-GW-J4-107: DAS-PLS—028 missing PLS allocation  
+CAPAL 100425201, SV4-CA03-01 Undersized Stud Weld 
+CAPAL 100425742, Failed Calibrated M&TE Report not turned in to SQCM within 45 days from 
+receipt 
+CAPAL 100429780, Safety Evaluation for E&DCR APP-ES02-GEF-016 
+CAPAL 100431096, IEEE384 Testing of DK01 CR5/CR6 Relay Seal-In 
+CAPAL 100440685, Fix APP-CCS-M3C-100 
+CAPAL 100454571, CAPALs not being screened conservatively at Cranberry 
+CAPAL 100457341, Fix CAS and SWS 100 calcs 
+CAPAL 100470672, Additional Review of CAPAL Classification as CAQ 
+CAPAL 100477148, SNC Vogtle ICAP 10373352 Surveillance NDQA-2017-S013 Level 1 
+Finding 
+CAPAL 100478067, Violation of QAD 12.01 Revision 02.01 
+ 
+CARs: 
+CAR 2015-1122, Out of Tolerance reports not getting evaluated and closed out in a timely 
+manner  
+CAR 2015-4320, Adverse trend in quality of pipe of ASME III pipe 
+CAR 2015-4644, Overdue Out of Tolerance Reports 
+CAR 263540, Track & Evaluate WEC CAPAL # 100360628 
+CAR 266365, IOC 16-029; No Part 21 Evaluation for N&D 
+CAR 266568, NRC Reportable Event 
+CAR 266632, Created in error 
+CAR 267166, Part 21 Event 52236, Deviations on Structural Module Vogtle Unit 3 AP1000 
+Project 
+CAR 267201, SNC Reportability Evaluation for Part 21 EN 52269 
+CAR 267393, NRC notification of HR-related issue at Vogtle 1&2, October 28, 2016 
+CAR 268972, MRC approved downgrade of Cause analysis type, dated March 13, 2017 
+CAR 269801, NRC SL IV Notice of Violation FFD 
+CAR 269835, Part 21 fin 2017-02, Fisher’s standard seismic mounting bracket  
+CAR 270030, Part 21 Event 52762, Bettis brand seismic qualified G series spring return 
+actuators 
+ 
+CRs: 
+CR 846337, FFD issues/incidents identified in General Contractor’s FFD program 
+CR 100398012, APP-CCS-PLR-810 Incorrect B31.1 EQ9F Evaluation 
+CR 100426858, Unclear design tolerance for piping installation in APP-GW-P0-008 
+CR 10177789, Inadequate CAPAL Justification 
+CR 10230514, Service Water Strainer Backwash Valve Cycle timer control not in accordance 
+with design documents 
+CR 10230582, Inadequate Closure of CAPAL 100000157 (CAR 263302) 
+CR 10241687, WEC Resolution of CAPAL 100363258 (CAR 263747) is inadequate 
+CR 10247603, IOC 16-024: Unit 4 Submodule CA01-37 Dimensions Out of Tolerance 
+CR 10249827, SNC Joint Surveillance NDQA-2016-S019 Finding #1 (Level 3) 
+CR 10249836, SNC Joint Surveillance NDQA-2016-S019 Finding #2 (Level 3) 
+CR 10249843, SNC Joint Surveillance NDQA-2016-S019, Recommendation 1 
+CR 10249847, SNC Joint surveillance NDQA-2016-S019, Recommendation 2 
+CR 10250150, Non-Conforming WLS Pumps Found Without Hold Tag 
+CR 10254648, IOC 16-029; No Part 21 Evaluation for N&D 
+CR 10267648, NRC Reportable Event 
+4 
+ 
+CR 10268592, CAPAL 100171012 response did not address issue in CAR 259579 (Q233) 
+CR 10274783, VC Summer NRC Observations - RTNSS  
+CR 10276467, Residual Heat removal System Chemistry Management 
+CR 10282381, SNC Reportability Evaluation for Part 21 EN 52269 
+CR 10286105, Part 21 Event 52236, Deviations on Structural Module Vogtle Unit 3 
+AP1000 Project 
+CR 10310365, RNS-PL-V024 & RNS-PL-V055 Safety Function Discrepancy in UFSAR Table 
+31.6-3 ‘List of AP1000 SR’ 
+CR 10314316, U3 RNS Stainless Steel to Carbon Steel Piping Contamination 
+CR 10319189, Apparent Discrepancy between CCS normal alignment and TRM-3.7.3 
+CR 10329544, Incorrect EQ Classifications in UFSAR Table 7.5-1, February 10, 2017 
+CR 10339586, Deltas between the Westinghouse Cyber review and V34 MEL 
+CR 10345043, Failure of Contractor Oversight 
+CR 10360797, NRC SL IV Notice of Violation FFD 
+CR 10364525, Part 21 fin 2017-02, Fisher’s standard seismic mounting bracket.   
+CR 10372268, Part 21 Event 52762, Bettis brand seismic qualified G series spring return 
+actuators 
+CR 10373352, Surveillance NDQA-2017-S013 Level 1 Finding 
+CR 10380732, Need FSAR Change 
+CR 10382028, Training Request for Test Engineers on SIMOCODE Devices, June 28, 2017 
+ 
+Trending Corrective Action Documents and Reports 
+  
+CAPAL 100452293, Potential Trend in Quality missed opportunities 
+CAR 2014-2399, Continuing Trend in working without proper documentation and welding issues 
+CAR 2015-3775, Adverse trend pertaining to work package quality 
+CR 100391466, Potential Trend in Work Package Maintenance 
+CR 100455036, Potential Trend developing safety plans and procedure roll-outs 
+SNC Event Code Statistical Trending, Fourth Quarter 2016 
+SNC Event Code Statistical Trending, First Quarter 2017 
+Westinghouse Quarterly Trend Report, Vogtle Units 3&4, Fourth Calendar Quarter 2016 
+Westinghouse Quarterly Trend Report, Vogtle Units 3&4, First Calendar Quarter 2017 
+ 
+Causal Analyses 
+ 
+CAPAL 100413017, SNC ICAP CR 10271212 IOC 16-034: Minor Violation of Criterion V- 
+Instructions, Procedures, and Drawings, dated September 15, 2016 
+CAPAL 100436977, Performance deficiency CR 10308295 and CR 10308213, IOC 16-062/ IOC 
+17-012 (CR 10336421), dated December 15, 2016 
+SNC CAR 269709, NRC SL IV Notice of Violation FFD, Direct Cause Evaluation 
+WEC Limited Cause Analysis Report 100469375, Notice of Violation 
+Westinghouse Apparent Cause Analysis Report 100450198, Impact of CAQ Definition Change 
+Apparent Cause Analysis: Work Package Quality, Adverse Trend, 3/28/2016 
+Apparent Cause Analysis: 2016 Independent NSCA 
+Common Cause Analysis: Adverse Trend Related to Work Package Quality and Maintenance at 
+Vogtle Units 3&4, 10/26/2016 
+ 
+Technical Evaluations (TEs)
+ 
+ 
+TE 576702, SGS System Owner Tracking TE, January 22, 2013 
+5 
+ 
+TE 976553, NRC notification of HR-related issue at Vogtle 1&2, January 4, 2017 
+TE 981289, Deltas between the Westinghouse Cyber review and V34 MEL 
+TE 981296, Deltas between the Westinghouse Cyber review and V34 MEL 
+ 
+Engineering and Design Coordination Report (E&DCRs) 
+ 
+APP-1100-GEF-424, CAPAL 100440884 Closure, Rev. 0 
+APP-FHS-GEF-030, Rev. 0, Spent Fuel Storage Capacity Limit, Rev. 0 
+APP-GW-GEE-5021, Class 1 E MOV Locked Rotor Current Increase, Rev. 0 
+APP-GW-GEF-1571, Prevention of a Fire Induced Spurious Fourth Stage ADS Actuation 
+Related to NPI-00343, Rev. 0 
+APP-ECS-GEF-850077, PLS Updates for ED-23 CWDs, Rev. 0 
+APP-ECS-GEF-850078, PLS Updates for EK-21 CWDs, Rev. 0 
+APP-ECS-GEF-850079, PLS Updates for EK-14 CWDs, Rev. 0 
+APP-PV01-GEF-047, Changes to PV01 Power Requirement Tables, Rev. 0 
+SV0-1208-GEF-000026, Shield Building NDE Allowance, Rev. 0 
+ 
+Nonconformance & Disposition (N&Ds) Reports 
+ 
+SV3-1208-GNR-000070, Shield Building Closed WDS's, Rev. 0 
+SV3-ME02-GNR-000001, PRHR-HX missing RT examinations per CAPAL 100461922, Rev. 0 
+SV3-RCS-GNR-000007, ASME III Pipe Spool did not meet Minimum Wall Thickness 
+Requirements, Rev. 0 
+SV4-CA03-GNR-000028, SV4-CA03-01 - Under sized Manual Stud Weld, Rev. 0 
+SV4-ML05-GNR-000002, DVI Penetration SV4-11205-ML-P01 Imperfection, Rev. 0 
+SV4-ML05-GNR-000006, DVI Penetration SV4-11205-ML-P01 Linear Indications, Rev. 0 
+SV4-ML05-GNR-000016, DVI Penetration SV4-11205-ML-P01 Linear Indication, Rev. 0 
+ 
+Miscellaneous 
+ 
+APP-GW-GEE-444, MOV Post Accident Monitoring Requirements, Rev. 3 
+APP-GW-G1-014, AP1000 Plant Nuclear Safety Classification and Seismic Requirement 
+Methodology, Rev. 8 
+APP-GW-P0-008, AP1000 Specification for Field Fabricated Piping and Installation, ASME III, 
+Code Classes 1, 2, and 3 and ASME B31.1, Rev. 6 
+APP-ML05-V2-102, AP 1000 Standard Penetration Open Sleeve – Lined Wall Chart, Rev. 4 
+APP-ML05-V2-221, AP 1000 Special Penetrations Sleeve W/ Bellows 110205-ML-P03/SP11 
+Detail, Rev. 3 
+APP-PMS-GEF-169, PMS Category I Changes Related to DCP-444, Rev. 0 
+BFS-AP1000-CGDP-S/S-1, Commercial Grade Dedication Plan 
+Course # 6_693801, WEC Data Analyst Trend Training 
+Event Report Number 52208 
+Event Report Number 52236 
+Event Report Number 52269  
+Event Report Number 52762 
+Fisher Drawing 22A7618, Type 546: Mounting Bracket Bulkhead Style MTG, Rev. B  
+Fisher Drawing 35a4153, Type 546: Mounting Plate Seismic Alphabetical, Rev. C  
+Fisher Information Notice 2017-02, dated 4/13/2017 
+Material Receiving Report 132176-C607.02-SBOM-174820  
+MEL package HMEL-17-000017, MEL Cyber Review Components, Version 6/30/2017 
+6 
+ 
+ND-16-2659, Work Package, 12/14/2016 
+ND-LI-001-F02-CR10178419, Determination of Notification and Reporting Requirements for 
+CR10178419 
+ND-LI-001-F02-CR10178434, Determination of Notification and Reporting Requirements 
+CR10178434 
+ND-LI-001-F02-CR10282381, Determination of Notification and Reporting Requirements 
+CR10282381 
+ND-LI-001-F02-CR10351594, Determination of Notification and Reporting Requirements for 
+10351594 
+Out Of Tolerance Report (OOTR) V-OT-17-0074, Failed Calibrated M&TE Evaluation V-N-0141, 
+dated 5/5/2017 
+OOTR V-OT-17-0075, Failed Calibrated M&TE Evaluation V-4L-0029 dated 5/9/2017 
+OOTR V-OT-17-0076, Failed Calibrated M&TE Evaluation V-4L-0018, dated 5/9/201 
+OOTR V-OT-17-0078, Failed Calibrated M&TE Evaluation V-AD-0058, dated 5/18/2017  
+OOTR V-OT-17-0079, Failed Calibrated M&TE Evaluation V-N-0140, dated 5/17/2017  
+OOTR V-OT-17-0089, Failed Calibrated M&TE Evaluation V-N-0138, dated 6/22/2017 
+Purchase Order 132176-C607.02 
+Quality Assurance Inspection Report 32176-QA-Q445-011-13-000348  
+Quality Assurance Inspection Report Q445-16-11215  
+Quality Receipt Inspection Report 132176-QA-Q445-011-13-000348 
+SECY-94-084, Policy And Technical Issues Associated With The Regulatory Treatment Of Non-
+Safety Systems In Passive Plant Designs 
+SECY-95-132, Policy And Technical Issues Associated With The Regulatory Treatment Of Non-
+Safety Systems (RTNSS) In Passive Plant Designs 
+SNC Compliance Investigation Report 2014003362 
+SNC Nuclear Development Quality Assurance Manual Part III, Version 16.0 
+SV4-ML05-MLW-ME7663, dated 4/15/2014 
+SV4-SS01-Z0-003, Embedment and Miscellaneous Steel, Westinghouse Safety Class C, Rev. 4 
+SVP-SV0-004230, 10CFR21/10CFR50.55(e) Evaluation Regarding A Defect Associated With 
+Pipe Spool Supplied by CB&I-Laurens to Aecon For Installation in CA01 Module for Vogtle 
+Unit 3 dated 10/3/2016 
+Trend Coordinator Qualifications for D. Swain 
+Vogtle Electric Generating Plant Unit 3 and 4 Updated Final Safety Analysis Report, Rev. 5.2 
+WECTEC Vogtle Units 3 & 4 Project Quality Assurance Plan, dated September 14, 2016 
+Westinghouse DCP 007924, Part 21 Review of CAPAL 100360628 
+Westinghouse RTNSS White Paper 
+ 
+Corrective Actions Initiated in Response to NRC 
+ 
+CAPAL 100485420, SNC Vogtle ICAP CR 10389671 IOC 17-032; NRC CAP inspection N&D 
+does not provide adequate justificat 
+CAPAL 100482542, RTNSS components not identified in CAP 
+CAPAL 100483103, Additional Reviews of CAQ Downgrades Identified 
+CAPAL 100472903, RTNSS Treatment in Site Procedures 
+CR 10391959 IOC 17-037, NRC CAP Inspection Observation, Effectiveness Review 
+CR 10391972, IOC 17-038, NRC CAP Inspection, ECP Documentation Observation 
+CR 10389687, IOC 17-030, PD, RTNSS Classification in CAP Procedures 
+CR 10391946, IOC 17-035; NRC CAP Inspection Part 21/50.55e Reportability Observation 
+CR 10389671, IOC 17-032; NRC CAP inspection N&D does not provide adequate justification 
+CR 10391953, IOC 17-036; WECTEC Part 21/50.55e reportability Observation 
+ 
+7 
+ 
+Section 1P02 
+ 
+Procedures 
+ 
+BMS-CI-10, Operating Experience, Rev. 2.0
+ 
+ND-AD-VNP-004, Construction Experience Program, Revs. 10 .0 and 11.0 
+NMP-GM-008, Operating Experience Program, Revs. 17, 17.1, 17.2, and 17.3 
+ 
+Corrective Action Prevention and Learning (CAPALs), Corrective Action Requests (CARs), and 
+Condition Reports (CRs) 
+ 
+CAPAL 100427370, SNC CR 10291564 RCP start during solid plant – Lessons Learned from 
+China
+ 
+CAPAL 100449476, ICES 325963- Foreign Material found during post-installation SG 
+secondary side inspection  
+CR 10235285, Westinghouse unacceptable response to NRC Information Notice (IN) 2016-01 
+CR 10291564, RCP start during solid plant – Lessons Learned from China 
+CR 10312604, NRC Information Notice 2015-13, Main Stream Isolation Valve Failure Events 
+CR 10364522, NRC Information Notice (IN) 2017-01, Reactor coolant System Leakage from a 
+Control Rod Drive Threaded Connection 
+ 
+Technical Evaluations (TEs)
+ 
+ 
+TE 986943, NRC Information Notice (IN) 2017-01, Reactor coolant System Leakage from a 
+Control Rod Drive Threaded Connection, June 2, 2017 
+ 
+Miscellaneous
+ 
+ 
+ICES Report 323177, Lifting and Rigging and Transportation, dated April 15, 2016 
+ICES Report 325963, Foreign Material Found during post-installation Steam Generator 
+Secondary Side inspection, February 10, 2017 
+ICES Report 408008, Human Factor Engineering (HFE) Requirements Communicated to 
+Vendors, dated April 13, 2017 
+ND-AD-VNP-004-F04, Construction Experience (CE) Screening Committee Meeting Minutes, 
+Version 1.0, for dates June 15, 2017 through July 13, 2017 
+NRC Information Notice (IN) 2015-13, Main Steam Isolation Valve Failure Events, December 
+10, 2015 
+NRC IN 2017-01, Reactor Coolant System Leakage From a Control Drive Threaded 
+Connection, May 3, 2017 
+ 
+ 
+Section 1P03 
+ 
+Corrective Action Prevention and Learning (CAPALs), Corrective Action Requests (CARs), and 
+Condition Reports (CRs) 
+ 
+CAR 266211, SNC Joint Surveillance NDQA-2016-S019 Finding #1 (Level 3) 
+ 
+CAR 266212, SNC Joint Surveillance NDQA-2016-S019 Finding #2 (Level 3) 
+ 
+ 
+8 
+ 
+Miscellaneous 
+ 
+132176-NCR-16-000087, R106 Vogtle 4 Assessment, Rev. 0 
+ND–17–0076, Response to Contractor Revision to Corrective Action Program 
+ND–17–1106, NDQA Surveillance Report for WEC/WECTEC Corrective Actions, SNC NDQA–
+2017–S013  
+S-132175-2016-074, Joint Surveillance WECTEC’s Implementation of CAPAL,  
+S-132175-2016-166, Joint Surveillance of CAP Backlog, Rev. 002 
+S-132175-2017-008, Effective Implementation of the Corrective Action Programs (CAPs) / 
+Project Letter Responses (PLRs), Rev. 2 
+SNC Check-In-Self Assessment (CISA) Plan and Report, June 27-July 1, 2016 
+SNC 2016 CISA of Construction FFD/AA Program – Review of 12 Findings 
+ 
+ 
+Section 1P04 
+ 
+Procedures 
+ 
+730-002, Employee Concerns Guidance, Dated March 13, 2017
+ 
+BMS-LGL-75, Employee Concerns Program Procedure, Rev. 0 
+BMS-LGL-78, ECP Work Instructions, Rev. 0 
+ND-AD-014, Nuclear Safety Culture Monitoring, Rev. 1.0 
+WECTEC-NSC-PL-01, Nuclear Safety Culture Policy, Rev. 1 
+WECTEC-NSC-PR-01, Maintaining a Positive Nuclear Safety Culture & a Safety Conscious 
+Work Environment, Rev. 01 
+WECTEC-NSC-PR-05, Nuclear Safety Culture Surveys and Assessments, Rev. 1 
+ 
+Corrective Action Prevention and Learning (CAPALs), Corrective Action Requests (CARs), and 
+Condition Reports (CRs) 
+ 
+CAPALs: 
+CAPAL 100399493, SNC CR-10250983 NRC CAP Audit Results 
+CAPAL 100399839, Anonymous – FFD for Cause Concern Not Addressed 
+CAPAL 100402562, Employee Concerns Program Exit Interviews 
+CAPAL 100404703, Anonymous – Planned Ongoing Harassment and Intimidation 
+CAPAL 100407536, CWS PCCP Interference 
+CAPAL 100409065, Anonymous – Double Standard  
+CAPAL 100411979, Fasteners Marked for Temporary Use Only 
+CAPAL 100412170, 2016 Independent NSCA 
+CAPAL 100415628, DCP-444 Missed Impact for RNS-V022 
+CAPAL 100422482, Overdue ECP Action 
+CAPAL 100422823, Overdue ECP Action 
+CAPAL 100424401, Potential trend of Untimely Significance Reviews 
+CAPAL 100429337, Potential Trend on 10% UT not met 
+CAPAL 100430111, Anonymous 
+CAPAL 100431344, 2016 ECP Self-Assessment 
+CAPAL 100431354, 2016 ECP Self-Assessment Finding 
+CAPAL 100435304, Anonymous: F-APP-GW-GAP-420-3 is not current in Vogtle SDC 
+CAPAL 100437533, Anonymous – Supervisor Threatened Employees 
+9 
+ 
+CAPAL 100438205, SV3-RNS-MP-01A PM attribute not captured within Preventative 
+Maintenance 
+CAPAL 100439755, Overdue ECP Action 
+CAPAL 100440771, Fix APP-SWS-M3C-100 
+CAPAL 100446966, Anonymous – No training on new paperwork and procedures 
+CAPAL 100448883, Fluor craft managers supervising craft without being in Behavior 
+Observation Program 
+CAPAL 100449310, Anonymous – Discrimination 
+CAPAL 100450715, Anonymous – Quality – Carbon and stainless materials storage 
+CAPAL 100474009, Violation of WECTEC-NSC-PR-03, Executive Review Board 
+ 
+CARs:
+ 
+CAR 2014-2399, Continuing Trend in working without proper documentation and welding issues 
+CAR 266505, Safety Conscious Work Environment 
+CAR 266507, Safety Conscious Work Environment 
+CAR 266508, Safety Conscious Work Environment 
+CAR 267973, Safety Conscious Work Environment 
+CAR 268863, Safety Conscious Work Environment 
+ 
+CRs: 
+CR 10266086, Declining Safety Culture 
+CR 10265757, (Anonymous) Nuclear Safety Culture Training Observation 
+CR 10267164, (Anonymous CR) Using Law Firm that defends Utilities against SCWE claims 
+CR 10308087, (Anonymous CR) Possible willful neglect and chilled work environment 
+ 
+Miscellaneous
+ 
+  
+Letter to Khristi Driver, Follow-Up Concerns Program Assessment – Report No. SNC2016-01, 
+dated March 21, 2017 
+NU-NSC-3000, Our Nuclear Safety Culture Training  
+S-132175-2016-066, WECTEC Nuclear Safety Culture Surveillance Report, Rev. 002 
+S-132175-2017-226, Effectiveness of Vogtle NSC Improvement Plans, Rev. 002 
+SNC2016-01, Southern Nuclear Operating Company Concerns Program Assessment, dated 
+July 19, 2016 
+SNC CISA, NSC Process Implementation – IORSMSB14347, dated January 5 – 11, 2017 
+Vogtle Nuclear Safety Culture Improvement Plan for 2017 
+Vogtle Nuclear Safety Culture (NSC) Recovery Plan, December 12, 2016 
+WECTEC Vogtle Employee Concerns Program, Self-Assessment Report, November 22, 2016 
+WECTEC Vogtle Nuclear Safety Culture Assessment, dated August 2016 
+ 
+ 
+4. OTHER INSPECTION RESULTS  
+ 
+40A7 Licensee-Identified Violations. 
+ 
+No Additional Documents  
+ 
+ 
+ 
+LIST OF ACRONYMS 
+ 
+ADAMS  Agency-wide Documents Access and Management System 
+CAP  Corrective Action Program 
+CAPALs  Corrective Action Prevention and Learnings 
+CAQ  Condition Adverse to Quality 
+CFR  Code of Federal Regulations 
+CIPIMS  Construction Inspection Program Information Management System 
+COL  Combined License 
+ConE  Construction Experience  
+CR  Condition Reports  
+cROP  Construction Reactor Oversight Process 
+DCO  Division of Construction Oversight 
+E&DCRs  Engineering and Design Coordination Reports  
+ECP  Employee Concern Programs 
+EPC  Engineering, Procurement, and Construction  
+IMC  Inspection Manual Chapter 
+IP  Inspection Procedure 
+IR  Inspection Report  
+ITAAC  Inspections, Tests, Analyses, and Acceptance Criteria 
+LIV  Licensee-Identified Violation 
+M&TE  Measuring and Test Equipment 
+N&Ds  Nonconformance and Disposition reports  
+NCV  Non-Cited Violation 
+NRC  Nuclear Regulatory Commission 
+NSC  Nuclear Safety Culture  
+N&Ds  Nonconformance and Disposition reports  
+OE  Operating Experience 
+PARS  Publically Available Records  
+PD  Performance Deficiency 
+QA  Quality Assurance 
+QAPD  Quality Assurance Program Description   
+RTNSS  Regulatory Treatment of Non-Safety Systems  
+SCAQ  Significant Condition Adverse to Quality  
+SCWE  Safety Conscious Work Environment  
+SDP  Significance Determination Process  
+SNC  Southern Nuclear Operating Company, Inc. 
+SSC  Structure, System or Component  
+UFSAR  Updated Final Safety Analysis Report  
+VEGP  Vogtle Electric Generating Plant  
+WEC  Westinghouse 
+ 
+ 

@@ -1,0 +1,2193 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.October 12, 2018 
+ 
+ 
+Mr. Michael Yox 
+Regulatory Affairs Director 
+Southern Nuclear Operating Company 
+7835 River Road, Bldg. 140, Vogtle 3&4 
+Waynesboro, GA  30830 
+ 
+SUBJECT: SUMMARY OF NUCLEAR REGULATORY COMMISSION VENDOR 
+INSPECTIONS AFFECTING INSPECTIONS, TESTS, ANALYSES, AND 
+ACCEPTANCE CRITERIA 
+ 
+Dear Mr. Yox: 
+ 
+This letter is to inform Southern Nuclear Operating Company (SNC) of U.S. Nuclear Regulatory 
+Commission (NRC) vendor inspection findings that are material to the acceptance criteria in the 
+inspections, tests, analyses, and acceptance criteria (ITAAC) for Vogtle Units 3 and 4 
+(thereafter abbreviated as “material to ITAAC”).  The NRC performed an audit to account for 
+potential ITAAC issues.  Attached are the results of the audit and a summary of all vendor 
+inspection findings material to ITAAC. 
+ 
+As a result of the audit, the NRC identified additional eighteen vendor inspection findings that 
+are material to ITAAC (see Enclosure 2).  The NRC’s Enforcement Manual Agencywide 
+Document Access and Management System (ADAMS) Accession No. ML18018B134 provides 
+guidance on closing findings that are material to the acceptance criteria of an ITAAC.  The staff 
+conducted reviews of these findings to ensure that adequate corrective actions have been 
+developed and implemented such that the deficiency will not prevent the ITAAC from being 
+successfully completed.  Four findings remain open pending further NRC inspection (see 
+Enclosure 1).  Although the NRC is planning to review the resolution of these items, you do not 
+need to delay your ITAAC closure activities due to NRC inspection schedules. 
+ 
+The NRC expects that SNC will discuss the additional findings in ITAAC closure notifications 
+(ICNs), with the following exception:  SNC has already submitted ICNs for Vogtle Units 3 and 4 
+for an ITAAC associated with one of the ITAAC-related findings identified during the audit 
+(ADAMS Accession Nos. ML17143A239 and ML17143A244).  These ICNs do not include a 
+reference to the finding that was identified during the audit.  However, the NRC staff analyzed 
+this finding and determined that SNC does not need to update the ICNs for that finding because 
+corrective actions for the finding have been implemented and the NRC has closed the finding.  
+This finding is designated NON 99901404/2011-201-03 and was, prior to being closed, material 
+to Vogtle Units 3 and 4 ITAAC 2.5.02.14.   
+ 
+The NRC’s Vendor Inspection Program verifies effective licensee oversight of the supply chain 
+through inspections of a sample of vendors.  Licensees are responsible for vendor oversight 
+and vendor performance.  It is the agency’s expectation that licensees consider NRC vendor 
+inspection findings as potential weaknesses in their procurement programs.  Consistent with the 
+M.Yox - 2 - 
+guidance in the NRC-endorsed Nuclear Energy Institution (NEI) 08-01, Industry Guideline for 
+the ITAAC Closure Process under 10 CFR Part 52, licensees should adequately discuss 
+associated ITAAC findings (including those identified through vendor inspections) in their ITAAC 
+notifications under 10 CFR 52.99(c)(1), (c)(2), and (c)(3).   
+ 
+Enclosure 1 is a summary of all findings that, as of the issuance date of this letter, are material 
+to the acceptance criteria of ITAAC.  Some vendor findings listed in Enclosure 1 were not 
+identified as having errors, but are included in Enclosure 1 so that SNC has a complete list of 
+vendor findings affecting ITAAC.  Enclosure 2 lists the vendor inspection findings that were not 
+previously identified as findings material to the acceptance criteria of ITAAC.  Please contact 
+Philip O’Bryan at Phil.OBryan@nrc.gov, or (910) 617-2469, if you have any questions or need 
+assistance regarding these matters. 
+ 
+Sincerely, 
+ 
+/RA/ 
+ 
+ 
+William B. Jones, Acting Director 
+Division of Construction Inspection 
+  and Operational Programs 
+Office of New Reactors 
+ 
+ 
+Docket Nos.: 05200025 
+05200026 
+ 
+Enclosures: 
+1. Vendor Findings Material to the 
+Acceptance Criteria of ITAAC 
+2. Vendor Inspection Findings Not 
+Previously Identified as Material 
+to the Acceptance Criteria of ITAAC 
+  
+M.Yox - 3 - 
+SUBJECT: SUMMARY OF NUCLEAR REGULATORY COMMISSION VENDOR 
+INSPECTIONS AFFECTING INSPECTIONS, TESTS, ANALYSES, AND 
+ACCEPTANCE CRITERIA 
+ 
+Dated:  October 12, 2018 
+ 
+ 
+ 
+DISTRIBUTION: 
+Public 
+CPatel 
+JJimenez 
+ASakadales 
+NCoovert 
+JBurke 
+VHall 
+NRO_DCIP_QVIB-1 Distribution 
+NRO_DCIP_QVIB-2 Distribution 
+DCIP Branch Chiefs 
+AP1000 CONTACTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ADAMS Accession No.:  ML18152B785  *via e-mail   NRO-002 
+OFC NRO/DCIP NRO/DCIP NRO/DCIP 
+NAME PKrohn POBryan KKavanagh 
+DATE 9/26/18* 9/26/18* 9/27/18* 
+OFC NRO/DCIP NRO/DCIP RII/DCO 
+NAME ARivera-Varona (BGreen for) OAyegbusi SWalker (VHall for) 
+DATE 9/28/18* 9/27/18* 10/5/18* 
+OFC OGC NRO/DCIP  
+NAME MASpencer WJones  
+DATE 9/27/18* 10/12/18  
+OFFICIAL  RECORD  COPY
+ 
+Enclosure 1 
+Enclosure 1: Vendor Findings Material to the Acceptance Criteria of ITAAC 
+ 
+Vendor / 
+Docket 
+Inspection 
+Report  (IR) 
+Number and  
+ADAMS 
+Accession 
+Number 
+Finding 
+Number(s) 
+Affected 
+ITAAC  
+Issues Identified in NRC Audit of Vendor 
+Inspection Findings 
+Status 
+SPX Copes-
+Vulcan 
+99900080 
+2012-201 
+ML12158A154 
+01 2.1.02.12a.iv  
+2.1.02.12a.v 
+2.2.03.12a.i  
+2.2.03.12a.ii 
+IR 2012-201 does not clearly link the finding to the 
+applicable ITAAC.  The ITAAC are correctly 
+identified in the 2015 NRC summary of vendor 
+ITAAC findings (ML15219A276). 
+Closed in 
+IR 2015-201 
+(ML15210A806) 
+2013-201 
+ML13302B397 
+ 
+01 2.1.02.12a.iv 
+2.2.03.12a.i 
+ 
+2.1.02.12a.iv is incorrectly listed as 2.2.02.a.iv in the 
+body of the inspection report.  The ITAAC are listed 
+correctly in the ITAAC table in the back of the 
+report.  The ITAAC are also listed correctly in the 
+2014 NRC summary of vendor ITAAC findings 
+(ML14111A071). 
+Closed in 
+IR 2015-202 
+(ML16027A153) 
+02 2.1.02.12a.v 
+2.2.03.12a.ii 
+2.1.02.12a.v is incorrectly listed as 2.2.02.12a.v in 
+the 2014 NRC summary of vendor ITAAC findings 
+(ML14111A071).  The finding was closed in IR 
+2015-202 but was not listed as closed in the 2015 
+NRC summary of vendor ITAAC findings. 
+Closed in 
+IR 2015-202 
+(ML16027A153) 
+  
+ 
+2 
+Vendor / 
+Docket 
+Inspection 
+Report  (IR) 
+Number and  
+ADAMS 
+Accession 
+Number 
+Finding 
+Number(s) 
+Affected 
+ITAAC  
+Issues Identified in NRC Audit of Vendor 
+Inspection Findings 
+Status 
+Westinghouse, 
+Cranberry 
+99900404 
+ 
+2011-201 
+ML112440588 
+02 2.2.03.02a 
+2.2.03.02b 
+IR 2011-201 does not clearly link this finding to the 
+applicable ITAAC.  The 2013 NRC summary of 
+vendor ITAAC findings (ML13156A136) incorrectly 
+lists the finding number as “99900404/2012-202-02.”   
+The 2016 NRC summary of ITAAC findings 
+(ML16280A303) correctly lists the finding number and 
+the applicable ITAAC. 
+Closed in NRC 
+memo dated 
+December 18, 
+2017 
+(ML17346A937) 
+05 2.2.03.08c.i.03 
+ 
+IR 2011-201 does not clearly link this finding to the 
+applicable ITAAC.  The 2013 NRC summary of 
+vendor ITAAC findings (ML13156A136) correctly lists 
+ITAAC 2.2.03.08c.i.03 as applicable.  The 2016 NRC 
+summary of vendor ITAAC findings (ML16280A303) 
+incorrectly lists ITAAC 2.2.03.08c.i.04 as applicable. 
+Open 
+2012-201 
+ML12128A072 
+01 2.1.02.07a.i 
+2.2.03.07a.i 
+IR 2012-201 does not clearly identify the applicable 
+ITAAC.  The finding is closed in the 2013 NRC 
+summary of vendor ITAAC findings (ML13156A136) 
+but lists the incorrect ITAAC.  IR 2016-204 also 
+includes a closure discussion of this finding.  
+Closed in IR 
+2016-204 
+(ML16307A159) 
+02 and 03 2.1.02.07a.i 
+2.2.03.07a.i 
+IR 2012-201 does not clearly identify the applicable 
+ITAAC.  IR 2012-202 closes the findings but lists the 
+incorrect ITAAC.   
+Closed in IR 
+2012-202 
+(ML12313A461) 
+2014-201 
+ML14058A995 
+01 and 02 2.5.02.14 None Closed in IR 
+2016-201 
+(ML15363A360) 
+2015-204 
+ML15113B277 
+01 2.5.02.07a 
+2.5.02.07e 
+None Closed in IR 
+2016-209 
+(ML17123A085) 
+02 and 03 2.5.02.03 None Closed in IR 
+2016-202 
+(ML16237A320) 
+ 
+3 
+Vendor / 
+Docket 
+Inspection 
+Report  (IR) 
+Number and  
+ADAMS 
+Accession 
+Number 
+Finding 
+Number(s) 
+Affected 
+ITAAC  
+Issues Identified in NRC Audit of Vendor 
+Inspection Findings 
+Status 
+Valcor 
+99900728 
+2017-201 
+ML17311A267 
+01 2.1.02.05a.i None Open 
+Wyle Labs 
+99900905 
+2012-201 
+ML12242A459 
+ 
+01 and 04 2.1.02.12a.i 
+2.2.01.11a.i 
+2.2.03.12a.i 
+2.3.02.11a.i 
+2.3.06.12a.i 
+IR 2012-201 lists incorrect ITAAC numbers.  The 
+2013 NRC summary of vendor ITAAC findings 
+(ML13156A136) lists 4 of the ITAAC numbers 
+correctly but does not list ITAAC 2.2.03.12a.i as being 
+affected. 
+Closed in IR 
+2013-201 
+(ML14016A447) 
+National 
+Technical 
+Systems, 
+Huntsville 
+99900905 
+2015-201 
+ML15078A379 
+01 2.1.02.07a.i 
+2.2.03.07a.i 
+IR 2015-201 does not clearly state that finding 01 is 
+material to the ITAAC, nor does any subsequent NRC 
+correspondence to SNC. 
+Closed in NRC 
+memorandum 
+dated April 27, 
+2018 
+(ML18102B171) 
+ 
+2015-202 
+ML15152A080 
+01 2.2.03.12a.i IR 2015-202 does not clearly state that finding 01 is 
+material to the ITAAC, nor does any subsequent NRC 
+correspondence to SNC. 
+Westinghouse,  
+New Stanton 
+99901043 
+2012-201 
+ML12131A263 
+03, 04, and 
+05 
+2.5.01.03d IR 2012-201 does not clearly state that the findings 
+are material to the ITAAC.   The 2013 NRC summary 
+of vendor ITAAC findings (ML13156A136) correctly 
+lists the applicable ITAAC.   
+Closed in IR 
+2013-201 
+(ML13318A689) 
+  
+ 
+4 
+Vendor / 
+Docket 
+Inspection 
+Report  (IR) 
+Number and  
+ADAMS 
+Accession 
+Number 
+Finding 
+Number(s) 
+Affected 
+ITAAC  
+Issues Identified in NRC Audit of Vendor 
+Inspection Findings 
+Status 
+Enertech 
+99901377 
+2012-201 
+ML12306A385 
+02  None IR 2012-201 does not identify this finding as material 
+to ITAAC.  The 2013 NRC summary of vendor ITAAC 
+findings (ML13156A136) incorrectly lists this finding 
+as material to ITAAC 2.2.03.05a.ii and 2.2.03.02a.  In 
+an NRC memorandum dated January 5, 2017 
+(ML16357A724), this finding was listed as material to 
+an additional ITAAC (2.2.03.03a).  This finding is not 
+material to ITAAC. 
+Closed in NRC 
+memorandum 
+dated January 
+5, 2017  
+(ML16357A724) 
+ 
+03 None IR 2012-201 does not identify this finding as material 
+to ITAAC.  The 2013 NRC summary of vendor ITAAC 
+findings (ML13156A136) incorrectly lists this finding 
+as material to ITAAC 2.2.03.04a.  This finding is not 
+material to ITAAC. 
+Closed in NRC 
+memorandum 
+dated January 
+5, 2017  
+(ML16357A724) 
+ 
+CS Innovations 
+99901404 
+2011-201 
+ML111890005 
+ 
+03 and 04 2.5.02.14 IR 2011-201 does not clearly state that the findings 
+are material to the ITAAC, nor does any subsequent 
+NRC correspondence to SNC. 
+Closed in IR 
+9990404/2014-
+203 
+(ML14262A351) 
+Obayashi 
+Corporation 
+99901409 
+2011-201 
+ML11286A106 
+03 3.3.00.02a.i.a 
+3.3.00.02a.i.b 
+3.3.00.02a.i.c 
+3.3.00.02a.i.d 
+IR 2011-201 does not clearly state that the finding is 
+material to the ITAAC, nor does any subsequent NRC 
+correspondence to SNC. 
+Closed in NRC 
+memorandum 
+dated July 6, 
+2018 
+(ML18186A573) 
+Clark 
+Dynamics 
+99901412 
+2012-201 
+ML12108A097 
+02 2.2.01.05.ii 
+2.2.02.05a.ii 
+2.2.05.05a.ii 
+2.3.02.05.ii 
+2.3.07.05.ii 
+2.7.01.05.ii 
+IR 2012-201 does not clearly link the finding to the 
+applicable ITAAC.  The 2013 NRC summary of 
+vendor ITAAC findings (ML13156A136) correctly 
+identifies the applicable ITAAC. 
+Closed in NRC 
+memorandum 
+dated January 
+5, 2017 
+(ML16357A725) 
+ 
+5 
+Vendor / 
+Docket 
+Inspection 
+Report  (IR) 
+Number and  
+ADAMS 
+Accession 
+Number 
+Finding 
+Number(s) 
+Affected 
+ITAAC  
+Issues Identified in NRC Audit of Vendor 
+Inspection Findings 
+Status 
+Kinectrics 
+99901415 
+2012-201 
+ML12179A413 
+ 
+01 and 02 2.2.01.05.ii 
+2.2.01.06a.i 
+IR 2012-201 does not clearly state that the findings 
+are material to the ITAAC, nor does any subsequent 
+NRC correspondence to SNC. 
+Closed in IR 
+2015-201 
+(ML15148A419) 
+Cives Steel 
+Company 
+99901419 
+2012-201 
+ML13042A397 
+03 3.3.00.02a.i.a 
+3.3.00.02a.i.b 
+3.3.00.02a.i.c 
+3.3.00.02a.i.d 
+IR 2012-201 does not clearly state that the finding is 
+material to the ITAAC, nor does any subsequent NRC 
+correspondence to SNC. 
+Closed in NRC 
+memorandum 
+dated May 11, 
+2018 
+(ML18131A260) 
+CB & I 
+Lake Charles 
+99901425 
+2014-201 
+ML14072A315 
+01  3.3.00.02a.i.a 
+3.3.00.02a.i.d 
+ 
+IR 2014-201 does not clearly state that the finding is 
+material to the ITAAC, nor does any subsequent NRC 
+correspondence to SNC. 
+Closed in NRC 
+memorandum 
+dated April 12, 
+2018 
+(ML18101A168) 
+Pentair 
+99901431 
+2013-201 
+ML13212A265 
+01 2.1.02.02a 
+2.1.02.05a.ii 
+2.2.03.02a 
+2.2.03.05a.ii 
+IR 2013-201 and the 2014 NRC summary of vendor 
+ITAAC findings (ML14111A071) list the four 
+applicable ITAAC, but also incorrectly include ITAAC 
+2.1.02.08a.ii.  This finding is not material to ITAAC 
+2.1.02.08a.ii. 
+Closed in IR 
+2014-201 
+(ML14073A652) 
+  
+ 
+6 
+Vendor / 
+Docket 
+Report 
+Number and  
+ADAMS 
+Accession 
+Number 
+Finding 
+Number(s) 
+Affected 
+ITAAC  
+Issues Identified in NRC Audit of Vendor 
+Inspection Findings 
+Status 
+SMCI 
+99901439 
+2014-201 
+ML14121A433 
+ 
+01 3.3.00.02a.i.a IR 2014-201 does not clearly state that the finding is 
+material to the ITAAC, nor does any subsequent NRC 
+correspondence to SNC. 
+Closed in IR 
+2015-201 
+(ML15175A446) 
+2015-201 
+ML15175A446 
+01 and 02 3.3.00.02a.i.a IR 2015-201 does not clearly state that the findings 
+are material to the ITAAC, nor does any subsequent 
+NRC correspondence to SNC. 
+Closed in NRC 
+memorandum 
+dated April 11, 
+2018 
+(ML18100A857) 
+Curtis Wright 
+Qualtech 
+99901441 
+2014-201 
+ML14231B268 
+03 2.1.02.07a.i 
+2.2.03.07a.i 
+ 
+None Open 
+Oregon Iron 
+Works 
+99901448 
+99901449 
+2014-201 
+ML14308A463 
+ 
+02 3.3.00.02a.i.d IR 2014-201 does not clearly state that the finding is 
+material to the ITAAC, nor does any subsequent NRC 
+correspondence to SNC. 
+Closed in Vigor 
+IR 2017-201 
+(ML17226A340) 
+WECTEC 
+99901467 
+2016-201 
+ML17013A658 
+01 2.6.03.08 None Open 
+ 
+ 
+ 
+Enclosure 2 
+Enclosure 2: Vendor Inspection Findings Not Previously Identified as Material to 
+the Acceptance Criteria of ITAAC 
+ 
+ 
+ 
+1. Westinghouse, Cranberry/ Docket 99900404 
+ 
+a. Inspection Scope 
+ 
+During the period of March 26 to 30, 2012, the U.S. Nuclear Regulatory Commission 
+(NRC) conducted an inspection at the Westinghouse Electric Company (WEC) facility in 
+Cranberry Township, PA.  The purpose of the technically-focused inspection was to 
+review implementation of WEC’s quality assurance program in accordance with Title 10 
+of the Code of Federal Regulations (10 CFR) Part 50, Appendix B, “Quality Assurance 
+Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” and 10 CFR Part 21, 
+“Reporting of Defects and Noncompliance.”  This inspection specifically evaluated the 
+quality assurance program as it pertains to WEC’s development of test requirements and 
+specifications for the performance of qualification and functional testing for components 
+to be supplied as part of the AP1000 design.  The vendor inspection activities were 
+documented in Inspection Report (IR) 99900404/2012-201 (Agencywide Documents 
+Access and Management System (ADAMS) Accession No. ML12128A072). 
+ 
+The lead for the abovementioned inspection is Mr. Jeffrey Jacobson, who can be 
+reached by phone at 301-415-2977 or via electronic mail at Jeffrey.Jacobson@nrc.gov. 
+ 
+b. Findings and Observations 
+ 
+Inspection Report 99900404/2012-201 contains three findings associated with the 
+following inspections, tests, analyses, and acceptance criteria (ITAAC): 
+ 
+ITAAC Design 
+Commitment 
+Inspections, Tests, 
+Analysis 
+Acceptance Criteria 
+2.1.02.07a.i The Class 1E 
+equipment identified 
+in Table 2.1.2-1 as 
+being qualified for a 
+harsh environment 
+can withstand the 
+environmental 
+conditions that would 
+exist before, during, 
+and following a 
+design basis 
+accident without loss 
+of safety function for 
+the time required to 
+perform the safety 
+function. 
+Type tests, 
+analyses, or a 
+combination of type 
+tests and analyses 
+will be performed on 
+Class 1E equipment 
+located in a harsh 
+environment. 
+A report exists and 
+concludes that the 
+Class 1E equipment 
+identified in Table 
+2.1.2-1 as being 
+qualified for a harsh 
+environment can 
+withstand the 
+environmental 
+conditions that would 
+exist before, during, 
+and following a 
+design basis 
+accident without loss 
+of safety function for 
+the time required to 
+perform the safety 
+function. 
+ 
+2 
+ITAAC Design 
+Commitment 
+Inspections, Tests, 
+Analysis 
+Acceptance Criteria 
+2.2.03.07a.i The Class 1E 
+equipment identified 
+in Table 2.2.3-1 as 
+being qualified for a 
+harsh environment 
+can withstand the 
+environmental 
+conditions that would 
+exist before, during, 
+and following a 
+design basis 
+accident without loss 
+of safety function for 
+the time required to 
+perform the safety 
+function. 
+Type tests, 
+analyses, or a 
+combination of type 
+tests and analyses 
+will be performed on 
+Class 1E equipment 
+located in a harsh 
+environment. 
+A report exists and 
+concludes that the 
+Class 1E equipment 
+identified in Table 
+2.2.3-1 as being 
+qualified for a harsh 
+environment can 
+withstand the 
+environmental 
+conditions that would 
+exist before, during, 
+and following a 
+design basis 
+accident without loss 
+of safety function for 
+the time required to 
+perform the safety 
+function. 
+ 
+Inspection Report Finding 99900404/2012-201-01 states, in part, that: 
+ 
+WEC failed to verify the adequacy of certain design features and include the 
+most adverse design conditions in the test program for performing functional 
+testing of the squib valve actuators.  This issue has been identified as 
+Nonconformance 99900404/2012-201-01. 
+ 
+This finding that the most adverse conditions were not tested during 
+environmental qualification affects the ITAAC listed in the table above because, if 
+the deficiencies are left uncorrected, the testing program would fail to provide the 
+requisite assurance that the squib valves would perform as required in design 
+basis conditions, including harsh environmental conditions that would exist 
+before, during and following a design basis accident for the time required to 
+perform the safety function. 
+ 
+Inspection Report Finding 99900404/2012-201-02 states: 
+ 
+WEC did not identify design interfaces sufficient to allow for the translation of the 
+design basis into specifications.  Specifically, APP-GW-J4-072 “Interface 
+Specification for Squib Valve Controller,” Revision 1, did not include the full range 
+of temperatures that need to be considered when sizing the field run 
+cable/connector systems located between the Plant Monitoring and Protection 
+System, the Diverse Actuation System, and the squib valve actuators.  This issue 
+has been identified as Nonconformance 99900404/2012-201-02. 
+ 
+This finding affects the ITAAC listed in the table above because, if the 
+deficiencies are left uncorrected, the testing program would fail to provide the 
+requisite assurance that the squib valves would perform as required in design 
+basis conditions, including harsh environmental conditions that would exist 
+ 
+3 
+before, during and following a design basis accident for the time required to 
+perform the safety function. 
+ 
+Inspection Report Finding 99900404/2012-201-03 states: 
+ 
+WEC did not establish measures necessary to ensure that the design basis for 
+the Diverse Actuation System was correctly translated into specifications, 
+drawings, and instructions.  Specifically, WEC did not perform a documented 
+calculation or analysis to justify the selection of resistance values contained in 
+APP-GW-J4-072, “Interface Specification for Squib Valve Controller,” Revision 1, 
+for the field run cabling located between the Diverse Actuation System and the 
+squib valve actuators.  This issue has been identified as Nonconformance 
+99900404/2012-201-03. 
+ 
+This finding affects the ITAAC listed in the table above because, if the 
+deficiencies are left uncorrected, the testing program would fail to provide the 
+requisite assurance that the squib valves would perform as required in design 
+basis conditions, including harsh environmental conditions that would exist 
+before, during and following a design basis accident for the time required to 
+perform the safety function. 
+ 
+2. Valcor Engineering Corporation/Docket No. 99900728 
+ 
+a. Inspection Scope 
+ 
+During the period of October 9-12, 2017, the U.S. NRC staff conducted an inspection at 
+the Valcor Engineering Corporation’s facility (hereafter referred to as Valcor) facility in 
+Springfield, NJ.  The purpose of this limited-scope routine inspection was to assess 
+Valcor’s compliance with provisions of Title 10 of the Code of Federal Regulations 
+(10 CFR) Part 21, “Reporting of Defects and Noncompliance,” and selected portions of 
+Appendix B, “Quality Assurance Program Criteria for Nuclear Power Plants and Fuel 
+Reprocessing Plants,” to 10 CFR Part 50, “Domestic Licensing of Production and 
+Utilization Facilities.”  This inspection specifically evaluated Valcor’s implementation of 
+the quality activities associated with the design, fabrication, and testing of the solenoid 
+valves and replacement valve parts for the Westinghouse Electric Company AP1000 
+reactor design and for the domestic operating reactors.  The vendor inspection activities 
+were documented in Inspection Report (IR) 99900728/I-2017-201 (ADAMS Accession 
+No. ML17311A267). 
+ 
+The lead for this inspection is Mr. Yamir Diaz-Castillo, who can be reached by phone at  
+301-415-2228 or via electronic mail at Yamir.Diaz-Castillo@nrc.gov. 
+  
+ 
+4 
+b. Findings and Observations 
+ 
+IR 999007728/I-2017-201 contains one finding associated with the following ITAAC: 
+ 
+ITAAC Design 
+Commitment 
+Inspections, 
+Tests, 
+Analysis 
+Acceptance Criteria 
+2.1.02.05a.i The Class 1E 
+equipment 
+identified in Table 
+2.1.2-1 as being 
+qualified for a harsh 
+environment can 
+withstand the 
+environmental 
+conditions that 
+would exist before, 
+during, and 
+following a design 
+basis accident 
+without loss of 
+safety function for 
+the time required to 
+perform the safety 
+function. 
+Type tests, 
+analyses, or a 
+combination of 
+type tests and 
+analyses will 
+be performed 
+on Class 1E 
+equipment 
+located in a 
+harsh 
+environment. 
+A report exists and concludes 
+that the Class 1E equipment 
+identified in Table 2.1.2-1 as 
+being qualified for a harsh 
+environment can withstand the 
+environmental conditions that 
+would exist before, during, and 
+following a design basis 
+accident without loss of safety 
+function for the time required to 
+perform the safety function. 
+ 
+IR 99900728/I-2017-201 states: 
+ 
+IEEE 323-1974 requires testing or analysis of the valve to be performed at the 
+full range of its performance characteristics.  While it appeared that the valves 
+may have sufficient margin to compensate for the lower coil pull-in voltage, this 
+margin had not been specifically quantified as it is unknown what the controller 
+output voltage would be when the input to the controller is at the minimal 180 
+VDC.  A change in applied voltage or temperature could impact the capability of 
+the valve to perform its intended safety function.  This issue impacts the domestic 
+AP1000 solenoid valves fabricated by Valcor that are identified in the WEC data 
+sheets APP-PV13-Z0D-101and -111.  
+ 
+This issue has been identified as Nonconformance 99900728/I-2017-201-01. 
+ 
+The NRC staff determined that the above vendor finding represented an ITAAC finding 
+because it was material to the acceptance criteria of VEGP Units 3 and 4 
+ITAAC 2.1.02.05a.i, in that, if left uncorrected, the licensee may not be able to 
+successfully complete the ITAAC.  The referenced valves are identified in Table 2.1.2-1 
+of Appendix C of the Combined License, as being located in a harsh environment.  
+However, the EQ testing performed on these valves was not performed using the 
+voltage controller which is an integral part of the solenoid valve system and which will be 
+used to supply power to the valves in the plant.  As of the completion of the inspection, 
+Valcor had not performed testing or analysis sufficient to verify that the voltage controller 
+output would be adequate to ensure the subject valves would be capable of performing 
+their intended safety functions under all design basis environmental conditions. 
+ 
+5 
+3. National Technical Systems (NTS)/ Docket 99900905 
+ 
+a. Inspection Scope 
+ 
+During the period of December 15-17, 2014, and February 11, 2015, the U.S. NRC staff 
+conducted an inspection at the National Testing Systems (NTS) facility in Huntsville, AL.  
+The purpose of the inspection was to review NTS’s implementation of an adequate 
+quality assurance program as related to the irradiation and submergence testing of the 
+explosive actuators, which are a subcomponent of the 8-inch squib valves being 
+supplied as a part of the Westinghouse Electric Corporation AP1000 reactor design.  
+The vendor inspection activities were documented in Inspection Report (IR) 
+99900905/2015-201 (ADAMS Accession No. ML15078A379). 
+ 
+The lead for the above mentioned inspection is Mr. Jeffrey Jacobson, who can be 
+reached by phone at 301-415-2977 or via electronic mail at Jeffrey.Jacobson@nrc.gov. 
+ 
+During the week of May 11-15, 2015, the NRC staff conducted an inspection at the NTS 
+facility in Huntsville, AL.  The purpose of the inspection was to review NTS’s quality 
+assurance activities as it pertains to the qualification testing of the 8-inch high pressure 
+(HP) and the low pressure (LP) squib valves in the Passive Core Cooling System (PXS) 
+of the AP1000 reactor design.  The vendor inspection activities were documented in 
+Inspection Report (IR) 99900905/2015-202 (ADAMS Accession No. ML15152A080). 
+ 
+The lead for the above mentioned inspection is Mr. Raju Patel, who can be reached by 
+phone at 301-415-3511 or via electronic mail at Raju.Patel@nrc.gov. 
+ 
+b. Findings and Observations 
+ 
+IR 99900905/2015-201 and IR 99900905/2015-202 each contain one inspection finding. 
+  
+ITAAC Design 
+Commitment 
+Inspections, Tests, 
+Analysis 
+Acceptance 
+Criteria 
+2.2.03.12a.i The squib valves and 
+check valves 
+identified in Table 
+2.2.3-1 perform an 
+active  
+safety-related 
+function to change 
+position as indicated 
+in the table. 
+Tests or type tests of 
+squib valves will be 
+performed that 
+demonstrate the 
+capability of the 
+valve to operate 
+under its design 
+condition. 
+A test report exists 
+and concludes that 
+each squib valve 
+changes position as 
+indicated in Table 
+2.2.3-1 under design 
+conditions. 
+ 
+6 
+2.1.02.07a.i The Class 1E 
+equipment identified 
+in Table 2.1.2-1 as 
+being qualified for a 
+harsh environment 
+can withstand the 
+environmental 
+conditions that would 
+exist before, during, 
+and following a 
+design basis 
+accident without loss 
+of safety function for 
+the time required to 
+perform the safety 
+function. 
+Type tests, analyses, 
+or a combination of 
+type tests and 
+analyses will be 
+performed on Class 
+1E equipment 
+located in a harsh 
+environment. 
+A report exists and 
+concludes that the 
+Class 1E equipment 
+identified in Table 
+2.1.2-1 as being 
+qualified for a harsh 
+environment can 
+withstand the 
+environmental 
+conditions that 
+would exist before, 
+during, and following 
+a design basis 
+accident without loss 
+of safety function for 
+the time required to 
+perform the safety 
+function. 
+2.2.03.07a.i The Class 1E 
+equipment identified 
+in Table 2.2.3-1 as 
+being qualified for a 
+harsh environment 
+can withstand the 
+environmental 
+conditions that would 
+exist before, during, 
+and following a 
+design basis 
+accident without loss 
+of safety function for 
+the time required to 
+perform the safety 
+function. 
+Type tests, analyses, 
+or a combination of 
+type tests and 
+analyses will be 
+performed on Class 
+1E equipment 
+located in a harsh 
+environment. 
+A report exists and 
+concludes that the 
+Class 1E equipment 
+identified in Table 
+2.2.3-1 as being 
+qualified for a harsh 
+environment can 
+withstand the 
+environmental 
+conditions that 
+would exist before, 
+during, and following 
+a design basis 
+accident without loss 
+of safety function for 
+the time required to 
+perform the safety 
+function. 
+ 
+ 
+IR 99900905/2015-201 states: 
+ 
+NRC inspectors reviewed the irradiation of the squib valve cartridges.  The 
+inspectors concluded that the previously stated accuracy of the irradiation system 
+was found to be non-conservative as it did not include several factors that could 
+impact the accuracy of the radiation measurements.  As a consequence, nuclear 
+safety related components (squib valve actuators for the Westinghouse AP1000 
+reactor) currently undergoing environmental qualification at NTS did not receive 
+the full radiation dose when subtracting out the actual uncertainty of the 
+measurement system.  This item was identified as Nonconformance 
+99900905/2015-201-01. 
+ 
+ 
+7 
+This finding is material to ITAAC 2.1.02.07a.i and 2.2.03.07a.i because, if the 
+deficiencies are left uncorrected, the testing program would fail to provide the 
+requisite assurance that the squib valves would perform as required in harsh 
+environmental conditions that would exist before, during and following a design 
+basis accident for the time required to perform the safety function. 
+ 
+IR 99900905/2015-202 states: 
+ 
+The NRC inspection team determined that NTS failed to establish a procedure in 
+its test program for verifying that the data acquisition system (DAS) functioned as 
+designed.  NTS performed both pre-and post-test verification and validation of 
+the DAS to verify that the DAS software was accurately calculating and reporting 
+those temperature and pressure values that would be used to determine the 
+qualification of the safety-related AP1000 8-inch low pressure squib valves. 
+However, NTS activities to validate the proper function of the DAS, a testing 
+activity affecting quality, were not performed in accordance with written 
+procedures containing the requirements and acceptance limits of the design 
+documents to assure that all prerequisites for the given test have been met.  This 
+issue has been identified as Nonconformance 99900905/2015-202-01 
+ 
+Proper functioning of the DAS system is required to verify design conditions 
+when testing squib valves.  Therefore, this finding is material to ITAAC 
+2.2.03.12a.i because if the deficiencies are left uncorrected, the testing program 
+would fail to provide the requisite assurance that the squib valves would perform 
+as required in design basis conditions, including harsh environmental conditions 
+that would exist before, during and following a design basis accident for the time 
+required to perform the safety function. 
+ 
+These inspection findings are material to the acceptance criteria of the ITAAC listed 
+above because the findings concern the adequacy of the testing and/or analyses used to 
+support the conclusion that the squib valves meet the acceptance criteria of the ITAAC. 
+ 
+4. CS Innovations / Docket No. 99901404 
+ 
+a. Inspection Scope 
+ 
+During the period of April 25-29, 2011, the U.S. NRC staff conducted an inspection at 
+the CS Innovations, Inc. (CSI), facility in Scottsdale, AZ.  The purpose of the inspection 
+was to review the quality assurance activities associated with the development of digital 
+instrumentation and control systems and components for the Westinghouse AP1000 
+reactor design for the Vogtle Units 3 and 4 currently under construction.  The vendor 
+inspection activities were documented in IR 99901404/2011-201 (ADAMS Accession 
+No. ML111890005). 
+ 
+The lead for this inspection is Mr. Greg Galletti, who can be reached by phone at  
+301-415-1831 or via electronic mail at Greg.Galletti@nrc.gov. 
+  
+ 
+8 
+b. Findings and Observations 
+ 
+IR 99901404/2011-201 contains two findings associated with the following ITAAC:  
+ 
+ITAAC Design 
+Commitment 
+Inspections, Tests, 
+Analysis Acceptance Criteria 
+2.5.02.14 The Component 
+Interface Module 
+(CIM) is developed 
+using a planned 
+design process 
+which provides for 
+specific design 
+documentation and 
+reviews. 
+An inspection and 
+or an audit will be 
+performed of the 
+processes used to 
+design the 
+hardware, 
+development 
+software, 
+qualification and 
+testing.  
+A report exists and 
+concludes that CIM 
+meets the below listed 
+life cycle stages. Life 
+cycle stages:  
+a. Design requirements 
+phase, may be 
+referred to as 
+conceptual or project 
+definition phase  
+b. System definition 
+phase  
+c. Hardware and 
+software 
+development phase, 
+consisting of 
+hardware and 
+software design and 
+implementation  
+d. System integration 
+and test phase  
+e. Installation phase 
+ 
+IR 99901404/2011-201 states: 
+ 
+The NRC inspector determined that CSI failed to establish and implement 
+provisions to collect information on error reports related to discrete components 
+used in safety-related applications.  Specifically, the NRC inspection team 
+determined that CSI procedure QCP 9000-01500, “Control of Nonconformance,” 
+Revision 6, dated December 12, 2010, did not have provisions for the collection, 
+evaluation, disposition, and notification to affected organizations of 
+nonconforming conditions related to discrete components, such as field 
+programmable gate arrays used in safety-related applications.  As a result CSI 
+did not formally collect and evaluate error reports for such safety-related 
+components to determine if nonconforming conditions could exist.  This item was 
+identified as Nonconformance 99901404/2011-201-03. 
+ 
+The NRC inspectors determined that CSI failed to establish measures to assure 
+that applicable requirements associated with specific independent verification 
+and validation (IV&V) activities were implemented.  Specifically, CSI’s IV&V 
+process failed to provide for the development of an independent testing tool 
+during the component or module-based level of development for the CIM-SRNC  
+  
+ 
+9 
+subsystem, and CSI’s IV&V process did not include specific independent test 
+plans for implementation by the IV&V team as required by CSI Report  
+No. 6105-00013.  This item was identified as Nonconformance 99901404/2011-
+201-04. 
+ 
+The NRC staff determined that the vendor findings represented ITAAC findings because 
+they were material to the acceptance criteria of VEGP Units 3 and 4 ITAAC 2.5.02.14, in 
+that, if left uncorrected, the licensee may not have been able to demonstrate that the 
+acceptance criterion of this ITAAC was met.  The acceptance criteria of this ITAAC 
+require a report exists and concludes that CIM meets the following life cycle stages: 
+ 
+1. Design requirements phase, may be referred to as conceptual or project 
+definition phase 
+2. System definition phase  
+3. Hardware and software development phase, consisting of hardware and 
+software design and implementation  
+4. System integration and test phase  
+5. Installation phase 
+ 
+The inspectors determined that the quality assurance failures found would have 
+prevented the development of an acceptable report for the CIM and therefore, the ITAAC 
+acceptance criteria would not be met by the licensee. 
+ 
+5. Obayashi Corporation / Docket No. 99901409 
+ 
+a. Inspection Scope 
+ 
+During the period of September 12-16, 2011, the U.S. NRC staff conducted an 
+inspection at the Obayashi Corporation (hereafter referred to as Obayashi) facility in 
+Tokyo, Japan.  The purpose of this inspection was to evaluate the quality assurance 
+activities associated with the design services being provided the Westinghouse Electric 
+Company in support of the AP1000 reactor design for the Vogtle Units 3 and 4 currently 
+under construction.  The vendor inspection activities were documented in IR 
+99901409/2011-201 (ADAMS Accession No. ML11286A106). 
+ 
+The lead for this inspection is Ms. Kerri Kavanagh, who can be reached by phone at  
+301-415-3743 or via electronic mail at Kerri.Kavanagh@nrc.gov. 
+  
+ 
+10 
+b. Findings and Observations 
+ 
+IR 99901409/2012-201 contains one finding associated with the following ITAAC: 
+ 
+ITAAC Design 
+Commitment 
+Inspections, 
+Tests, Analysis Acceptance Criteria 
+3.3.00.02a.i.a The nuclear island 
+structures, including 
+the critical sections 
+listed in Table 3.3-7, 
+are seismic Category 
+I and are designed 
+and constructed to 
+withstand design 
+basis loads as 
+specified in the 
+Design Description, 
+without loss of 
+structural integrity 
+and the  
+safety-related 
+functions. 
+An inspection of the 
+nuclear island 
+structures will be 
+performed.  
+Deviations from the 
+design due to as-
+built conditions will 
+be analyzed for the 
+design basis loads. 
+A report exists which 
+reconciles deviations 
+during construction and 
+concludes that the  
+as-built containment 
+internal structures, 
+including the critical 
+sections, conform to the 
+approved design and will 
+withstand the design 
+basis loads specified in 
+the Design Description 
+without loss of structural 
+integrity or the  
+safety-related functions. 
+3.3.00.02a.i.b The nuclear island 
+structures, including 
+the critical sections 
+listed in Table 3.3-7, 
+are seismic Category 
+I and are designed 
+and constructed to 
+withstand design 
+basis loads as 
+specified in the 
+Design Description, 
+without loss of 
+structural integrity 
+and the  
+safety-related 
+functions. 
+An inspection of the 
+nuclear island 
+structures will be 
+performed.  
+Deviations from the 
+design due to as-
+built conditions will 
+be analyzed for the 
+design basis loads. 
+A report exists which 
+reconciles deviations 
+during construction and 
+concludes that the  
+as-built shield building 
+structures, including the 
+critical sections, conform 
+to the approved design 
+and will withstand the 
+design basis loads 
+specified in the Design 
+Description without loss 
+of structural integrity or 
+the safety-related 
+functions. 
+  
+ 
+11 
+ITAAC Design 
+Commitment 
+Inspections, 
+Tests, Analysis Acceptance Criteria 
+3.3.00.02a.i.c The nuclear island 
+structures, including 
+the critical sections 
+listed in Table 3.3-7, 
+are seismic Category 
+I and are designed 
+and constructed to 
+withstand design 
+basis loads as 
+specified in the 
+Design Description, 
+without loss of 
+structural integrity 
+and the  
+safety-related 
+functions. 
+An inspection of the 
+nuclear island 
+structures will be 
+performed.  
+Deviations from the 
+design due to as-
+built conditions will 
+be analyzed for the 
+design basis loads. 
+A report exists which 
+reconciles deviations 
+during construction and 
+concludes that the  
+as-built structures in the 
+non-radiologically 
+controlled area of the 
+auxiliary building, 
+including the critical 
+sections, conform to the 
+approved design and will 
+withstand the design 
+basis loads specified in 
+the Design Description 
+without loss of structural 
+integrity or the  
+safety-related functions. 
+3.3.00.02a.i.d The nuclear island 
+structures, including 
+the critical sections 
+listed in Table 3.3-7, 
+are seismic Category 
+I and are designed 
+and constructed to 
+withstand design 
+basis loads as 
+specified in the 
+Design Description, 
+without loss of 
+structural integrity 
+and the  
+safety-related 
+functions. 
+An inspection of the 
+nuclear island 
+structures will be 
+performed.  
+Deviations from the 
+design due to as-
+built conditions will 
+be analyzed for the 
+design basis loads. 
+A report exists which 
+reconciles deviations 
+during construction and 
+concludes that the  
+as-built structures in the 
+radiologically controlled 
+area of the auxiliary 
+building, including the 
+critical sections, conform 
+to the approved design 
+and will withstand the 
+design basis loads 
+specified in the Design 
+Description without loss 
+of structural integrity or 
+the safety-related 
+functions. 
+ 
+IR 99901409/2011-201 states: 
+ 
+The NRC inspectors determined that Obayashi failed to: 1) assure that applicable 
+design basis are correctly translated into calculations; 2) establish procedures for 
+the identification and control of design control interfaces and for coordination 
+among the participating design organizations; and 3) subject design changes to 
+the commensurate design control measures applied to the original design.  This 
+item was identified as Nonconformance 99901409/2011-201-03. 
+ 
+The NRC staff determined that the vendor finding represented an ITAAC finding 
+because it was material to the acceptance criteria of VEGP Units 3 and 4 ITAAC listed 
+above, in that, if left uncorrected, the licensee may not have been able to demonstrate 
+that the acceptance criteria of these ITAACs were met.  The acceptance criteria of these 
+ITAACs require that all construction deviations be reconciled to verify that the as-built 
+ 
+12 
+structures conform to the approved design and will withstand the design basis loads 
+without a loss of structural integrity or other safety-related functions.  The inspectors 
+determined that the failure to adequately review and reconcile nonconforming items in 
+accordance with adequate documented procedures may have resulted in a construction 
+deviation that may not be properly reconciled by the licensee. 
+ 
+6. Kinectrics / Docket No. 99901415 
+ 
+a. Inspection Scope 
+ 
+During the period of May 14-18, 2012, the U.S. NRC staff conducted an inspection at the 
+Kinectrics Inc. (hereafter referred to as Kinectrics) facility in Toronto, Ontario.  The 
+purpose of the inspection was to evaluate the quality assurance activities associated 
+with the supply of testing services by Kinectrics in support of environmental qualification 
+of components being used in the Westinghouse AP1000 reactor design for the Vogtle 
+Units 3 and 4 currently under construction.  The vendor inspection activities were 
+documented in Inspection Report (IR) 99901415/2012-201 (ADAMS Accession 
+No. ML12179A413). 
+ 
+The lead for this inspection is Mr. Jeffrey Jacobson, who can be reached by phone at  
+301-415-2977 or via electronic mail at Jeffrey.Jacobson@nrc.gov. 
+ 
+b. Findings and Observations 
+ 
+IR 99901415/2012-201 contains two findings associated with the following ITAAC: 
+ 
+ITAAC Design Commitment Inspections, Tests, 
+Analysis Acceptance Criteria 
+2.2.01.05.ii The seismic Category 
+I equipment identified 
+in Table 2.2.1-1 can 
+withstand seismic 
+design basis loads 
+without loss of 
+structural integrity 
+and safety function. 
+Type tests, 
+analyses, or a 
+combination of type 
+tests and analyses 
+of seismic Category 
+I equipment will be 
+performed. 
+A report exists and 
+concludes that the 
+seismic Category I 
+equipment can 
+withstand seismic 
+design basis 
+dynamic loads 
+without loss of 
+structural integrity 
+and safety function. 
+  
+ 
+13 
+ITAAC Design Commitment Inspections, Tests, 
+Analysis Acceptance Criteria 
+2.2.01.06a.i The Class 1E 
+equipment identified 
+in Table 2.2.1-1 as 
+being qualified for a 
+harsh environment 
+can withstand the 
+environmental 
+conditions that would 
+exist before, during, 
+and following a 
+design basis accident 
+without loss of safety 
+function for the time 
+required to perform 
+the safety function. 
+Type tests, 
+analyses, or a 
+combination of type 
+tests and analyses 
+will be performed on 
+Class 1E equipment 
+located in a harsh 
+environment. 
+A report exists and 
+concludes that the 
+Class 1E equipment 
+identified in Table 
+2.2.1-1 as being 
+qualified for a harsh 
+environment can 
+withstand the 
+environmental 
+conditions that would 
+exist before, during, 
+and following a 
+design basis 
+accident without loss 
+of safety function for 
+the time required to 
+perform the safety 
+function. 
+ 
+IR 99901415/2012-201 states: 
+ 
+The NRC inspectors determined that Kinectrics failed to implement measures to 
+ensure that testing performed by subcontractors was in conformance with 
+procurement documents.  Specifically: (1) Kinectrics did not properly dedicate the 
+testing services provided by Global EMC, Inc., for the performance of 
+electromagnetic compatibility testing, as necessary to ensure that the testing was 
+performed in accordance with the stated requirements; and (2) Kinectrics did not 
+ensure that the test report produced by its subcontractor, Clark Testing 
+Laboratories, for seismic testing of electrical penetration assemblies performed in 
+accordance with stated requirements.  This item was identified as 
+Nonconformance 99901415/2012-201-01. 
+ 
+The NRC inspectors determined that Kinectrics did not explicitly state the proper 
+technical standard and revision to be used for electromagnetic compatibility 
+testing of electrical penetration assemblies.  Consequently, the incorrect revision 
+of the MIL-STD-461 was used to perform the testing.  This item was identified as 
+Nonconformance 99901415/2012-201-02. 
+ 
+These items are material to the ITAAC acceptance criteria because if left uncorrected, 
+these issues challenge the validity of the qualification testing performed on the subject 
+equipment as required by the ITAAC. 
+  
+ 
+14 
+7. Cives Steel Company / Docket No. 99901419 
+ 
+a. Inspection Scope 
+ 
+During the period of December 10-14, 2012, the U.S. NRC staff conducted an inspection 
+at the Cives Steel Company (hereafter referred to as Cives) facility in Thomasville, GA.  
+This inspection evaluated the quality assurance activities associated with the fabrication 
+of concrete embedments for the AP1000 reactor plants for the Vogtle Units 3 and 4 
+currently under construction.  The vendor inspection activities were documented in IR 
+99901419/2012-201 (ADAMS Accession No. ML13042A397). 
+ 
+The lead for this inspection is Mr. Jonathan Ortega-Luciano, who can be reached by 
+phone at 301-415-1159 or via electronic mail at Jonathan.Ortega-Luciano@nrc.gov. 
+ 
+b. Findings and Observations 
+ 
+IR 99901419/2012-201 contains one finding associated with the following ITAAC: 
+ 
+ITAAC Design Commitment Inspections, 
+Tests, Analysis Acceptance Criteria 
+3.3.00.02a.i.a The nuclear island 
+structures, including 
+the critical sections 
+listed in Table 3.3-7, 
+are seismic Category I 
+and are designed and 
+constructed to 
+withstand design basis 
+loads as specified in 
+the Design Description, 
+without loss of 
+structural integrity and 
+the  
+safety-related 
+functions. 
+An inspection of the 
+nuclear island 
+structures will be 
+performed.  
+Deviations from the 
+design due to as-
+built conditions will 
+be analyzed for the 
+design basis loads. 
+A report exists which 
+reconciles deviations 
+during construction and 
+concludes that the as-
+built containment 
+internal structures, 
+including the critical 
+sections, conform to 
+the approved design 
+and will withstand the 
+design basis loads 
+specified in the Design 
+Description without 
+loss of structural 
+integrity or the safety-
+related functions. 
+  
+ 
+15 
+ITAAC Design Commitment Inspections, 
+Tests, Analysis Acceptance Criteria 
+3.3.00.02a.i.b The nuclear island 
+structures, including 
+the critical sections 
+listed in Table 3.3-7, 
+are seismic Category I 
+and are designed and 
+constructed to 
+withstand design basis 
+loads as specified in 
+the Design Description, 
+without loss of 
+structural integrity and 
+the  
+safety-related 
+functions. 
+An inspection of the 
+nuclear island 
+structures will be 
+performed.  
+Deviations from the 
+design due to as-
+built conditions will 
+be analyzed for the 
+design basis loads. 
+A report exists which 
+reconciles deviations 
+during construction and 
+concludes that the as-
+built shield building 
+structures, including 
+the critical sections, 
+conform to the 
+approved design and 
+will withstand the 
+design basis loads 
+specified in the Design 
+Description without 
+loss of structural 
+integrity or the safety-
+related functions. 
+3.3.00.02a.i.c The nuclear island 
+structures, including 
+the critical sections 
+listed in Table 3.3-7, 
+are seismic Category I 
+and are designed and 
+constructed to 
+withstand design basis 
+loads as specified in 
+the Design Description, 
+without loss of 
+structural integrity and 
+the  
+safety-related 
+functions. 
+An inspection of the 
+nuclear island 
+structures will be 
+performed.  
+Deviations from the 
+design due to as-
+built conditions will 
+be analyzed for the 
+design basis loads. 
+A report exists which 
+reconciles deviations 
+during construction and 
+concludes that the as-
+built structures in the  
+non-radiologically 
+controlled area of the 
+auxiliary building, 
+including the critical 
+sections, conform to 
+the approved design 
+and will withstand the 
+design basis loads 
+specified in the Design 
+Description without 
+loss of structural 
+integrity or the safety-
+related functions. 
+  
+ 
+16 
+ITAAC Design Commitment Inspections, 
+Tests, Analysis Acceptance Criteria 
+3.3.00.02a.i.d The nuclear island 
+structures, including 
+the critical sections 
+listed in Table 3.3-7, 
+are seismic Category I 
+and are designed and 
+constructed to 
+withstand design basis 
+loads as specified in 
+the Design Description, 
+without loss of 
+structural integrity and 
+the  
+safety-related 
+functions. 
+An inspection of the 
+nuclear island 
+structures will be 
+performed.  
+Deviations from the 
+design due to as-
+built conditions will 
+be analyzed for the 
+design basis loads. 
+A report exists which 
+reconciles deviations 
+during construction and 
+concludes that the as-
+built structures in the 
+radiologically controlled 
+area of the auxiliary 
+building, including the 
+critical sections, 
+conform to the 
+approved design and 
+will withstand the 
+design basis loads 
+specified in the Design 
+Description without 
+loss of structural 
+integrity or the safety-
+related functions. 
+ 
+IR 99901419/2012-201 states: 
+ 
+The inspectors determined that Cives failed to establish and implement a 
+program for inspection of activities affecting quality to verify conformance with the 
+documented instructions, procedures, and drawings.  Specifically, (1) Cives failed 
+to adequately implement its inspection program to inspect stud welds on 
+embedment APP-12S02-CE-PW908 for Vogtle Electric Generating Plant, Unit 3, 
+which connects to stairs in Auxiliary Building Area 1, Wall P, west face, at an 
+elevation of 66 feet 6 inches; and (2) Cives failed to test at least 1 out of every 
+100 studs welded by each operator as required by Westinghouse Specification 
+APP-SS01-Z0-003, Revision 3, dated March 3, 2011, and the inspection plan 
+entitled, “Inspection Fabrication Plan No. 5200-01 for Embeds, Items, and 
+Anchor Bolts,” Revision 1, dated December 14, 2011.  These issues were 
+identified as Nonconformance (NON) 99901419-2012-201-03. 
+ 
+The NRC staff determined that the finding represented an ITAAC finding because it was 
+material to the acceptance criteria of VEGP Units 3 and 4 ITAAC listed above, in that, if 
+left uncorrected, the licensee may not have been able to successfully complete the 
+ITAAC.  The acceptance criteria of these ITAACs require that all construction deviations 
+be reconciled to verify that the as-built structures will conform to the approved design 
+and withstand the design basis loads without a loss of structural integrity or other safety-
+related functions.  The inspectors determined that the failure to adequately review and 
+accept nonconforming items in accordance with adequate documented procedures may 
+have resulted in a construction deviation that may not be properly reconciled by the 
+licensee. 
+  
+ 
+17 
+8. Chicago Bridge & Iron (CB & I) Lake Charles / Docket No. 99901425 
+ 
+a. Inspection Scope 
+ 
+During the week from February 3-7, 2014, the U.S. NRC staff conducted an inspection at 
+the Chicago Bridge & Iron Lake Charles (hereafter referred to as CB&I LC) facility in 
+Lake Charles, LA.  The purpose of the inspection was to evaluate CB&I LC’s 
+implementation of quality assurance activities associated with the fabrication and 
+inspection of the Westinghouse Electric Company AP1000 reactor design of structural 
+sub-modules for the Vogtle Units 3 and 4 currently under construction.  The vendor 
+inspection activities were documented in Inspection Report (IR) 99901425/2014-201 
+(ADAMS Accession No. ML14072A315). 
+ 
+The lead for this inspection is Mr. Paul Prescott, who can be reached by phone at  
+301-415-3026 or via electronic mail at Paul.Prescott@nrc.gov. 
+ 
+b. Findings and Observations 
+ 
+IR 99901425/2014-201 contains one finding associated with the following ITAAC: 
+ 
+ITAAC Design 
+Commitment 
+Inspections, Tests, 
+Analysis 
+Acceptance 
+Criteria 
+3.3.00.02.a.i.a The nuclear island 
+structures, including 
+the critical sections 
+listed in Table 3.3-7, 
+are seismic Category 
+I and are designed 
+and constructed to 
+withstand design 
+basis loads as 
+specified in the 
+Design Description, 
+without loss of 
+structural integrity 
+and the safety-
+related functions.  
+An inspection of the 
+nuclear island 
+structures will be 
+performed.  
+Deviations from the 
+design due to as-
+built conditions will 
+be analyzed for the 
+design basis loads. 
+A report exists which 
+reconciles deviations 
+during construction 
+and concludes that 
+the as-built 
+containment internal 
+structures, including 
+the critical sections, 
+conform to the 
+approved design and 
+will withstand the 
+design basis loads 
+specified in the 
+Design Description 
+without loss of 
+structural integrity or 
+the safety-related 
+functions. 
+  
+ 
+18 
+ITAAC Design 
+Commitment 
+Inspections, Tests, 
+Analysis 
+Acceptance 
+Criteria 
+3.3.00.02a.i.d The nuclear island 
+structures, including 
+the critical sections 
+listed in Table 3.3-7, 
+are seismic Category 
+I and are designed 
+and constructed to 
+withstand design 
+basis loads as 
+specified in the 
+Design Description, 
+without loss of 
+structural integrity 
+and the safety-
+related functions. 
+Inspection will be 
+conducted of the as-
+built piping as 
+documented in the 
+ASME design 
+reports. 
+A report exists which 
+reconciles deviations 
+during construction 
+and concludes that 
+the as-built 
+structures in the 
+radiologically 
+controlled area of 
+the auxiliary building, 
+including the critical 
+sections, conform to 
+the approved design 
+and will withstand 
+the design basis 
+loads specified in the 
+Design Description 
+without loss of 
+structural integrity or 
+the safety-related 
+functions. 
+ 
+IR 99901425/2014-201 states: 
+ 
+The NRC inspectors determined that CB&I LC failed to adequately implement 
+measures to control materials, parts, or components which do not conform to 
+requirements in order to prevent their inadvertent use or installation.  Specifically, 
+CB&I LC failed to correctly identify unresolved nonconformances on a  
+safety-related sub-module being prepared to ship: one stud that had an 
+incomplete weld was incorrectly located in the documentation; one stud that was 
+identified on the documentation as being added and having incomplete weld did 
+not appear to exist on the module; and one stud was documented as having an 
+incomplete weld, but was actually missing.  This item was identified as 
+Nonconformance 99901425/2014-201-01. 
+ 
+The NRC staff determined that the finding represented an ITAAC finding because it was 
+material to the acceptance criteria of VEGP Units 3 and 4 ITAAC listed above, in that, if left 
+uncorrected, the licensee may not have been able to successfully complete the ITAAC.  The 
+acceptance criteria of these ITAACs require that all construction deviations be reconciled to 
+verify that the as-built structures will conform to the approved design and withstand the 
+design basis loads without a loss of structural integrity or other safety-related functions.  The 
+inspectors determined that the failure to adequately review and accept nonconforming items 
+in accordance with adequate documented procedures may have resulted in a construction 
+deviation that may not be properly reconciled by the licensee. 
+  
+ 
+19 
+9. SMCI / Docket No. 99901439 
+ 
+a. Inspection Scope 
+ 
+During the period April 7-11, 2014, the U.S. NRC staff conducted an inspection at the 
+Specialty Maintenance and Construction, Inc. (hereafter referred to as SMCI) facility in 
+Lakeland, FL.  The purpose of this inspection was evaluate SMCI’s implementation of 
+quality assurance activities associated with the fabrication of the remain-in-place steel 
+formwork modules for concrete, in-containment refueling water storage tank wall and 
+reactor vessel cavity modules for the Westinghouse Electric Company (WEC) AP1000 
+reactor design for the Vogtle Units 3 and 4 currently under construction.  The vendor 
+inspection activities were documented in Inspection Report (IR) 99901439/2014-201 
+(ADAMS Accession No. ML14121A433). 
+ 
+During the period June 8-12, 2015, the NRC staff conducted an inspection at the SMCI 
+facility in Lakeland, FL.  The purpose of this inspection was to evaluate SMCI’s 
+implementation of quality assurance activities associated with the fabrication of the 
+embed plates for the CA-01 module (steam generator and refueling canal module) and 
+CA-02 module (independent wall structure connecting the CA-01 and CA-03 module, 
+where the CA-03 module is the in-containment refueling water storage tank module).  
+These are modules for the Westinghouse AP1000 reactor design for the Vogtle Units 3 
+and 4 currently under construction.  The vendor inspection activities were documented in 
+IR 99901439/2015-201 (ADAMS Accession No. ML15175A446). 
+ 
+The lead for the above inspections is Mr. Yamir Diaz-Castillo, who can be reached by 
+phone at 301-415-2228 or via electronic mail at Yamir.Diaz-Castillo@nrc.gov. 
+ 
+b. Findings and Observations 
+ 
+IR 99901439/2014-201 contains one finding, and IR 99901439-2015-201 contains two 
+findings associated with the following ITAAC: 
+ 
+ITAAC Design 
+Commitment 
+Inspections, 
+Tests, Analysis Acceptance Criteria 
+3.3.00.02a.i.a The nuclear island 
+structures, including 
+the critical sections 
+listed in Table 3.3-7, 
+are seismic Category 
+I and are designed 
+and constructed to 
+withstand design 
+basis loads as 
+specified in the 
+Design Description, 
+without loss of 
+structural integrity 
+and the safety-
+related functions. 
+An inspection of 
+the nuclear 
+island structures 
+will be 
+performed.  
+Deviations from 
+the design due 
+to as-built 
+conditions will be 
+analyzed for the 
+design basis 
+loads. 
+A report exists which reconciles 
+deviations during construction 
+and concludes that the as-built 
+containment internal structures, 
+including the critical sections, 
+conform to the approved design 
+and will withstand the design 
+basis loads specified in the 
+Design Description without loss 
+of structural integrity or the 
+safety-related functions. 
+  
+ 
+20 
+IR 99901439/2014-201 states: 
+ 
+The NRC inspectors determined that SMCI failed to qualify a welding procedure 
+in accordance with WEC specification APP-VW20-ZO-023.  Specifically, SMCI 
+welding procedure qualification record (PQR) 1015-Partial Joint Penetration 
+(PJP), lists the results of the ferrite testing of the test weld root as 73 percent, 
+which is outside of the 35-65 percent ferrite range acceptance criteria specified 
+by WEC in APP-VW20-ZO-023.  PQR 1015-PJP is a supporting PQR for welding 
+procedure specification (WPS) number 1015.  WPS 1015 is being used to 
+perform welding on the in-containment refueling water storage tank modules for 
+the AP1000 reactor design.  This item was identified as Nonconformance 
+99901439/2014-201-01. 
+ 
+IR 99901439/2015-201 states: 
+ 
+The NRC inspectors determined that SMCI failed to transfer all the pertinent 
+design requirements into the applicable instructions and failed to inspect welds in 
+accordance with the applicable travelers and design specification drawings.  
+Specifically, (1) SMCI did not adequately incorporate several general notes on 
+NDE requirements from WEC design specifications drawings into all the 
+applicable travelers.  These general notes would require visual examination (VT), 
+and magnetic particle examination (MT) or liquid penetrant (PT) examination of 
+both the reinforcing fillet weld and the partial joint penetration (PJP).  By not 
+correctly transferring nondestructive examination requirements to the SMCI 
+travelers, partial penetration welds did not receive the required surface 
+examinations required by the WEC design drawings; and (2) SMCI only 
+performed VT and MT examination of the reinforcing fillet weld that is applied 
+over the PJP, and did not perform a VT and MT examination of the PJP as 
+required by several general notes from design specification drawing APP-GW-
+S9-105.  Not inspecting the PJP welds leaves the quality of welds to be 
+indeterminate, and therefore affects how these welds would meet their design 
+stress requirements and would perform their intended safety function.  This item 
+was identified as Nonconformance 99901439/2015-201-01. 
+ 
+The NRC inspectors determined SMCI failed to control welding consumable filler 
+metal in accordance with applicable procedures and criteria.  Specifically, (1) 
+SMCI did not record on form WCIL-001 the weld filler metal that was issued for 
+the time period of June 28, 2014, through July 11, 2014, as required by the 
+applicable procedure; and (2) During a review of traveler 926-CA01-00774, the 
+NRC inspection team noted that a welder used weld filler metal to weld the beam 
+seat that was not the weld filler metal he was issued and required to use.  The 
+use of the correct weld filler metal for welding the beam seat was not adequately 
+controlled as required by the applicable procedure.  This item was identified as 
+Nonconformance 99901439/2015-201-02. 
+ 
+The NRC staff determined that the above findings represent ITAAC findings because 
+they are material to the acceptance criteria of VEGP Units 3 and 4 ITAAC 3.3.00.02a.i.a 
+in that, if left uncorrected, the licensee may not have been able to successfully complete 
+the ITAAC.  The acceptance criteria of these ITAACs require that all construction 
+deviations be reconciled to verify that the as-built structures will conform to the approved 
+design and withstand the design basis loads without a loss of structural integrity or other 
+ 
+21 
+safety-related functions.  The inspectors determined that the failure to adequately review 
+and accept nonconforming items in accordance with adequate documented procedures 
+may have resulted in a construction deviation that may not be properly reconciled by the 
+licensee. 
+ 
+10. Oregon Iron Works / Docket Nos. 99901448/1449 
+ 
+a. Inspection Scope 
+ 
+During the period of September 22-26, 2014, the U.S. Nuclear Regulatory Commission 
+(NRC) staff conducted an inspection at the Oregon Iron Works, Inc. (hereafter referred to 
+as OIW) facilities in Clackamas, OR and Vancouver, WA.  The purpose of the inspection 
+was to evaluate OIW’s implementation of quality assurance activities associated with the 
+fabrication and inspection of the CA20 Auxiliary Building Modules for the Westinghouse 
+Electric Company (WEC) AP1000 reactor design for the Vogtle Units 3 and 4 currently 
+under construction.  The vendor inspection activities were documented in Inspection 
+Report (IR) 99901448/2014-201 / 999901449/2014-201 (ADAMS Accession 
+No. ML14308A463). 
+ 
+The lead for this inspection is Mr. Jonathan Ortega-Luciano, who can be reached by 
+phone at 301-415-1159 or via electronic mail at Jonathan.Ortega-Luciano@nrc.gov. 
+ 
+b. Findings and Observations 
+ 
+IR 99901448/2017-201 / 999901449/2014-201 contains one finding associated with the 
+following ITAAC: 
+ 
+ITAAC Design Commitment Inspections, 
+Tests, Analysis Acceptance Criteria 
+3.3.00.02a.i.d The nuclear island 
+structures, including 
+the critical sections 
+listed in Table 3.3-7, 
+are seismic Category 
+I and are designed 
+and constructed to 
+withstand design 
+basis loads as 
+specified in the 
+Design Description, 
+without loss of 
+structural integrity and 
+the safety-related 
+functions. 
+Inspection will be 
+conducted of the 
+as-built piping as 
+documented in the 
+ASME design 
+reports. 
+A report exists which 
+reconciles deviations 
+during construction 
+and concludes that 
+the as-built structures 
+in the radiologically 
+controlled area of the 
+auxiliary building, 
+including the critical 
+sections, conform to 
+the approved design 
+and will withstand the 
+design basis loads 
+specified in the 
+Design Description 
+without loss of 
+structural integrity or 
+the safety-related 
+functions. 
+  
+ 
+22 
+IR 99901448/2014-201 / 999901449/2014-201 states: 
+ 
+The NRC inspectors determined that OIW failed to ensure the selection and 
+review for suitability of application of materials, parts, equipment, and processes 
+that are essential to the safety-related functions of the structures, systems, and 
+components.  Additionally, OIW failed to establish appropriate measures that 
+included provisions for source evaluation of subcontractors.  This item was 
+identified as Nonconformances 99901448/2014-201-02 and  
+99901449/2014-201-02. 
+ 
+The NRC staff determined that the above finding is an ITAAC finding because it was 
+material to the acceptance criteria of VEGP Units 3 and 4 ITAAC 3.3.00.02a.i.d, in that, if 
+left uncorrected, the licensee may not have been able to successfully complete the 
+ITAAC.  The acceptance criteria of this ITAAC requires that all construction deviations 
+be reconciled to verify that the as-built structures will conform to the approved design 
+and withstand the design basis loads without a loss of structural integrity or other safety-
+related functions.  The inspectors determined that the failure to adequately review and 
+accept nonconforming items in accordance with documented procedures may have 
+resulted in a construction deviation that may not be properly reconciled by the licensee. 
+ 
+11. WECTEC/ Docket No. 99901467 
+ 
+a. Inspection Scope 
+ 
+During the period from November 14-18, 2016, the U.S. NRC conducted an inspection at 
+the Westinghouse/WECTEC facility in Charlotte, North Carolina.  The purpose of the 
+inspection was to review implementation of Westinghouse’s processes for transferring 
+the design requirements contained in the AP1000 Design Control Document into 
+detailed engineering, procurement, and construction documents, consistent with NRC 
+requirements.  The vendor inspection activities were documented in Inspection Report 
+(IR) 99901467/2016-201 (ADAMS Accession No. ML17013A658). 
+ 
+The lead for this inspection is Mr. Jeffrey Jacobson, who can be reached by phone at  
+301-415-2977 or via electronic mail at Jeffrey.jacobson@nrc.gov. 
+  
+ 
+23 
+b. Findings and Observations 
+ 
+IR 99901467/2016-201 contains one finding associated with the following ITAAC: 
+ 
+ITAAC Design 
+Commitment 
+Inspections, 
+Tests, 
+Analysis 
+Acceptance Criteria 
+2.6.03.08 Circuit breakers 
+and fuses 
+installed in IDS 
+battery, battery 
+charger, dc 
+distribution panel, 
+and MCC circuits 
+are rated to 
+interrupt fault 
+currents. 
+Analyses for 
+the as-built IDS 
+dc electrical 
+distribution 
+system to 
+determine fault 
+currents will be 
+performed. 
+Analyses for the as-built IDS 
+dc electrical distribution 
+system exist and conclude 
+that the analyzed fault 
+currents do not exceed the 
+interrupt capacity of circuit 
+breakers and fuses in the 
+battery, battery charger, dc 
+distribution panel, and MCC 
+circuits, as determined by 
+their nameplate ratings. 
+ 
+IR 99901467/2016-201 states, in part, that: 
+ 
+The inspectors identified that Document CDI 3398 does not list the circuit breakers’ 
+interrupting current rating as a critical characteristic.  Consequently, no specific actions 
+were taken as part of the dedication process (or as part of any other Westinghouse 
+process) to identify and verify the validity of the breakers’ interrupting current ratings. 
+The inspectors noted the interrupting current capacity of these components is a critical 
+element of the IDS design and is also specifically called out in ITAAC 2.6.03.08.  While 
+Westinghouse performed commercial grade surveys of the commercial manufacturer, as 
+described in Document CDI 3398, these surveys did not specifically evaluate the 
+adequacy of the methods used by the commercial manufacturer to establish the 
+interrupting current ratings, or whether sufficient quality controls were implemented at 
+facilities utilized to test the interrupting current capacity of the breakers.  While not 
+specifically reviewed during this inspection, Westinghouse indicated the concern raised 
+by the inspectors would also apply to fuses, as their interrupting capacity was also not 
+captured via the dedication process.  
+ 
+ITAAC 2.6.03.08 states, “Circuit breakers and fuses installed in IDS battery, battery 
+charger, dc distribution panel, and MCC circuits are rated to interrupt fault currents.”  
+The acceptance criteria for this ITAAC states, “Analyses for the as-built IDS dc electrical 
+distribution system exist and conclude that the analyzed fault currents do not exceed the 
+interrupt capacity of circuit breakers and fuses in the battery, battery charger, dc 
+distribution panel, and MCC circuits, as determined by their nameplate ratings.”  
+Contrary to the above, prior to November 18, 2016, Westinghouse failed to identify and 
+verify the adequacy of circuit breaker and fuse interrupting current ratings as a critical 
+characteristic, as part of its commercial grade dedication process.  This issue is 
+identified as Nonconformance 99901467/2016-201-01. 
+ 
+The issue is material to ITAAC 2.6.03.08 because if the interrupting ratings for the circuit 
+breakers and fuses cannot be verified, the analyses which compares the available fault 
+currents to those ratings would be invalid, and if left uncorrected, the licensee may not be 
+able to successfully complete the ITAAC. 

@@ -1,0 +1,434 @@
+ 
+ 
+ 
+December 9, 2016 
+ 
+ 
+Mr. Michael Yox 
+Regulatory Affairs Director 
+Southern Nuclear Operating Company 
+7835 River Road, Bldg. 140, Vogtle 3&4 
+Waynesboro, GA  30830 
+ 
+Mr. Ronald A. Jones, Vice President 
+New Nuclear Operations 
+South Carolina Electric & Gas Company 
+14368 State Highway 213 
+Jenkinsville, SC  29065 
+ 
+SUBJECT: SUMMARY OF NUCLEAR REGULATORY COMMISSION VENDOR 
+INSPECTIONS AFFECTING INSPECTIONS, TESTS, ANALYSES, AND 
+ACCEPTANCE CRITERIA 
+ 
+Dear Mr. Yox and Mr. Jones: 
+ 
+Attached is a summary of all vendor inspections performed since our last letter dated 
+October 8, 2015, as they relate to ITAAC for Vogtle Units 3 and 4 and Summer Units 2 and 3. 
+ 
+As discussed at the February 7, 2013, public meeting, the U.S. Nuclear Regulatory Commission 
+(NRC) staff is informing holders of a combined license that incorporates by reference 
+Appendix D of Title 10 of the Code of Federal Regulations (10 CFR) Part 52, “Design 
+Certification Rule for the AP1000 Design,” of recent vendor issues that, if left uncorrected, are 
+material to inspections, tests, analyses, and acceptance criteria (ITAAC).  Each of the 
+inspection findings in the attachment apply to all four of the new Vogtle and Summer units. 
+ 
+The NRC’s Vendor Inspection Program verifies effective licensee oversight of the supply chain 
+through inspections of a sample of vendors.  Licensees are ultimately responsible for vendor 
+oversight and vendor performance.  It is the agency’s expectation that licensees consider NRC 
+vendor inspection findings as potential weaknesses in their procurement programs. 
+ 
+Consistent with the guidance in the NRC-endorsed Nuclear Energy Institution (NEI) 08-01, 
+Industry Guideline for the ITAAC Closure Process under 10 CFR Part 52, licensees should 
+discuss the resolution of ITAAC findings (including potential ITAAC-related issues identified 
+through vendor inspections) in their ITAAC closure notifications in accordance with 
+10 CFR 52.99(c)(1), “ITAAC closure notification.”  Section 52.99(c)(1) states, “The licensee shall 
+notify the NRC that prescribed inspections, tests, and analyses have been performed and that 
+the prescribed acceptance criteria are met.  The notification must contain sufficient information 
+to demonstrate that the prescribed inspections, tests, and analyses have been performed and 
+that the prescribed acceptance criteria are met.”
+M. Yox & R. Jones - 2 - 
+Although the NRC is currently planning to review the resolution of these items through future 
+inspections, you should not delay your ITAAC review and closure activities based on NRC 
+inspection schedules. 
+ 
+Please contact the respective inspection team leader listed in the attachment, if you have any 
+questions or need assistance regarding these matters. 
+ 
+Sincerely, 
+ 
+ 
+/RA/ 
+ 
+Terry W. Jackson, Chief 
+Quality Assurance Vendor Inspection Branch-1 
+Division of Construction Inspection 
+  and Operational Programs 
+Office of New Reactors 
+ 
+Docket Nos.: 05200025 
+05200026 
+05200027 
+05200028 
+ 
+Enclosure: 
+Summary of NRC Vendor Inspections 
+  Affecting ITAAC 
+ 
+M. Yox & R. Jones - 2 - 
+ 
+Although the NRC is currently planning to review the resolution of these items through future 
+inspections, you should not delay your ITAAC review and closure activities based on NRC 
+inspection schedules. 
+ 
+Please contact the respective inspection team leader listed in the attachment, if you have any 
+questions or need assistance regarding these matters. 
+ 
+Sincerely, 
+ 
+ 
+/RA/ 
+ 
+Terry W. Jackson, Chief 
+Quality Assurance Vendor Inspection Branch-1 
+Division of Construction Inspection 
+  and Operational Programs 
+Office of New Reactors 
+ 
+Docket Nos.: 05200025 
+05200026 
+05200027 
+05200028 
+ 
+Enclosure: 
+Summary of NRC Vendor Inspections 
+  Affecting ITAAC 
+ 
+ 
+ 
+ 
+ 
+DISTRIBUTION: 
+KKavanagh 
+JBurke 
+ASakadales 
+AP1000 CONTACTS 
+ 
+ADAMS Accession No.:  ML16280A303   *via e-mail   NRO-002 
+OFC NRO/DCIP/QVIB-1 NRO/DNRL/LB4 NRO/DCIP /QVIB-1 NRO/DCIP/HOIB NRO/DCIP/CIPB 
+NAME JJimenez BGleaves* JJacobson* PPieringer* VHall* (RJenkins for) 
+DATE 10/06/16 10/07/16 10/13/ 16 10/07/16 12/05/16 
+OFC RII/DCP/CPB2 NRO/DCIP/QVIB-1 OGC* NRO/DCIP/QVIB-1  
+NAME RNease* GGalletti* AWilson TJackson  
+DATE 10/06/16 10/11/16 12/ 02/16 12/09/16  
+OFFICIAL RECORD COPY 
+ 
+Enclosure 
+Summary of Nuclear Regulatory Commission Vendor Inspections Affecting 
+Inspections, Tests, Analyses, and Acceptance Criteria 
+ 
+1. Westinghouse 
+ 
+a. Inspection Scope 
+ 
+On May 19 and 20, 2016, the U.S. Nuclear Regulatory Commission (NRC) staff 
+conducted an inspection at the Westinghouse Electric Company (WEC) facility in 
+Cranberry Township, PA.  The purpose of the inspection was to review the corrective 
+actions taken by WEC in response to two issues (Nonconformance  
+99900404/2011-201-02 and Open Item 99900404/2011-201-05) identified during a 
+previous NRC inspection associated with the design and qualification testing of systems 
+and components being supplied as part of the AP1000 reactor design.  The vendor 
+inspection activities were documented in Inspection Report (IR) 99900404/2016-203 
+(Agencywide Document Access and Management System (ADAMS) Accession 
+No. ML16173A282). 
+ 
+The lead for this inspection is Mr. Jeffrey Jacobson, who can be reached by phone at  
+301-415-2977 or via electronic mail at Jeffrey.Jacobson@nrc.gov. 
+ 
+b. Findings and Observations 
+ 
+b1. Affected ITAAC Numbers:  2.2.03.02a (159), 2.2.03.02b (160), 2.2.03.08c.i.04 (180) 
+ 
+Design Commitment Inspections, Tests, 
+Analysis 
+Acceptance Criteria 
+2.a) The components 
+identified in Table 2.2.3-1 
+as ASME Code Section III 
+are designed and 
+constructed in accordance 
+with ASME Code Section 
+III requirements 
+Inspection will be 
+conducted of the as-built 
+components as 
+documented in the ASME 
+design reports. 
+The ASME Code 
+Section III design reports 
+exist for the as-built 
+components identified in 
+Table 2.2.3-1 as ASME 
+Code Section III. 
+2.b) The piping identified 
+in Table 2.2.3-2 as ASME 
+Code Section III is 
+designed and constructed 
+in accordance with ASME 
+Code Section III 
+requirements. 
+Inspection will be 
+conducted of the as-built 
+piping as documented in 
+the ASME design reports. 
+The ASME Code 
+Section III design reports 
+exist for the as-built piping 
+identified in Table 2.2.3-2 
+as ASME Code 
+Section III. 
+ 
+- 2 - 
+Design Commitment Inspections, Tests, 
+Analysis Acceptance Criteria 
+8.c) The PXS provides 
+RCS makeup, boration, 
+and safety injection during 
+design basis events. 
+i) A low-pressure injection 
+test and analysis for each 
+CMT, each accumulator, 
+each IRWST injection line, 
+and each containment 
+recirculation line will be 
+conducted.  Each test is 
+initiated by opening 
+isolation valve(s) in the 
+line being tested.  Test 
+fixtures may be used to 
+simulate squib valves. 
+i) The injection line flow 
+resistance from each 
+source is as follows: 
+4. Containment 
+Recirculation: The 
+calculated flow resistance 
+for each containment 
+recirculation line between 
+the containment and the 
+reactor vessel is: Line A: ≤ 
+1.11 x 10-5 ft/gpm2 and 
+Line B: ≤ 1.04 x 10-5 
+ft/gpm2 
+ 
+IR 99900404/2016-203 did not close the two previously identified inspection findings 
+associated with inspections, tests, analyses, and acceptance criteria (ITAAC) 2.2.03.02a 
+(159), 2.2.03.02b (160), 2.2.03.08c.i.04 (180). 
+ 
+IR 99900404/2016-203 states: 
+ 
+NRC Inspection Report No. 99900404/2012-202 (dated November 9, 2012) documented 
+the review by NRC inspectors of WEC corrective actions in response to NRC Open Item 
+99900404/2011-201-05.  In that report, the NRC inspectors concluded that WEC had 
+obtained information from the check valve vendor that was used to conservatively bound 
+flow resistance for partially open check valves in the IRWST Injection line.  The 
+inspectors concluded that WEC had resolved an issue regarding use of incorrect check 
+valve flow resistance in safety-related analyses.  However, the inspectors concluded that 
+the WEC design specifications did not meet ITAAC Table 2.2.3-4, Item 8.c, because the 
+ITAAC states that the IRWST injection check valves must be fully open during the 
+ITAAC test, but these check valves will not be fully open during IRWST injection flow.  
+The inspectors also concluded that WEC had not provided evidence that acceptance 
+criteria for extended operation of the IRWST and other PXS check valves in their 
+partially open positions had been included in the design requirements.  The inspectors 
+determined that WEC needed to incorporate these low flow conditions into the 
+specifications for the check valves, and that the qualification program needed to ensure 
+that these valves can operate reliably under extended low flow conditions.  In NRC 
+Inspection Report No. 99900404/2012-202, the inspectors concluded that Open Items 
+99900404/2011-201-02 and 99900404/2011-201-05 would remain open pending 
+(1) submittal of a license amendment to resolve the ITAAC discrepancy, and (2) an 
+update of the check valve qualification requirements. 
+ 
+The NRC inspection team determined that WEC took corrective actions to the two 
+previously identified issues, but these corrective actions involved modifications to the 
+design that are departures from the approved AP1000 Final Safety Analysis Report.  
+Consequently, these modifications will require the licensees of the Vogtle and Summer 
+plants to submit License Amendment Requests (LARs) to the NRC staff for review and 
+approval.  Since, at the time of this inspection, these LARs had not yet been submitted 
+to the NRC staff, the findings will remain open. 
+  
+ 
+- 3 - 
+2. Westinghouse (ITAAC-Finding Closure) 
+ 
+a. Inspection Scope 
+ 
+During the week of July 18-22, 2016, the NRC staff conducted an inspection at the 
+Westinghouse Electric Company (WEC) facility in Warrendale, PA.  The purpose of the 
+inspection was to verify the implementation of Westinghouse’s (WEC’s) QA program 
+activities associated with the design, implementation, and testing of the Protection and 
+Safety Monitoring System (PMS) systems for the Vogtle Units 3 and 4 and V.C. Summer 
+Units 2 and 3 currently under construction.  The vendor inspection activities were 
+documented in IR 99900404/2016-202 (ADAMS Accession No. ML16237A320). 
+ 
+The lead for this inspection is Mr. Greg Galletti, who can be reached by phone at  
+301-415-1831 or via electronic mail at Greg.Galletti@nrc.gov. 
+ 
+b. Findings and Observations 
+ 
+b1. Affected ITAAC Number:  2.5.02.03 (525) 
+ 
+Design Commitment Inspections, Tests, 
+Analysis Acceptance Criteria 
+The Class 1E equipment 
+identified in Table 2.5.2-1, 
+has electrical surge 
+withstand capability (SWC), 
+and can withstand the 
+electromagnetic interference 
+(EMI), radio frequency 
+interference (RFI), and 
+electrostatic discharge 
+(ESD) conditions that would 
+exist before, during, and 
+following a design basis 
+accident without loss of 
+function for the time required 
+to perform the safety 
+function. 
+Type tests, analyses, 
+or a combination of 
+type tests and 
+analyses will be 
+performed on the 
+equipment 
+A report exists and 
+concludes that the 
+Class 1E equipment 
+identified in  
+Table 2.5.2-1 can 
+withstand the SWC, 
+EMI, RFI, and ESD 
+conditions that would 
+exist before, during, 
+and following a design 
+basis accident without 
+loss of safety function 
+for the time required to 
+perform the safety 
+function 
+ 
+IR 99900404/2016-202 closes out inspection finding Nonconformances (NON) 
+99900404/2015-204-02 and 99900404/2015-204-03 associated with ITAAC 2.5.02.03 
+(525). 
+ 
+IR 99900404/2016-202 states: 
+ 
+During this inspection, the NRC staff evaluated aspects of WEC’s design and testing of 
+the PMS, review of corrective action (CA) implementation for previous NRC-identified 
+nonconformances associated with the PMS system.  These activities were associated 
+with inspections, tests, analyses, and acceptance criteria (ITAAC) from Appendix C from 
+the Combined License for Vogtle Units 3 and 4 and V.C. Summer Units 2 and 3.  
+Specifically, these activities were associated with ITAACs 2.5.02.03 and 2.5.02.11.
+ 
+- 4 - 
+With respect to the previously identified non-conformances, the NRC inspectors 
+reviewed implementation of CAs associated with two findings that are material to the 
+ITAAC acceptance criteria and determined those actions were sufficient to close those 
+findings.  The CAs were specific to ITAAC 2.5.02.03 that identified a failure to 
+demonstrate that PMS equipment can withstand electromagnetic interference, radio 
+frequency interference, and electrostatic discharge conditions that would exist before, 
+during, and following a design basis accident without loss of safety function. 
+ 
+The NRC reviewed WEC’s response to NONs 99900404/2015-204-02 and 
+99900404/2015-204-03, and verified that WEC adequately implemented corrective 
+actions to address the findings.  It did not identified any deficiencies.  These two NONs 
+were associated with ITAAC 2.5.02.03 (525). 
+ 
+3. Westinghouse (ITAAC-Finding Closure) 
+ 
+a. Inspection Scope 
+ 
+During the week of October 26-30, 2015, the NRC staff conducted an inspection at the 
+Westinghouse Electric Company (WEC) facility in Warrendale, PA.  This inspection 
+evaluated aspects of WEC’s programs for the design, implementation, and testing of the 
+Component Interface Module (CIM), a sub-system within the Protection and Safety 
+Monitoring System (PMS) systems for the Vogtle Units 3 and 4 and V.C. Summer 
+Units 2 and 3 currently under construction.  The vendor inspection activities were 
+documented in IR 99900404/2016-201 (ADAMS Accession No. ML15363A360). 
+ 
+The lead for this inspection is Mr. Greg Galletti, who can be reached by phone at  
+301-415-1831 or via electronic mail at Greg.Galletti@nrc.gov. 
+ 
+b. Findings and Observations 
+ 
+b1. Affected ITAAC Numbers: 2.5.02.14 (553) 
+ 
+Design Commitment Inspections, Tests, Analysis Acceptance Criteria 
+The Component Interface 
+Module (CIM) is 
+developed using a 
+planned design process 
+which provides for specific 
+design documentation 
+and reviews. 
+An inspection and or an audit 
+will be performed of the 
+processes used to design the 
+hardware, development 
+software, qualification and 
+testing. 
+A report exists and 
+concludes that CIM 
+meets the below listed 
+life cycle stages.  
+ 
+Life cycle stages:  
+a. Design 
+requirements phase, 
+may be referred to as 
+conceptual or project 
+definition phase 
+ 
+IR 99900404/2016-201 closes out inspection finding NON 99900404/2014-201-01 and 
+99900404/2014-201-02 associated with ITAAC 2.5.02.14 (553). 
+  
+ 
+- 5 - 
+IR 99900404/2016-201 states: 
+ 
+The inspectors reviewed policies, procedures, work instructions, and interviewed vendor 
+personnel responsible for the identification and implementation of Corrective Actions 
+(CAs) associated with two previous notices of nonconformance (NONs) identified in 
+NRC inspection number 99900404/2014-201.  These NONs were: (1) WEC did not apply 
+appropriate design control measures to correctly translate applicable regulatory 
+requirements and the design basis into specifications, drawings, procedures, and 
+instructions.  (2) WEC did not apply appropriate design control measures to verify the 
+adequacy of design associated with the performance of safety analyses, system 
+requirements review, and concept documentation evaluation. 
+ 
+The inspectors confirmed that WEC had adequately identified and implemented CAs, 
+including revisions to WEC policies, procedures, work instructions, reports, tests, as well 
+as re-performance of CIM-SRNC lifecycle activities consistent with those CAs.  No 
+findings of significance were identified.  The inspectors concluded that WEC’s 
+implementation of their policy and procedures associated with CAs in response to two 
+NONs identified in NRC IR 99900404/2014201 satisfy the regulatory requirements set 
+forth in Criterion XVI, “Corrective Actions,” of Appendix B to 10 CFR Part 50. 
+ 
+These two NONs were associated with ITAAC 2.5.02.14 are now closed. 
+ 
+4. List of Items Opened/Closed, and Applicable ITAAC since issuance of last ITAAC Summary 
+Letter 
+ 
+Item Number Status Type 
+Applicable Inspections, Tests, 
+Analyses, and Acceptance Criteria 
+(ITAAC) from License Nos. NFP-91, 
+NFP-92, NFP-93, and NFP-94 
+99900404/2011-201-02 Remain 
+Open NON 2.2.03.02a (159), 2.2.03.02b (160) 
+99900404/2011-201-05 Remain 
+Open NON 2.2.03.08c.i.04 (180) 
+99900404/2015-204-02 Closed NON 2.5.02.03 (525) 99900404/2015-204-03 Closed NON 
+99900404/2014-201-01 Closed NON 
+2.5.02.14 (553) 
+99900404/2014-201-02 Closed NON 
+ 

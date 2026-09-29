@@ -1,0 +1,89 @@
+CB&I
+3191 W. Lincoln Road
+Lake Charles, LA 70605
+Tel: +1 337 562 3536
+Fax: +1 337 562 3490
+www.CBI.com
+L-CBILC-USNRC-000025
+10 CFR 21.21
+Page 1 of 1
+November 24, 2013
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, DC 20555-0001
+SUBJECT: 10 CFR Part 21, 60-Day interim report regarding the evaluation status of mechanical splices
+supplied to AP1O00 Projects, Vogtle Unit 3 and V. C. Summer Unit 2.
+REFERENCE:
+1) Letter from Kevin Walsh to U.S. Nuclear Regulatory Commission, Document Control Desk, L-
+SMS-USNRC-000001, dated February 8, 2013.
+2) Letter from Kevin Walsh to U.S. Nuclear Regulatory Commission, Document Control Desk, L-
+CBI-USNRC-000003, dated May 29, 2013.
+3) Letter from Kevin Walsh to U.S. Nuclear Regulatory Commission, Document Control Desk, L-
+CBILC-USNRC-000012, dated July 24, 2013.
+4) Letter from Kevin Walsh to U.S. Nuclear Regulatory Commission, Document Control Desk, L-
+CBILC-USNRC-000018, dated September 24, 2013.
+CBI Lake Charles (CBI-LC) provided an interim report (Ref 4) to the NRC regarding an ongoing 10 CFR Part 21
+evaluation that could not be completed within 60-days from the discovery of the deviation. This deviation is
+related to Mechanical Splices delivered to AP1O00 Projects, Vogtle Unit 3 and V. C. Summer Unit 2.
+CBI-LC executed the test plan and submitted the results to the Design Authority for evaluation. The "Use-As-Is"
+disposition by the design authority was contingent upon additional qualification testing performed by the
+manufacturer. During the review of the testing by the manufacturer, there were some minor administrative
+errors identified. Therefore, upon the Design Authority approval of these minor error corrections, the
+evaluation to determine if this deviation is reportable per Part 21.21, could not be completed within 60-days.
+Hence, this updated interim report is being provided. CBI Lake Charles expects the Design Authority approval of
+the test results by January 31, 2014.
+Sincerely,
+Kevin Walsh
+Vice President, CB&I LC
+cc: Regional Administrator, USNRC, Region II
+Attachment(s): Attachment 1 to L-CBILC-USNRC-000025
+
+Attachment I to Letter L-CBILC-USNRC-000025, Dated November 24, 2013
+Page 1
+60-Day Interim Report Notification per 10 CFR 21.21(a) (2)
+(i) Name and address of the individual or individuals informing the Commission.
+Kevin Walsh
+Vice President
+CBI Lake Charles
+3191 West Lincoln Road
+Lake Charles, LA 70605
+(ii) Identification of the facility, the activity, or the basic component supplied for such facility or such
+activity within the United States which fails to comply or contains a defect.
+Structural modules containing mechanical rebar splices, supplied to AP1000 projects Summer and
+Vogtle.
+(iii) Identification of the firm constructing the facility or supplying the basic component which fails to
+comply or contains a defect.
+CBI Lake Charles
+3191 West Lincoln Road
+Lake Charles, LA 70605
+(iv) Nature of the defect or failure to comply and the safety hazard which is created or could be
+created by such defect or failure to comply.
+CBI Lake Charles [previously called Shaw Modular Solutions (SMS)] installed mechanical spliced
+rebar sections in safety-related, structural modules. These splices were not tested by the requisite
+qualification and production-testing program as established in the procurement specification
+(v) The date on which the information of such defect or failure to comply was obtained.
+The deviation was identified in a Condition Report initiated on November 28, 2012.
+(vi) In the case of a basic component which contains a defect or fails to comply, the number and
+location of these components in use at, supplied for, being supplied for, or may be supplied for,
+manufactured, or being manufactured for one or more facilities or activities subject to the regulation
+in this part.
+Structural modules containing mechanical rebar splices, supplied to AP1000 projects, Summer Unit
+2 and Vogtle Unit 3.
+(vii) The corrective action which has been, is being, or will be taken; the name of the individual or
+organization responsible for the action; and the length of time that has been or will be taken to
+complete the action.
+
+Attachment I to Letter L-CBILC-USNRC-000025, Dated November 24, 2013
+I LOIW Page 2
+After discovery of the deviation, CBI Lake Charles notified the purchaser (Shaw Power Group, Inc,
+now called CBI Power) that a deviation was discovered and in investigation was being conducted.
+A test plan was developed by CBI-LC and submitted to the Design Authority for approval. This plan
+was executed and has been dispositioned "Use-As-Is" by the Design Authority.
+The Design Authority is reviewing four test results which were omitted for final approval. The
+anticipated date of approval is no later January 31, 2014.
+CBI-LC is utilizing Corrective Action, CR-2012-1343 to track the evaluation and testing progress.
+(viiii) Any device related to the defect or failure to comply about the facility, activity or basic
+component that has been, is being, or will be given to purchasers or licensees.
+None.
+(ix) In the case of an early site permit, the entities to whom an early site permit was transferred.
+Not applicable.

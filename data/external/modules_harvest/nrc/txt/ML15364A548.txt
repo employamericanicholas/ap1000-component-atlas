@@ -1,0 +1,678 @@
+ 
+ 
+UNITED STATES 
+NUCLEAR REGULATORY COMMISSION 
+REGION II 
+245 PEACHTREE CENTER AVENUE NE, SUITE 1200 
+ATLANTA, GEORGIA  30303-1257 
+  
+ 
+December 30, 2015 
+ 
+Michael Yox 
+Regulatory Affairs Director 
+Southern Nuclear Operating Company 
+7835 River Road, Bldg. 140, Vogtle 3&4 
+Waynesboro, GA 30830 
+ 
+SUBJECT:  VOGTLE ELECTRIC GENERATING PLANT UNITS 3 AND 4 – NRC 
+ PERIODIC INSPECTION OF QUALITY ASSURANCE PROGRAM, 
+  REPORTS 05200025/2015008 and 05200026/2015008 
+ 
+Dear Mr. Yox: 
+ 
+On November 19, 2015, the U.S. Nuclear Regulatory Commission (NRC) completed an 
+inspection at Vogtle Electric Generating Plant (VEGP) Units 3 and 4. The enclosed inspection 
+report documents the inspection results, which the inspectors discussed on November 19, 2015, 
+with Ms. Amanda Pugh and other members of your staff. 
+ 
+The inspection examined a sample of construction activities conducted under your Combined 
+License (COL) as it relates to safety and compliance with the Commission’s rules and 
+regulations and with the conditions of your license. These activities included programmatic 
+elements to include the quality assurance program as described in your license.  The inspectors 
+reviewed selected procedures and records, observed activities, and interviewed personnel. 
+ 
+Based on the results of this inspection, no findings of significance were identified. 
+ 
+In accordance with 10 CFR 2.390 of the NRC's "Rules of Practice," a copy of this letter, its 
+enclosure, and your response (if any),  will be made available electronically for public inspection 
+in the NRC Public Document Room or from the Publically Available Records (PARS) component 
+of NRC's document system ADAMS.  ADAMS is accessible from the NRC Website at 
+http://www.nrc.gov/reading-rm/adams.html
+ (the Public Electronic Reading Room).  
+M. Yox 2 
+ 
+Should you have any questions concerning this letter, please contact me at 404-997-4530. 
+ 
+ 
+Sincerely, 
+ 
+/RA/ 
+ 
+Rebecca Nease, Chief 
+Construction Projects Branch 2 
+Division of Construction Projects 
+ 
+Docket Nos.:  5200025, 5200026 
+ 
+Combined Licenses (COL) Nos.:  NPF-91, NPF-92 
+ 
+Enclosure: NRC Inspection Report (IR) 
+05200025/2015008, 05200026/2015008 
+W/attachment:  Supplemental Information 
+ 
+cc w/encls: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+M. Yox 2 
+ 
+Should you have any questions concerning this letter, please contact me at 404-997-4530. 
+ 
+ 
+Sincerely, 
+ 
+/RA/ 
+ 
+Rebecca Nease, Chief 
+Construction Projects Branch 2 
+Division of Construction Projects 
+ 
+Docket Nos.:  5200025, 5200026 
+ 
+Combined Licenses (COL) Nos.:  NPF-91, NPF-92 
+ 
+Enclosure: NRC Inspection Report (IR) 
+05200025/2015008, 05200026/2015008 
+W/attachment:  Supplemental Information 
+ 
+cc w/encls: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+■Publicly Available  9 Non-Publicly Available  9 Sensitive  9Non-Sensitive 
+Adams:  ■ AMS Accession No.:  ML15364A548__________ ■SUNSI Review Complete ■Form 665 Attached 
+OFFICE RII:DCP RII:DCIP RII:DCP RII:DCP RII:DCP RII:DCP 
+SIGNATURE /RA/ /RA via Email/ /RA via Email/ /RA via Email/ /RA via Email/ /RA/ 
+NAME C. Taylor P. OBryan P. Braxt on D. Piccirillo N. Karolvich R. Nease 
+DATE 12/29/15 12/29/15 12/29/15 12/30/15 12/29/15  
+E-MAIL COPY? YES NO YES NO YES NO YES NO YES NO YES NO 
+OFFICIAL RECORD COPY DOCUMENT NAME:  G:\CCI\DCP\CPB2\Project Vogtle\Inspection Reports\2015\2015-015 
+\Vogtle QA Inspection Report 2015-15.docx
+M. Yox 3 
+ 
+Resident Manager                                              Resident Inspector 
+Oglethorpe Power Corporation                          Plant Vogtle 3&4 
+Alvin W. Vogtle Nuclear Plant                            7825 River Road 
+7821 River Road                                                 Waynesboro, GA 30830 
+Waynesboro, GA 30830 
+   Elaine Sikes 
+Office of the Attorney General                       Burke County Library 
+40 Capitol Square, SW                                      130 Highway 24 South 
+Atlanta, GA 30334                                            Waynesboro, GA 30830 
+ 
+Southern Nuclear Op. Co.    Mr. Jerry Smith 
+Document Control Coordinator    Commissioner 
+42 Inverness Center Parkway                           District 8 
+Attn: B236                                                            Augusta-Richmond County Commission 
+Birmingham, AL 35242                                       1332 Brown Road 
+   Hephzibah, GA 30815 
+Anne F. Appleby 
+Olgethorpe Power Corporation                         Gene Stilp 
+2100 East Exchange Place                                1550 Fishing Creek Valley Road 
+Tucker, GA 30084                                            Harrisburg, PA 17112 
+ 
+County Commissioner                                      Mr. Robert E. Sweeney 
+Office of the County Commissioner                   IBEX ESI 
+Burke County Commission                                 4641 Montgomery Avenue 
+Waynesboro, GA 30830                                   Suite 350 
+  Bethesda, MD 20814 
+Mr. James C. Hardeman 
+Environmental Radiation Program Manager     George B. Taylor, Jr. 
+Environmental Protection Division 2100 East Exchange Pl 
+Georgia Dept. of Natural Resources                 Atlanta, GA 30084-5336
+  
+4220 International Pkwy, Suite 100 
+Atlanta, GA 30354-3906                                   Brian H. Whitley 
+  42 Inverness Center Parkway 
+Mr. Reece McAlister                                          BIN B237 
+Executive Secretary                                            Birmingham, AL 35242
+   
+Public Service Commission 
+Atlanta, GA 30334 
+ 
+Mr. Joseph A. (Buzz) Miller
+  
+Executive Vice President 
+Southern Nuclear Operating Company  
+241 Ralph McGill Blvd. 
+BIN 10240 
+Atlanta, GA 30308-3374  
+ 
+  
+M. Yox 4 
+ 
+Email 
+agaughtm@southernco.com (Amy Aughtman) 
+awc@nei.org (Anne W. Cottingham) 
+becky@georgiawand.org (Becky Rafter) 
+bhwhitle@southernco.com (Brian Whitley) 
+Bill.Jacobs@gdsassociates.com (Bill Jacobs) 
+bill.wood@cbi.com (Bill Wood) 
+bjadams@southernco.com (Brad Adams) 
+bwwaites@southernco.com (Brandon Waites) 
+collinlj@westinghouse.com (Leslie Collins) 
+couturgf@westinghouse.com (Gerald Couture) 
+crpierce@southernco.com (C.R. Pierce) 
+curtis.castell@cbi.com (Curtis Castell) 
+curtis.castell@cbi.com (Curtis Castell) 
+cwaltman@roe.com (C. Waltman) 
+dahjones@southernco.com (David Jones) 
+david.hinds@ge.com (David Hinds) 
+david.jantosik@cbi.com (David Jantosik) 
+david.lewis@pillsburylaw.com (David Lewis) 
+david.siefken@hq.doe.gov (David Siefken) 
+delongra@westinghouse.com (Rich DeLong) 
+dgbost@southernco.com (Danny Bost) 
+dlfulton@southernco.com (Dale Fulton) 
+drculver@southernco.com (Randy Culver) 
+ed.burns@earthlink.net (Ed Burns) 
+edavis@pegasusgroup.us (Ed David) 
+erg-xl@cox.net (Eddie R. Grant) 
+fdhundle@southernco.com (Forrest Hundley) 
+G2NDRMDC@southernco.com (SNC Document Control) 
+graysw@westinhgouse.com (Scott W. Gray) 
+james.comer@cbi.com (James Comer) 
+james1.beard@ge.com (James Beard) 
+jamiller@southernco.com (Buzz Miller) 
+jbtomase@southernco.com (Janice Tomasello) 
+jeff.lyash@cbi.com (Jeff Lyash) 
+jenmorri@southernco.com (Jennifer Buettner) 
+jim@ncwarn.org (Jim Warren) 
+jlhall@southernco.com (Jennifer Hall) 
+john.simmons@cbi.com (John A. Simmons) 
+Joseph_Hegner@dom.com (Joseph Hegner) 
+jpredd@southernco.com (Jason R. Redd) 
+jranalli@meagpower.org (Jerry Ranalli) 
+jtgasser@southernco.com (Jeff Gasser) 
+karen.patterson@ttnus.com (Karen Patterson) 
+karlg@att.net (Karl Gross) 
+  
+M. Yox 5 
+ 
+kelly.trice@cbi-psg.com (Kelly Price) 
+ken.hollenbach@cbi.com (Kenneth W. Hollenbach) 
+kim.haynes@opc.com (Kim Haynes) 
+kmseiber@southernco.com (Kristin Seibert) 
+KSutton@morganlewis.com (Kathryn M. Sutton) 
+kwaugh@impact-net.org (Kenneth O. Waugh) 
+lchandler@morganlewis.com (Lawrence J. Chandler) 
+ldperry@southernco.com (Leigh D. Perry) 
+maria.webb@pillsburylaw.com (Maria Webb) 
+markus.popa@hq.doe.gov (Markus Popa) 
+mcintyba@westinghouse.com (Brian McIntyre) 
+mdmeier@southernco.com (Mike Meier) 
+media@nei.org (Scott Peterson) 
+Melissa.Smith@Hq.Doe.Gov (Melissa Smith) 
+michael.annacone@cbi.com (Michael Annacone) 
+michael.annacone@cbi.com (Michael J. Annacone) 
+mike.price@opc.com (M.W. Price) 
+mlgraves@southernco.com (Michelle Graves) 
+MSF@nei.org (Marvin Fertel) 
+myox@southernco.com (Mike Yox) 
+nicholle.burroughs@cbi.com (Nicholle Burroughs) 
+nirsnet@nirs.org (Michael Mariotte) 
+Nuclaw@mindspring.com (Robert Temple) 
+patriciaL.campbell@ge.com (Patricia L. Campbell) 
+Paul@beyondnuclear.org (Paul Gunter) 
+pbessette@morganlewis.com (Paul Bessette) 
+r.joshi15@comcast.net (Ravi Joshi) 
+randall@nexusamllc.com (Randall Li) 
+rhenry@ap.org (Ray Henry) 
+rjarrett@southernco.com (Robyn Jarrett) 
+RJB@NEI.org (Russell Bell) 
+Ronald.Jones@scana.com (Ronald Jones) 
+russpa@westinghouse.com (Paul Russ) 
+rwink@ameren.com (Roger Wink) 
+sabinski@suddenlink.net (Steve A. Bennett) 
+sblanton@balch.com (Stanford Blanton) 
+sfrantz@morganlewis.com (Stephen P. Frantz) 
+shhuling@southernco.com (Steven Huling) 
+sjackson@meagpower.org (Steven Jackson) 
+sroetger@psc.state.ga.us (Steve Roetger) 
+stephan.moen@ge.com (Stephan Moen) 
+taterrel@southernco.com (Todd Terrell) 
+Tom.Bilik@nrc.gov (Thomas Bilik) 
+TomClements329@cs.com (Tom Clements) 
+Vanessa.quinn@dhs.gov (Vanessa Quinn) 
+virgil.barton@cbi.com (Virgil Barton) 
+Wanda.K.Marshall@dom.com (Wanda K. Marshall) 
+wasparkm@southernco.com (Wesley A. Sparkman) 
+wayne.marquino@ge.com (Wayne Marquino) 
+weave1dw@westinghouse.com (Doug Weaver) 
+x2gabeck@southernco.com (Gary Becker)
+  
+ 
+Letter to M. Yox from Rebecca Nease dated December 30, 2015 
+ 
+SUBJECT:  VOGTLE ELECTRIC GENERATING PLANT UNITS 3 AND 4 – NRC 
+  INTEGRATED INSPECTION REPORTS 05200025/2015008, and  
+  05200026/2015008 
+ 
+Distribution w/encl: 
+Region II Regional Coordinator, OEDO 
+T. Kozak, NRO 
+L. Burkhart, NRO 
+C. Patel, NRO 
+L. Dudes, RII 
+W. Jones, RII 
+J. Yerokun, RII 
+R. Nease, RII 
+M. Ernstes, RII 
+R. Musser, RII 
+J. Heisserer, RII 
+D. Ayres, RII 
+M. Kowal, RII 
+P. Heher, RII 
+J. Kent, RII 
+A. Lerch, RII 
+J. Fuller, RII 
+P. Braxton, RII 
+T. Chandler 
+S. Temple, RII 
+ConE_Resouce@nrc.gov 
+NRO_cROPRescource@nrc.gov 
+Vogtle_Construction_Support@nrc.gov 
+PUBLIC 
+  
+ 
+ 
+U.S. NUCLEAR REGULATORY COMMISSION 
+Region II 
+ 
+Docket Numbers: 5200025 
+5200026 
+ 
+License Numbers: NPF-91 
+NPF-92 
+ 
+Report Numbers: 05200025/2015008 
+05200026/2015008 
+ 
+Licensee: Southern Nuclear Operating Company, Inc. 
+ 
+Facility: Vogtle Electric Generating Plant, Unit 3 
+Vogtle Electric Generating Plant, Unit 4 
+ 
+Location: Waynesboro, GA  
+ 
+Inspection Dates: November 16, 2015 through November 19, 2015 
+ 
+Inspectors: C. Taylor, Senior C onstruction Project Inspector, DCP 
+D. Piccirillo, Senior Construction Project Inspector, DCP 
+P. O’Bryan, Reactor Operations Engineer, DCIP 
+P. Braxton, Resident Inspector, DCP 
+N. Karlovich, Resident Inspector, DCP 
+ 
+Accompanying Personnel: Rebecca Nease 
+ 
+ 
+Approved by: Rebecca Nease, Chief 
+Construction Projects Branch 2 
+Division of Construction Projects 
+ 
+  
+ 
+ 
+SUMMARY OF FINDINGS 
+ 
+Inspection Report (IR) 05200025/2015008, 05200026/2015008; 11/16/2015 through 
+11/19/2015; Vogtle Electric Generating Plant Units 3 and 4; Routine Program Inspection for 
+Quality Assurance Program Implementation During Construction Activities. 
+ 
+This report covers a one week period of inspection by regional inspectors. The Nuclear 
+Regulatory Commission’s (NRC's) program for overseeing the construction of commercial 
+nuclear power reactors is described in IMC 2506, “Construction Reactor Oversight Process 
+General Guidance and Basis Document.” 
+ 
+A.  NRC-Identified and Self Revealed Findings 
+ 
+No findings were identified. 
+B. Licensee-Identified Violations 
+ 
+No findings were identified. 
+  
+ 
+Enclosure 
+REPORT DETAILS 
+ 
+1. CONSTRUCTION REACTOR SAFETY  
+ 
+Cornerstones: Design/Engineering, Procurement/Fabrication, 
+Construction/Installation, Inspection/Testing 
+ 
+Inspection Manual Chapter (IMC) 2504, Construction Inspection Program – Inspection of 
+Construction and Operational Programs 
+ 
+1P01  Inspection of Construction Quality Assur ance Implementation - Appendix 3, Inspection of 
+Criterion III – Design Control  
+ 
+a.  Inspection Scope  
+ 
+ The inspectors reviewed design activities to determine if design control was 
+implemented per the quality assurance program to the approved design during the 
+construction phase.  To accomplish this scope, the inspectors interviewed responsible 
+engineering and licensing personnel, reviewed samples of engineering and design 
+coordination reports (E&DCRs), design change proposals (DCPs), and license 
+document change requests (LDCRs).   
+  
+A sample of E&DCRs was reviewed to verify applicable requirements and standards 
+from the current licensing basis were identified and either implemented in the new 
+design solutions or otherwise reconciled as acceptable exceptions.  Specifically, the 
+inspectors verified that documented justifications were provided for design changes, 
+design results were independently verified, and that design outputs were approved by 
+the designated design authority. The inspectors reviewed a sample of DCPs to verify 
+proposed changes to design were evaluated to identify departures from the current 
+licensing basis and the plant programs that would require revision to address the 
+proposed changes.  The companion LDCRs and additional LDCRs that changed Tier 2 
+information without prior NRC approval were also reviewed to verify identified departures 
+were adequately described and justified, and were supported by screening evaluations 
+that conformed to the requirements of 10 CFR 50.59.  
+ 
+b.  Findings
+ 
+ 
+  No findings were identified. 
+ 
+1P02 Inspection of Construction Quality Assur ance Implementation - Appendix 5, Inspection of 
+Criterion V – Instructions, Procedures, and Drawings  
+ 
+a.  Inspection Scope  
+ 
+The inspectors selected and reviewed a sample of revised or modified controlled 
+implementation program documents.  Specifically, the inspectors reviewed 
+procedures, design drawings, and engineering specifications from the controlled 
+master documents that prescribe activities affecting quality, to ensure consistency 
+with the NRC-approved quality assurance program description (QAPD) and 
+commitments in the updated final safety analysis report (UFSAR). 
+  
+2 
+ 
+In addition, the inspectors reviewed the applicable section of the licensee’s QAPD 
+and UFSAR to ensure that appropriate QA program documents had been 
+developed to address the QAPD requirements and UFSAR commitments for 
+preparing changes to implementing documents.  
+ 
+The inspectors reviewed selected instructions and procedures to determine if they 
+were created, revised, and maintained using appropriate procedures, and whether 
+the following requirements were addressed: 
+ 
+• Inclusion of the reason for any changes in the implementing document  
+• Review and update of implementing documents on a periodic basis  
+• Implementing document was revised/modified as a result of anticipated 
+changes, determination during implementation that it does not reflect 
+work process, required periodic reviews, and corrective action 
+• Provisions for making temporary or immediate changes, when 
+necessary, including expiration date 
+ 
+The inspectors obtained the names of personnel or locations that received 
+controlled copies of the change and verified that the correct revision was located 
+at the various work areas.  The inspectors also interviewed personnel to 
+determine if they followed the proper procedures when initiating and changing 
+instructions, processes, and drawings. 
+ 
+b.      Findings
+ 
+ 
+No findings were identified. 
+ 
+4.  OTHER INSPECTION RESULTS 
+ 
+4OA6 Meetings, Including Exit 
+ 
+1. Exit Meeting 
+ 
+ On November 19, 2015, the inspectors presented the inspection results to Amanda Pugh, 
+ Vogtle 3&4 Construction Licensing Manager, along with other licensee and consortium staff 
+ members.  The inspectors stated that no proprietary information would be included in the 
+ inspection report. 
+  
+ 
+Attachment 
+SUPPLEMENTAL INFORMATION 
+ 
+KEY POINTS OF CONTACT 
+ 
+Licensees and Contractor Personnel 
+ 
+A. Chamberlain, SNC Licensing 
+L. Grissom, SNC Licensing 
+G. Couture, WEC Licensing 
+G. Koucheravy, WEC Project Director 
+J. Jones, SNC Engineering 
+J. Lowery, SNC Quality Assurance 
+D. McComb, SNC Engineering Director 
+K. Pigg, CBI Licensing 
+A. Pugh, SNC Licensing Manager 
+P. Ridgway, SNC Regulatory Affairs 
+J. Simmons, CBI Licensing 
+F. Willis, SNC Licensing 
+K. Wichman, SNC Licensing 
+M. Yox, SNC Regulatory Affairs 
+ 
+LIST OF ITEMS OPENED, CLOSED, AND DISCUSSED 
+ 
+Item Number
+ 
+None 
+Type Status  Description  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+LIST OF DOCUMENTS REVIEWED 
+ 
+Section 1P01 
+ 
+Licensing Document Change Request (LDCR) 
+ 
+LDCR-2015-005, Addition of Vent to the Normal Residual Heat Removal System and Addition of            
+Brief Descriptions of System Gas Accumulation Assessments and Venting, Revision (Rev). 0 
+LDCR 2015-064, Chilled Water System Logic Changes, Version 1.0  
+LDCR 2015-012, Addition of Recirculation Function to Boric Acid Storage Tank 
+LDCR 2015-056, Modified Weld Joint for SC Shield Building Panels 
+LDCR 2015-063, Changes to In-Core Instrumentation (ICI) Guide Tube Configuration 
+LDCR 2015-076, Containment Air Filtration System (VFS) Penetration Piping Configuration         
+Change, Version 1.0 
+LDCR 2015-111, Revision of Steam Generators Primary to Secondary Differential Pressure 
+ Design Value, Version 1.0  
+LDCR 2015-098, Corrections of Errors in UFSAR Figures 6.3-1 and 6.3-2, Version 1.0 
+LDCR-2015-056, Modified Weld Joint for SC Shield Building Panels, Rev. 0 
+LDCR-2015-063, Changes to In-Core Instrumentation (ICI) Guide Tube Configuration, Rev. 0 
+LDCR-2015-006, Replacement of Passive Core Cooling System Hermetically Sealed Small 
+Diameter Valves with Non-Hermetically Seal Valves to Increase their Design Pressures, Rev. 
+0 
+LDCR 2014-138, Modification of Epoxy Topcoat on Containment Vessel Interior Shell, Version 
+ 1.0  
+LDCR 2014-056, Pressurizer Support Changes, Rev.0 
+LDCR 2014-102, RCS Changes Required for Construction Hydrostatic Test, Rev. 0 
+LDCR 2014-137, Changes to RNS Cooldown using the Fire Protection System, Rev.1 
+LDCR 2014-141, Differences Between Annex Building Design and DCD General Arrangement 
+ Figures, Rev. 0  
+LDCR 2014-120, ADS-4 Valve Effective Flow Area, Version 1.0 
+LDCR 2014-156, DVI Flow Diverter Addition, Version 1.0 
+LDCR 2014-099, Modification of Support Configuration for Containment Isolation Valve CVS-
+ PL-V090, Version 1.0  
+LDCR 2014-100, Changes to the Radwaste Building HVAC System (VRS) Supply Fan 
+ Modulation Controls, Version 1.0  
+LDCR 2013-097, PSS Containment Atmosphere Sample Supply Line Size and Inlet Location, 
+ Version 1.0  
+LDCR 2013-079, Annex Building Egress Access Doors, Rev.1  
+LDCR-2014-155, ASME Section VIII Vessel Overpressure Protection - Vessel Rerating 
+ (Domestic Projects), Rev. 0  
+LDCR-2014-068, Pressurizer Venting During Normal Operations, Rev.1 
+LDCR-2014-115, Change to the AP1000 Reactor Vessel Flow Skirt Hole Pattern, Rev. 0 
+APP-FSAR-GLR-047, Generic Licensing Impact Determination for RCS Piping and Supports, 
+ Rev. 1  
+APP-FSAR-GLR-051, Generic Licensing Impact Determination for PXS Piping and Supports, 
+ Rev.1  
+APP-FSAR-GLR-070, Generic Licensing Impact Determination for Digital Rod Control System, 
+ Rev.0  
+NDQA-2015-S013: NRC QA Inspection Readiness 
+ 
+3 
+ 
+ 
+Engineering Documents Coordination Requests (E&DCR) 
+ 
+SV0-0000-GEF-000196, Concrete General Note Changes, Rev. 0 
+SV0-0000-GEF-000202, Material Change for Module Shim Material, Rev. 0 
+SV0-1208-GEF-000013, Bending of Shield Building Tie Rods, Rev. 0 
+SV0-CA00-GEF-000031, NDE Requirements for Damaged Welds, Rev.0 
+SV0-CA05-GEF-000014, Installation Tolerances for SA-738 Type B Plate on Module CA05, 
+ Rev. 0  
+SV0-CA05-GEF-000021, CA05 MK #2 Plate Dimensional Error, Rev. 0 
+SV0-CB00-GEF-000007, CB63 Piping Penetration Dimension Change, Rev. 0 
+SV0-CC01-GEF-000256, Anchoring to D Class Structures, Rev. 0 
+SV0-CR01-GEF-000376, Horizontal U-Bar Modification, Rev. 0 
+SV0-CR01-GEF-000396, Construction Joint Modification, Rev.  
+APP-MP01-GEF-034, Maximum Hardness Limits on Non-Pressure Boundary Material in the 
+ AP1000 Reactor Coolant Pumps, Rev. 0  
+  
+Nonconformance and Disposition Reports (N&D)
+ 
+ 
+SV4-MT02-GNR-021, Field Deviation Report – Vogtle Unit #4 Accumulator Tank Shipping 
+ Acceleration Non-conformance, Rev. 0  
+SV3-WLS-GNR-000073, WLS ASME Piping – Indeterminate Quality Issues #1, Rev. 0 
+SV3-CA02-GNR-000025, CA02-02 Fillet Welds Drilled Into, Rev. 0 
+SV3-SS01-GNR-000343, NI3 Stud Spacing, Rev. 0 
+SV3-CA03-GNR-000017, CA03-06 Deviation from Flatness, Rev. 0 
+SV3-CA01-GNR-000643, CA01 Final Location in Unit 3 CVBH, Rev. 0 
+SV3-CA01-GNR-000660, CA01 Basemat Shear Lug Weld, Rev. 0 
+SV3-CR01-GNR-000299, West Shield Bldg. Horizontal. #11 & #6, Rev. 0 
+SV3-CA01-GNR-000404, SV3-CA01-11 Undersized Weld, Rev. 0 
+SV3-CE01-GNR-000106, Embedment Plate in Wall J, Rev. 0 
+  
+Design Change Proposals (DCP) 
+ 
+APP-GW-GEE-4867, Assembly Changes to Cask Loading/Washdown Pits, Rev. 0,  
+APP-GW-GEE-4878, RCP Minimum Speed and Acceleration Strategy, Rev. 0 
+APP-GW-GEE-4935, MA01 Vendor Drawing Reconciliation for Domestic Projects, Rev. 0 
+APP-GW-GEE-4949, Incorporate E&DCR's into Module CA31, Rev. 0 
+APP-GW-GEE-4956, Deleting Water Heater MB 02, from 82' Level Clean Auxiliary to Address 
+ Flooding Standard Plant & Domestic Plants, Rev. 0  
+APP-GW-GEE-4959, Condensate Storage Tank - Minimum Startup Feedwater Volume ITAAC, 
+ Rev. 0  
+APP-GW-GEE-4981, Addition of Thermal Lag to Steam Generator Lower Lateral Support 
+ Analysis, Rev. 0  
+APP-GW-GEE-4998, Flow Resistance Corrections for PV31, 32, 33 40 and 41, Rev. 0 
+APP-GW-GEE-5068, CMS Consolidation of FOLLOW ON E&DCRs, Rev. 0 
+APP-GW-GEE-5070, Nullify Duration Limits on RCP Imposed by DCP 3316, Rev. 0 
+APP-GW-GEE-5071, Updates to FPDS Software Requirements and Applications, Rev. 0 
+  
+Conditions Reports (CR)
+ 
+ 
+CR 10134365, NDQA Surveillance NDQA-2015-S013-Finding (Level 2) 
+CR 10115486, Violation of NQA-1 1994 Basic Requirement 6 Document Control 
+4 
+ 
+ 
+ 
+CR 10115518, E&DCR for Shield Building Alternate Weld Detailed Failed to Reference 
+Licensing Change 
+ 
+Section 1P02 
+ 
+Procedures 
+ 
+APP-GW-GZP-004, Configuration Management Procedure for US AP1000 Projects, Revision 
+ (Rev.) 1  
+APP-GW-GAP-140, AP1000 Licensing Applicability Determination and 10 CFR 50.59/10 CFR 
+ 52 Appendix D Section VIII Screening, Rev.0  
+APP-GW-GAP-420, Engineering & Design Coordination Reports (E&DCRs), Rev. 8 
+APP-GW-GAP-480, Advanced Authorization E&DCRs, Rev 1 
+NEPG04-30-1, Engineering Configuration Management Control dated January 6, 2014 
+DAPP 5-3-1, AP1000 Design Change Incorporation Guidance dated April 2, 2015 
+DAPP 5-22-2, AP1000 Configuration Management dated February 18, 2015 
+DAPP 5-14, AP1000 E&DCR, Rev 5 
+  
+ 
+ 
+LIST OF ACRONYMS 
+ADAMS          Agencywide Documents Access & Management System 
+ASME            American Society of Mechanical Engineers 
+ASTM             American Society for Testing and Materials  
+CAR               Corrective Action Report 
+CB&I              Chicago Bridge and Iron 
+CFR               Code of Federal Regulations 
+CMT               Core Makeup Tanks 
+CMTR            Certified Material Test Report
+ CSI 
+CV Containment Vessel 
+COL Combined Operating License                  
+CVBH             Containment Vessel Bottom Head
+ CVS  
+DCP Design Change Proposal                
+E&DCR Engineering and Design Coordination Report
+ EPC  
+UFSAR Updated Final Safety Analysis Report              
+IP      Inspection Procedures 
+IR                   Inspection Report 
+LDCR Licensing Document Change Request 
+N&D               Nonconformance and Disposition Report 
+NRC               Nuclear Regulatory Commission 
+PARS             Publicly Available Records 
+PQR               Procedure Qualification Record 
+QA                  Quality Assurance 
+QAD               Quality Assurance Directive 
+QAPD Quality Assurance Program Description 
+QC                 Quality Control 
+QS                  Quality Standard 
+SC                  Steel Concrete Composite 
+SCC               Self-Consolidating Concrete 
+SNC               Southern Nuclear Operating Company
+ SSC  
+VEGP Vogtle Electric Generating Plant Units 3 and 4               
+WEC              Westinghouse Electric Company 
+ 

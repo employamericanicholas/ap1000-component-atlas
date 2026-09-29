@@ -1,0 +1,1924 @@
+Southern Nuclear 
+Operating Company, Inc. 
+42 Inverness Center Parkway 
+Birmingham, AL 35242 
+JUL 0 3 2014 
+Docket Nos.: 52-025 
+52-026 
+U.S. Nuclear Regulatory Commission 
+Document Control Desk 
+Washington, DC 20555-0001 
+Southern Nuclear Operating Company 
+SOUTHERN ,\ 
+COMPANY 
+ND-14-0748 
+10 CFR 50.90 
+10 CFR 52.63 
+Vogtle Electric Generating Plant Units 3 and 4 
+Request for License Amendment and Exemption Regarding 
+Containment Internal Structural Module Design Details {LAR-14-001) 
+Ladies and Gentlemen: 
+In accordance with 10 CFR 50.90, Southern Nuclear Operating Company (SNC), the licensee 
+for Vogtle Electrical Generating Plant (VEGP) Units 3 and 4, requests an amendment to 
+Combined License (COL) Numbers NPF-91 and NPF-92, for VEGP Units 3 and 4, respectively. 
+Pursuant to the provisions of 10 CFR 52.63(b)(1), an exemption from elements of the design as 
+certified in the 10 CFR Part 52, Appendix D, design certification rule is also requested for the 
+plant-specific DCD Tier 1 material departures. 
+The requested amendment proposes to depart from Tier 2* information in the Updated Final 
+Safety Analysis Report (UFSAR), plant-specific Tier 1 and corresponding COL Appendix C 
+information, and involved UFSAR Tier 2 information to address changes in the UFSAR and 
+design documents related to containment internal structural wall module design details. 
+The description, technical evaluation, regulatory evaluation (including the significant hazards 
+consideration determination), and environmental considerations for the proposed changes in the 
+License Amendment Request (LAR) are contained in Enclosure 1 to this letter. Enclosure 2 
+provides the background and supporting basis for the requested exemption. Enclosure 3 
+provides markups depicting the requested changes to the licensing basis documents. 
+Enclosure 4 includes markups depicting the requested changes to the UFSAR figures which are 
+withheld from public disclosure as Security-Related Information, in accordance with 10 CFR 
+2.390(d). 
+This letter contains no regulatory commitments. 
+SNC requests NRC staff approval of the license amendment and associated exemption by 
+November 14, 2014, to support placement of concrete in internal structural module CA05. 
+Approval by this date will allow sufficient time to implement the licensing basis changes. SNC 
+expects to implement this proposed amendment (through incorporation into the licensing basis 
+documents, e.g., the Updated Final Safety Analysis Report) within 30 days of approval. 
+U.S. Nuclear Regulatory Commission 
+ND-14-0748 
+Page 2 of4 
+In accordance with 10 CFR 50.91, SNC is notifying the State of Georgia of this LAR by 
+transmitting a copy of this letter and enclosures to the designated State Official. 
+Should you have any questions, please contact Mr. D. Rick Graham at (205} 992-5808. 
+Ms. Amy G. Aughtman states that: she is a Licensing Manager of Southern Nuclear Operating 
+Company; she is authorized to execute this oath on behalf of Southern Nuclear Operating 
+Company; and to the best of her knowledge and belief, the facts set forth in this letter are true. 
+Respectfully submitted, 
+SOUTHERN NUCLEAR OPERATING COMPANY 
+A G. Aughtman 
+AGA/DRG/kms 
+Sworn to and subscribed b~fore me this ~ day of , cTc..Ay' 
+NotaryPublic: . L~ ~-«/ s~ 
+My commission expires : ~u. :st l {t? l d-.0 1 0 
+1 2014 
+Enclosures: 1} Vogtle Electric Generating Plant (VEGP} Units 3 and 4- Request for License 
+Amendment Regarding Containment Internal Structural Wall Module Design 
+Details (LAR-14-001} 
+2} Vogtle Electric Generating Plant (VEGP} Units 3 and 4 - Request for 
+Exemption Regarding Containment Internal Structural Wall Module Design 
+Details (LAR-14-001} 
+3} Vogtle Electric Generating Plant (VEGP} Units 3 and 4 - Proposed Changes 
+to Licensing Basis Documents (LAR-14-001} 
+4} Vogtle Electric Generating Plant (VEGP} Units 3 and 4- Proposed Changes 
+to Licensing Basis Documents (LAR-14-001} - Withheld Information 
+U.S. Nuclear Regulatory Commission 
+ND-14-0748 
+Page 3 of 4 
+ 
+ 
+cc: 
+Southern Nuclear Operating Company / Georgia Power Company 
+Mr. S. E. Kuczynski (w/o enclosures) 
+Mr. J. A. Miller 
+Mr. D. A. Bost (w/o enclosures) 
+Mr. B. L. Ivey   
+Mr. M. D. Rauckhorst (w/o enclosures) 
+Mr. J. T. Gasser (w/o enclosures) 
+Mr. D. H. Jones (w/o enclosures) 
+Mr. J. R. Johnson (w/o enclosures) 
+Mr. T. E. Tynan (w/o enclosure 4) 
+Mr. D. M. Lloyd 
+Mr. B.H. Whitley 
+Mr. C. R. Pierce  
+Mr. D. L. Fulton 
+Mr. M. J. Yox 
+Mr. J. C. Harrelson 
+Ms. A. G. Aughtman 
+Mr. W. A. Sparkman 
+Mr. J. P. Redd 
+Document Services RTYPE:  VND.LI.L00 
+File AR.01.02.06 
+ 
+Nuclear Regulatory Commission 
+Mr. V. M. McCree (w/o enclosures) 
+Mr. M. Delligatti (w/o enclosures) 
+Mr. L. Burkhart (w/o enclosures) 
+Mr. D. H. Jaffe 
+Mr. R. G. Joshi 
+Ms. D. L. McGovern 
+Mr. B. M. Bavol 
+Ms. M. A. Sutton 
+Mr. M. E. Ernstes 
+Mr. G. Khouri 
+Mr. L. M. Cain 
+Mr. J. D. Fuller 
+Mr. C. B. Abbott 
+Mr. C. Huffman 
+ 
+State of Georgia 
+Mr. J. H. Turner (w/o enclosure 4) 
+ 
+Oglethorpe Power Corporation 
+Mr. M. W. Price (w/o enclosure 4) 
+Mr. K. T. Haynes (w/o enclosure 4) 
+ 
+Municipal Electric Authority of Georgia 
+Mr. J. E. Fuller (w/o enclosure 4) 
+Mr. S. M. Jackson (w/o enclosure 4) 
+U.S. Nuclear Regulatory Commission 
+ND-14-0748 
+Page 4 of 4 
+ 
+ 
+Dalton Utilities 
+Mr. D. Cope (w/o enclosure 4) 
+ 
+CB&I 
+Mr. J. Simmons (w/o enclosures) 
+Ms. K. Stoner (w/o enclosures) 
+Mr. C. A. Castell  
+ 
+Westinghouse Electric Company, LLC 
+Mr. T. C. Geer (w/o enclosures) 
+Mr. S. W. Gray (w/o enclosures) 
+Mr. F. G. Gill 
+Mr. P. A. Russ 
+Mr. G. F. Couture 
+Mr. M. Y. Shaqqo 
+ 
+Other 
+Mr. R. W. Prunty, Bechtel Power Corporation 
+Ms. K. K. Patterson, Tetra Tech NUS, Inc. (w/o enclosure 4) 
+Dr. W. R. Jacobs, Jr., Ph.D., GDS Associates, Inc. (w/o enclosure 4) 
+Mr. S. Roetger, Georgia Public Service Commission (w/o enclosure 4) 
+Ms. S. W. Kernizan, Georgia Public Service Commission (w/o enclosure 4) 
+Mr. K. C. Greene, Troutman Sanders (w/o enclosure 4) 
+Mr. S. Blanton, Balch Bingham 
+Ms. A. Rice, South Carolina Electric & Gas Company 
+Mr. D. Kersey, South Carolina Electric & Gas Company 
+Mr. B. Kitchen, Duke Energy 
+Mr. S. Franzone, Florida Power & Light 
+ 
+ 
+ 
+ 
+ 
+ 
+Southern Nuclear Operating Company 
+Vogtle Electric Generating Plant (VEGP) Units 3 and 4 
+ 
+ 
+ND-14-0748 
+ 
+Enclosure 1 
+ 
+ 
+Request for License Amendment Regarding 
+Containment Internal Structural Wall Module Design Details 
+(LAR-14-001)
+ND-14-0748 
+Enclosure 1 
+License Amendment Request (LAR-14-001): Containment Internal Structural Wall Module 
+Design Details 
+ 
+ 
+Page 2 of 23 
+Table of Contents 
+1. Summary Description 
+2. Detailed Description  
+3. Technical Evaluation  
+4. Regulatory Evaluation 
+4.1 Applicable Regulatory Requirements/Criteria  
+4.2 Precedent  
+4.3 Significant Hazards Consideration Determination 
+4.4 Conclusions 
+5. Environmental Considerations 
+ 
+ 
+  
+ND-14-0748 
+Enclosure 1 
+License Amendment Request (LAR-14-001): Containment Internal Structural Wall Module 
+Design Details 
+ 
+ 
+Page 3 of 23 
+1. Summary Description  
+ 
+The purpose of this License Amendment Request (LAR) is to address proposed changes 
+related to the design details of the in-containment structural wall modules (CA01, CA02, and 
+CA05).  These design changes are a result of design finalization of the modules, fabrication 
+experience in the shop environment, and the comparison of text and figures presented in the 
+Updated Final Safety Analysis Report (UFSAR).  These changes include the following: 1) 
+providing additional detail to describe the mechanical connections between the internal 
+containment structural module steel faceplates and the base concrete, 2) allowing for 
+increases in the thickness of the structural wall module faceplates, 3) identifying changes to 
+the wall thicknesses for portions of some internal containment structural wall modules, and 
+4) identifying the use of steel plates, structural shapes, reinforcement bars, or tie bars 
+between the faceplates of the structural wall modules, where needed to meet applicable 
+code requirements. 
+ 
+The proposed changes to UFSAR Tier 2 information and the involved plant-specific Tier 1 
+and associated COL Appendix C information allow for the use of thicker than nominal 
+faceplates to accommodate local demand or connection loads in certain areas without the 
+use of overlay plates or additional backup structures.  Additional proposed changes to Tier 2 
+and involved Tier 2* information allow: 1) a means of connecting the structural wall modules 
+to the base concrete via use of structural shapes, reinforcement bars, and shear studs 
+extending horizontally from the structural module faceplates and embedded during concrete 
+placement as an alternative to the use of embedment plates and vertically oriented 
+reinforcement bars, 2) a variance in structural module wall thicknesses from the thicknesses 
+identified in UFSAR Figure 3.8.3-8, “Structural Modules – Typical Design Details,” for some 
+walls that separate equipment spaces from personnel access areas, and 3) the use of steel 
+plates, structural shapes, reinforcement bars, or tie bars between the module faceplates, as 
+needed to support localized loads and ensure compliance with applicable codes.  
+ 
+2. Detailed Description   
+ 
+The proposed revisions to the UFSAR are needed to reflect proposed design changes 
+related to the internal containment structural wall module faceplate nominal thickness and 
+wall thicknesses, to the mechanical connection between the in-containment structural 
+module steel faceplate and the base concrete, and to the use of steel plates, structural 
+shapes, reinforcement bars, or tie bars between the faceplates to address out-of-plane 
+loads.  These proposed changes are described below.  The Tier 2 text changes identified in 
+this document include involved Tier 2* changes in Subsections 3.8.3.1.3, “Structural Wall 
+Modules,” 3.8.3.5.8.1, “Structural Wall Modules,” and 3.8.3.8, “Construction Inspection,” in 
+Table 3.8.3-3, “Definition of Critical Locations and Thicknesses for Containment Internal 
+Structures,” and Table 3.8.3-5, “Design Summary of South Wall of Steam Generator 
+ND-14-0748 
+Enclosure 1 
+License Amendment Request (LAR-14-001): Containment Internal Structural Wall Module 
+Design Details 
+ 
+ 
+Page 4 of 23 
+Compartment Design Loads, Load Combinations, and Comparison to Acceptance Criteria 
+Mid-Span at Mid-Height,” and in Figure 3.8.3-1, “Structural Modules in Containment Internal 
+Structures,” Figure 3.8.3-8, “Structural Modules – Typical Design Details,” and Figure 3.8.3-
+18, “Location of Structural Wall Modules.”   
+ 
+The applicability of these changes to the affected modules is as shown in the table below. 
+ 
+ 
+ 
+ 
+ 
+ 
+Location 
+ 
+In-Containment Structural Wall 
+Module 
+ 
+CA01 
+ 
+CA02 
+ 
+CA05 
+ 
+Structural Module Connection to the Base 
+Concrete 
+ 
+X 
+  
+X 
+ 
+Structural Module Faceplate Thickness 
+ 
+X 
+  
+X 
+ 
+Structural Module Wall Thickness 
+ 
+X 
+  
+X 
+ 
+Structural Module Out-of-Plane 
+Reinforcement 
+ 
+X 
+ 
+X 
+ 
+X 
+ 
+Structural Module Connection to the Base Concrete  
+ 
+UFSAR Figure 3.8.3-8 (Sheet 2) identifies a typical mechanical attachment of the structural 
+module faceplate to the base concrete, showing the module attachment to an embedment 
+plate with vertically oriented reinforcement bars that are embedded in the concrete.  UFSAR 
+Figure 3.8.3-8 (Sheet 2) illustrates a module wall to base concrete connection where base 
+concrete placement occurs after the module is set.  In these cases, a single module 
+faceplate extends to a greater depth into the base concrete than the opposite faceplate due 
+to plant layout constraints.  The proposed changes to the text in UFSAR Subsections 
+3.8.3.1.3 and 3.8.3.5.3 add additional details for these connections.  Specifically, the 
+additional details identify the use of horizontally oriented reinforcement bars, structural 
+shapes, and shear studs mechanically attached or welded to the lower module faceplate, 
+and embedded in the base concrete to transfer forces horizontally from the wall module 
+faceplate to the base concrete.  These connections are designed according to the applicable 
+sections of ACI 349 and AISC N690.  In addition, the proposed modifications permit that 
+shear-friction construction joint reinforcement, which is not attached to the module faceplate, 
+may be included in construction joints at the transition between the base concrete and 
+concrete in the modules.  The shear-friction construction joint reinforcement is not 
+ND-14-0748 
+Enclosure 1 
+License Amendment Request (LAR-14-001): Containment Internal Structural Wall Module 
+Design Details 
+ 
+ 
+Page 5 of 23 
+connected to the module faceplates and is not credited with connecting the module to the 
+base concrete. 
+Each of these proposed alternatives are in compliance with ACI 349 requirements, as 
+identified in UFSAR Subsection 3.8.3.1.3.  These changes are applicable to in-containment 
+structural modules CA01 and CA05.   
+ 
+Structural Module Faceplate Thickness  
+ 
+Supports for piping, electrical raceways, equipment, and components are attached to the 
+module structures by welding the supports directly to the structural module faceplate, or to 
+overlay plates embedded inside the module walls.  The loads from the welded supports are 
+transferred to the structural module faceplates and shear studs or backup structure 
+elements into the concrete.  Overlay plates, where used, transmit loads from attached 
+commodities directly to the concrete inside the module wall.  The UFSAR identifies the 
+nominal thickness of the structural module faceplates as 0.5 inch in text, figures, and tables.  
+In some locations in the CA01 and CA05 structural modules, faceplates with thicknesses up 
+to 1.5 inches are used to support local demand or connection loads without the use of 
+overlay plates.  In several areas within the upper portions of the CA01 steam generator 
+compartments, 3.0 inch faceplates are used in local areas to support steam generator lateral 
+support loads.  In some locations, overlay plates are used, which also add thickness at that 
+location.  The additional thickness is applicable to the outer surface of the module and, as a 
+result, the overall module wall thickness is correspondingly greater in these areas.  
+Faceplates with thicknesses greater than nominal are used on the CA01 structural module 
+(UFSAR Figure 3.8.3-14, Sheet 1), as well as CA05.  Overlay plates are used in the CA01, 
+CA02, and CA05 structural modules.  Thus, the UFSAR is revised in several places, as 
+detailed below, to identify these variations in structural module faceplate thickness.  
+ 
+Structural Module Wall Thickness  
+ 
+UFSAR Figure 3.8.3-8 (Sheet 1) specifies that the wall thickness for the structural wall 
+modules is either a nominal 2'-6" or a nominal 4'-0".  This thickness requirement was 
+intended for the major structural walls of the structural modules such as the primary and 
+secondary shield walls around the reactor vessel and steam generator, and the walls of the 
+refueling canal.  However, there are other module walls, such as walls that separate 
+equipment spaces from personnel access areas, which can satisfy their associated 
+structural design and shielding requirements, using wall thicknesses different than the 
+values currently specified in UFSAR Figure 3.8.3-8 (Sheet 1).  In addition, some walls 
+require thicknesses greater than 4'-0" in order to satisfy shielding requirements.  The 
+maximum thickness used in the structural wall modules is 4'-6" as shown in Figure 3.8.3-1 
+(Sheet 2), and the minimum thickness used in the structural wall modules is 1'-6" as shown 
+in Figure 3.8.3-1 (Sheet 2).   
+ND-14-0748 
+Enclosure 1 
+License Amendment Request (LAR-14-001): Containment Internal Structural Wall Module 
+Design Details 
+ 
+ 
+Page 6 of 23 
+Thus, it is proposed to revise UFSAR Figure 3.8.3-8 (Sheets 1 and 2) to: 
+ 
+• Add a note stating that some module walls that separate equipment spaces from 
+personnel access areas have wall thicknesses that differ from the dimensions 
+shown, 
+ 
+• Provide a reference to UFSAR Figure 3.8.3-1 (Sheets 2 and 4), which currently 
+identify, and are being revised to identify more of the structural module CA01 and 
+CA05 wall thicknesses; and make conforming changes to the text in UFSAR Section 
+3.8.3.1.3, 
+ 
+• Identify that the affected module wall thicknesses are determined based on radiation 
+protection considerations, and   
+ 
+• Identify that the wall modules are designed to the applicable ACI 349 and AISC N690 
+code requirements.   
+ 
+The proposed revisions include changes to UFSAR Figure 3.8.3-1 (Sheets 1 - 5), and 
+Figure 3.8.3-18, to add notes to define a specific elevation for the figures, and revise the 
+module outlines as necessary to accurately reflect the module outlines at the newly 
+specified elevations.  
+ 
+The proposed revisions include changes to UFSAR Figure 3.8.3-1 (Sheet 2) to add wall 
+thicknesses for wall sections that vary from the nominal wall thicknesses, and to show a 
+notch inside the northeast corner of structural module CA05 to denote a region of the 
+module where the thickness was reduced to accommodate equipment in that area, 
+which transitions at higher elevations to full CA05 wall thickness.  
+ 
+The proposed revisions include changes to UFSAR Figure 3.8.3-1 (Sheet 4) and UFSAR 
+Figure 3.8.3-18 to include the addition of a shielding wall on the northeast side of CA01 
+to be consistent with the newly specified elevation of 107'-2″, and consistent with the 
+UFSAR Figure 1.2-7, “Nuclear Island General Arrangement Plan at Elevation 107′-2″ & 
+111′-0″.    
+ 
+The proposed revisions include changes to UFSAR Figure 3.8.3-1 (Sheet 4) to add wall 
+thicknesses for wall sections that vary from the nominal wall thicknesses.   
+ 
+These changes are applicable to in-containment structural modules CA01 and CA05.  
+  
+ND-14-0748 
+Enclosure 1 
+License Amendment Request (LAR-14-001): Containment Internal Structural Wall Module 
+Design Details 
+ 
+ 
+Page 7 of 23 
+Structural Module Out-of-Plane Reinforcement  
+ 
+Certain portions of the structural modules experience out-of-plane loads and require 
+additional reinforcement according to the applicable sections of AISC N690 and ACI 
+349.  In order to address these areas of localized out-of-plane loads, it is proposed to 
+add steel plates, structural shapes, reinforcement bars, or tie bars between the 
+faceplates.  This additional reinforcement would be attached at both ends to the 
+faceplates and embedded in the concrete, and added to ensure compliance with code 
+requirements.  As identified below, the provision to provide additional reinforcement to 
+support demand from out-of-plane loads is being added to the UFSAR in several 
+locations.  These changes are applicable to in-containment structural modules CA01, 
+CA02, and CA05.  
+ 
+Licensing Basis Change Descriptions  
+ 
+The affected text, tables, and figures are proposed to be modified as discussed below 
+(grouped by change category) and shown in Enclosures 3 and 4.    
+ 
+Structural Module Connection to the Base Concrete  
+ 
+1. UFSAR Subsection 3.8.3.1.3 is revised to add that shear-friction 
+construction joint reinforcement, which is not attached to the module 
+faceplate, may be included in construction joints at the transition between 
+the base concrete and concrete in the modules in accordance with ACI 
+349 requirements.  
+ 
+2. UFSAR Subsections 3.8.3.1.3 and 3.8.3.5.3 are revised to collectively 
+add that i) shear studs, structural shapes, and horizontally oriented 
+reinforcement bars mechanically connected or welded to the module 
+faceplates may be used to anchor the modules to the base concrete, ii) 
+where shear lugs are used, they are designed in accordance with ACI 
+349, iii) where horizontal bars are attached perpendicular to the faceplate, 
+the bars act as shear studs to develop the faceplate, and iv) where 
+reinforcement bars are used to further detail base concrete at module 
+walls with offset elevations, or are attached to the edge of a faceplate at 
+an elevation offset, the development satisfies the requirements of ACI 
+349.  This information is designated Tier 2*.   
+  
+ND-14-0748 
+Enclosure 1 
+License Amendment Request (LAR-14-001): Containment Internal Structural Wall Module 
+Design Details 
+ 
+ 
+Page 8 of 23 
+Structural Module Faceplate Thickness   
+ 
+1. UFSAR Subsections 3.8.3.1.3 and 3.8.3.8, Table 3.8.3-3, Table 3.8.3-4, 
+Table 3.8.3-5, and Figure 3.8.3-8 (Sheets 1 and 2) are revised to 
+collectively identify that in some locations, the faceplate thickness of the 
+structural modules is greater than the 0.5 inch nominal faceplate 
+thickness up to a thickness of 1.5 inches to support local demand 
+associated with equipment support loads, and to support steam generator 
+lateral loads, the faceplate thickness is increased to 3.0 inches.  These 
+additions have been designated Tier 2*.  The beginning of the second 
+paragraph of Section 3.8.3.1.3 is also re-arranged in this area to better 
+organize the information and provide continuity to the structural module 
+faceplate, and truss and diaphragm discussions.   
+ 
+2. UFSAR Table 3.8.3-3 is revised to correct a typographical error by 
+removing the leading period for the 0.01 values in all three rows for the 
+column titled “Thickness of Surface Plates Provided.”  An additional 
+change is made to that table to remove the word “maximum” from the title 
+of the fifth column.   
+ 
+3. UFSAR Subsection 3.8.3.5.3 is revised to add a statement that variations 
+in the module design details and design elements used are described in 
+the Figure 3.8.3-8 notes and in subsections 3.8.3.1 and 3.8.3.1.3.  
+ 
+4. Plant-specific Tier 1 and associated COL Appendix C Table 3.3-1, Note 3 
+is revised to add that where structural wall module faceplates thicker than 
+the nominal 0.5 inches or overlay plates are used in the construction of 
+the structural wall modules, the wall thicknesses in the area of the thicker 
+faceplates and overlay plates are larger than indicated in the table, by the 
+amount of faceplate and/or overlay plate thickness increase over the 
+nominal 0.5 inches.  
+ 
+Structural Module Wall Thickness  
+1. UFSAR Tier 2* Subsection 3.8.3.1.3 is revised, and a note added to 
+Figure 3.8.3-8 (Sheets 1 and 2) to state that some module walls that 
+separate equipment spaces from personnel access areas have wall 
+thicknesses different than the dimensions shown on Figure 3.8.3-8, and 
+that Figure 3.8.3-1 (Sheets 2 and 4) identify the CA01 and CA05 module 
+wall thickness differences.  Subsection 3.8.3.1.3 is also revised to identify 
+ND-14-0748 
+Enclosure 1 
+License Amendment Request (LAR-14-001): Containment Internal Structural Wall Module 
+Design Details 
+ 
+ 
+Page 9 of 23 
+that module wall thickness increases due to increases in faceplate 
+thickness is below the level of detail added to UFSAR Figure 3.8.3-1.  
+ 
+2. UFSAR Tier 2* Figure 3.8.3-1 (Sheets 1 - 5), and Tier 2* Figure 3.8.3-18, 
+are revised to add notes to identify specific elevations for each sheet, and 
+revise the drawings as necessary to reflect the wall module configurations 
+at those elevations.  These changes include: 
+ 
+• Revision of Figure 3.8.3-1 (Sheet 2) as follows:  
+ 
+CA01 
+  
+- Removal of the south wall of the refueling cavity, and darkened 
+the remaining line of the trapezoidal corner assemblies  
+ 
+- Identification of the east wall of the east steam generator 
+compartment as a single faceplate wall, 
+CA05  
+- Addition of an extension on the north end of the north wall of the 
+CA05 module to identify an extension consisting of a single 
+faceplate wall, and  
+- Insertion of a “notch” on the south side of the northeast corner of 
+the module due to a transition in the CA05 module in that 
+location,  
+- Addition of wall thickness dimensions to the CA05 module, and  
+- Identification of the west end of the CA05 module as a single 
+faceplate wall. 
+• Revision of Figure 3.8.3-1 (Sheet 3) to identify an extension of the 
+CA05 module north wall further north, as a single faceplate wall,   
+ 
+• Revision of Figure 3.8.3-1 (Sheet 4) and Figure 3.8.3-18 to identify 
+the addition of a shielding wall on the northeast side of CA01 near 
+the east steam generator compartment opening to be consistent 
+with Figure 1.2-7, “Nuclear Island General Arrangement Plan at 
+Elevation 107′-2″ & 111′-0″,” and  
+ 
+ND-14-0748 
+Enclosure 1 
+License Amendment Request (LAR-14-001): Containment Internal Structural Wall Module 
+Design Details 
+ 
+ 
+Page 10 of 23 
+• Revision of Figure 3.8.3-1 (Sheet 4) to add wall thickness 
+dimensions for the CA01 module walls.  
+ 
+Structural Module Out-of-Plane Reinforcement  
+1. UFSAR Subsection 3.8.3.1.3 is revised to add that steel plates, structural 
+shapes, reinforcement bars, or tie bars are installed between the 
+structural wall module faceplates and embedded in the concrete as 
+additional structural elements that support out-of-plane loads and 
+structural integrity.  This reinforcement is designed to the applicable 
+requirements of ACI 349 and AISC N690.  
+ 
+2. UFSAR Subsection 3.8.3.5.3.5 is revised to add that additional structural 
+capacity is provided by steel plates, structural shapes, reinforcement 
+bars, and tie bars installed between the faceplates as described in 
+UFSAR subsection 3.8.3.1.3, and that these structural members are 
+designed according to the applicable requirements of AISC N690 and ACI 
+349.  
+ 
+3. UFSAR Tier 2* Subsection 3.8.3.5.8.1 is revised to add that steel plates, 
+structural shapes, reinforcement bars, or tie bars are used in other 
+locations as needed between the structural module faceplates to address 
+out-of-plane loads as described in subsection 3.8.3.1.3.   
+ 
+3. Technical Evaluation  
+ 
+Structure, System, Component and/or Analysis Descriptions  
+The primary function of the containment internal structures is to provide support, protection, 
+and separation for the seismic Category I mechanical and electrical equipment located 
+inside those structures.  These structures are designed to meet seismic Category I 
+requirements as defined in Regulatory Guide 1.29.   
+ 
+The containment internal structures are those concrete and steel structures inside (not part 
+of) the containment pressure boundary that support the reactor coolant system components 
+and related piping systems and equipment.  The walls of these modules provide support for 
+floors and other steel structures, component and piping supports, and other attachments.  
+Structural wall modules are used for the primary shield wall around the reactor vessel, for 
+the wall between the vertical access and the Chemical and Volume Control System (CVS) 
+room, for the secondary shield walls around the steam generators and pressurizer, for the 
+ND-14-0748 
+Enclosure 1 
+License Amendment Request (LAR-14-001): Containment Internal Structural Wall Module 
+Design Details 
+ 
+ 
+Page 11 of 23 
+east side of the in-containment refueling water storage tank, and for the refueling cavity.  
+Structural wall modules consist of steel faceplates with shear studs connected by steel 
+trusses, and in localized areas, additional reinforcement.  Following installation of the 
+structural module within the containment building, the hollow wall structures are filled with 
+concrete, forming a portion of the structural walls of the containment internal structures.   
+The containment internal structural modules are seismic Category I structures and are 
+designed for dead, live, thermal, pressure, safe shutdown earthquake, and loads due to 
+postulated pipe breaks.  
+Supporting Technical Details  
+Structural Module Connection to the Base Concrete  
+For the attachment method shown in UFSAR Figure 3.8.3-8 (Sheet 2), mechanical 
+connectors, typically bolts or welds, are used between the module faceplate and the 
+embedment wherever the embedment or anchor is set in the concrete prior to setting the 
+module.  These embedments include vertical reinforcing bars which extend into the base 
+concrete.  This is currently shown in UFSAR Figure 3.8.3-8 (Sheet 2).   
+As also shown in UFSAR Figure 3.8.3-8 (Sheet 2), in some cases a single module faceplate 
+extends to a lower elevation than the opposite faceplate due to plant layout constraints.  
+This offset module base configuration occurs in various locations for modules CA01, CA02, 
+and CA05.  In the CA01 module, this offset configuration occurs in nearly every submodule, 
+with varying degrees of offset.  The CA02 and CA05 modules also have this offset base 
+configuration for most of these module perimeters.  
+The connection of the lower faceplate in portions of the CA01 and CA05 module to the base 
+concrete may be detailed to transfer forces from the faceplate to the base concrete using 
+horizontally oriented reinforcement bars, structural shapes, shear studs, or shear lugs which 
+are mechanically attached or welded to the lower module faceplate, and are embedded in 
+the base concrete.  This connection is designed according to the applicable sections of ACI 
+349 and AISC N690.  Similar to the primary attachment method described above, this 
+proposed alternate method of attachment provides a direct load path between the steel 
+faceplates to the reinforcement bars in the base concrete as required by the note under the 
+figure in UFSAR Figure 3.8.3-8 (Sheet 2).  For this alternate attachment method, the 
+structural module is anchored using horizontally oriented deformed bars, headed studs, 
+structural shapes, shear lugs, and other anchors directly connected to the module.  These 
+items are embedded in the concrete after the module is set and, as a result, a separate 
+mechanical connection is not required at the base as with the primary attachment method.  
+This is consistent with UFSAR Figure 3.8.3-8 (Sheet 3) which shows the use of studs and 
+deformed bars to anchor a module in the concrete.  Where horizontal bars are attached 
+perpendicular to the faceplate, the bars act as shear studs.  In other configurations, such as 
+ND-14-0748 
+Enclosure 1 
+License Amendment Request (LAR-14-001): Containment Internal Structural Wall Module 
+Design Details 
+ 
+ 
+Page 12 of 23 
+an offset in faceplate elevation, horizontal bars attached to the faceplate are developed in 
+accordance with ACI 349.  In cases where a step in elevation occurs, horizontal bars 
+attached to the edge of the faceplate may be used, in which case, the bars would be fully 
+developed in accordance with ACI 349.  Consequently, these anchors transfer load from the 
+module to the concrete regardless of the orientation of the anchor.  The transfer of loads 
+from the anchor within the concrete provides a direct connection between the steel module 
+and the base concrete as required by the note in UFSAR Figure 3.8.3-8 (Sheet 2) because 
+the anchors are directly connected to the module faceplates using mechanical or welded 
+connections.  In some cases, the structural wall module may need additional detail, requiring 
+the addition of reinforcement bar at the location that is not connected to the module 
+faceplate.  In these cases the reinforcement bar is also developed in accordance with ACI 
+349.  The design of this connection uses either shear friction criteria described in ACI 349 
+Section 11.7 or ACI 349 Appendix B for anchoring to concrete.  Wherever reinforcement 
+bars are used, the development requirements of ACI 349 apply.   
+The horizontally oriented connection reinforcing bar dowels are sized in accordance with the 
+shear-friction provisions of ACI 349 Section 11.7 based on design demand consisting of the 
+applicable combination of the tension forces and in-plane and out-of-plane shear forces.  
+Alternatively, structural shapes such as angles or channels welded to the faceplates may be 
+used to provide shear transfer by consideration of the bearing strength of the concrete in 
+combination with tension anchors in accordance with ACI 349 Appendix B requirements.  
+Compression forces are transferred through the concrete within the composite section 
+directly to the reinforced concrete.  Evaluations are performed in accordance with ACI 349 
+Appendix B to preclude concrete failure modes in tension and shear.  Additional 
+reinforcement where required for detailing base concrete at module walls where offsets in 
+faceplate elevation occur is provided in accordance with ACI 349.   
+This alternate method of attachment satisfies the applicable code requirements of ACI 349 
+for anchorage in the concrete.  The mechanical design and acceptance criteria for the 
+structural module walls as specified in UFSAR Section 3.5 for missile protection, UFSAR 
+Section 3.6 for protection against dynamic effects, UFSAR Section 3.7 for seismic design, 
+and UFSAR Section 3.8 for design of Category I structures are unchanged by the use of this 
+alternate attachment method; consequently, those requirements are met by this alternate 
+attachment method.   
+It should be noted that, for this alternate attachment method, a lap splice arrangement 
+between the faceplates and reinforcement bar is not used to transfer the load from the 
+module.  These items are embedded in the concrete after the module is set, and separate 
+mechanical connection at the base is not required.  These items are connected to a single 
+sided portion of the module, extend into the base concrete, and are not located between 
+module walls.  The development, embedment requirements, and design of these elements 
+satisfy the applicable portions of ACI 349 and AISC N690. 
+ND-14-0748 
+Enclosure 1 
+License Amendment Request (LAR-14-001): Containment Internal Structural Wall Module 
+Design Details 
+ 
+ 
+Page 13 of 23 
+The change to UFSAR Subsection 3.8.3.1.3 regarding shear-friction construction joint 
+reinforcement is proposed to clarify that the purpose of the shear-friction reinforcement is to 
+satisfy ACI 349 requirements for the concrete construction joint rather than to anchor the 
+module.  The information concerning shear-friction reinforcement is added because the 
+reinforcement arrangement used may appear to be a connection between the modules and 
+base concrete using a lap splice type of connection.  
+Structural Module Faceplate Thickness   
+As discussed above, the in-containment module design may incorporate faceplates in some 
+locations in structural module CA01 and CA05 that are thicker than the nominal thickness.  
+In addition, overlay plates are attached in some locations to structural modules CA01, CA02, 
+and CA05 to support equipment attachment.  Thicker than nominal faceplates are used in in 
+localized areas of higher loads.  These include areas of increased loading due to equipment 
+supports, such as pipe and component supports or in some connections to floor modules, 
+and permit larger attachment or connection loads without the use of overlay plates or 
+additional backup structures.  A thicker faceplate is also used in the area inside the 
+northeast corner of the CA05 structural module where it transitions at lower elevations from 
+2′-0″ (where the wall thickness is reduced to accommodate equipment) to 4′-6″.   
+The sections of thicker faceplates primarily consist of faceplates 1.0 inch and 1.5 inches in 
+thickness.  However, in a few locations, in the upper portions of the CA01 structural module 
+steam generator enclosure area, small plates with a thickness of 3 inches are provided to 
+meet local demand for the steam generator lateral supports.  For the CA01 structural 
+module, approximately 10 percent of the faceplate area has a faceplate thickness of 1.0 
+inch, approximately 5 percent of the faceplate area has a faceplate thickness of 1.5 inches, 
+and less than 0.5 percent of the faceplate area has a thickness of 3.0 inches.   
+The use of thicker faceplates in selected areas provides several design and fabrication 
+benefits.  Use of thicker faceplates provides flexibility in selecting the final design location of 
+required attachments, provides fabrication advantages where connections to the faceplates 
+require a large amount of welding and associated heat input, and reduce the use of overlay 
+plates.  Use of thicker faceplates in areas of higher loads simplify fabrication by reducing or 
+eliminating drilling, fabrication, and welding operations associated with installing overlay 
+plates and backup structures.  The use of thicker faceplates in these areas also provide 
+more effective load transfer to a backup structure or other internal embedments where such 
+an arrangement is included in the design.   
+Because the thicker faceplates are used only in local regions, they do not have an adverse 
+effect on the structural or seismic analysis of the structural modules.  Evaluations were 
+performed to assess the impact of the increase in faceplate thickness in the applicable 
+areas of the affected structural modules.  These evaluations determined that the impact on 
+the calculated loads for the critical locations for the in-containment structural modules 
+ND-14-0748 
+Enclosure 1 
+License Amendment Request (LAR-14-001): Containment Internal Structural Wall Module 
+Design Details 
+ 
+ 
+Page 14 of 23 
+documented in UFSAR Table 3.8.3-5 is insignificant, the critical locations as defined in 
+Table 3.8.3-3 have not changed, and the required thickness of the surface plates is not 
+affected.  Thus, no changes to the values in these tables are proposed with this LAR.  An 
+assessment was also performed to determine the impact of increasing the faceplate 
+thickness on the global seismic model.  It has been confirmed that the changes in faceplate 
+thickness for the affected structural modules have an insignificant impact on the global 
+seismic model, and thus no changes to that model are proposed with this LAR.  The use of 
+thicker faceplates is in compliance with the applicable code requirements contained in AISC 
+N690 and ACI 349, including the applicable acceptance criteria.   
+Where overlay plates are used, they function as load attachment and distribution elements.  
+The overlay plates do not affect the structural wall module stiffness used in the global model 
+and do not participate in resisting the internal wall module forces from the global model, 
+including the global seismic analysis.  
+For the in-containment structural wall modules CA01, CA02, and CA05, duplex steel is used 
+for surfaces in contact with borated water, i.e., wetted surfaces that form portions of the In-
+Containment Refueling Water Storage Tank (IRWST), the reactor vessel cavity, and the 
+refueling cavity.  The duplex faceplates have been determined to have sufficient capacity to 
+meet all structural demand.  The CA01 to CA03 connection joints use duplex steel, in the 
+form of T-sections fabricated from 1.5 inch duplex steel.  Duplex steel is used in these 
+locations because of the exposure of these connection locations to borated water.   
+In accordance with AWS D1.1, “Structural Welding Code – Steel,” welded transitions 
+between plates of different thicknesses are tapered at a minimum transition slope of 1 in 2.5 
+to provide a smooth tension stress path through the transition area, and welded using 
+complete joint penetration (CJP) welds.  In addition, CJP welds require 100% magnetic 
+particle or liquid penetrant testing, with an additional 10% of the welds subject to volumetric 
+inspection.  CJP welds in duplex plate in contact with borated water also require 100% dye 
+penetrant (PT) testing of the final pass.  Since the duplex material is not included in the 
+AWS D1.6, “Structural Welding Code – Steel,” code as a prequalified material, the fabricator 
+and constructor must develop and qualify the welding procedure that will be used to weld 
+the duplex as required by the AP1000 welding specification for duplex steel plate, and AWS 
+D1.6 Sections 3, 4 and 5.   
+Table 3.8.3-3 is revised to delete the word “Maximum” from the title of the fifth column 
+“Required Thickness of Surface Plates (inches)”. “Maximum” is deleted from the Table 3.8.3-
+3 fifth column title, as the values presented in that column represent the minimum required 
+thickness of surface plates for operating and design basis loads as identified in Note 3 of 
+Table 3.8.3-3, as well as in subsection 3.8.3.8.   
+  
+ND-14-0748 
+Enclosure 1 
+License Amendment Request (LAR-14-001): Containment Internal Structural Wall Module 
+Design Details 
+ 
+ 
+Page 15 of 23 
+Structural Module Wall Thickness  
+The proposed change to UFSAR Subsection 3.8.3.1.3 is to clarify that some CA01 and 
+CA05 module walls that separate equipment spaces from personnel access areas have wall 
+thicknesses different than the dimensions shown in Figure 3.8.3-8.  For example, the 1′-6″ 
+and 1′-6.5″ stub walls depicted on the CA01 module in Figure 3.8.3-1 (Sheet 4 of 7) are 
+provided for shielding.  On the east side, the stub wall provides shielding from radiation 
+streaming from the east Steam Generator (SG 2).  On the west side, the stub wall provides 
+shielding from radiation streaming from the west steam generator (SG 1) and the pressurizer 
+and pressurizer spray valves.   
+These different wall thicknesses were not previously identified in the UFSAR but have been 
+incorporated into the dynamic, structural, and shielding calculations for the containment 
+structural modules.  They are being identified as a change in this LAR, because they were 
+not previously specifically identified in the UFSAR.  This change does not alter any design 
+criteria, codes, standards or regulatory requirements.  The modules with portions of the wall 
+thickness outside the specified range in Figure 3.8.3-8 (Sheet 1) continue to satisfy the 
+applicable requirements of AISC N690, ACI 349, and the supplemental requirements in 
+UFSAR Subsection 3.8.3.5.3.  The shielding provided by these walls continues to satisfy the 
+radiation protection requirements and dose values as provided in UFSAR Sections 12.3 and 
+12.4, as these wall thicknesses were included in the shielding calculations forming the basis 
+for the doses provided in the UFSAR.  As a result, there is no impact on the doses already 
+reported in the UFSAR, and, consequently, this change does not represent an ALARA 
+concern.  None of the figures in UFSAR Sections 1.2 and 12.3 are changed as a result of 
+this activity.  The seismic design and acceptance criteria, as provided in UFSAR Section 3.7, 
+which are not altered by this change in wall thickness, continue to be applied to the walls 
+with the changed wall thickness.  Further, the wall thicknesses were considered in the global 
+finite element analysis (FEA) models of the nuclear island, and providing the wall thickness 
+clarification does not alter those models.   
+Structural Module Out-of-Plane Reinforcement  
+UFSAR Subsections 3.8.3.1.3, 3.8.3.5.3.5, and  3.8.3.5.8.1 are proposed to be changed to 
+collectively state that steel plates, structural shapes, reinforcement bars, or tie bars between 
+the faceplates of the CA01, CA02, and CA05 structural wall modules are added in some 
+locations as additional structural elements in order to meet applicable code structural 
+requirements.  These added design features provide additional capacity compared with the 
+current design that enables areas subject to local out-of-plane loads to satisfy the applicable 
+requirements of AISC N690 and ACI 349.  This change does not alter any design criteria, 
+codes, standards or regulatory requirements but is needed to ensure that, at all locations, 
+the structural wall modules are in compliance with the code requirements.   
+General Discussion Regarding All Changes   
+ND-14-0748 
+Enclosure 1 
+License Amendment Request (LAR-14-001): Containment Internal Structural Wall Module 
+Design Details 
+ 
+ 
+Page 16 of 23 
+The proposed changes of the design details of the structural modules do not change the 
+support, design, or operation of mechanical and fluid systems.  The change of the detail 
+design of the structural modules does not change the capacity, function, or response to 
+anticipated transients or postulated accident conditions of any structure, system or 
+component (SSC).  There is no change to plant systems or the response of systems to 
+postulated accident conditions.  The proposed changes do not change the function, design, 
+or operation of the containment vessel or the passive containment cooling system.  The 
+proposed changes do not affect the prevention or mitigation of abnormal events, e.g., 
+accidents, anticipated operational occurrences, earthquakes, floods and turbine missiles, or 
+their safety or design analyses.  There is no change to the predicted radioactive releases 
+due to normal operation or postulated accident conditions.  The plant response to previously 
+evaluated accidents or external events is not adversely affected, nor does the change 
+described create any new accident precursors.   
+The proposed changes do not adversely affect any safety-related equipment, design code, 
+design code allowable value, function or design analysis, nor do the proposed changes 
+adversely affect any safety analysis input or result, or design/safety margin.  The proposed 
+changes do not interface with or affect safety-related equipment or a fission product barrier.  
+No system or design function or equipment qualification would be adversely affected by the 
+proposed changes.  The changes do not result in a new failure mode, malfunction or 
+sequence of events that could adversely affect a radioactive material barrier or safety-
+related equipment.  The proposed changes do not allow for a new fission product release 
+path, result in a new fission product barrier failure mode, or create a new sequence of 
+events that would result in significant fuel cladding failures.   
+The proposed changes associated with this license amendment request include changes to 
+detailed design of containment internal structures.  The proposed changes do not affect the 
+radiological source terms (i.e., amounts and types of radioactive materials released, their 
+release rates and release durations) used in the accident analyses, thus, the consequences 
+of accidents are not affected.  These changes do not affect the containment, control, 
+channeling, monitoring, processing or releasing of radioactive or non-radioactive materials.  
+The location and design of penetrations and the permeability and waterproofing of the 
+concrete in the exterior walls are not changed.  The interface between the nuclear island 
+and the external surrounding environment is not impacted by the proposed change.  The 
+types and quantities of expected effluents are not changed.  No effluent release path is 
+affected.  The functionality of the design and operational features that are credited with 
+controlling the release of effluents during plant operation is not diminished.  Therefore, 
+radioactive or non-radioactive material effluents are not affected.  Plant radiation zones, 
+controls required under 10 CFR Part 20, and expected amounts and types of radioactive 
+materials are not affected by the proposed changes.  Therefore, individual and cumulative 
+radiation exposures do not change.   
+ND-14-0748 
+Enclosure 1 
+License Amendment Request (LAR-14-001): Containment Internal Structural Wall Module 
+Design Details 
+ 
+ 
+Page 17 of 23 
+The proposed changes do not involve, nor interface with, any structure, system or 
+component accident initiator or initiating sequence of events, and thus, the probabilities of 
+the accidents evaluated in the UFSAR are not affected.   
+The proposed activity has no adverse effect on the ex-vessel severe accident.  The overall 
+design, geometry, and strength of the containment internal structures are not adversely 
+affected.  The design and material selection of the concrete floor beneath the reactor vessel 
+is not altered.  The response of the containment to a postulated reactor vessel failure, 
+including direct containment heating, ex-vessel steam explosions, and core concrete 
+interactions is not altered by the changes to the detail design of the structural modules.  The 
+design of the reactor vessel and the response of the reactor vessel to a postulated severe 
+accident are not altered by the proposed changes.   
+The proposed activity has no impact on the Aircraft Impact Assessment.  The changes 
+described are internal to the structures and do not impact the design or response of the 
+containment vessel and shield building.  There is no change to protection of plant structures, 
+systems, and components against aircraft impact provided by the design of the shield 
+building.  There is no change to the design of any of the key design features described in 
+UFSAR Appendix 19F.  The activity described does not change the overall design or 
+construction of the shield building.   
+The change activity has no impact on the emergency plans or the physical security 
+evaluation because there are no changes to the configuration of walls, doors, or access to 
+the Nuclear Island.   
+Summary   
+The proposed changes would revise Tier 2, and associated Tier 1, COL Appendix C, and 
+Tier 2* information in the UFSAR in regard to detailed design of containment internal 
+structures.  The proposed changes do not adversely affect the strength or response of the 
+nuclear island structures.   
+The above proposed changes do not adversely affect any safety-related equipment or 
+function, design function, radioactive material barrier or safety analysis.   
+  
+ND-14-0748 
+Enclosure 1 
+License Amendment Request (LAR-14-001): Containment Internal Structural Wall Module 
+Design Details 
+ 
+ 
+Page 18 of 23 
+4. Regulatory Evaluation  
+4.1 Applicable Regulatory Requirements/Criteria   
+10 CFR 52.98(f) requires NRC approval for any modification to, addition to, or deletion 
+from the terms and conditions of a COL.  This activity involves a departure from plant-
+specific Tier 1 information, and a corresponding change to COL Appendix C, 
+Inspections, Tests, Analyses and Acceptance Criteria information; therefore, this activity 
+requires a requested amendment to the COL.  Accordingly, NRC approval is required 
+prior to making the plant-specific changes in this license amendment request.   
+10 CFR 52, Appendix D, Section VIII.B.5.a allows an applicant or licensee who 
+references this appendix to depart from Tier 2 information, without prior NRC approval, 
+unless the proposed departure involves a change to or departure from Tier 1 
+information, Tier 2* information, or the Technical Specifications, or requires a license 
+amendment under paragraphs B.5.b or B.5.c of the section. This change, which includes 
+changes to design details for construction of the in-containment structural module wall 
+attachment, faceplate thickness, wall thickness, and allows for the use of steel plates, 
+structural shapes, reinforcement bars, or tie bars between the module faceplates, as 
+needed to meet applicable code requirements, includes a Tier 2 departure which 
+involves a revision to plant-specific Tier 1 information (and corresponding COL Appendix 
+C information) and Tier 2* information, and thus requires NRC approval. Therefore, a 
+license amendment request (LAR) (as supplied herein) is required.   
+10 CFR Part 50, Appendix A, General Design Criterion (GDC) 1 requires that structures 
+be designed, fabricated, erected, constructed, tested, and inspected to quality standards 
+commensurate with the importance of the safety functions to be performed.  The 
+proposed change does not change the criteria for the design, analysis, and construction 
+of the in-containment structural module walls.  The modules remain in conformance with 
+the code requirements identified and supplemented in the UFSAR.   
+10 CFR Part 50, Appendix A, GDC 2 requires that structures withstand the effects of 
+earthquakes and appropriate combinations of the effects of normal and accident 
+conditions, including the effects of environmental loadings, such as earthquakes and 
+other natural phenomena.  The proposed changes have no adverse impact on the 
+seismic motions to which the nuclear island structures are subjected and no adverse 
+impact on the response of the nuclear island structures to seismic motions.   
+10 CFR Part 50, Appendix A, GDC 4 requires that systems, structures, and components 
+can withstand the dynamic effects associated with missiles, pipe whipping, and 
+discharging fluids, excluding dynamic effects associated with pipe ruptures, the 
+probability of which is extremely low under conditions consistent with the design basis 
+for the piping.  The proposed changes do not adversely affect the configuration of the 
+ND-14-0748 
+Enclosure 1 
+License Amendment Request (LAR-14-001): Containment Internal Structural Wall Module 
+Design Details 
+ 
+ 
+Page 19 of 23 
+walls and floors that provide separation between sources and potential targets. The 
+proposed changes have no impact on the capability of the systems, structures, and 
+components to withstand dynamic effects associated with missiles, pipe whipping, and 
+discharging fluids as required by this criterion.  The proposed changes do not change 
+the requirements for anchoring safety-related components and supports to seismic 
+Category I structures.    
+4.2  Precedent  
+No precedent is identified.  
+4.3 Significant Hazards Consideration  
+The requested amendment would revise the plant-specific Design Control Document 
+(DCD) material incorporated into the Updated Final Safety Analysis Report (UFSAR), by 
+revising the design details for the internal containment structural modules faceplate and 
+wall thickness, the attachment of the containment structural modules to the base 
+concrete, and providing for the use of steel plates, structural shapes, reinforcement bars, 
+or tie bars between the module faceplates, where needed to meet applicable code 
+requirements. 
+An evaluation to determine whether or not a significant hazards consideration is involved 
+with the requested amendment was completed by focusing on the three standards set 
+forth in 10CFR50.92, “Issuance of Amendment,” as discussed below:  
+4.3.1 Does the requested amendment involve a significant increase in the 
+probability or consequences of an accident previously evaluated?  
+Response:  No  
+The design function of the internal containment structures is to provide support, 
+protection, and separation for the seismic Category I mechanical and electrical 
+equipment located in those structures.  These structures are structurally 
+designed to meet seismic Category I requirements as defined in Regulatory 
+Guide 1.29.   
+The changes to the design details for the structural modules do not have an 
+adverse impact on the response of the nuclear island structures to safe shutdown 
+earthquake ground motions or loads due to anticipated transients or postulated 
+accident conditions, nor do they change the seismic Category I classification.  
+Evaluations have been performed which determined that the proposed changes 
+do not have a significant impact on the calculated loads for the affected structural 
+modules, or critical locations, and no significant impact on the global seismic 
+model.  The changes to the design details for the structural modules do not 
+ND-14-0748 
+Enclosure 1 
+License Amendment Request (LAR-14-001): Containment Internal Structural Wall Module 
+Design Details 
+ 
+ 
+Page 20 of 23 
+impact the support, design, or operation of mechanical and fluid systems.  There 
+is no change to plant systems or the response of systems to postulated accident 
+conditions.  There is no change to the predicted radioactive releases due to 
+postulated accident conditions.  The plant response to previously evaluated 
+accidents or external events is not adversely affected, nor does the change 
+described create any new accident precursors.   
+Therefore, the requested amendment does not involve a significant increase in 
+the probability or consequences of an accident previously evaluated.   
+4.3.2 Does the requested amendment create the possibility of a new or 
+different kind of accident from any accident previously evaluated?  
+Response:  No   
+The proposed changes are to revise design details for the internal containment 
+structural modules.  The changes do not change the design requirements of the 
+nuclear island structures, nor do they change the seismic Category I 
+classification.  The changes to the design details for the internal containment 
+structural modules do not change the design function, support, design, or 
+operation of mechanical and fluid systems.  The changes to the design details for 
+the internal containment structural modules do not result in a new failure 
+mechanism for the nuclear island structures or introduce any new accident 
+precursors.  As a result, the design function of the nuclear island structures is not 
+adversely affected by the proposed change.   
+Therefore, the requested amendment does not create the possibility of a new or 
+different kind of accident from any accident previously evaluated.   
+4.3.3 Does the requested amendment involve a significant reduction in a 
+margin of safety?   
+Response:  No  
+The requested amendment proposes changes to the structural details associated 
+with the in-containment structural modules.  The purpose of these changes is to 
+ensure that the requirements contained in the applicable construction codes are 
+met.  As discussed in UFSAR, Section 3.8.3.5, “Design Procedures and 
+Acceptance Criteria,” the in-containment structural modules are designed in 
+accordance with ACI 349 and AISC N690.  Thus, the identification of additional 
+structural module connection details, the increase in structural module faceplate 
+and wall thicknesses, and the addition of additional reinforcement in specific 
+areas are proposed to ensure that the codes of record, and the associated 
+ND-14-0748 
+Enclosure 1 
+License Amendment Request (LAR-14-001): Containment Internal Structural Wall Module 
+Design Details 
+ 
+ 
+Page 21 of 23 
+margins contained therein, continue to be met as specified in the design basis.  
+Structural and seismic analysis of the modified sections in accordance with the 
+methodologies identified in the UFSAR has confirmed that the applicable 
+requirements of ACI 349 and AISC N690 continue to be met for affected in-
+containment structural modules.   
+As a result, the proposed changes do not adversely affect any safety-related 
+equipment or other design functions, design code compliance, design analysis, 
+safety analysis input or result, or design/safety margin.  No safety analysis or 
+design basis acceptance limit/criterion is challenged or exceeded by the 
+proposed changes.  Therefore, the requested amendment does not involve a 
+significant reduction in a margin of safety.   
+Based on the above, it is concluded that the requested amendment does not involve a 
+significant hazards consideration under the standards set forth in 10 CFR 50.92(c), and, 
+accordingly, a finding of “no significant hazards consideration” is justified. 
+4.4 Conclusions   
+Based on the considerations discussed above, (1) there is reasonable assurance that 
+the health and safety of the public will not be endangered by operation in the proposed 
+manner, (2) such activities will be conducted in compliance with the Commission’s 
+regulations, and (3) the issuance of the amendment will not be inimical to the common 
+defense and security or to the health and safety of the public.   
+5. Environmental Considerations   
+ 
+The requested amendment revises the Updated Final Safety Analysis Report (UFSAR) Tier 
+2 and related plant-specific Design Control Document (DCD) Tier 1 (and corresponding COL 
+Appendix C) and Tier 2* information by revising the design details for the internal 
+containment structural modules.   
+ 
+A review has determined that the requested amendment would change a requirement with 
+respect to installation or use of a facility component located within the restricted area, as 
+defined in 10 CFR Part 20, or would change an inspection or surveillance requirement.  
+However, facility construction and operation following implementation of the requested 
+amendment does not involve (i) a significant hazards consideration, (ii) a significant change 
+in the types or a significant increase in the amounts of any effluents that may be released 
+offsite, or (iii) a significant increase in individual or cumulative occupational radiation 
+exposure.  Accordingly, the requested amendment meets the eligibility criteria for 
+categorical exclusion set forth in 10 CFR 51.22(c)(9), in that:   
+  
+ND-14-0748 
+Enclosure 1 
+License Amendment Request (LAR-14-001): Containment Internal Structural Wall Module 
+Design Details 
+ 
+ 
+Page 22 of 23 
+(i) There is no significant hazards consideration.   
+As documented in Section 4.3, Significant Hazards Consideration Determination, of 
+this license amendment request, an evaluation was completed to determine whether 
+or not a significant hazards consideration is involved by focusing on the three 
+standards set forth in 10 CFR 50.92, “Issuance of amendment.” The Significant 
+Hazards Consideration determined that (1) the requested amendment does not 
+involve a significant increase in the probability or consequences of an accident 
+previously evaluated; (2) the requested amendment does not create the possibility of 
+a new or different kind of accident from any accident previously evaluated; and (3) 
+the requested amendment does not involve a significant reduction in a margin of 
+safety.  Therefore, it is concluded that the requested amendment does not involve a 
+significant hazards consideration under the standards set forth in 10 CFR 50.92(c), 
+and accordingly, a finding of “no significant hazards consideration” is justified.   
+ 
+(ii) There is no significant change in the types or significant increase in the amounts of 
+any effluents that may be released offsite.   
+ 
+The requested amendment changes are unrelated to any aspect of plant 
+construction or operation that would introduce any change to effluent types (e.g., 
+effluents containing chemicals or biocides, sanitary system effluents, and other 
+effluents), or affect any plant radiological or non-radiological effluent release 
+quantities.  Furthermore, the proposed changes do not affect any effluent release 
+path or diminish the functionality of any design or operational features that are 
+credited with controlling the release of effluents during plant operation.  Therefore, it 
+is concluded that the requested amendment does not involve a significant change in 
+the types or a significant increase in the amounts of any effluents that may be 
+released offsite. 
+ 
+(iii) There is no significant increase in individual or cumulative occupational radiation 
+exposure.   
+ 
+The proposed changes to the design details for the internal containment structural 
+modules do not adversely affect walls, floors, or other structures which provide 
+shielding.  Plant radiation zones are not affected, and there are no changes to the 
+controls required under 10 CFR Part 20 that preclude a significant increase in 
+occupational radiation exposure.  Therefore, the requested amendment does not 
+involve a significant increase in individual or cumulative occupational radiation 
+exposure.  
+  
+ND-14-0748 
+Enclosure 1 
+License Amendment Request (LAR-14-001): Containment Internal Structural Wall Module 
+Design Details 
+ 
+ 
+Page 23 of 23 
+Based on the above review of the requested amendment, it has been determined that 
+anticipated construction and operational impacts of the requested amendment do not 
+involve (i) a significant hazards consideration, (ii) a significant change in the types or 
+significant increase in the amounts of any effluents that may be released offsite, or (iii) a 
+significant increase in the individual or cumulative occupational radiation exposure.  
+Accordingly, the requested amendment meets the eligibility criteria for categorical exclusion 
+set forth in 10 CFR 51.22(c)(9).  Therefore, pursuant to 10 CFR 51.22(b), no environmental 
+impact statement or environmental assessment need be prepared in connection with the 
+requested amendment. 
+ 
+ 
+ 
+ 
+ 
+ 
+Southern Nuclear Operating Company 
+Vogtle Electric Generating Plant (VEGP) Units 3 and 4 
+ 
+ 
+ND-14-0748 
+ 
+ 
+Enclosure 2 
+ 
+Request for Exemption  
+Regarding Containment Internal Structural Wall Module Design Details 
+(LAR-14-001) 
+ND-14-0748 
+Enclosure 2 
+Exemption Request (LAR-14-001): Containment Internal Structural Wall Module Design Details 
+ 
+ 
+Page 2 of 8 
+1.0 Purpose 
+Southern Nuclear Operating Company (the Licensee) requests a permanent exemption from the 
+provisions of 10 CFR 52, Appendix D, Section III.B, “Design Certification Rule for the AP1000 
+Design, Scope and Contents,” to allow a departure from elements of the certification information 
+in Tier 1 of the Generic DCD.  The regulation, 10 CFR 52, Appendix D, Section III.B, requires an 
+applicant or licensee referencing Appendix D to 10 CFR Part 52 to incorporate by reference and 
+comply with the requirements of Appendix D, including certification information in DCD Tier 1.  
+The Tier 1 information for which a plant-specific departure and exemption is being requested 
+includes changes related to the design details of internal structural modules.  
+This request for exemption will apply the requirements of 10 CFR 52, Appendix D, Section 
+VIII.A.4 to allow departures from generic Tier 1 information due to the proposed additions to the 
+non-system based design descriptions and Inspections, Tests, Analyses, and Acceptance 
+Criteria (ITAAC) as identified in Note 3 of Table 3.3-1, Definition of Wall Thicknesses for Nuclear 
+Island Buildings, Turbine Building, and Annex Building. 
+Modular construction techniques are used extensively in the containment internal structures.  
+Subassemblies are initially fabricated both offsite and onsite.  Module assembly consists of 
+combining the subassemblies into structural modules after which they are installed in the plant.  
+Design finalization of the modules, fabrication experience in the shop environment, and the 
+comparison of text and figures presented in the UFSAR have identified the need for proposed 
+design changes to certain details of the structural modules identified in Tier 1 Table 3.3-1. 
+The use of thicker than nominal faceplates permits larger attachment or connection loads 
+without the use of overlay plates.  Structural modules CA01 and CA05 use thicker faceplates in 
+some locations.  In addition, overlay plates are attached in some locations to structural modules 
+CA01, CA02, and CA05 to support equipment attachment.  A thicker faceplate is also used in 
+the area inside the northeast corner of the CA05 structural module where it transitions at lower 
+elevations from 2’-0” (where the wall thickness is reduced to accommodate equipment) to 4’-6”.  
+The additional thickness from the use of thicker faceplates or overlay plates is applicable to the 
+outer surface of the module and, as a result, the overall module wall thickness is greater in 
+these areas.  This change affects dimensions specified in plant-specific DCD Tier 1, Table 3.3-1 
+and requires a revision to a note to the table. 
+2.0 Background 
+The Licensee is the holder of Combined License Nos. NPF-91 and NPF-92, which authorize 
+construction and operation of two Westinghouse Electric Company AP1000 nuclear plants, 
+named Vogtle Electric Generating Plant (VEGP) Units 3 and 4, respectively.   
+The containment internal structures are those concrete and steel structures inside (not part of) 
+the containment pressure boundary that support the reactor coolant system components and 
+ND-14-0748 
+Enclosure 2 
+Exemption Request (LAR-14-001): Containment Internal Structural Wall Module Design Details 
+ 
+ 
+Page 3 of 8 
+related piping systems and equipment.  The walls of these modules are part of the containment 
+internal structures and provide support for floors and other steel structures, component and 
+piping supports, and other attachments.  Structural wall modules are used for the primary shield 
+wall around the reactor vessel, the wall between the vertical access and the Chemical and 
+Volume Control System (CVS) room, secondary shield walls around the steam generators and 
+pressurizer, the east side of the in-containment refueling water storage tank, and the refueling 
+cavity.  Structural wall modules consist of steel faceplates connected by steel trusses.  
+Following installation of the structural module within the containment building, the hollow wall 
+structures are filled with concrete, forming a portion of the structural walls of the containment 
+internal structures.   
+The containment internal structural module is a seismic Category I structure and is designed for 
+dead, live, thermal, pressure, safe shutdown earthquake, and loads due to postulated pipe 
+breaks.   
+Supports for piping, electrical raceways, equipment, and components are attached to the 
+module structures by welding the supports directly to the structural module faceplate, or to 
+overlay plates welded to the structural module faceplates.  The loads from the supports are 
+transferred through the overlay plates, where used; to the structural wall module faceplates and 
+shear studs or backup structure elements into the concrete.  The UFSAR identifies the nominal 
+thickness of the structural wall module faceplates as 0.5 inch in text, figures, and tables.  In 
+some cases the support loads require more capacity than that provided by the 0.5 inch 
+faceplates and shear studs.  Where faceplates thicker than the nominal 0.5 inches or overlay 
+plates are used in the construction of the structural wall modules, the wall thicknesses in the 
+area of the thicker faceplates and overlay plates are greater than indicated in Tier 1 Table 3.3.1 
+by the amount of faceplate and/or overlay plate thickness increase over the nominal 0.5 inches.  
+Therefore, it is proposed to add following two sentences to Note 3 of Tier 1 Table 3.3.1: 
+“Where faceplates with a nominal thickness of 0.5 inches are used in the construction of the 
+wall modules, the wall thicknesses in this column apply.  Where faceplates thicker than the 
+nominal 0.5 inches or overlay plates are used in the construction of the structural wall 
+modules, the wall thicknesses in the area of the thicker faceplates and overlay plates are 
+greater than indicated in this column by the amount of faceplate and/or overlay plate 
+thickness increase over the nominal 0.5 inches”. 
+  
+ND-14-0748 
+Enclosure 2 
+Exemption Request (LAR-14-001): Containment Internal Structural Wall Module Design Details 
+ 
+ 
+Page 4 of 8 
+3.0 Technical Justification of Acceptability 
+The use of thicker than nominal faceplates permits larger attachment or connection loads 
+without the use of overlay plates or additional backup structures.  In addition, heavy sections or 
+structural shapes may be welded to the faceplates during module fabrication.  The use of thicker 
+faceplates in these areas facilitates the fabrication of the modules.  The additional thickness is 
+applied to the outer surface of the module and, as a result, the overall module wall thickness is 
+greater in these areas.  The design of the modules with the subject variances is in conformance 
+with design and analysis requirements for the modules identified in the UFSAR.  The modules 
+with portions of the faceplates thicker than 0.5 inch satisfy the applicable requirements of AISC 
+N690, ACI 349 and the supplemental requirements in UFSAR Subsection 3.8.3.5.3.  The thicker 
+faceplates do not have an adverse effect on the seismic or structural analysis of the structural 
+modules based on evaluations supporting the design change.  Because the thicker faceplates 
+are used for local attachment loads and connections and are not required for seismic loads on 
+the structure, the spacing of the shear studs is not changed. 
+Where overlay plates are used, they function as load attachment and distribution elements.  The 
+overlay plates do not affect the structural wall module stiffness used in the global model and do 
+not participate in resisting the internal wall module forces from the global model, including the 
+global seismic analysis. 
+Additional detail for justification for this exemption is provided in Section 3 of the accompanying 
+License Amendment Request in Enclosure 1. 
+ 
+4.0 Justification of Exemption  
+10 CFR Part 52, Appendix D, Section VIII.A.4 and 10 CFR 52.63(b)(1) govern the issuance of 
+exemptions from elements of the certified design information for AP1000 nuclear power plants. 
+Because the Licensee has identified changes to the Tier 1 information related to the Tier 2 
+departure discussed in Enclosure 1 of the accompanying License Amendment Request, an 
+exemption from the certified design information in Tier 1 is needed. 
+10 CFR Part 52, Appendix D, and 10 CFR §§ 50.12, 52.7, and 52.63 state that the NRC may 
+grant exemptions from the requirements of the regulations provided six conditions are met: 
+1) the exemption is authorized by law [§50.12(a)(1)]; 2) the exemption will not present an undue 
+risk to the health and safety of the public [§50.12(a)(1)]; 3) the exemption is consistent with the 
+common defense and security [§50.12(a)(1)]; 4) special circumstances are present 
+[§50.12(a)(2)]; 5) the special circumstances outweigh any decrease in safety that may result 
+from the reduction in standardization caused by the exemption [§52.63(b)(1)]; and 6) the design 
+change will not result in a significant decrease in the level of safety [Part 52, App. D, VIII.A.4]. 
+  
+ND-14-0748 
+Enclosure 2 
+Exemption Request (LAR-14-001): Containment Internal Structural Wall Module Design Details 
+ 
+ 
+Page 5 of 8 
+The requested exemption satisfies the criteria for granting specific exemptions, as described 
+below. 
+1.  This exemption is authorized by law 
+The NRC has authority under 10 CFR §§ 50.12, 52.7, and 52.63 to grant exemptions 
+from the requirements of NRC regulations.  Specifically, 10 CFR §§50.12 and 52.7 
+state that the NRC may grant exemptions from the requirements of 10 CFR Part 52 
+upon a proper showing.  No law exists that would preclude the changes covered by 
+this exemption request.  Additionally, granting of the proposed exemption does not 
+result in a violation of the Atomic Energy Act of 1954, as amended, or the 
+Commission's regulations.  
+Accordingly, this requested exemption is "authorized by law," as required by 10 CFR 
+§50.12(a)(1).  
+2.  This exemption will not present an undue risk to the health and safety of the 
+public 
+The proposed exemption from the requirements of 10 CFR 52, Appendix D, 
+Section III.B would allow changes to elements of the plant-specific Tier 1 DCD to 
+depart from the AP1000 certified (Tier 1) design information.  The plant-specific 
+Tier 1 DCD will continue to reflect the approved licensing basis for the Licensee, and 
+will maintain a consistent level of detail with that which is currently provided 
+elsewhere in Tier 1 of the plant-specific DCD.  The changes to the design details for 
+the structural wall modules do not have an adverse impact on the response of the 
+nuclear island structures to safe shutdown earthquake ground motions or loads due 
+to anticipated transients or postulated accident conditions, nor do they change the 
+seismic Category I classification.  The changes to the design details for the structural 
+wall modules do not impact the support, design, or operation of mechanical and fluid 
+systems.  There is no change to plant systems or the response of systems to 
+postulated accident conditions.  There is no change to the predicted radioactive 
+releases due to postulated accident conditions.  The plant response to previously 
+evaluated accidents or external events is not adversely affected, and the change 
+described does not create any new accident precursors.  Therefore, no adverse 
+safety impact that would present any additional risk to the health and safety is 
+present.  The affected Design Description in the plant-specific Tier 1 DCD will also 
+continue to provide the detail necessary to support the performance of the 
+associated ITAAC. 
+Therefore, the requested exemption from 10 CFR 52, Appendix D, Section III.B 
+would not present an undue risk to the health and safety of the public. 
+ 
+ND-14-0748 
+Enclosure 2 
+Exemption Request (LAR-14-001): Containment Internal Structural Wall Module Design Details 
+ 
+ 
+Page 6 of 8 
+3. The exemption is consistent with the common defense and security 
+The exemption from the requirements of 10 CFR 52, Appendix D, Section III.B would 
+change elements of the plant-specific Tier 1 DCD by departing from the AP1000 
+certified (Tier 1) design information.  The exemption does not alter the design, 
+function, or operation of any structures or plant equipment that is necessary to 
+maintain a safe and secure status of the plant.  The proposed exemption has no 
+impact on plant security or safeguards procedures. 
+Therefore, the requested exemption is consistent with the common defense and 
+security. 
+4. Special circumstances are present 
+10 CFR 50.12(a)(2) list six “special circumstances” for which an exemption may be 
+granted.  Pursuant to the regulation, it is necessary for one of these special 
+circumstances to be present in order for the NRC to consider granting an exemption 
+request.  The requested exemption meets the special circumstances of 10 CFR 
+50.12(a)(2)(ii).  That subsection defines special circumstances as when “Application 
+of the regulation in the particular circumstances would not serve the underlying 
+purpose of the rule or is not necessary to achieve the underlying purpose of the rule.” 
+The rule under consideration in this request for exemption is 10 CFR 52, 
+Appendix D, Section III.B, which requires that a licensee referencing the AP1000 
+Design Certification Rule (10 CFR Part 52, Appendix D) shall incorporate by 
+reference and comply with the requirements of Appendix D, including Tier 1 
+information.  The VEGP Units 3 and 4 COLs reference the AP1000 Design 
+Certification Rule and incorporate by reference the requirements of 10 CFR Part 52, 
+Appendix D, including Tier 1 information.  The underlying purpose of Appendix D, 
+Section III.B is to describe and define the scope and contents of the AP1000 design 
+certification, and to require compliance with the design certification information in 
+Appendix D.  
+The proposed changes to the design details for the structural wall modules maintain 
+the design margins of the internal containment structures.  This change does not 
+impact the ability of any structures, systems, or components to perform their 
+functions or negatively impact safety.  Accordingly, this exemption from the 
+certification information will enable the Licensee to safely construct and operate the 
+AP1000 facility consistent with the design certified by the NRC in 10 CFR 52, 
+Appendix D.  
+Therefore, special circumstances are present, because application of the current 
+generic certified design information in Tier 1 as required by 10 CFR Part 52, 
+ND-14-0748 
+Enclosure 2 
+Exemption Request (LAR-14-001): Containment Internal Structural Wall Module Design Details 
+ 
+ 
+Page 7 of 8 
+Appendix D, Section III.B, in the particular circumstances discussed in this request is 
+not necessary to achieve the underlying purpose of the rule.  
+5. The special circumstances outweigh any decrease in safety that may result 
+from the reduction in standardization caused by the exemption 
+Based on the nature of the changes to the plant-specific Tier 1 information and the 
+understanding that these changes support the design function of the internal 
+containment structures, it is expected that this exemption will be requested by other 
+AP1000 licensees and applicants.  However, a review of the reduction in 
+standardization resulting the departure from the standard DCD determined that even 
+if other AP1000 licensees and applicants do not request this same departure, the 
+special circumstances will continue to outweigh any decrease in safety from the 
+reduction in standardization because the key design functions of the structures 
+associated with this request will continue to be maintained.  Furthermore, the 
+justification provided in this exemption request and the associated marked-up tables 
+demonstrate that the change from the standard information provided in the generic 
+AP1000 DCD is offset by the special circumstances identified above.  
+Therefore, the special circumstances associated with the requested exemption 
+outweigh any decrease in safety that may result from the reduction in standardization 
+caused by the exemption.  In fact, as described in item 6 below, the exemption will 
+result in no reduction in the level of safety.  
+6.  The design change will not result in a significant decrease in the level of 
+safety.  
+The exemption revises the plant-specific DCD Tier 1 information by altering the 
+design details for the internal containment structural wall modules.  The changes to 
+the design details for the internal containment structural wall modules do not change 
+the design requirements of the nuclear island structures.  Because these functions 
+continue to be met, there is no reduction in the level of safety.  
+5.0 Risk Assessment 
+A risk assessment was determined to be not applicable to address the acceptability of this 
+request. 
+6.0 Precedent 
+No precedent for this request is identified.  
+ 
+  
+ND-14-0748 
+Enclosure 2 
+Exemption Request (LAR-14-001): Containment Internal Structural Wall Module Design Details 
+ 
+ 
+Page 8 of 8 
+7.0 Environmental Consideration 
+A review has determined that the proposed exemption would change a requirement with respect 
+to installation or use of a facility component located within the restricted area, as defined in 
+10 CFR 20, or would change an inspection or surveillance requirement.  However, the proposed 
+exemption does not involve (i) a significant hazards consideration, (ii) a significant change in the 
+types or a significant increase in the amounts of any effluents that may be released offsite, or 
+(iii) a significant increase in individual or cumulative occupational radiation exposure.  Specific 
+justification is provided in Section 5 of the corresponding License Amendment Request in 
+Enclosure 1.  Accordingly, the proposed exemption meets the eligibility criterion for categorical 
+exclusion set forth in 10 CFR 51.22(c)(9).  Therefore, pursuant to 10 CFR 51.22(b), no 
+environmental impact statement or environmental assessment need be prepared in connection 
+with the proposed exemption. 
+8.0 Conclusion 
+ 
+The proposed changes to Tier 1 are necessary to revise Note 3 in plant-specific Tier 1 Table 
+3.3-1 to add that where thicker faceplates or overlay plates are used in the construction of the 
+structural wall modules, the wall thicknesses in the area of the thicker faceplates and overlay 
+plates are larger than indicated in the table.  The exemption request meets the requirements of 
+10 CFR 52.63, “Finality of design certifications,” 10 CFR 52.7, “Specific exemptions,” 
+10 CFR 50.12, “Specific exemptions,” 10 CFR 51.22, “Criteria for categorical exclusion; 
+identification of licensing and regulatory actions eligible for categorical exclusion or otherwise 
+not requiring environmental review,” and 10 CFR 52 Appendix D, “Design Certification Rule for 
+the AP1000.”  Specifically, the exemption request meets the criteria of 10 CFR 50.12(a)(1) in 
+that the request is authorized by law, presents no undue risk to public health and safety, and is 
+consistent with the common defense and security.  Furthermore, approval of this request does 
+not result in a significant decrease in the level of safety, presents special circumstances, does 
+not present a significant decrease in safety as a result of a reduction in standardization, and 
+meets the eligibility requirements for categorical exclusion. 
+ 
+ 
+ 
+ 
+ 
+ 
+Southern Nuclear Operating Company 
+Vogtle Electric Generating Plant (VEGP) Units 3 and 4 
+ 
+ 
+ND-14-0748 
+ 
+ 
+Enclosure 3 
+ 
+Proposed Changes to Licensing Basis Documents 
+(LAR-14-001) 
+ 
+ND-14-0748 
+Enclosure 3 
+Proposed Changes to Licensing Basis Documents (LAR-14-001) 
+ 
+Page 2 of 18 
+Tier 1 Changes 
+ 
+Plant-Specific Tier 1 Table 3.3-1 and corresponding COL Appendix C Table 3.3-1, Definition of Wall Thicknesses for Nuclear 
+Island Buildings, Turbine Building, and Annex Building – Revise to add addition to Note 3 as shown below: 
+ 
+ 
+Table 3.3-1 
+Definition of Wall Thicknesses for Nuclear Island Buildings, Turbine Building, and Annex Building(1) 
+ 
+ 
+Wall or Section Description 
+ 
+ 
+Column Lines(7) 
+ 
+Floor Elevation or 
+Elevation Range(7)(8) 
+ 
+Concrete 
+Thickness(2)(3)(4)(5)(9) 
+Applicable Radiation 
+Shielding Wall 
+(Yes/No) 
+Containment Building Internal Structure 
+Shield Wall between Reactor Vessel Cavity and RCDT 
+Room 
+E-W wall parallel with column line 7 
+(Inside face is 3'-0" north of column 
+line 7. Width of wall section with 
+stated thickness is defined by inside 
+wall of reactor vessel cavity.) 
+From 71'-6" to 83'-0" 3'-0" Yes 
+West Reactor Vessel Cavity Wall N-S wall parallel with column line N 
+(Width of wall section with stated 
+thickness is defined by inside wall of 
+reactor vessel cavity). 
+From 83'-0" to 98'-0" 7'-6" Yes 
+North Reactor Vessel Cavity Wall E-W wall parallel with column line 7 
+(Width of wall section with stated 
+thickness is defined by inside wall of 
+reactor vessel cavity). 
+From 83'-0" to 98'-0" 9'-0" Yes 
+ 
+1. The column lines and floor elevations are identified and included on Figures 3.3-1 through 3.3-13. 
+2. These wall (and floor) thicknesses have a construction tolerance of ±1 inch, except for exterior walls below grade where the tolerance is +12 inches, -1 inch. These tolerances are not applicable to 
+the nuclear island basemat. 
+3. For walls that are part of structural modules, the concrete thickness also includes the steel face plates.  Where faceplates with a nominal thickness of 0.5 inches are used in the construction of the wall 
+modules, the wall thicknesses in this column apply.  Where faceplates thicker than the nominal 0.5 inches or overlay plates are used in the construction of the structural wall modules, the wall 
+thicknesses in the area of the thicker faceplates and overlay plates are greater than indicated in this column by the amount of faceplate and/or overlay plate thickness increase over the nominal 0.5 
+inches. 
+4. For floors with steel surface plates, the concrete thickness also includes the plate thickness.  
+5. Where a wall (or a floor) has openings, the concrete thickness does not apply at the opening. 
+6. The elevation ranges for the shield building items are rounded to the nearest inch. 
+7. The Wall or Section Description, Column Line information, and Floor Elevation or Elevation Ranges are provided as reference points to define the general location. The concrete thickness of an 
+item intersecting other walls, roofs or floors at a designated location (e.g., column line) is not intended to be measured to the stated column line, but only to the point where the intersection occurs. 
+8. Where applicable, the upper wall portions extend to their associated roofs, which may vary in elevation, e.g., sloped roofs. 
+9. From one wall/floor section to another, the concrete thickness transitions from one thickness to another, consistent with the configurations in Figures 3.3-1 through 3.3-14. 
+ 
+ 
+Tier 1 Material
+ND-14-0748 
+Enclosure 3 
+Proposed Changes to Licensing Basis Documents (LAR-14-001) 
+ 
+Page 3 of 18 
+Tier 2* Changes and Associated Tier 2 Changes  
+ 
+UFSAR Subsection 3.8.3.1.3, Structural Wall Modules - Revise second paragraph to read as shown 
+below: 
+ 
+Structural wall modules consist of steel faceplates connected by steel trusses.  The primary purpose of 
+the trusses is to stiffen and hold together the faceplates during handling, erection, and concrete 
+placement.  At corner locations, the trusses are replaced with diaphragms.  These diaphragms have 
+similar purpose as the trusses and are used to fabricate the modules in the corners.  The nominal 
+spacing of the trusses is 30 inches.  The nominal thickness of the steel faceplates is 0.5 inch.  The 
+nominal spacing of the trusses is 30 inches. [In some locations within the CA01 and CA05 structural 
+wall modules, the faceplate thickness is greater than the nominal thickness to support local demand.  
+For areas subject to these high out-of-plane loads, the faceplate thickness may be increased up to a 
+thickness of 1.5 inches. To support loading associated with the steam generator lateral supports, the 
+faceplate thickness is increased to 3.0 inches.]*  At corner locations, the trusses are replaced with 
+diaphragms.  These diaphragms have similar purpose as the trusses and are used to fabricate the 
+modules in the corners.  The detail design of the trusses and the design of the diaphragms shown in 
+Figure 3.8.3-8, Sheet 1 are representative.  Details such as the location, type, and size of welds and 
+length and end configuration of channels used to assemble the internal trusses may vary in the design 
+implemented from that shown in the figure.  The size, shape, and location of welds, structural shapes, 
+and other elements used to fabricate and stiffen the diaphragms and connect them to the faceplates 
+and the location, size, and shape of the access opening may vary from that shown in the figure.  Steel 
+plates, structural shapes, reinforcement bars, or tie bars are installed between the structural wall 
+module faceplates and embedded in the concrete as additional structural elements that support out-of-
+plane loads and structural integrity.  This reinforcement is designed to the applicable requirements of 
+ACI 349 and AISC N690.  Each module has different characteristics that require the detailed design to 
+be specific for that module and loading and interferences within that module.  Shear studs are welded 
+to the inside faces of the steel faceplates.  Face plates are welded to adjacent plates with full 
+penetration welds so that the weld is at least as strong as the plate.  The full penetration welds are 
+identified in Figure 3.8.3-8, Sheet 1 with the weld symbol that includes the notation CJP for complete 
+joint penetration.  Plates on each face of the wall module extend down to the elevation of the adjacent 
+floor.  Where the floors in the rooms on each side of the wall module are at different elevations, one of 
+the plates at the bottom of the module extends further down than the other.  This single-sided 
+configuration is designated on Figure 3.8.3-1 as “CA Structure Module with Single Surface Plate” for 
+lower elevations in containment.  A typical example with the single-sided configuration at the bottom of 
+the module is shown in Figure 3.8.3-8.  Some modules or portions of modules do not have the single-
+sided configuration at the bottom of the module.  The module functions as a wall above the upper floor 
+level (elevation 103′-0″ in Figure 3.8.3-8).  The single plate below this elevation is designed to transfer 
+the reactions at the base of the wall into the basemat.  This plate also acts as face reinforcement for the 
+basemat.  Basemat reinforcement dowels are provided at the bottom of the single plate as shown in 
+Figure 3.8.3-8.   
+  
+ND-14-0748 
+Enclosure 3 
+Proposed Changes to Licensing Basis Documents (LAR-14-001) 
+ 
+Page 4 of 18 
+UFSAR Subsection 3.8.3.1.3, Structural Wall Modules – Add new paragraph after second paragraph 
+as shown below: 
+ 
+ [Shear studs, structural shapes, or horizontally oriented reinforcement bars mechanically connected or 
+welded to the module faceplates may be used to anchor the CA01 and CA05 structural modules to the 
+base concrete. Shear lugs designed in accordance with ACI 349 may also be used to transfer loads at 
+the connection.  Where horizontal bars are attached perpendicular to the faceplate, they function like 
+shear studs to provide for faceplate development.  Where additional reinforcement is required for 
+detailing base concrete at module walls with offsets in faceplate elevation, the reinforcement is 
+developed in accordance with ACI 349.  Where horizontal bars are attached to the edge of a faceplate 
+at an elevation offset, the bars are designed for a combination of applicable demand and developed in 
+accordance with ACI 349.]* 
+UFSAR Subsection 3.8.3.1.3, Structural Wall Modules - Revise third paragraph to read as shown 
+below: 
+ 
+[The information in Figure 3.8.3-8, Sheet 1 that is considered to be Tier 2* information is the design 
+spacing of the faceplates, trusses, channels in the trusses and the minimum size and design spacing 
+of the headed studs for the modular wall in the containment internal structure in locations away from 
+openings or penetrations in the walls.  Local variation in the design of the trusses and spacing of the 
+trusses and shear studs may be required to address internal obstructions and accessibility for 
+fabrication and inspection.  As shown in Figure 3.8.3-1, Sheets 2 and 4, some CA01 and CA05 wall 
+thicknesses are different than the wall thicknesses listed in Figure 3.8.3-8.  Wall thickness increase 
+due to local faceplate thickness increase is below the level of detail depicted in Figure 3.8.3-1.  The 
+module wall thicknesses are determined based on radiation protection considerations and are 
+designed to the applicable requirements of AISC N690 and ACI 349.  The use of full penetration welds 
+to connect the faceplates of the modules is also considered to be Tier 2* information.  The information 
+in Figure 3.8.3-8, Sheet 2 that is considered to be Tier 2* information is the use of mechanical 
+connectors and the development length requirement for the mechanical connectors.]* The detail 
+design of the mechanical connectors is governed by AISC N690 and ACI 349, and the representative 
+design shown is not considered to be Tier 2* information.  The material, size, and configuration of 
+plates, size and type of welds, method of attaching the connectors to the modules, and size of 
+deformed bars anchoring the embedments into the concrete may be different for each module and 
+may vary from that shown in the figure provided that the embedment design satisfies the AISC N690 
+and ACI 349 codes.  Sheet 3 of Figure 3.8.3-8 shows a wall of the IRWST that is a steel structure 
+anchored in concrete and is not a concrete filled module.  [The information in Figure 3.8.3-8, Sheet 3 
+that is considered to be Tier 2* information is the plate thickness for the IRWST wall, the use, spacing, 
+and size of angles and tees to stiffen the wall, the number, size, and use of studs provided to anchor 
+the module, and the number, size, vertical spacing, and development length of the deformed bars 
+provided to connect the module to the mass concrete.  The design implemented in fabrication and 
+construction drawings and instructions will have the design shown, an equal design, or a better design 
+for the key structural elements.]* 
+ 
+  
+ND-14-0748 
+Enclosure 3 
+Proposed Changes to Licensing Basis Documents (LAR-14-001) 
+ 
+Page 5 of 18 
+UFSAR Subsection 3.8.3.1.3, Structural Wall Modules - Revise fourth paragraph to read as shown 
+below: 
+ 
+The structural wall modules are anchored to the concrete base by reinforcing steel dowels or other 
+types of connections mechanically connected or welded to the modules and embedded in the 
+reinforced concrete below or adjacent to the module.  [The reinforcing steel used to anchor the modules 
+to the concrete may be oriented horizontally or vertically and has a development that satisfies the 
+requirements of ACI 349.]*  After erection, concrete is placed between the faceplates.  Typical design 
+details of the structural modules are shown in Figures 3.8.3-2 and 3.8.3-8.  Shear-friction reinforcement 
+may be included in construction joints at the transition between the base concrete and concrete in the 
+modules and is not part of the mechanical connection between the module and base concrete 
+described above. The shear-friction reinforcement at the construction joints is spaced and sized in 
+accordance with ACI 349 requirements and is not connected to the module faceplates. 
+ 
+UFSAR Subsection 3.8.3.5.3, Structural Wall Modules - Revise third paragraph to read as shown 
+below: 
+ 
+Figure 3.8.3-8 shows the typical design details of the structural modules, typical configuration of the 
+wall modules, typical anchorages of the wall modules to the reinforced base concrete, and 
+connections between adjacent modules.  Variations in the module design details and design elements 
+used are described in the Figure 3.8.3-8 notes and in subsections 3.8.3.1 and 3.8.3.1.3.  Concrete-
+filled structural wall modules are designed as reinforced concrete structures in accordance with the 
+requirements of ACI-349, as supplemented in the following paragraphs.  The faceplates are 
+considered as the reinforcing steel, bonded to the concrete by headed studs.  The application of ACI-
+349 and the supplemental requirements are supported by the behavior studies described in 
+Subsection 3.8.3.4.1.  The steel plate modules are anchored to the reinforced concrete basemat by 
+mechanical connections welded to the steel plate.  Loads are transferred directly from the faceplates 
+to the base concrete using reinforcing bars, structural shapes, and shear studs connected directly to 
+the modules with mechanical connectors, orand welds.  The reinforcing steel used to anchor the 
+modules to the concrete has a development that satisfies the requirements of ACI 349.  The design of 
+the surface plate, base plate, and vertical stiffeners is checked by finite element analysis.  The design 
+of critical sections is described in Subsection 3.8.3.5.8. 
+ 
+UFSAR Subsection 3.8.3.5.3.5, Design of Trusses - Revise to read as shown below: 
+ 
+The trusses provide a structural framework for the modules, maintain the separation between the 
+faceplates, support the modules during transportation and erection, and act as "form ties" between the 
+faceplates when concrete is being placed.  After the concrete has cured, the trusses are not required to 
+contribute to the strength or stiffness of the completed modules.  However, they do provide additional 
+shear capacity between the steel plates and concrete as well as additional strength similar to that 
+provided by stirrups in reinforced concrete.  As described in subsection 3.8.3.1.3, additional structural 
+capacity is provided between the module faceplates in some areas to support localized loads.  The 
+trusses, connecting steel plates, structural shapes, reinforcement bars, and tie bars are designed 
+according to the applicable requirements of AISC - N690 and ACI 349.  
+ND-14-0748 
+Enclosure 3 
+Proposed Changes to Licensing Basis Documents (LAR-14-001) 
+ 
+Page 6 of 18 
+UFSAR Subsection 3.8.3.5.8.1, Structural Wall Modules - Revise paragraphs after the bulleted list to 
+read as shown below: 
+ 
+The thicknesses and locations of these walls which are part of the boundary of the in-containment 
+refueling water storage tank are shown in Figure 3.8.3-18.  They are the portions of the structural wall 
+modules experiencing the largest demand.  The structural configuration and typical details are shown in 
+Figures 3.8.3-1, 3.8.3-2, 3.8.3-8, 3.8.3-14, 3.8.3-15, and 3.8.3-17.  The details shown in Figure 3.8.3-17 
+are representative of connections between floors in containment and walls constructed using steel plate 
+concrete composite construction.  Plate thickness, structural shape size, and reinforcement provided 
+may be increased due to locally higher loads.  The design implemented in fabrication and construction 
+drawings and instructions may have alternative structural shapes or reinforcement arrangements if they 
+provide equal or better load capacity.  As described in Subsection 3.8.3.1.3, steel plates, structural 
+shapes, reinforcement bars, or tie bars are used in other locations between the structural module 
+faceplates to address local out-of-plane loads.]*  The structural analyses are described in Subsection 
+3.8.3.4 and summarized in Table 3.8.3-2.  The design procedures are described in Subsection 
+3.8.3.5.3. 
+UFSAR Subsection 3.8.3.8, Construction Inspection - Revise to add the following after the bulleted 
+list as shown below: 
+ 
+• Structural margin 
+• Ease of construction 
+• Construction loads 
+• Use of standard thicknesses 
+[As described in subsection 3.8.3.1.3, some CA01 and CA05 module wall faceplate thicknesses are 
+greater than the 0.5-inch nominal faceplate thickness.]* 
+UFSAR Table 3.8.3-3, Definition of Critical Locations and Thicknesses for Containment Internal 
+Structures - Revise as described below and as shown in UFSAR Table 3.8.3-3 on page 7 of 18: 
+ 
+o In the column titled “Thickness of Surface Plates Provided”, remove the leading period for the 
+0.01 values in all three rows to fix a typographical error. 
+o Remove the word “maximum” in the title of the fifth column.  These values do not represent 
+maximum values, because they are less than the nominal values provided in the sixth column of 
+the table. 
+o Add a footnote (4) to the title of the table. 
+o Add the following Footnote 4: 
+[4     As described in subsection 3.8.3.1.3, some CA01 and CA05 module wall faceplate 
+thicknesses are greater than the 0.5-inch nominal faceplate thickness.]*
+ND-14-0748 
+Enclosure 3 
+Proposed Changes to Licensing Basis Documents (LAR-14-001) 
+ 
+Page 7 of 18 
+ 
+
+ND-14-0748 
+Enclosure 3 
+Proposed Changes to Licensing Basis Documents (LAR-14-001) 
+ 
+Page 8 of 18 
+UFSAR Table 3.8.3-4, (Sheet 1 of 3), Design Summary of West Wall of Refueling Canal Design 
+Loads, Load Combinations, and Comparison to Acceptance Criteria Mid-Span at Mid- Height - 
+Revise the notes as shown below: 
+Notes: 
+x-direction is horizontal; y-direction is vertical. 
+Element number 101870 
+Plate thickness required for load combinations excluding thermal:  0.100 inches (Maximum) 
+[Plate thickness provided:  0.50 inches -0.01 +0.10 
+As described in subsection 3.8.3.1.3, some CA01 and CA05 module wall faceplate thicknesses are greater than the 0.5-inch nominal faceplate 
+thickness. ]* 
+Maximum principal stress for load combinations including thermal:  23.37 ksi 
+[Yield stress at temperature:  65.0 ksi (Minimum)]* 
+Maximum stress intensity range for load combinations including thermal:  23.37 ksi 
+Allowable stress intensity range for load combinations including thermal:  130.0 ksi (Minimum) 
+ 
+UFSAR Table 3.8.3-4, (Sheet 2 of 3), Design Summary of West Wall of Refueling Canal Design 
+Loads, Load Combinations, and Comparison to Acceptance Criteria Mid-Span at Base - Revise the 
+notes as shown below: 
+ 
+Notes: 
+x-direction is horizontal; y-direction is vertical. 
+Element number 101788 
+Plate thickness required for load combinations excluding thermal:  0.100 inches (Maximum) 
+[Plate thickness provided:  0.50 inches -0.01 +0.10 
+As described in subsection 3.8.3.1.3, some CA01 and CA05 module wall faceplate thicknesses are greater than the 0.5-inch nominal faceplate 
+thickness. ]* 
+Maximum principal stress for load combinations including thermal:  28.0 ksi 
+[Yield stress at temperature:  65.0 ksi (Minimum)]* 
+Maximum stress intensity range for load combinations including thermal:  28.0 ksi 
+Allowable stress intensity range for load combinations including thermal:  130.0 ksi (Minimum) 
+UFSAR Table 3.8.3-4, (Sheet 3 of 3), Design Summary of West Wall of Refueling Canal Design 
+Loads, Load Combinations, and Comparison to Acceptance Criteria North End Bottom Corner - 
+Revise the notes as shown below: 
+ 
+Notes: 
+x-direction is horizontal; y-direction is vertical. 
+Element number 101794 
+Plate thickness required for load combinations excluding thermal:  0.30 inches (Maximum) 
+[Plate thickness provided:  0.50 inches -0.01 +0.10 
+As described in subsection 3.8.3.1.3, some CA01 and CA05 module wall faceplate thicknesses are greater than the 0.5-inch nominal faceplate 
+thickness. ]* 
+Maximum principal stress for load combinations including thermal:  28.1 ksi 
+[Yield stress at temperature:  65.0 ksi (Minimum)]* 
+Maximum stress intensity range for load combinations including thermal:  35.26 ksi 
+Allowable stress intensity range for load combinations including thermal:  130.0 ksi (Minimum) 
+  
+ND-14-0748 
+Enclosure 3 
+Proposed Changes to Licensing Basis Documents (LAR-14-001) 
+ 
+Page 9 of 18 
+UFSAR Table 3.8.3-5, (Sheet 1 of 3), Design Summary of South Wall of Steam Generator 
+Compartment Design Loads, Load Combinations, and Comparison to Acceptance Criteria Mid-Span 
+at Mid- Height - Revise the notes as shown below: 
+Notes: 
+x-direction is horizontal; y-direction is vertical. 
+Element number 104228 
+Plate thickness required for load combinations excluding thermal:  0.100 inches (Maximum) 
+[Plate thickness provided:  0.50 inches -0.01 +0.10 
+As described in subsection 3.8.3.1.3, some CA01 and CA05 module wall faceplate thicknesses are greater than the 0.5-inch nominal faceplate 
+thickness. ]* 
+Maximum principal stress for load combinations including thermal:  23.0 ksi 
+[Yield stress at temperature:  36.0 ksi (Minimum)]* 
+Maximum stress intensity range for load combinations including thermal:  23.0 ksi 
+Allowable stress intensity range for load combinations including thermal:  72.0 ksi (Minimum) 
+ 
+UFSAR Table 3.8.3-5, (Sheet 2 of 3), Design Summary of South Wall of Steam Generator 
+Compartment Design Loads, Load Combinations, and Comparison to Acceptance Criteria Mid-Span 
+at Base - Revise the notes as shown below: 
+ 
+Notes: 
+x-direction is horizontal; y-direction is vertical. 
+Element number 101943 
+Plate thickness required for load combinations excluding thermal:  0.100 inches (Maximum) 
+[Plate thickness provided:  0.50 inches -0.01 +0.10 
+As described in subsection 3.8.3.1.3, some CA01 and CA05 module wall faceplate thicknesses are greater than the 0.5-inch nominal faceplate 
+thickness. ]* 
+Maximum principal stress for load combinations including thermal:  25.7 ksi 
+[Yield stress at temperature:  36.0 ksi (Minimum)]* 
+Maximum stress intensity range for load combinations including thermal:  25.7 ksi 
+Allowable stress intensity range for load combinations including thermal:  72.0 ksi (Minimum) 
+UFSAR Table 3.8.3-5, (Sheet 3 of 3), Design Summary of South Wall of Steam Generator 
+Compartment Design Loads, Load Combinations, and Comparison to Acceptance Criteria West End 
+Bottom Corner - Revise the notes as shown below: 
+ 
+Notes: 
+x-direction is horizontal; y-direction is vertical. 
+Element number 101933 
+Plate thickness required for load combinations excluding thermal:  0.100 inches (Maximum) 
+[Plate thickness provided:  0.50 inches -0.01 +0.10 
+As described in subsection 3.8.3.1.3, some CA01 and CA05 module wall faceplate thicknesses are greater than the 0.5-inch nominal faceplate 
+thickness. ]* 
+Maximum principal stress for load combinations including thermal:  43.1 ksi 
+[Yield stress at temperature:  36.0 ksi (Minimum)]* 
+Maximum stress intensity range for load combinations including thermal:  52.6 ksi 
+Allowable stress intensity range for load combinations including thermal:  72.0 ksi (Minimum) 
+  
+ND-14-0748 
+Enclosure 3 
+Proposed Changes to Licensing Basis Documents (LAR-14-001) 
+ 
+Page 10 of 18 
+UFSAR Figure 3.8.3-1, (Sheet 1 of 7) Structural Modules in Containment Internal Structure – Revise 
+to add a note stating “Note: View shows module elevation 71′-6″” as shown in Figure 1 below: 
+Figure 1 
+ 
+  
+
+ND-14-0748 
+Enclosure 3 
+Proposed Changes to Licensing Basis Documents (LAR-14-001) 
+ 
+Page 11 of 18 
+UFSAR Figure 3.8.3-1, (Sheet 2 of 7) Structural Modules in Containment Internal Structures – Revise 
+to add a note stating “Note: View shows module elevation 87′-6″” as shown in Figure 2 below: 
+Figure 2 
+[ This figure contains Security Related Information.  See Enclosure 4 ] 
+  
+ND-14-0748 
+Enclosure 3 
+Proposed Changes to Licensing Basis Documents (LAR-14-001) 
+ 
+Page 12 of 18 
+UFSAR Figure 3.8.3-1, (Sheet 3 of 7) Structural Modules in Containment Internal Structures – Revise 
+to add a note stating “Note: View shows module elevation 98′-6″” as shown in Figure 3 below: 
+Figure 3 
+ 
+  
+
+ND-14-0748 
+Enclosure 3 
+Proposed Changes to Licensing Basis Documents (LAR-14-001) 
+ 
+Page 13 of 18 
+UFSAR Figure 3.8.3-1, (Sheet 4 of 7) Structural Modules in Containment Internal Structures – Revise 
+to add a note stating “Note: View shows module elevation 107′-2″” as shown in Figure 4 below: 
+Figure 4 
+[ This figure contains Security Related Information.  See Enclosure 4 ] 
+  
+ND-14-0748 
+Enclosure 3 
+Proposed Changes to Licensing Basis Documents (LAR-14-001) 
+ 
+Page 14 of 18 
+UFSAR Figure 3.8.3-1, (Sheet 5 of 7) Structural Modules in Containment Internal Structures – Revise 
+to add a note stating “Note: View shows module elevation 135′-3″” as shown in Figure 5 below: 
+Figure 5 
+ 
+
+ND-14-0748 
+Enclosure 3 
+Proposed Changes to Licensing Basis Documents (LAR-14-001) 
+ 
+Page 15 of 18 
+UFSAR Figure 3.8.3-8, Structural Modules – Typical Design Details, (Sheet 1 of 3) – Revise to add 
+the following Notes 4 and 5 as shown below: 
+ 
+ 
+ 
+ 
+  
+
+ND-14-0748 
+Enclosure 3 
+Proposed Changes to Licensing Basis Documents (LAR-14-001) 
+ 
+Page 16 of 18 
+UFSAR Figure 3.8.3-8, Structural Modules – Typical Design Details, (Sheet 1 of 3) – Revise to add 
+the appropriate call-outs as shown in Figure 6: 
+Figure 6 
+ 
+ 
+  
+  
+Note 4 
+Note 4 
+Note 4 
+Note 5
+ 
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+ 
+   
+Note 5 
+ND-14-0748 
+Enclosure 3 
+Proposed Changes to Licensing Basis Documents (LAR-14-001) 
+ 
+Page 17 of 18 
+UFSAR Figure 3.8.3-8, Structural Modules – Typical Design Details, (Sheet 2 of 3) – Revise to add 
+the two notes as shown in the Figure 7 below: 
+ 
+ 
+Figure 7 
+ 
+  
+
+ND-14-0748 
+Enclosure 3 
+Proposed Changes to Licensing Basis Documents (LAR-14-001) 
+ 
+Page 18 of 18 
+UFSAR Figure 3.8.3-18, Location of Structural Wall Modules – Revise as shown in Figure 8 below: 
+Figure 8 
+ 

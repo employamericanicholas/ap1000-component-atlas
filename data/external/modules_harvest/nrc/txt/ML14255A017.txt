@@ -1,0 +1,88 @@
+9
+CB&I
+128 South Tryon Street
+Charlotte, NC 28202
+Tel: +1 704 343 7500
+www.CBI.com
+10 CFR 21.21
+August 27, 2014
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, DC 20555-0001
+SUBJECT: INTERIM 10 CFR PART 21 REPORT REGARDING SUBMODULE AND
+EMBEDMENT DEVIATIONS FOR V.C. SUMMER UNIT 2 AP1000 PROJECT
+The attachment to this letter provides an interim report in accordance with 10 CFR 21.21
+pertaining to submodule and embedment deviations for the V.C. Summer Unit 2 AP1000 nuclear
+project. Based on information described in site quality control inspection reports, deviations
+were identified in the Unit 2 CA-01 and CA-05 structural submodules, and also in some safety-
+related embedments.
+Evaluation of reportability in accordance with 10 CFR Part 21 was not able to be completed
+within the 60-day evaluation period due to the recent discovery that the initial evaluation of these
+conditions incorrectly determined that no additional evaluation was required. These conditions
+were discovered during reviews conducted due to discovery of other similar conditions. It is
+currently expected that the evaluation of these conditions will be completed by October 21, 2014.
+If you have any questions pertaining to this information, please contact Curtis Castell, Licensing
+Manager, at 980-321-8314.
+Sincerely,
+Don DePierro
+Senior Vice President, Nuclear
+cc:. Regional Administrator, USNRC, Region II
+Attachment
+p~-o
+, . I •
+
+Attachment to Letter Dated August 27, 2014
+Page 1 of 2
+INTERIM 10 CFR PART 21 REPORT REGARDING STRUCTURAL SUBMODULE AND
+EMBEDMENT DEVIATIONS FOR V.C. SUMMER UNIT 2 AP1000 PROJECT
+This report is being provided as an interim report in accordance with 10 CFR 21.21.
+(i) Name and address of the individual or individuals informing the Commission.
+Mr. Don DePierro
+CB&I Nuclear
+128 S. Tryon St., Suite 1000
+Charlotte, NC 28202
+(ii) Identification of the facility, the activity, or the basic component supplied for such facility or such
+activity within the United States which fails to comply or contains a defect.
+No basic components have been determined to fail to comply or contain a defect. This is an interim
+report. The identified deviations pertain to V.C. Summer Unit 2 API000 nuclear project CA-01 and CA-
+05 structural submodules, and also some safety-related embedments for the Nuclear Island Auxiliary
+Building walls and floors.
+(iii) Identification of the finn constructing the facility or supplying the basic component which fails to
+comply or contains a defect.
+No basic components have been determined to fail to comply or contain a defect. This is an interim
+report. The deviations pertaining to submodule fabrication are associated with structural submodules
+supplied by CB&I Lake Charles, 3191 West Lincoln Rd., Lake Charles, LA 70605. The embedments
+with deviations were supplied by Cives Steel Company, 102 Airport Road, Thomasville, GA 31757.
+(iv) Nature of the defect or failure to comply and the safety hazard which is created or could be created by
+such defect or failure to comply.
+No basic components have been determined to fail to comply or contain a defect. This is an interim
+report. The deviations pertaining to CA-01 and CA-05 structural submodules include unsatisfactory
+welds, stud spacing, and surface indications. The deviations pertaining to the safety-related embedments
+for the Nuclear Island Auxiliary Building walls and floors include unsatisfactory reinforcement welds,
+bent studs, and plate dimensions. Evaluation of these conditions is expected to be completed by October
+21, 2014.
+(v) The date on which the information of such defect or failure to comply was obtained.
+The discovery dates of the deviations based on the dates of the inspection reports are June 5 and 6, 2014.
+Evaluation of reportability in accordance with 10 CFR Part 21 was not able to be completed within the 60
+day evaluation period due to the recent discovery that the initial evaluation of these conditions incorrectly
+determined that no additional evaluation was required. This condition was discovered during reviews
+conducted due to discovery of other similar conditions.
+
+A I..
+Attachment to Letter Dated August 27, 2014
+Page 2 of 2
+(vi) In the case of a basic component which contains a defect or fails to comply, the number and location
+of these components in use at, supplied for, being supplied for, or may be supplied for, manufactured, or
+being manufactured for one or more facilities or activities subject to the regulations in this part.
+No basic components have been determined to fail to comply or contain a defect. This is an interim
+report.
+(vii) The corrective action which has been, is being, or will be taken; the name of the individual or
+organization responsible for the action; and the length of time that has been or will be taken to complete
+the action.
+No basic components have been determined to fail to comply or contain a defect. This is an interim
+report.
+(viii) Any advice related to the defect or failure to comply about the facility, activity, or basic component
+that has been, is being, or will be given to purchasers or licensees.
+None at this time.
+(ix) In the case of an early site permit, the entities to whom an early site permit was transferred.
+Not applicable.

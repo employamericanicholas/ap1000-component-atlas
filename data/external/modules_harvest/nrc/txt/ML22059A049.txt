@@ -1,0 +1,1823 @@
+Vogtle Unit 3 Findings 
+ 
+ 
+Design Engineering 
+ 
+ 
+Identified By: NRC  
+Identification Date: 11/04/2020  
+Significance: Green 
+Item Type:  Construction Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Integrated Inspection Reports 
+05200025/2020004, 05200026/2020004 
+Item Number: 05200025/2020004-01 
+Note: Closed in Report (NCV)  
+ 
+ASME Code Section III Level C Service Limits May Not Be Met for Containment Penetrations 44 and 
+45  
+ 
+The inspectors identified a construction finding of very low safety significance with an associated NCV of 
+Title 10 of the Code of Federal Regulations Part 50 (10 CFR 50), Appendix B, Criterion III, "Design Control" 
+for the licensee's failure to have design control measures for the 18-inch diameter carbon steel guard pipes 
+for containment vessel penetrations P44 and P45. Specifically, the site previously performed a structural 
+analysis that omitted the guard pipe portion of the penetrations and did not consider how the guard pipe 
+exclusion would infringe upon the design margin for ensuring the requirement for American Society of 
+Mechanical Engineers (ASME) Code Section III, Level C service limits were not exceeded, in accordance 
+with the current licensing basis. The Licensee entered this issue into its correc tive action 
+program (CAP) as condition report (CR) 50053621 and updated its structural model calculations  as part of 
+the corrective action. 
+ 
+The performance deficiency was of more than minor safety significance, and thus a finding,  because it 
+represented an adverse condition that rendered the quality of a structure, system, and component (SSC), 
+unacceptable or indeterminate, and required substantive corrective action. This finding was not associated 
+with an inspection, test, analyses, and acceptance criteria (ITAAC); it was not associated with a security 
+program; it was not associated with an IMC 2504 operational/construction program; and it was not 
+associated with a repetitive, NRC-identified omission of a program critical attribute. This finding was of ver y 
+low safety significance because the licensee was able to demonstrate the design function of the applicable 
+structure or system (containment vessel) would not be impaired by the deficiency by  successfully 
+reperforming a structural model calculation. The inspectors determined the finding was indicative of present 
+licensee performance and was associated with the cross-cutting aspect “Documentation,” in the area of 
+Human Performance, in accordance with IMC 0613, Appendix F, “Construction Cross-Cutting Areas and 
+Aspects.” Specifically, the licensee did not ensure its calculations were reflective of the ASME Level C 
+service limit requirements for the P44 and P45 penetration guard pipes. [H.7] (Section 1A08) 
+ 
+Identified By: NRC 
+Identification Date: 12/31/2017 
+Significance: Green 
+Item Type:  ITAAC Finding 
+ 
+The NRC identified an ITAAC finding of very low safety significance (Green) and associated NCV of 10 
+CFR Part 50.55a(b), for the licensee’s failure to demonstrate compliance with American Society of 
+Mechanical Engineers (ASME) Code Section III, 1998 Edition with Addenda 1999 through 2000, Section 
+NB-3222.2, “Primary Plus Secondary Stress Intensity.”  The inspectors identified that the licensee failed 
+to ensure that the maximum range of stress intensities for the passive residual removal heat exchanger 
+(PRHR HX) tube sheet and the core makeup tank (CMT) inlet nozzle were within ASME Code allowable 
+limits for Service Level A/B conditions which was a performance deficiency. The licensee entered this 
+finding into their corrective action program (CAP) as Condition Report (CR) 10402072, CR 10402069,  CR 
+10454090, Corrective Action Prevention and Learnings (CAPAL) 100489810, and CAPAL 100489811 
+and took corrective actions to perform additional analyses after removing calculation conservatism to 
+reevaluate the stress cut locations in question in order to show ASME Code compliance. 
+ 
+The finding was determined to be more than minor because the performance deficiency represented an 
+adverse condition that rendered the quality of components indeterminate, and required substantive 
+corrective action. The inspectors determined this finding was associated with the Design/Engineering 
+Cornerstone. Using IMC 2519, Appendix A, “AP1000 Construction Significance Determination Process,” 
+the inspectors determined that the finding was associated with a system or structure; it was associated 
+with the Passive Core Cooling System (PXS) system which is assigned to the high risk importance 
+column of the AP1000 Construction Significance Determination Matrix, and the licensee was able to 
+demonstrate with reasonable assurance that the design function of the applicable structure or system 
+would not be impaired by the deficiency. Therefore, this finding was of very low safety significance 
+(Green). The inspectors determined the finding was indicative of present licensee performance and was 
+associated with the cross-cutting aspect of Conservative Bias, H.14, in the area of Human Performance, 
+in accordance with IMC 0613, Appendix F, “Construction Cross-Cutting Areas and Aspects.” (1A11, 
+1A38) 
+ 
+ 
+Identified By: NRC 
+Identification Date: 06/30/2017 
+Significance: Green 
+Item Type:  ITAAC Finding 
+ 
+Failure to perform thermal stress analysis in the ASME design report for the shear cap and valve 
+body of the 14-inch fourth-stage automatic depressurization system (ADS) squib valves, RCS-PL- 
+V004A/B/C/D. 
+ 
+The NRC identified an ITAAC finding of very low safety significance (Green) and associated NCV of Title 
+10 of the Code of Federal Regulations (10 CFR) Part 50, Appendix B, Criterion III, “Design Control” for 
+the licensee’s failure through their contractor Westinghouse Electric Company (WEC) to perform thermal 
+stress analysis in the ASME design report for the shear cap and valve body of the 14-inch fourth-stage 
+automatic depressurization system (ADS) squib valves, RCS-PL-V004A/B/C/D. The licensee entered this 
+finding into their corrective action program as Condition Reports (CR) 10379762 and 10389193 and 
+WEC Corrective Action, Prevention and Learning (CAPAL) 100478099 and 100481984.  The licensee 
+performed immediate corrective actions to demonstrate with reasonable assurance through design 
+analysis that the component would have been able to meet its design function. Additional lo ng-term 
+corrective actions include performance of additional analysis and revisions to the ASME design report 
+and supporting documentation. 
+The inspectors determined this finding was associated with the Design/Engineering Cornerstone. The 
+finding was determined to be more than minor because the performance deficiency represented an 
+adverse condition that rendered the quality of component indeterminate, and required substantive 
+corrective action. The inspectors also determined that the finding was more than minor because it 
+represented an ITAAC finding that was material to the acceptance criteria of VEGP Unit 3 and 4 ITAAC 
+13 (2.1.02.02a), and if left uncorrected, the licensee may not have been able to demonstrate that the 
+acceptance criteria of this ITAAC was met. The inspectors evaluated the finding in accordance with IMC 
+2519, Appendix A, “AP1000 Construction Significance Determination Process,” and determined the 
+finding was of very low safety significance (Green) because it was associated with  the RCS system 
+which is assigned to the high risk importance column of the AP1000 Construction Significance 
+Determination Matrix, and the licensee was able to demonstrate with reasonable assurance that the 
+design function of the applicable structure or system would not be impaired by the deficiency.  The 
+inspectors determined the finding was indicative of present licensee performance and was associated 
+with the cross-cutting aspect of Documentation, in the area of Human Performance, in accordance with 
+IMC 0613, Appendix F, “Construction Cross-Cutting Areas and Aspects.” Specifically, the licensee failed 
+to maintain complete, accurate, and up-to-date design documentation for the 14-inch ADS squib valves 
+[H.7].  (Section 1A01) 
+ 
+ 
+Identified By: NRC 
+Identification Date: 03/31/2016 
+Significance: Green 
+Item Type:  ITAAC Finding 
+ 
+Failure to Perform AISC N690-94 Required Weld Nondestructive Examination 
+ 
+Green. The inspectors identified an ITAAC finding of very low safety significance (Green) and 
+associated non-cited violation (NCV) of Title 10 of the Code of Federal Regulations (10 CFR) Part 50, 
+Appendix B, Criterion XV, “Nonconforming Materials, Parts, or Components” for Southern Nuclear 
+Company’s (SNC) failure through their contractor Westinghouse Electric Company (WEC) to adequately 
+review and accept nonconforming items in accordance with documented procedures. The licensee 
+entered this finding into their corrective action program as condition reports (CR) 10180672 and 
+10181738. 
+ 
+The finding was associated with the Design / Engineering Cornerstone. The finding was considered 
+more than minor because the performance deficiency represented a substantive failure to adequately 
+implement a quality assurance process that rendered the quality of a structure, system, or component 
+(SSC) indeterminate. The inspectors evaluated the finding in accordance with IMC 2519, “Construction 
+Significance Determination Process,” and determined the finding was of very low safety significance 
+because the finding is associated with a portion of a structure (auxiliary building) assigned to the 
+intermediate risk column of the AP1000 construction significance determination matrix and would not 
+reasonably be expected to impact the design function of the auxiliary building. The inspectors 
+determined that the finding represented an ITAAC finding because it was material to the acceptance 
+criteria of VEGP Units 3 and 4 ITAAC 763, in that, if left uncorrected, the licensee may not be able to 
+demonstrate that the acceptance criteria of these ITAAC were met. The acceptance criteria of these 
+ITAAC require that all deviations between the as-built structures and the approved designs be 
+reconciled to verify that the as- built structures will withstand the design basis loads without a loss of 
+structural integrity or other safety- related functions. 
+ 
+The inspectors determined that the failure to adequately review and accept nonconforming items in 
+accordance with documented procedures may have resulted in a deviation from the approved design 
+that would not have been reconciled by the licensee. The inspectors reviewed the finding for a possible 
+cross-cutting aspect in accordance with IMC 0613 Appendix F, “Construction Cross-Cutting Areas and 
+Aspects,” and determined the finding has a cross-cutting aspect in the Human Performance area 
+because the licensee’s contractor, WEC, failed to use decision making-practices that emphasized 
+prudent choices over those that were simply allowable. [H.14]. 
+Identified By: NRC 
+Identification Date: 06/30/2015 
+Significance: Green 
+Item Type:  ITAAC Finding 
+ 
+Weld Allowable Stress Calculation Not in Compliance with Current Licensing Basis  
+ 
+Green. The inspectors identified an ITAAC finding of very low safety significance (Green) and 
+associated non-cited violation (NCV) of Title 10 Code of Federal Regulations (CFR) Part 50, Appendix 
+B, Criterion III, “Design Control.” Southern Nuclear Operating Company (SNC), failed through their 
+contractor Westinghouse Electric Corporation (WEC), to correctly translate design basis into 
+specifications, drawings, procedures, and instructions to correctly translate the design basis for welded 
+structural connections into specifications, drawings, procedures, and instructions. The licensee entered 
+this finding in their corrective action program as condition report (CR) 10060139, Corrective Action, 
+Prevention and Learnings (CAPAL) 100224197, and corrective action report (CAR) 2015-1597. 
+ 
+The inspectors determined the performance deficiency was more than minor because it re presented a 
+substantive non-conservative error in a design document that defines the technical requirements for 
+structural welds that are important to safety. The inspectors evaluated the finding using the construction 
+significance determination process and determined the finding was of very low safety significance 
+(Green) because the licensee was able to demonstrate with reasonable assurance that the design 
+function of the affected components would not be impaired by the deficiency.  The finding was 
+determined to be an ITAAC finding because it was material to the acceptance criteria of Units 3 and 4 
+ITAACs 760, 761, 762, and 763. The acceptance criteria of these ITAAC require that reconciliation 
+reports, concluding the "as- built" construction conforms to the approved design, are completed for the 
+areas associated with each ITAAC. This finding is associated with deviations from design requirements 
+that would not have been reconciled by the licensee as required by the ITAAC. The finding had a cross -
+cutting aspect in the area Human Performance (Conservative Bias) because the licensee’s contractor, 
+WEC, failed to use decision making-practices that emphasized prudent choices over those that were 
+simply allowable [H.14]. 
+ 
+ 
+Identified By: NRC 
+Identification Date: 09/30/2014 
+Significance: Green 
+Item Type:  ITAAC Finding 
+ 
+Failure to Correctly Translate Shear Reinforcement Design Requirements into Design Drawings  
+ 
+The inspectors identified an ITAAC finding of very low safety significance (Green) and associated non-  
+cited violation (NCV) of 10 CFR Part 50, Appendix B, Criterion III, “Design Control” for the licensee's 
+failure to correctly translate design basis requirements into specifications, drawings, procedures, and 
+instructions. The licensee entered the issue into their corrective action program as condition report 
+877796, and took immediate actions to revise the drawings and related design calculation to restore 
+compliance with the American Concrete Institute (ACI) 349-01 Code prior to the concrete placement. 
+ 
+The finding was associated with the Design/Engineering cornerstone. The inspectors determined the 
+performance deficiency was more than minor because it represented a substantive non- conservative 
+error in a design document that defines the technical requirements for the shear reinforcement in the 
+innermost west and east steam generator compartments at elevation 80’-0”. The inspectors evaluated 
+the finding using the construction significance determination process and determined the finding was of 
+very low safety significance (Green) because the licensee was able to demonstrate with reasonable 
+assurance that the design function of the applicable structure would not be impaired by the deficiency. 
+The finding was determined to be an ITAAC finding because it was material to the acceptance criteria of 
+Unit 3 ITAAC 760. The acceptance criteria of this ITAAC requires that a reconciliation report, concluding 
+the “as-built” construction conforms to the approved design, is completed for the areas associated with  
+the ITAAC. This finding is associated with deviations from design requirements that would not have 
+been reconciled by the licensee as required by the ITAAC, because the design drawings contained 
+deviations, which did not meet ACI 349-01, which is a Tier 2* licensing commitment for Seismic 
+Category I structures. This finding has a cross-cutting aspect in the area of Human Performance, 
+Documentation, because the licensee failed to ensure that procedures, such as construction drawings 
+and work packages, were accurate and adequate to assure construction quality. [H.7]  
+ 
+ 
+Identified By: NRC 
+Identification Date: 03/31/2014 
+Significance: Green 
+Item Type:  ITAAC Finding 
+ 
+Inadequate Anchorage of Shear Stirrups in Precast Elements of Reinforced Concrete Slabs  
+ 
+The inspectors identified an ITAAC finding of very low safety significance (Green) and associated non-  
+cited violation of 10 CFR Part 50, Appendix B, Criterion III, “Design Control” for SNC’s failure, through 
+their contractor Westinghouse, to correctly translate regulatory requirements into specifications,  
+drawings, procedures, and instructions. During an inspection of precast concrete panels being 
+fabricated for use as elements of the reinforced concrete slabs in the elevated floors of the Unit 3 
+auxiliary building, the inspectors observed that the design did not conform to the requirements of ACI 
+349-01, a Tier 2* licensing commitment for Seismic Category I structures. Specifically, longitudinal bars 
+were missing from some of the bends in the U-stirrups that had been installed for resistance and 
+transfer of vertical and horizontal shear forces, respectively. The presence of a longitudinal bar in the 
+bends of the stirrups is required by Section 12.13.3 of ACI 349-01 to provide adequate anchorage of the 
+stirrups. 
+ 
+The inspectors determined the performance deficiency was more than minor because it represented a 
+substantive non-conservative error in a design document that defines the technical requirements for the 
+reinforced concrete slabs in the auxiliary building. The inspectors evaluated the finding using the 
+construction significance determination process and determined the finding was of very low safety 
+significance (Green) because installation of the precast panels had not begun. The finding was 
+determined to be an ITAAC finding because it was material to the acceptance criteria of Unit 3 ITAAC 
+763. The acceptance criteria of this ITAAC requires that a reconciliation report, concluding the “as -built” 
+construction conforms to the approved design, is completed for the areas associated with the ITAAC. 
+This finding is associated with deviations from design requirements that would not have been reconciled 
+by the licensee as required by the ITAAC. The inspectors screened the finding for a possible 
+construction cross-cutting aspect (CCA) and determined that it was not related to any of the CCAs 
+discussed in IMC 0613. 
+ 
+ 
+Identified By: NRC 
+Identification Date: 09/30/2012 
+Significance: Green 
+Item Type:  ITAAC Finding 
+ 
+ITAAC Finding for Failure to Translate CA01 and CA20 Design Requirements Into Specifications 
+and Drawings 
+ 
+An ITAAC finding of very low safety significance (Green) and a violation (VIO) of Title 10 of the Code of 
+Federal Regulations (10 CFR) Part 50, Appendix B, Criterion III, “Design Control,” were identified by the 
+inspectors on and before October 2, 2012, regarding the licensee’s failure to assure that regulatory 
+requirements and the design basis for safety-related systems, structures, and components were 
+correctly translated into specifications and instructions associated with the structural submodules for 
+portions of the auxiliary building and containment internal structures. The inspectors identified multiple 
+examples of the licensee’s failure to assure that applicable regulatory requirements and the design basis 
+for safety-related systems, structures, and components were correctly translated into specifications, 
+drawings, and 
+instructions. 
+ 
+The inspectors determined this issue was more than minor because, if left uncorrected, the failure to 
+assure that regulatory requirements and the design basis for the auxiliary building and containment 
+internal structures were correctly translated into specifications and instructions could adversely affect 
+the closure of an ITAAC. The finding was associated with the Design/Engineering Cornerstone. The 
+finding was determined to be an ITAAC finding because it was material to the acceptance criteria of Unit 
+3 ITAACs 763 and 760. Specifically, the acceptance criteria for ITAAC 763 and ITAAC 760 require that 
+a report exists and concludes that the as-built structures in the radiologically controlled area of the 
+auxiliary building, and the as-built containment internal structures, respectively, conform to the approved 
+design. However, the as-built Seismic Category I Structural Submodules CA20-04, CA20-07A, CA20-
+08A, CA20- 29 and CA01-24 did not conform to the approved design. The inspectors evaluated the 
+finding using the construction SDP and determined that the finding was of very lo w safety significance 
+because it did not impair the design function of the nuclear island auxiliary building or containment 
+internal structures and was assigned to Row 1 of the risk importance table. The inspectors screened the 
+finding for a possible construction safety focus component (CSFC) aspect in accordance with Appendix 
+F, “Construction Safety Focus Components and Aspects,” of IMC 0613P, “Power Reactor Construction 
+Inspection Reports - Pilot.” The inspectors determined that this finding was not related to any of the 
+CSFC aspects discussed in IMC 0613P. 
+ 
+ 
+Identified By: NRC 
+Identification Date: 05/25/2012 
+Significance: Green 
+Item Type:  ITAAC Finding 
+ 
+Inadequate Design Control of Software Development 
+ 
+An NRC identified ITAAC finding of very low safety significance (Green) which involved a violation (VIO) 
+of 10 CFR Part 50, Appendix B, Criterion III, “Design Control,” was identified by the inspectors on May 
+25, 2012, regarding the licensee’s failure to assure that applicable regulatory requirements and the 
+design basis, as defined in § 50.2 and specified in the license application, for the Protection and Safety 
+Monitoring System (PMS) were correctly translated into specifications, drawings, procedures, and 
+instructions. Specifically: 
+ 
+• The verification and validation (V&V) effort did not adequately perform the minimum V&V tasks 
+including software requirements evaluation, interface analysis, criticality analysis, hazard analysis, 
+and risk analysis; 
+ 
+• The V&V of the System Definition (requirements) phase activities was not performed 
+independently; 
+ 
+• Reusable software element documents (RSED) did not follow the prescribed life cycle activities; 
+ 
+• A software hazard analysis of the software requirements specification (SRS) was not performed; 
+ 
+• The SRS was ambiguous, incomplete and was not ranked for importance. 
+ 
+At the time of the exit meeting for this report, the planned corrective actions for these issues were being 
+evaluated by the licensee. These issues were entered into a corrective action program as Condition 
+Report 438475. 
+ 
+The inspectors determined this issue is more than minor because, if left uncorrected, it represents a 
+failure to implement an adequate process and quality oversight function that could render the quality of 
+the construction activity unacceptable or indeterminate, and it could adversely af fect the closing of an 
+ITAAC. 
+The finding affected the objective of the Design/Engineering Cornerstone, which is to ensure that 
+licensee’s processes are adequately developed and implemented for design control. The finding was 
+determined to be an ITAAC Finding because examples of this finding are material to the acceptance 
+criteria of ITAAC 2.5.2.12, in that; software requirements were not ranked for importance and the V&V 
+team was not independent of the design team. The inspectors evaluated the finding using the 
+construction SDP and determined that, because there were no issues identified that would reasonably 
+be expected to impair the design function of the PMS, the finding screened as Green. The finding was 
+cross- cutting in the area of baseline inspection, work practices, because the licensee failed to ensure 
+supervisory and management oversight of work activities associated with the PMS software 
+development such that the construction quality was supported. [A.4(c)]. 
+ 
+ 
+Identified By: NRC 
+Identification Date: 05/07/2012 
+Significance: Green 
+Item Type:  ITAAC Finding 
+ 
+Failure to Assure Design Services were Accomplished with the Appropriate Design 
+Control Measures 
+ 
+An ITAAC finding of very low safety significance (green) and a VIO of 10 CFR Part 50, Appendix B, 
+Criterion III, “Design Control,” were identified by the inspectors on May 7, 2012, regarding the licensee’s 
+failure to assure that regulatory requirements and the design basis for systems, structures, and 
+components were correctly translated into specifications and instructions associated with the nuclear 
+island (NI) basemat reinforcement. Specifically, the anchorage of the reinforcement steel inappropriately 
+relied on the excess reinforcement provision of ACI 349-01, Section 12.2.5, to reduce the development 
+length of the bars, and the anchorage of the negative moment reinforcement steel was not developed at 
+the face of the support in a manner consistent with ACI 349-01, Section 13.3.4. At the time of the exit 
+meeting for this report, the planned corrective actions for this issue were being evaluated by the 
+licensee. This issue was entered in to the corrective action program as Condition Report (CR) 442272.  
+ 
+The inspectors determined that this issue was more than minor because, if left uncorr ected, the failure to 
+assure that regulatory requirements and the design basis for the NI basemat reinforcement were 
+correctly translated into specifications and instructions could adversely affect the closure of an 
+Inspection, Test, Analyses, and Acceptance Criteria (ITAAC). The finding is associated with the 
+Design/Engineering Cornerstone. The finding was determined to be an ITAAC finding because it is 
+material to the acceptance criteria of Unit 3 ITAACs 3.3.00.02a.i.b, 3.3.00.02a.i.c, and 3.3.00.02a.i.d in 
+that the reinforcement design for NI basemat and the affected areas of the shield building, non-
+radiologically controlled areas of the auxiliary building, and the radiologically controlled areas of the 
+auxiliary building deviated from the design basis without being reconciled by the licensee. The inspectors 
+evaluated the finding using the construction SDP and determined that finding was of very low safety 
+significance because it did not impair the design function of the nuclear island (NI) basemat, shiel d 
+building, or auxiliary building and was assigned to Row 1 of the risk importance table. This finding was 
+cross-cutting in the area of Baseline Inspection, Decision- Making, Systematic Process, because the 
+licensee did not demonstrate that a systematic process, reflecting the potential to impact ITAAC closure, 
+was followed to make design changes. [A.1(a)]. 
+ 
+Procurement/Fabrication 
+ 
+ 
+Identified By: NRC  
+Identification Date: 12/31/2019  
+Significance: Green 
+Item Type:  ITAAC Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Integrated Inspection Reports 
+05200025/2019004, 05200026/2019004 
+Item Number: 05200025/2019004-02 
+Note: Closed in Report (NCV)  
+ 
+Non-Conservative Rounding of Conversion Factor Use 
+ 
+The inspectors identified an ITAAC finding of very low safety significance with an associated NCV of 10 
+CFR Part 50, Appendix B, Criterion V, "Instructions, Procedures, and Drawings," for the licensee's failure to 
+install Unit 3 core makeup tank (CMT) A upper level sensing lines for instruments PXS 11A/C and 13 B/D in 
+accordance with ITAAC 2.2.03.08c.xii and the approved design requirements. The licensee entered this 
+finding into its corrective action program for evaluation and identification of appropriate correctiv e actions 
+(CR50034981). Corrective actions for this issue included rework on the two- level sensing lines to correct 
+the nonconforming conditions. 
+ 
+The performance deficiency was of more than minor safety significance, and thus a finding,  because it was 
+material to the acceptance criteria of an ITAAC and invalidated the Inspection, Test, or Analysis described 
+in the ITAAC. The inspectors determined this finding was not associated with a security program; it was not 
+associated with an IMC 2504 operational/construction program; and it was not associated with a repetitive, 
+NRC-identified omission of a program critical attribute. The inspectors determined this finding was a 
+performance deficiency of very low safety significance (Green) because if left uncorrected, the  finding could 
+reasonably be expected to impair the design function of only one train of a multi-train system. The 
+inspectors determined the finding was indicative of present licensee performance and was associated with 
+the cross-cutting aspect of Avoiding Complacency, in the area of Human Performance, in accordance with 
+Appendix F of IMC 0613. Specifically, the licensee failed to properly implement appropriate error reduction 
+tools, such as inadequate verification by personnel performing the measurements. [H.12] (Section 1A07)  
+ 
+Identified By: NRC 
+Identification Date: 06/30/2018 
+Significance: Green 
+Item Type:  ITAAC Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Integrated Inspection Reports 
+05200025/2018002, 05200026/2018002 
+Item Number: 05200025/2018002-01 
+Note:  Closed in Report (NCV) 
+Missing Weld Edge Preparation Surface Examination on Pressurizer Lower Head  
+ 
+The NRC identified an ITAAC finding of very low safety significance (Green) and associated NCV of Title 
+10 of the Code of Federal Regulations (10 CFR) Part 50.55a(b), for the licensee's failure to demonstrate 
+compliance with American Society of Mechanical Engineers (ASME) Code Section III, 1998 Edition with 
+Addenda 1999 through 2000, Subarticle NB-5130, Examination of Weld Edge Preparation Surfaces. The 
+inspectors identified that the licensee failed to document a magnetic particle (MT) or liquid penetrant (PT) 
+examination on the full penetration weld edge preparation surface of the Unit 3 pressurizer lower head 
+which was a performance deficiency. The licensee entered this finding into their corrective action program 
+as condition report (CR) 10484251 and took corrective actions to provide reasonable assurance that a PT 
+examination was performed by the vendor to show ASME Code compliance. 
+ 
+The finding was determined to be more than minor because the performance deficiency represented an 
+irretrievable loss or inadequate documentation of a quality assurance record, and a record- keeping issue 
+that could preclude the licensee from demonstrating the adequacy of quality or from properly evaluating 
+safety-significant activities. The inspectors determined this finding was associated with the 
+Procurement/Fabrication Cornerstone and was not associated with a security finding; it was not 
+associated with an IMC 2504 operational/construction program; and it was not associated with a 
+repetitive, NRC-identified omission of a program critical attribute. Using IMC 2519, Appendix A, AP1000 
+Construction Significance Determination Process, the inspectors determined that the finding was 
+associated with a system or structure; it was associated with the Reactor Coolant System (RCS) which is 
+assigned to the high risk importance column of the AP1000 Construction Significance Determination 
+Matrix, and the licensee was able to demonstrate with reasonable assurance that the design function of 
+the applicable structure or system would not be impaired by the deficiency (row 1 of the Construction 
+Significance Determination Matrix). Therefore, this finding was of very low safety significance (Green). 
+The inspectors determined the finding was indicative of present licensee performance and was 
+associated with the cross-cutting aspect of Documentation, H.7, in the area of Human Performance, in 
+accordance with IMC 0613, Appendix F, Construction Cross-Cutting Areas and Aspects. (1A01) 
+ 
+ 
+ 
+Identified By: NRC  
+Identification Date: 06/30/2018  
+Significance: Green 
+Item Type:  ITAAC Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Integrated Inspection Reports 
+05200025/2018002, 05200026/2018002 
+Item Number: 05200025/2018002-02 
+Note:  Closed in Report (NCV) 
+ 
+Failure to Meet Radiographic Film Requirements on PRHR HX 
+ 
+The NRC identified an ITAAC finding of very low safety significance (Green) and associated  NCV of 10 
+CFR Part 50.55a(b), for the licensee’s failure to demonstrate compliance with ASME Code Section III, 
+1998 Edition with Addenda 1999 through 2000, Sub-article NB-5100, General Requirements for 
+Examination. The inspectors identified that the licensee failed to ensure that radiographic films for the 
+passive residual heat removal (PRHR) heat exchanger (HX) lower channel head to lower support plate 
+weld (CW-006/2) met density limitations and image quality indicator (IQI) placement requirements which 
+was a performance deficiency. The licensee entered this finding into their corrective action program as 
+CR 10491047 and took corrective actions to perform additional radiographs in order to show ASME Code 
+compliance. 
+ 
+The finding was determined to be more than minor because the performance deficiency represented an 
+adverse condition that rendered the quality of a component indeterminate, and required substantive 
+corrective action. The inspectors determined this finding was associated with the 
+Procurement/Fabrication Cornerstone and was not associated with a security finding; it was not  
+associated with an IMC 2504 operational/construction program; and it was not associated with a 
+repetitive, NRC-identified omission of a program critical attribute. Using IMC 2519, Appendix A, AP1000 
+Construction Significance Determination Process, the inspectors determined that the finding was 
+associated with a system or structure; it was associated with the passive core cooling system (PXS) 
+which is assigned to the intermediate risk importance column of the AP1000 Construction Significance 
+Determination Matrix, and the licensee was able to demonstrate with reasonable assurance that the 
+design function of the applicable structure or system would not be impaired by the deficiency (row 1 of 
+the Construction Significance Determination Matrix). Therefore, this finding was of very low safety 
+significance (Green). The inspectors determined the finding was indicative of present licensee 
+performance and was associated with the cross-cutting aspect of Evaluation, P.2, in the area of 
+Problem Identification and Resolution, in accordance with IMC 0613, Appendix F, Construction Cross -
+Cutting Areas and Aspects. (1A15) 
+ 
+ 
+Identified By: NRC  
+Identification Date: 03/31/2015 
+Significance: Green 
+Item Type:  ITAAC Finding 
+ 
+Failure to Identify Nonconforming Overlay Plates 
+ 
+The inspectors identified an ITAAC finding of very low safety significance (Green) and associated non-  
+cited violation (NCV) of 10 CFR Part 50, Appendix B, Criterion VII, “Control of Purchased Material, 
+Equipment, and Services,” for the licensee's failure, through their contractor Chicago Bridge and Iron 
+(CB&I), to perform adequate inspections of safety-related overlay plates at supplier facilities and failure to 
+perform adequate examinations of overlay plates upon delivery, to assure the plates conformed to the 
+procurement documents. The licensee entered this issue in their corrective action program as condition 
+report number 899313. 
+ 
+The finding was associated with the Procurement / Fabrication Cornerstone. The inspectors determined 
+the performance deficiency was more than minor because it was associated with the process and 
+material control attributes of the Procurement / Fabrication Cornerstone and adversely affected the 
+cornerstone objective of ensuring that the licensee’s programs and processes were adequately 
+developed and implemented for procurement and fabrication activities. The finding was determined to 
+represent an ITAAC finding because it was material to the acceptance criteria of Vogtle Unit 3 ITAAC 
+763, in that, if left uncorrected, the licensee could not show that the acceptance criteria of this ITAAC  was 
+met. The inspectors determined that the failure of these overlay plates to meet AWS D1.1:2000 welding 
+requirements represented a nonconformance with the approved structural design, which if left 
+uncorrected, represented a deviation from the design that would not have been reconciled by the 
+licensee. The inspectors determined that the finding was of very low safety significance (Green) because 
+the licensee demonstrated, with reasonable assurance, that the design function of the applicable 
+structure or system would not have been impaired by the deficiency. This finding had a cross-cutting 
+aspect in the area of Problem Identification and Resolution (Resolution) because the licensee failed to 
+take effective corrective actions to address issues in a timely manner commensurate with their safety 
+significance.
+ 
+ 
+Identified By: NRC 
+Identification Date: 09/30/2013 
+Significance: Green 
+Item Type:  ITAAC Finding 
+ 
+Inadequate Source and Receipt Inspections of Safety Related Embed Plates  
+ 
+The inspectors identified an ITAAC finding of very low safety significance (Green) and associ ated non- 
+cited violation (NCV) of 10 CFR Part 50, Appendix B, Criterion VII, “Control of Purchased Material,  
+Equipment, and Services,” for SNC’s failure, through their contractor Chicago Bridge and Iron (CB&I), to 
+perform adequate inspections of safety-related embed plates at supplier facilities and failure to perform 
+adequate examinations of these embed plates upon delivery, to assure the plates conformed to the 
+procurement documents. The violation was entered into the licensee’s corrective action program as 
+condition report (CR) 695726 and corrective action record (CAR) 207908, to ensure actions were taken to 
+correct the condition. 
+ 
+The performance deficiency had greater than minor safety significance because it was associated with 
+the process and material control attributes of the Procurement / Fabrication Cornerstone and adversely 
+affected the cornerstone objective of ensuring that the licensee’s programs and processes were 
+adequately developed and implemented for procurement and fabrication activities. The finding 
+represented an ITAAC finding because it was material to the acceptance criteria of Vogtle Unit 3 
+ITAACs 762 and 763, in that, if left uncorrected, the licensee could not show that the acceptance criteria 
+of these ITAACs were met. The finding was evaluated under the construction significance determination 
+process as outlined in IMC 2519, Appendix A. The finding was of very low safety significance (Green) 
+because the nonconforming embed plates had not been installed in the nuclear island, and the licensee 
+was able to demonstrate in their Part 21 evaluation, that, if left uncorrected, the affected portions of the 
+structure would have been able to meet their design functions. The finding had a cross -cutting aspect in 
+the area of baseline inspection, corrective action program A.5(c). 
+ 
+ 
+Identified By: NRC 
+Identification Date: 09/30/2012 
+Significance: Green 
+Item Type:  ITAAC Finding 
+ 
+Failure to Assure Safety Related Materials Conformed to the Procurement Documents  
+ 
+An ITAAC finding of very low safety significance (Green) and three examples of a VIO of 10 CFR Part 
+50, Appendix B, Criterion VII, “Control of Purchased Material, Equipment, and Services,” were identified 
+by the inspectors for SNC’s failure, through its contractor Stone and W ebster (Shaw), to ensure that 
+purchased material conformed to procurement documents. Specifically, the inspectors identified that (1) 
+submodule CA20-04, (2) auxiliary building embed plates, and (3) nuclear island reinforcing steel were 
+accepted but did not conform to the approved design. This issue was entered into the corrective action 
+program as CR 531786. 
+ 
+The finding was determined to be more than minor because the issue, if left uncorrected, represented a 
+failure to establish and implement an adequate program and quality oversight function that could render 
+the quality of construction activities unacceptable or indeterminate. Additionally, this issue was 
+considered to be more than minor because, if left uncorrected, it could adversely affect the closure of an 
+ITAAC. The finding was associated with the Procurement/Fabrication Cornerstone. This finding was 
+determined to be an ITAAC finding because examples 1 and 3 were material to the acceptance criteria 
+of Vogtle Unit 3 ITAACs 763 and 762. Specifically, the acceptance criteria for these ITAAC require that a 
+report exists and concludes that the as-built structures in the non-radiologically controlled and 
+radiologically controlled areas of the auxiliary building, respectively, conform to the approved design. 
+However, as-built submodule CA20-04 and nuclear island reinforcing steel did not conform to the 
+approved design. The inspectors evaluated the finding using the construction SDP and determined this 
+finding was of very low safety significance because it did not impair the design function of the nuclear 
+island basemat or auxiliary building and was assigned to Row 1 of the risk importance table. The 
+inspectors determined that this finding had a cross-cutting aspect in the area of Baseline Inspection, 
+Construction Experience, because the licensee and Shaw did not adequately implement and 
+institutionalize construction experience through changes to construction processes, procedures, 
+materials, and training programs [A.6(b)]. 
+ 
+Construction/Installation 
+ 
+ 
+Identified By: NRC  
+Identification Date: 10/20/2021  
+Significance: Green 
+Item Type:  Construction Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Integrated Inspection Reports 
+05200025/2021007, 05200026/2021007 
+Item Number: 05200025/2021007-01 
+Note: Open in Report (NCV)  
+ 
+Failure to Correct Cable Separation issues in panel SV3-IDSC-DT-1 
+ 
+A construction finding of very low safety significance with an associated NCV of Title 10 of the Code of 
+Federal Regulations (10 CFR) Part 50, Appendix B, Criterion XVI, “Corrective Action,” was identified for the 
+licensee’s failure to identify and correct conditions adverse to quality pertaining to Institute of Electrical and 
+Electronic Engineers 384-1981 cable separation issues inside Class 1E dc and uninterruptible power 
+supply system (IDS) regulating transformer panel SV3-IDSC-DT-1. The licensee failed to maintain the 1-
+inch separation required for safety and nonsafety-related cables within IDS ‘C’ regulating transformer panel 
+SV3-IDSC-DT-1 in accordance with electrical installation specification APP-G1-V8-001, Appendix B2, 
+“Separation and Segregation Spacing Requirements.” Two conditions were identified. The licensee entered 
+this finding into its corrective action program as condition report 50117479. Corrective actions for this issue 
+included rework to restore compliance with the separation requirements and the initiation of a causal 
+analysis. 
+ 
+The performance deficiency was of more than minor safety significance, and thus a finding, because it 
+represented an adverse condition that rendered the quality of the safety function associated with IDS 
+unacceptable or indeterminate and required substantive corrective action. The inspectors determined this 
+finding was a performance deficiency of very low safety significance because if left uncorrected it could 
+reasonably be expected to impair the design function of IDS for only one train of a multi-train system. The 
+inspectors determined the finding was indicative of present licensee performance and was associated with 
+the cross-cutting aspect of Work Management, in the area of Human Performance. The licensee failed to 
+implement a process of planning, controlling, and executing work activities such that nuclear  
+safety was the overriding priority. Specifically, the licensee failed to have a process in place for  quality 
+control to verify all cable separation nonconformances were addressed inside the panel.  
+ 
+Identified By: NRC  
+Identification Date: 01/25/2021  
+Significance: White 
+Item Type:  Construction Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Initial Test Program and Operational 
+Programs Integrated Inspection Reports 05200025/2021004, 05200026/2021004  
+Item Number: 05200025/2021010-01 
+Note: Open in Report (NCV)  
+ 
+Failure to Promptly Identify and Correct IEEE 384 Cable Separation and Seismic/Structural 
+Nonconformances  
+ 
+The inspectors identified a White construction finding and associated apparent violation of 10 CFR Part 50, 
+Appendix B, Criterion XVI, “Corrective Action,” for the licensee’s failure to promptly identify and correct 
+conditions adverse to quality associated with the installation of Class 1E cables and associated raceways. 
+Specifically, the licensee failed to promptly identify that cable separation was not maintained in accordance 
+with RG 1.75 and IEEE 384-1981, failed to promptly identify widespread deficiencies in installation of 
+seismic supports and structural components, and failed to timely correct these issues.  
+ 
+Identified By: NRC  
+Identification Date: 04/20/2021  
+Significance: White 
+Item Type:  Construction Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Initial Test Program and Operational 
+Programs Integrated Inspection Reports 05200025/2021004, 05200026/2021004 
+Item Number: 05200025/2021010-02 
+Note: Open in Report (NCV)  
+ 
+Failure to Accomplish Separation for Class 1E System Field Installations in Accordance with 
+Applicable Instructions, Procedures, and Drawings  
+ 
+The inspectors identified a White construction finding and associated apparent violation of 10 CFR Part 50, 
+Appendix B, Criterion V, “Instructions, Procedures, and Drawings,” for the licensee’s failure to maintain 1-
+inch vertical and horizontal separation between Class 1E electrical divisions and non- Class 1E electrical 
+cables inside switchgear cabinets as specified in safety class C (safety related) APP -G1-V8-01, “AP1000 
+Electrical Installation Specification.”  
+ 
+Identified By: NRC  
+Identification Date: 06/21/2021  
+Significance: Green 
+Item Type:  Construction Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Initial Test Program and Operational 
+Programs Integrated Inspection Reports 05200025/2021004, 05200026/2021004  
+Item Number: 05200025/2021010-03 
+Note: Closed in Report (NCV)  
+ 
+Failure to Install Electrical Raceways and Connections in Accordance with Applicable Instructions, 
+Procedures, and Drawings  
+ 
+The inspectors identified a Green construction finding and associated non-cited violation of 10 CFR Part 50, 
+Appendix B, Criterion V, “Instructions, Procedures, and Drawings,” for the licensee’s failure to install 
+seismic Category I electrical raceways and connections in accordance with applicable instructions, 
+procedures, and drawings.  
+ 
+Identified By: NRC  
+Identification Date: 05/13/2021  
+Significance: Green 
+Item Type:  ITAAC Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Initial Test Program and Operational 
+Programs Integrated Inspection Reports 05200025/2021004, 05200026/2021004 
+Item Number: 05200025/2021004-01 
+Note: Closed in Report (NCV)  
+ 
+Failure to Prescribe Instructions or Procedures for ITAAC activities that Affect Quality  
+ 
+NRC inspectors identified a Green finding and associated NCV of 10 CFR 50, Appendix B, Criterion V, 
+“Instructions, Procedures, and Drawings,” and with an associated Severity Level IV violation of 52.99(c)(1), 
+“ITAAC Closure Notification,” for the licensee’s failure to demonstrate ITAAC acceptance criteria were 
+satisfied in accordance with procedure ND-RA-001-006, “Development and Approval of ITAAC Submittals 
+(ICN, UIN, PCN).” The licensee also failed to verify that prescribed inspections, tests, and analyses were 
+performed and that the prescribed acceptance criteria were met for ITAAC C.2.6.09.05a in the ITAAC 
+Closure Notification (ICN). Specifically, the licensee failed to verify the functionality of the active vehicle 
+barriers. The licensee entered this issue into its corrective action program as condition report  (CR) 
+50100179 and tested the functionality of the primary active vehicle barrier. 
+ 
+The performance deficiency was of more than minor safety significance and a finding because it  is material 
+to the acceptance criteria of the ITAAC, and the performance deficiency prevented the licensee from 
+meeting the ITAAC Design Commitment. The finding was determined to be of very low safety significance 
+because the finding did not impair a design function and the active vehicle barrier function was not required 
+per 10 CFR 73.55 at that time. The inspectors concluded that this finding affected the cross-cutting area of 
+human performance and crosscutting aspect of Basis for Decisions. Specifically, the licensee failed to verify 
+the entire ITAAC acceptance criteria was met before submitting the ITAAC Closure Notification.  
+ 
+Identified By: NRC  
+Identification Date: 05/22/2021  
+Significance: Green 
+Item Type:  Construction Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Initial Test Program and Operational 
+Programs Integrated Inspection Reports 05200025/2021004, 05200026/2021004  
+Item Number: 05200025/2021004-02 
+Note: Closed in Report (NCV)  
+ 
+Failure to Follow Procedure 3-GENITPP-517 
+ 
+A self-revealed construction finding of very low safety significance with an associated NCV of 10 CFR 50, 
+Appendix B, Criterion V, “Instructions, Procedures, and Drawings,” was identified for the licensee’s failure to 
+accomplish hot functional testing activities in procedure 3-GEN-ITPP-517, “Precore Hot Functional Test 
+Procedure”, Version 4.1 in accordance with NMPAP-003, “Procedure and Work Instruction Use and 
+Adherence, Version 6.1.” The licensee entered this issue into its CAP as CR 50093618, CR 50093597, and 
+CR 50097436. 
+ 
+The performance deficiency was determined to be of more than minor significance because it  represents a 
+substantive failure to implement an adequate program, process, procedure, or quality oversight function. 
+Specifically, the licensee failed to perform all steps in sequence, complete each step before moving to the 
+next step, and sign off each step after completing it and before moving to the next step. This caused the 
+RCS pressure to increase above the low temperature overpressure relief valve setpoints. The inspectors 
+concluded that this finding affected the cross-cutting area of human performance and cross-cutting aspect 
+of Challenge the Unknown. Specifically, the licensee did not have a complete understanding of how to 
+properly execute a set of steps in procedure 3-GEN-ITPP-517 and did not seek clarification before 
+proceeding. 
+ 
+Identified By: Licensee  
+Identification Date: 01/21/2021  
+Significance: Green 
+Item Type:  ITAAC Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Integrated Inspection Reports 
+05200025/2021003, 05200026/2021003 
+Item Number: 05200025/2021003-02 
+Note: Open in Report (LIV)  
+ 
+Failure to Promptly Identify and Correct a Condition Adverse to Quality with Unqualified Drilling and 
+Installation of Expansion Anchors into Safety Class C Concrete Structures 
+ 
+10 CFR 50, Appendix B, Criterion XVI, “Corrective Action,” states, in part, “Measures  shall be established to 
+assure that conditions adverse to quality, such as failures, malfunctions, deficiencies, deviations, defective 
+material and equipment, and nonconformances are promptly identified and corrected.” Contrary to this 
+requirement, on or before January 21, 2021, the licensee failed to promptly identify and correct a condition 
+adverse to quality. Specifically, the licensee identified on November 1, 2019 that a subcontractor who was 
+not qualified to drill penetrations and install material into Safety Class C concrete structures under a 
+licensee approved Appendix B Quality Assurance Program had been doing so under two separate 
+contracts. These two contracts were developed to perform non-safety related activities for installation of the 
+fire protection and suppression system. The licensee’s causal evaluation of the problem identified 
+inadequate management and oversight over its subcontractors with no corrective actions to address the 
+behaviors. The effectiveness review for the causal evaluation was closed on August 20, 2020, although it 
+identified that not all of the contracts were changed as specified by the corrective action to prevent 
+recurrence at the time of the review. Approximately five months later, on January 21, 2021, a subcontractor 
+(one of the five unqualified subcontractors identified by the effectiveness review) who was not qualified to 
+drill penetrations and install material into Safety Class C concrete structures under a licensee approved 
+Appendix B Quality Assurance Program drilled into the Unit 3 auxiliary building rooftop and installed 
+expansion anchors without work instructions approved for the activity. Edge boxes were fabricated and 
+installed by sub-tier sheet metal workers without an approved work package or an approved ASME NQA -1 
+Standard subcontractor quality program. 
+ 
+This performance deficiency was of more than minor safety significance, and thus a finding, because it 
+represented a substantive failure to establish or implement an adequate program, process, procedure, or 
+quality oversight function. Drilling in reinforced concrete structures can adversely impact the function of the 
+structure if portions of the reinforcing bar or embedded steel are damaged. Cleanliness of the holes  
+being drilled can also adversely impact the function of the structure. This finding was of  very low safety 
+significance (Green) because the licensee demonstrated with reasonable assurance the design function of 
+the auxiliary building was not impaired. This LIV is material to the ITAAC 3.3.00.02a.i.c (762) acceptance 
+criteria because the as-built structures in the non-radiologically controlled area of the auxiliary building must 
+conform to the approved design and will withstand the design basis loads specified in the design 
+description without loss of structural integrity or the safety-related functions. This LIV is open pending an 
+NRC review to verify adequate corrective actions have been developed and implemented so the deficiency 
+can no longer prevent the ITAAC from being closed. This issue was documented in the licensee’s CAP as 
+CR 50099464, CR 50075502, and CAR 80004896. 
+ 
+Identified By: Licensee  
+Identification Date: 02/20/2021  
+Significance: Green 
+Item Type:  ITAAC Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Integrated Inspection Reports 
+05200025/2021003, 05200026/2021003 
+Item Number: 05200025/2021003-03 
+Note: Open in Report (LIV)  
+ 
+Unqualified Welding of Fire Extinguisher Brackets on the Unit 3 Containment Vessel  
+ 
+10 CFR 50, Appendix B, Criterion IX, “Control of Special Processes,” states “Measures  shall be established 
+to assure that special processes, including welding, heat treating, and nondestructive testing, are controlled 
+and accomplished by qualified personnel using qualified procedures in accordance with applicable codes, 
+standards, specifications, criteria, and other special requirements.” Contrary to this requirement, on 
+February 20, 2021, a subcontractor who was not qualified to perform welding on safety  
+related structures under a licensee approved Appendix B Quality Assurance Program welded three sets of 
+fire extinguisher brackets on the Unit 3 containment vessel without a qualified procedure. The 
+subcontractor’s work package was not qualified for welding to the containment vessel and did not contain 
+documents, drawings, or details that allowed welding to the containment vessel. The brackets were 
+installed per a drawing detail that did not specify welding to the containment vessel. The drawing allowed 
+for mounting to steel columns, permanent formwork plate, embedment plates, and modules.  
+ 
+This performance deficiency was of more than minor safety significance, and thus a finding, because it 
+rendered the quality of the containment vessel unacceptable or indeterminate and required substantive 
+corrective action. This finding was of very low safety significance (Green) because the licensee 
+demonstrated with reasonable assurance the design function of the containment vessel was not impaired. 
+This LIV is material to the ITAAC 2.2.01.02a (91), 2.2.01.04a.ii (96), and 2.2.01.07.i (107) acceptance 
+criteria because it affects the ASME Section III requirements for the as-built containment vessel and 
+associated testing requirements. This LIV remains open pending restoration of the Unit 3 containment 
+vessel to compliance with the ASME Section III Code requirements and an NRC review to verify adequate 
+corrective actions have been developed and implemented such that the initial ITAAC conclusions remain 
+valid and the deficiency can no longer prevent remaining ITAAC from being closed. This  issue was 
+documented in the licensee’s CAP as CR 50099460, CR 50082701, and CAR 80004934. 
+ 
+ 
+ 
+Identified By: NRC  
+Identification Date: 07/17/2020  
+Significance: Green 
+Item Type:  ITAAC Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Integrated Inspection Reports 
+05200025/2020003, 05200026/2020003 
+Item Number: 05200025/2020003-01 
+Note: Closed in Report (NCV)  
+ 
+Failure to Perform ASME Section III Leakage Examinations 
+ 
+The inspectors identified a construction finding of very low safety significance (Green) with an associated 
+NCV of Title 10 of the Code of Federal Regulations (10 CFR 50), Appendix B, Criterion V, "Instructions, 
+Procedures, and Drawings," for the licensee's failure to perform leakage examinations of two American 
+Society of Mechanical Engineers (ASME) Class 2, pressure-retaining, weld joints for containment 
+penetrations P27 and P28 to satisfy the requirements of ASME Section III.  
+ 
+The performance deficiency was of more than minor safety significance, and thus a finding, because it 
+represented an adverse condition that rendered the quality of a structure unacceptable or indeterminate, 
+and required substantive corrective action. The inspectors determined this finding was not associated with 
+an ITAAC; it was not associated with a security program; it was not associated with an IMC 2504 
+operational/construction program; and it was not associated with a repetitive, NRC -identified omission of a 
+program critical attribute. The inspectors determined this finding was of very low safety significance 
+because the licensee was able to demonstrate the design function of the applicable structure (containment 
+vessel) would not be impaired by successfully reperforming a pneumatic test of the affected welds. The 
+licensee entered this issue into its corrective action program as condition report (CR) 50056351. The 
+inspectors determined the finding was indicative of present licensee performance and was associated with 
+the cross-cutting aspect Avoid Complacency, in the area of Human Performance. Specifically, the licensee 
+failed to ensure the contract individuals recognized and planned for the possibility of mistakes, latent 
+problems, or inherent risk, even while expecting successful outcomes. The licensee did not ensure the 
+contractor understood the location of the welds, ensure obstructions were not present, and ensure 
+supporting procedures or drawings were referenced to satisfactorily perform targeted ASME Section III 
+weld examinations during the pneumatic test. [H.12] (Section 1A07) 
+ 
+ 
+Identified By: NRC  
+Identification Date: 05/01/2020  
+Significance: Green 
+Item Type:  ITAAC Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Integrated Inspection Reports 
+05200025/2020002, 05200026/2020002 
+Item Number: 05200025/2020002-01 
+Note: Closed in Report (NCV)  
+ 
+Failure to Correct Inadequate Thread Engagement for TZ Hilti Bolts  
+ 
+The inspectors identified a construction finding of very low safety significance with an associated NCV of 
+Title 10 of the Code of Federal Regulations (10 CFR) Part 50, Appendix B, Criterion XVI, “Corrective 
+Action,” for the licensee’s failure to correct a condition adverse to quality related to inadequate thread 
+engagement for TZ Hilti Bolts identified in condition report (CR) 50004237. Specifically, CR 50004237 was 
+written to address specification SV3/SV4-SS01-Z0-011, Revision 0, which allowed post-installed anchors to 
+be installed so that the end of the bolt was flush with the nut. In the instance of the TZ Hilti Bolts, bolt ends  
+are tapered and when installed flush with the bolt resulted in inadequate thread engagement. This issue 
+was entered into the licensee’s corrective action program as CR 50039089. The licensee performed 
+immediate corrective actions and was able to demonstrate with reasonable assurance that the lack of 
+thread engagement would not affect the anchors ability to perform their intended safety function. 
+ 
+The performance deficiency was of more than minor safety significance, and thus a finding,  because it 
+represented an adverse condition that rendered the quality of a structure, system, and component (SSC), 
+unacceptable or indeterminate, and required substantive corrective action. The inspectors determined this 
+finding was not associated with an ITAAC; it was not associated with a security program; and it was not 
+associated with a repetitive, NRC identified omission of a program critical attribute. The inspectors 
+determined this finding was of very low safety significance (Green) because the licensee was able to 
+demonstrate with reasonable assurance that the design function of the applicable structure or system would  
+not be impaired by the deficiency. The inspectors determined the finding was indicative of  present licensee 
+performance and was associated with the cross-cutting aspect of Problem Identification and Resolution, in 
+the area of Resolution. Specifically, the licensee failed to thoroughly evaluate the issue to ensure that the 
+resolution addressed the extent of condition for inadequate thread engagement identified in CR 50004237.  
+ 
+Identified By: NRC  
+Identification Date: 12/31/2019  
+Significance: Green 
+Item Type:  ITAAC Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Integrated Inspection Reports 
+05200025/2019004, 05200026/2019004 
+Item Number: 05200025/2019004-01 
+Note: Closed in Report (NCV)  
+ 
+Failure to Meet ITAAC Requirement for Installation 
+ 
+The inspectors identified an ITAAC finding of very low safety significance (Green) with an associated NCV 
+of 10 Code of Federal Regulations (CFR) Part 50, Appendix B, Criterion IV, “Procurement Document 
+Control,” for the licensee’s failure to specify an accurate conversion factor for calculating the dry film density 
+of coatings used in containment. Specifically, the licensee used a conversion factor that was rounded in a 
+non-conservative manner, which resulted in the dry film density not meeting the ITAAC. The licensee 
+entered this issue into its corrective action program as CR 50034350 and CR 50034649. The licensee 
+performed immediate corrective actions to demonstrate with reasonable assurance the non- conforming 
+coatings with a dry film density of 99.83 pounds per cubic feet (lbs/ft3) would not transport to the  
+containment sump screens and the design function of the PXS would not be impaired. 
+ 
+The performance deficiency was of more than minor safety significance, and thus a finding,  because it was 
+material to the acceptance criteria of an ITAAC. The inspectors determined this finding was not associated 
+with a security program; it was not associated with an IMC 2504 operational or construction program; and it 
+was not associated with a repetitive, NRC-identified omission of a program critical attribute. The inspectors 
+determined this finding was of very low safety significance (Green) because the licensee was able to 
+demonstrate with reasonable assurance that the design function of the applicable structure or system would 
+not be impaired by the deficiency. The inspectors determined the finding was indicative of present licensee 
+performance and was associated with the cross-cutting aspect of Conservative Bias, in the area of Human 
+Performance. Specifically, the licensee failed to use decision making practices that  emphasized prudent 
+choices over those that are simply allowable when rounding off conversion factors in specifications, and 
+when receiving coatings that were within less than 0.25% of the acceptance criterion. [H.14] (Section 1A06)
+ 
+ 
+Identified By: NRC 
+Identification Date: 12/31/2016 
+Significance: Green 
+Item Type:  ITAAC Finding 
+ 
+Failure to adequately implement measures to assure that special processes, including welding, 
+are accomplished in accordance with applicable codes 
+ 
+The inspectors identified an ITAAC finding of very low safety significance (Green) and associated NCV of 
+10 CFR Part 50, Appendix B, Criterion IX, “Control of Special Processes” for Southern Nuclear Operating 
+Company’s (SNC) failure through their contractor Westinghouse Electric Company (WEC) to adequately 
+implement measures to assure that special processes, including welding, are accomplished in 
+accordance with applicable codes. The licensee entered this finding into their corrective action program 
+as SNC CR 10320757 and WEC CAPAL System Issue ID 100436639. 
+ 
+The inspectors concluded the finding was associated with the Construction/Installation Cornerstone. The 
+finding was considered more-than-minor because the performance deficiency represented a substantive 
+failure to adequately implement a quality assurance (QA) measure that rendered the quality of an SSC 
+indeterminate. The finding is also similar to IMC 0613, “Power Reactor Construction Inspection Report”, 
+Appendix E, example 6 which indicates, in part, that a WPS qualification issue is not minor if it is related 
+to a change in an essential variable, and the WPS was required to be re-qualified. The inspectors 
+evaluated the finding in accordance with IMC 2519, “Construction Significance Determination Process,” 
+and determined the finding was of very low safety significance (Green) because the finding affected a 
+portion of a structure in the intermediate column of the risk importance table. The inspectors determined 
+that the finding represented an ITAAC finding because it was material to the acceptance criteria of VEGP 
+Unit 3 ITAAC 761, in that, if left uncorrected, the licensee may not have been able to demonstrate that  the 
+acceptance criteria of this ITAAC was met. The acceptance criteria of this ITAAC require that all 
+deviations between the as-built structures and the approved designs be reconciled to verify that the as - 
+built structures will withstand the design basis loads without a loss of structural integrity or other safety - 
+related functions.  The inspectors determined that the failure to adequately implem ent measures to 
+assure that special processes, including welding, are accomplished in accordance with applicable codes 
+may have resulted in a deviation from the approved design that would not have been reconciled by the 
+licensee. The inspectors reviewed the finding for a possible cross-cutting aspect in accordance with IMC 
+0613 Appendix F, “Construction Cross-Cutting Areas and Aspects,” and determined the finding has a 
+cross-cutting aspect in the Human Performance area because the licensee did not recognize that the 
+WPS was not qualified in accordance with AWS D1.4-98. [H.9]. (Section 1A34) 
+ 
+ 
+Identified By: NRC  
+Identification Date: 06/30/2015 
+Significance: Green 
+Item Type:  ITAAC Finding 
+ 
+Spent Fuel Pool Wall Repair Without an Approved Procedure 
+ 
+Green. The inspectors identified an ITAAC finding of very low safety significance (Green) and associated 
+non-cited violation (NCV) of 10 CFR Part 50, Appendix B, Criterion V, "Instructions, Procedures, and 
+Drawings," for the licensee's failure, through their contractor Chicago Bridge and Iron (CB&I), to perform 
+repair activities of the VEGP Unit 3 Spent Fuel Pool Wall according to an approved engineering 
+disposition or procedure. The licensee entered this finding in their corrective action program as condit ion 
+report (CR) 10062982, corrective action report (CAR) 2015-1585, and Nonconformance and Disposition 
+report (N&D) SV3-CA20-GNR-000577. The inspectors determined the performance deficiency was more 
+than minor since it represented a substantive failure to establish an adequate procedure for the 
+mechanical straightening of duplex stainless steel materials. The finding was determined to represent an 
+ITAAC finding because it was material to the acceptance criteria of VEGP Unit 3 ITAAC 763, in that, if left 
+uncorrected, the licensee could not show that the acceptance criteria of this ITAAC was met. The 
+inspectors determined that the failure to repair the spent fuel pool wall according to an approved 
+procedure represented a deviation from the design that would not have been properly reconciled by the 
+licensee. 
+ 
+The inspectors determined that the finding was of very low safety significance (Green) because the 
+licensee developed an adequate repair procedure that would correct the out of tolerance condition, and 
+through supplemental testing, verify that the mechanical properties of the duplex stainless steel material 
+were not adversely affected (i.e., the design function of the applicable structure or system would not have 
+been impaired by the deficiency).  This finding had a cross-cutting aspect in the area Human 
+Performance (Resources) because the licensee failed to ensure that procedures were available and 
+adequate to support nuclear safety. Specifically, the licensee had established the requirement that all 
+fabrication processes for duplex stainless steel material are in accordance with appropriate procedures, 
+but failed to develop and obtain engineering approval for mechanical straightening activities (a fabrication 
+process) to ensure that the integrity of the spent fuel pool wall would be maintained [H.1]. 
+ 
+ 
+Identified By: NRC  
+Identification Date: 03/31/2015 
+Significance: Green 
+Item Type:  Construction Finding 
+ 
+Failure to Perform Routine Quality Control Inspections 
+ 
+The inspectors identified a construction finding of very low safety significance (Green) and associated 
+non-cited violation (NCV) of 10 CFR Part 50, Appendix B, Criterion V, “Instructions, Procedures, and 
+Drawings,” for the licensee’s failure to accomplish safety-related, required quality control inspections in 
+accordance with CB&I QC inspection plan FS561-004. The licensee entered the issue in their corrective 
+action program as condition report number 10039935. 
+ 
+The finding was associated with the Construction/Installation Cornerstone. The inspectors determined the 
+performance deficiency was more than minor because the issue represented a substantive failure to 
+implement an adequate quality oversight function, in that these routine welding inspections were not 
+performed by the licensee's contractor for over six months. The finding was determined to be a 
+construction finding because it was not associated with a specific ITAAC. The inspectors determined that 
+the finding was of very low safety significance (Green) because the finding could not be directly 
+associated with a system or structure. This finding has a cross-cutting aspect in the area of Human 
+Performance, Procedure Adherence because the licensee failed to ensure that individuals followed 
+specific procedures [H.8]. 
+ 
+ 
+Identified By: NRC  
+Identification Date: 12/31/2014 
+Significance: Green 
+Item Type:  ITAAC Finding 
+ 
+Failure to Establish Qualified Welding Procedures In Accordance With American Welding Society 
+(AWS) D1.1:2000 
+ 
+The inspectors identified an ITAAC finding of very low safety significance (Green) and associated non- 
+cited violation (NCV) of 10 CFR Part 50, Appendix B, Criterion IX, “Special Processes,” for the licensee's 
+failure to assure that special processes, including welding, were controlled and accomplished using 
+qualified procedures in accordance with applicable codes, standards, specifications, criteria, and other 
+special requirements. The licensee entered the issue into their corrective action program under condition 
+report numbers 898717, 10008446, and 10009103, and took immediate actions to revise three welding 
+procedure specifications to meet American Welding Society (AWS) D1.1: 2000 and post -qualify them to 
+justify a “use-as-is” disposition for the associated welds in CA01, CA05, and CA20. 
+ 
+The finding was associated with the Construction/Installation cornerstone. The inspectors determined the 
+performance deficiency was more than minor because the issue was similar to the “not minor if” statement 
+of example 6 in IMC 0613, “Power Rector Construction Inspection Reports,” Appendix E, in that the issue 
+was related to a change in an essential variable, and the welding procedure specification (WPS) required 
+re-qualification. The inspectors evaluated the finding using the construction significance determination 
+process and determined the finding was of very low safety significance (Green) because the licensee was 
+able to create additional procedure qualification records to post-qualify the WPSs and disposition the 
+associated welds “use-as-is.” The finding was determined to be an ITAAC finding because it was material 
+to the acceptance criteria of Unit 3 ITAACs 3.3.00.02a.i.a (760) and 3.3.00.02a.i.d (763). The acceptance 
+criteria of these ITAACs require that a reconciliation report, concluding the as-built structure conforms to 
+the approved design and will withstand the design basis loads without loss of structural integrity is 
+completed for the areas associated with the ITAAC. This finding is associated with deviations from design 
+requirements that would not have been reconciled by the licensee, as required by the ITAAC, because the 
+welds were not welded with qualified welding procedures resulting in a deviation from AWS D1.1:2000 and 
+a failure to meet Section Q1.17, “Welds,” of American Institute of Steel Construction (AI SC) N690:1994 
+requirements. This finding has a crosscutting aspect in the area of Human Performance -  Resources 
+because the licensee failed to ensure that procedures were adequate to assure construction quality. 
+Specifically, the licensee failed to ensure that welding procedures were qualified in accordance with the 
+Code. [H.1] 
+ 
+ 
+Identified By: NRC  
+Identification Date: 09/30/2014 
+Significance: Green 
+Item Type:  ITAAC Finding 
+ 
+Failure to Install Structural Reinforcement in Accordance with ACI 349-01 Development Length 
+Requirements 
+ 
+The inspectors identified an ITAAC finding of very low safety significance (Green) and associated NCV of 
+10 CFR Part 50, Appendix B, Criterion V, “Instructions, Procedures, and Drawings,” for the licensee's 
+failure to correctly install structural reinforcement in accordance with approved design drawings. The 
+licensee entered this issue into their corrective action program as CR 877795, and removed the 
+nonconforming reinforcement, revised the design drawings, and re-installed the reinforcement according 
+to the revised design. 
+ 
+The finding was associated with the Construction/Installation Cornerstone. The inspectors determined the 
+performance deficiency was more than minor because it represented an adverse condition that render ed 
+the quality of a system, structure, or component unacceptable or indeterminate and required substantive 
+corrective action. The inspectors evaluated the finding using the construction significance determination 
+process and determined the finding was of very low safety significance (Green) because the licensee was 
+able to demonstrate with reasonable assurance that the design function of the applicable structure would 
+not be impaired by the deficiency. The finding was determined to be an ITAAC finding because it was 
+material to the acceptance criteria of Unit 3 ITAAC 760. The acceptance criteria of this ITAAC requires 
+that a reconciliation report, concluding the “as-built” construction conforms to the approved design, is 
+completed for the areas associated with the ITAAC. This finding is associated with deviations from design 
+requirements that would not have been reconciled by the licensee as required by the ITAAC, because the 
+as-built configuration contained deviations that did not meet ACI 349-01, which is a Tier 2* licensing 
+commitment for Seismic Category I structures. This finding has a cross-cutting aspect in the area of 
+Human Performance, Field Presence, because the licensee failed to ensure that supervisory and 
+management oversight of work activities, including contractors, was adequate and sufficient enough such 
+that construction quality is supported and assured. [H.2] 
+ 
+ 
+Identified By: NRC 
+Identification Date: 05/07/2012 
+Significance: Green 
+Item Type:  Technical Finding 
+ 
+Failures to Properly Classify Conditions Adverse to Quality 
+ 
+The inspectors identified a Green technical finding and cited violation (NOV) of 10 CFR Part 50, 
+Appendix B, Criterion XVI, Corrective Action, with five examples of the licensee’s failure to adequately 
+identify conditions adverse to quality (CAQ) due to inadequate evaluation and classification attributes. 
+The licensee issued Condition Report (CR) 441941 to address this issue and to review the classification 
+of the five identified examples and other corrective action documents for inappropriate thresholds. 
+ 
+This performance deficiency had greater than minor safety significance because it identified issues that, 
+if left uncorrected represented failures to implement an adequate program that could render the quality 
+of the construction activity unacceptable or indeterminate. The finding was a technical finding associated 
+with the construction/installation cornerstone and was evaluated under the construction significance 
+determination process as outlined in IMC 2519P Appendix A. This finding is of very low safety 
+significance (Green) because none of the examples impaired the design function of a system or 
+structure listed in the construction significance determination process risk importance table. This finding 
+was directly related to the construction cross cutting area of baseline inspection and the Corrective 
+Action Program component because the licensee’s suppliers failed to adequately evaluate and classify 
+conditions as adverse to quality due to an inappropriately high threshold for classifying conditions 
+adverse to quality. [A.5(c)]. 
+ 
+ 
+Identified By: NRC 
+Identification Date: 05/07/2012 
+Significance: Green 
+Item Type:  Technical Finding 
+ 
+Failure to Correct a Condition Adverse to Quality 
+ 
+The inspectors identified a Green technical finding and cited violation of 10 CFR Part 50, Appendix B, 
+Criterion XVI, Corrective Action, for a failure to correct a CAQ. The licensee initiated CR 441949 to 
+document this finding in their corrective action program, and to evaluate the extent of the condition 
+and the areas where corrective action may be needed. 
+ 
+This performance deficiency had greater than minor safety significance because it involved the closure 
+of three corrective action reports that all identified a potential adverse trend (a potential CAQ or 
+significant CAQ) without an evaluation or justification for closure and without any corrective action. The 
+finding was a technical finding associated with the construction/installation cornerstone and was 
+evaluated under the construction significance determination process as outlined in IMC 2519P Appendix 
+A. This finding is of very low safety significance (Green) because the identified condition did not impair 
+the design function of a system or structure listed in the construction significance determination process 
+risk importance table. 
+This finding was directly related to the construction cross cutting area of baseline inspection and the 
+corrective action program component because the licensee’s supplier failed to adequately evaluate 
+and correct conditions adverse to quality. [A.5(c)]. 
+ 
+Inspection/Testing 
+ 
+ 
+Identified By: NRC  
+Identification Date: 10/15/2021  
+Significance: Green 
+Item Type:  ITAAC Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Initial Test Program and Operational 
+Programs Integrated Inspection Reports 05200025/2021008, 05200026/2021008  
+Item Number: 05200025/2021008-01 
+Note: Open in Report (NCV)  
+ 
+Failure to Prescribe Instructions or Procedures for ITAAC Activities that Affect Qu ality 
+ 
+NRC inspectors identified a Green ITAAC finding and associated non-cited violation (NCV) of Title 10 of the 
+Code of Federal Regulations (10 CFR 50), Appendix B, Criterion V, “Instructions, Procedures, and 
+Drawings,” and with an associated Severity Level (SL) IV violation of 52.99(c)(1), “ITAAC Closure 
+Notification,” for the licensee’s failure to coordinate and collaborate with the ITAAC Project Team (IPT) to 
+identify and collect ITAAC determination basis input documents for ITAAC C.2.6.09.06 (Index Number 647) 
+to demonstrate the vehicle barrier system could protect against the design basis threat vehicle bombs prior 
+to submitting the ITAAC Closure Notification in accordance with procedure ND-RA-001-006, “Development 
+and Approval of ITAAC Submittals (ICN, UIN, PCN).” The licensee entered this issue into its corrective 
+action program (CAP) as condition report (CR) 50118429.  
+ 
+The performance deficiency was determined to be more than minor because it represented a substantive 
+failure to establish or implement an adequate program, process, procedure, or quality oversight function. 
+The inspectors determined this finding was of very low safety significance (Green) because the vehicle 
+barrier function was not required per 10 CFR 73.55 at that time. The inspectors determined the finding had 
+a cross-cutting aspect of Conservative Bias in the area of Human Performance. Specifically, the licensee 
+failed to use conservative decision making when submitting the ITAAC Closure Notice (ICN) without all the 
+determination basis input documents finalized. 
+ 
+Identified By: NRC  
+Identification Date: 3/17/2021  
+Significance: Green 
+Item Type:  ITAAC Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Integrated Inspection Reports 
+05200025/2021006, 05200026/2021006 
+Item Number: 05200025/2021006-01 
+Note: Closed in Report (NCV)  
+ 
+Failure to Follow Procedure B-GEN-ITPA-004 
+ 
+An ITAAC finding of very low safety significance with an associated NCV of Title 10 of the Code of Federal 
+Regulations Part 50, Appendix B, Criterion V, “Instructions, Procedures, and Drawings,” was self-revealed 
+for the licensee’s failure to follow its procedural guidance for troubleshooting external leakage from the Unit 
+3 spent fuel pool (SFP) and fuel transfer canal (FTC), which resulted in over-pressurization of the leak 
+chase area between the SFP and FTC stainless steel liner and the surrounding Seismic Category  I 
+structural module. The licensee failed to adhere to procedure B-GEN-ITPA-004, “Conduct 
+of Test,” Revision 24. Additionally, the procedure was not appropriate to the circumstances  because it did 
+not contain adequate guidance on when formal troubleshooting was required. The licensee entered this 
+finding into its corrective action program as condition report 50083423. Corrective actions for this issue 
+included repairs to the SFP and FTC liner, the leak chase, and the surrounding structural module to return 
+them into conformance with the design. 
+ 
+The performance deficiency was of more than minor safety significance, and thus a finding,  because it 
+represented an adverse condition that rendered the quality of a structure (i.e., the SFP, FTC, and 
+surrounding structural module) unacceptable and required substantive corrective action. The performance 
+deficiency was also material to the acceptance criteria of ITAAC 3.3.00.02a.i.d (763) and prevented the 
+licensee from meeting an ITAAC Design Commitment. The inspectors determined this finding was a 
+performance deficiency of very low safety significance (Green) because there was reasonable assurance 
+the structure or the applicable portions of the structure would have been able to meet its design function. 
+The inspectors determined the finding was indicative of present licensee performance and was associated 
+with the cross-cutting aspect Challenge the Unknown, in the area of Human Performance. The licensee did 
+not have a complete understanding of how to properly execute the set of steps in the procedure and 
+clarification was not sought before proceeding. 
+ 
+ 
+Identified By: NRC  
+Identification Date: 1/29/2021  
+Significance: Green 
+Item Type:  Construction Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 – NRC Initial Test Program and Operational 
+Programs Integrated Inspection Reports 05200025/2021002, 05200026/2021002  
+Item Number: 05200025/2021002-01 
+Note: Closed in Report (NCV)  
+ 
+Failure to Correct NRC Identified Violation 
+ 
+The NRC inspectors identified a construction finding of very low safety significance and a non-cited 
+violation (NCV) of Title 10 of the Code of Federal Regulations, Part 50 (10 CFR 50),  Appendix B, Criterion 
+XVI, "Corrective Action," for the licensee's failure to correct a deficiency in their Class 1E Direct Current 
+(DC) and Uninterruptible Power Supply (UPS) (IDS) preoperational test procedure, 3-IDS-ITPP-501. The 
+licensee entered this finding into their corrective action program as condition reports (CR) 50076165 and 
+50078235, and corrective action report (CAR) 80004604, to correct the preoperational test procedure.  
+ 
+The performance deficiency was of more than minor safety significance and a finding because it  
+represented a substantive failure to establish or implement an adequate program, process,  procedure, or 
+quality oversight function. The finding was determined to be of very low safety significance (Green) 
+because the finding did not impair a design function. The inspectors concluded that this finding affected the 
+cross-cutting area of human performance and the crosscutting aspect of avoiding complacency. The 
+proximate cause was attributed to a failure to use proper human error reduction techniques, namely 
+inadequate verification by personnel. [H.12]  
+ 
+Identified By: NRC  
+Identification Date: 2/1/2021  
+Significance: Green 
+Item Type:  Construction Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 – NRC Initial Test Program and Operational 
+Programs Integrated Inspection Reports 05200025/2021002, 05200026/2021002  
+Item Number: 05200025/2021002-02 
+Note: NCV  
+ 
+Failure to Use Worst Case Load Profile for IDS Battery Service Test 
+ 
+The NRC inspectors identified a performance deficiency and ITAAC finding of very low safety significance 
+(Green), and a NCV of 10 CFR 50, Appendix B, Criterion III, “Design Control” for the licensee’s failure to 
+translate the most limiting accident load profiles and load currents that envelope the battery bank design 
+duty cycle into the battery service tests specified by procedure 3-IDS-ITPP-501, “Class 1E DC and UPS 
+Preoperational Test.” The licensee entered this finding into their corrective action program as CR 50078637 
+and changed their procedure to test the worst-case load profile with the worst-case load currents for battery 
+divisions IDSA, IDSB, IDSC, and IDSS service tests. 
+ 
+The performance deficiency was of more than minor safety significance and a finding because it 
+represented a substantive failure to establish or implement an adequate program, process,  procedure, or 
+quality oversight function. The finding was determined to be of very low safety significance (Green) 
+because the finding did not impair a design function. The inspectors concluded that this finding affected the 
+cross-cutting area of human performance and crosscutting aspect of challenge the unknown. Specifically, 
+the licensee failed to adequately investigate which profiles were the most limiting for each division and the 
+spare battery to ensure the test procedure encompassed the requirements. [H.11] 
+ 
+Identified By: NRC  
+Identification Date: 2/1/2021  
+Significance: Green 
+Item Type:  Construction Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 – NRC Initial Test Program and Operational 
+Programs Integrated Inspection Reports 05200025/2021002, 05200026/2021002  
+Item Number: 05200025/2021002-03 
+Note: NCV  
+ 
+Failure to Place IDSB Battery on Float for 72 hours After Being on Equalize Voltage 
+ 
+The NRC inspectors identified a construction finding of very low safety significance and a NCV of 10 CFR 
+50, Appendix B, Criterion V, "Instructions, Procedures, and Drawings," for the licensee’s failure to place the 
+IDSB 24-hour battery on float voltage for 72 hours subsequent to it being on equalize voltage. The licensee 
+entered this finding into their corrective action program as CR 50085270 to reperform the IDSB service test 
+with the appropriate requisite float voltage. 
+ 
+The performance deficiency was of more than minor safety significance and a finding because it  
+represented a substantive failure to establish or implement an adequate program, process,  procedure, or 
+quality oversight function. The finding was determined to be of very low safety significance (Green) 
+because the finding did not impair a design function. The inspectors concluded that this finding affected the 
+cross-cutting area of human performance and crosscutting aspect of conservative bias. Specifically, the 
+licensee proceeded with testing without questioning whether a 72-hour float was required. [H.14] 
+ 
+Identified By: NRC  
+Identification Date: 2/2/2021  
+Significance: Green 
+Item Type:  Construction Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 – NRC Initial Test Program and Operational 
+Programs Integrated Inspection Reports 05200025/2021002, 05200026/2021002  
+Item Number: 05200025/2021002-04 
+Note: NCV  
+ 
+Failure to Translate Design Requirements into IDS Test Procedure 
+ 
+The NRC inspectors identified a construction finding with three examples of very low safety significance 
+and a NCV of 10 CFR 50, Appendix B, Criterion III, "Design Control," for the licensee’s failure to translate 
+the design requirements and acceptance limits in applicable design documents into preoperational test 
+procedure 3-IDS-ITPP-501, “Class 1E DC and UPS Preoperational Test.” Specifically, the licensee failed to 
+translate design requirements from NEMA PE 5-1985, “Utility Type Battery Chargers,” SV3-IDS-T1-503, 
+“Class 1E DC and Uninterruptible Power Supply System Preoperational Test Specification,” and the 
+UFSAR Section 14.2.9.1.14. The licensee entered this finding into their corrective action program as  
+CRs 50080097, 50079776, and 50089774, respectively, to restore compliance. The performance deficiency 
+was of more than minor safety significance and a finding because it represented a substantive failure to 
+establish or implement an adequate program, process, procedure, or quality oversight function. The finding 
+was determined to be of very low safety significance (Green) because the finding did not impair a design 
+function. The inspectors concluded that this finding affected the cross-cutting area of human performance 
+and crosscutting aspect of consistent process. Specifically, the licensee used an inconsistent approach to 
+ensure that all requirements were translated into the procedure. [H.13] 
+ 
+Identified By: NRC  
+Identification Date: 2/24/2021  
+Significance: Green 
+Item Type:  Construction Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 – NRC Initial Test Program and Operational 
+Programs Integrated Inspection Reports 05200025/2021002, 05200026/2021002  
+Item Number: 05200025/2021002-05 
+Note: NCV  
+ 
+Failure to Control Design Calculation for Three Battery Cells Bypassed  
+ 
+The NRC inspectors identified a construction finding of very low safety significance and a NCV of 10 CFR 
+50, Appendix B, Criterion VII, "Control of Purchased Material, Equipment, and Services," for the licensee’s 
+failure to control the quality of design requirements and acceptance criteria in calculations used to 
+determine voltage margins after battery discharge. The licensee entered this into their corrective action 
+program as CR 50080010 and CAP IR 2021-2177. Corrective actions included using a different battery 
+profile that used a higher final cell voltage which ensured at least 210VDC after 24 hours of discharge 
+following a design basis accident with three cells bypassed. 
+ 
+The performance deficiency was of more than minor safety significance and a finding because it  
+represented a substantive failure to establish or implement an adequate program, process,  procedure, or 
+quality oversight function. The finding was determined to be of very low safety significance (Green) 
+because the finding did not impair a design function. The inspector concluded that this finding affected the 
+cross-cutting area of human performance and crosscutting aspect of documentation. Specifically, the 
+licensee failed to consider all potential scenarios for the battery calculation. [H.7] 
+ 
+Identified By: NRC  
+Identification Date: 1/20/2021  
+Significance: Green 
+Item Type:  Construction Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 – NRC Initial Test Program and Operational 
+Programs Integrated Inspection Reports 05200025/2021002, 05200026/2021002  
+Item Number: 05200025/2021002-06 
+Note: NCV  
+ 
+Inadequate Startup Testing Procedures for Establishing Initial Criticality  
+ 
+The NRC inspectors identified a construction finding of very low safety significance (Green) and  a NCV of 
+10 CFR 50, Appendix B, Criterion III, “Design Control,” for the licensee’s failure to correctly translate 
+applicable regulatory requirements and the design basis into specifications and procedures for performing 
+the Unit 3 initial plant startup testing activities of achieving initial criticality in a controlled manner, 
+measuring the isothermal temperature coefficient (ITC), and calculating the moderator temperature 
+coefficient (MTC) of reactivity. The licensee entered this finding into its corrective action program as CR 
+50086434 for evaluation and identification of appropriate corrective actions.  
+ 
+The performance deficiency was of more than minor safety significance, and thus a finding, because it 
+represented a substantive failure to establish or implement an adequate program,  process, procedure, or 
+quality oversight function. This finding was associated with an SSC (i.e. reactor system) and was a licensee 
+performance deficiency of very low safety significance (Green) because the procedure was not 
+implemented. The inspectors concluded this finding affected the cross-cutting area of human performance 
+and the cross-cutting aspect of teamwork. Consistency between the procedures and test specification 
+required a coordinated effort between three organizations. This was not effectively done during initial 
+drafting of the procedures. [H.4] 
+ 
+Identified By: NRC  
+Identification Date: 2/12/2021  
+Significance: Green 
+Item Type:  Construction Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 – NRC Initial Test Program and Operational 
+Programs Integrated Inspection Reports 05200025/2021002, 05200026/2021002  
+Item Number: 05200025/2021002-07 
+Note: NCV  
+ 
+Inadequate Startup Testing Procedures for Initial Fuel Loading 
+ 
+The NRC inspectors identified a construction finding of very low safety significance (Green) and  a NCV of 
+10 CFR 50, Appendix B, Criterion III, “Design Control,” for the licensee’s failure to correctly translate 
+applicable regulatory requirements and the design basis into specifications and procedures for performing 
+the Unit 3 initial plant startup testing activity of initial fuel loading. The licensee entered this finding into its 
+corrective action program as CR 50086035 for evaluation and identification of appropriate corrective 
+actions. 
+ 
+The performance deficiency was of more than minor safety significance, and thus a finding,  because it 
+represented a substantive failure to establish or implement an adequate program, process, procedure, or 
+quality oversight function. This finding was associated with an SSC (i.e. reactor system) and was a licensee 
+performance deficiency of very low safety significance (Green) because the procedure was not 
+implemented. The inspectors concluded this finding affected the cross-cutting area of human performance 
+and the cross-cutting aspect of documentation. The proximate cause of the performance deficiency was 
+primarily attributed to the failure to create accurate documentation. Revision 1 of the test procedure was 
+archived without sufficient development and it was not adequately reviewed prior to approval. [H.7] 
+ 
+ 
+ 
+Identified By: NRC  
+Identification Date: 11/04/2020  
+Significance: Green 
+Item Type:  ITAAC Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Integrated Inspection Reports 
+05200025/2020004, 05200026/2020004 
+Item Number: 05200025/2020004-02 
+Note: Closed in Report (NCV)  
+ 
+Failure to Construct and Perform Quality Inspections on the Battery Racks for the Class 1E DC and 
+Uninterruptible Power Supply System 
+ 
+The inspectors identified an ITAAC finding of very low safety significance with an associated NCV of 10 
+CFR 50, Appendix B, Criterion V, “Instructions, Procedures, and Drawings.” The licensee failed to construct 
+and perform quality inspections on Unit 3 and Unit 4 Class 1E DC and uninterruptible power supply system 
+(IDS) battery racks for the 250 Vdc 24-hour, 72-hour, and spare batteries in accordance with ITAAC 
+2.6.03.02.i and the approved design requirements for Vogtle Units 3 and 4. The licensee entered this 
+finding into its CAP as CR 50066999, conducted engineering analysis of the nonconforming conditions, and 
+performed rework on the battery racks to correct the nonconforming conditions.  
+ 
+This performance deficiency was of more than minor safety significance, and thus a finding,  because it was 
+material to the acceptance criteria of an ITAAC and invalidated the Inspection, Test, or Analyses described 
+in the ITAAC 2.6.03.02.i. This finding was not associated with a security program; it was not associated with 
+an IMC 2504 operational or construction program; and it was not associated with a repetitive, NRC-
+identified omission of a program critical attribute. This finding was a licensee performance deficiency of very 
+low safety significance because it was associated with the IDS and there was reasonable assurance the 
+design function of the system would not have been impaired by the deficiency based on engineering 
+analysis of the nonconforming conditions identified. The inspectors determined this finding was  indicative of 
+present licensee performance and affected the cross-cutting area of human performance and the cross-
+cutting aspect of avoiding complacency. The proximate cause of the performance deficiency was primarily 
+attributed to a failure to perform a thorough review of the work instructions and to plan the activity every 
+time without relying on past successes and assumed conditions. [H.12] (Section 1A15) 
+ 
+Identified By: NRC  
+Identification Date: 10/08/2020  
+Significance: Green 
+Item Type:  Construction Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Initial Test Program and Operational 
+Programs Integrated Reports 05200025/2020010, 05200026/2020010 
+Item Number: 05200025/2020010-01 
+Note: Closed in Report (NCV)  
+ 
+Failure to Complete Procedure B-GEN-ITPCI-019 sub-procedures as Written 
+ 
+The inspectors identified a performance deficiency and a construction finding of very low  safety significance 
+(Green) and an associated non-cited violation (NCV) of Title 10, Code of Federal Regulations (CFR), Part 
+50, Appendix B, Criterion V, “Instructions, Procedures, and Drawings,” for the licensee’s failure to follow 
+safety related procedure B-GEN-ITPCI-019, "PMS Sensor Channel Calibration," for the calibration of 
+reactor coolant system (RCS) pressure transmitters. 
+ 
+The performance deficiency was determined to be more than minor because it represented a substantive 
+failure to implement procedures. This finding was associated with the Construction Reactor Safety – 
+Inspection/Testing Cornerstone. Using IMC 2519, Appendix A, “Construction Significance Determination 
+Process,” this finding was determined to be of very low safety significance (Green) because it was 
+associated with the protection and safety monitoring system (PMS) and RCS, which are in the high risk 
+column of the AP1000 Construction Significance Determination Matrix, but all trains of the systems were 
+not considered failed, and it was not a repetitive significant condition adverse to quality. In accordance with 
+IMC 0613, Appendix F “Construction Cross-Cutting Areas and Aspects,” the finding was determined to be 
+indicative of present licensee performance and was associated with the cross -cutting aspect of Training in 
+the area of Human Performance. Specifically, Southern Nuclear Company (SNC) did not provide adequate 
+training for the calibration of safety-related transmitters to ensure technical competency and maintain 
+nuclear safety values [H.9]. (Section 3P04) 
+ 
+Identified By: NRC  
+Identification Date: 07/09/2020  
+Significance: Green 
+Item Type:  ITAAC Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Initial Test Program and Operational 
+Programs Integrated Reports 05200025/2020009, 05200026/2020009 
+Item Number: 05200025/2020009-01 
+Note: Closed in Report (NCV)  
+ 
+Failure to Complete Containment Prior to Unit 3 ILRT 
+ 
+The inspectors identified a performance deficiency and an ITAAC finding of very low safety significance 
+(Green) and an associated non-cited violation (NCV) of Title 10 of the Code of Federal Regulations (CFR) 
+Part 50, Appendix J, “Primary Reactor Containment Leakage Testing for Water-Cooled Power Reactors,” 
+for the licensee’s failure to complete the containment system in accordance with Option B, "Performance-
+Based Requirements," prior to commencing the Unit 3 Type A containment integrated leak rate test 
+(CILRT). The licensee entered this issue into their corrective action program (CAP) as CR 50061137 with 
+planned corrective actions to complete the containment system and perform additional testing.  
+ 
+The performance deficiency was more than minor because it was material to the acceptance criteria of the 
+ITAAC. The finding was associated with the Construction Reactor Safety – Inspection/Testing Cornerstone. 
+Using IMC 2519, Appendix A, “Construction Significance Determination Process,” this finding was 
+determined to be of very low safety significance (Green) because it was associated with the containment 
+system (CNS), which is in the low risk column of the AP1000 Construction Significance Determination 
+Matrix, and was not a repetitive significant condition adverse to quality. In accordance with IMC 0613, 
+Appendix F, “Construction Cross-Cutting Areas and Aspects,” the finding was determined to be indicative of 
+present licensee performance and was associated with the cross-cutting aspect of Change Management in 
+the area of Human Performance. Specifically, rather than maintaining nuclear safety as the overriding 
+priority, the design change associated with the new pressure boundary welds on the EPAs was not 
+adequately evaluated to ensure compliance with regulatory requirements [H.3].  
+(Section 3T05) 
+ 
+Identified By: NRC  
+Identification Date: 08/04/2020  
+Significance: Green 
+Item Type:  Construction Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Initial Test Program and Operational 
+Programs Integrated Reports 05200025/2020009, 05200026/2020009 
+Item Number: 05200025/2020009-02 
+Note: Closed in Report (NCV)  
+ 
+Failure to Establish Adequate Procedure for Unit 3 72-hour Battery Performance Test 
+ 
+The inspectors identified a performance deficiency and a construction finding of very low  safety significance 
+(Green) and an associated NCV of 10 CFR Part 50, Appendix B, Criterion V, "Instructions, Procedures, and 
+Drawings,” for the licensee’s failure to establish an adequate procedure for UFSAR required battery 
+performance testing of the Division B and C, Class 1E, 72-hour batteries. The licensee entered this issue 
+into their CAP as CRs 50058111, 50057805 and corrected the procedure prior to implementation.  
+ 
+The performance deficiency was determined to be more than minor and a finding because it  represented a 
+substantive failure to establish or implement an adequate program, process, procedure, or quality oversight 
+function. The inspectors concluded the finding was associated with the Inspection/Testing cornerstone and 
+assessed the finding in accordance with IMC 2519, “Construction Significance Determination Process,” 
+Appendix A, “AP 1000 Construction Significance Determination Process,” Section 4. The inspectors 
+determined the finding was of very low safety significance (Green) because the finding was not related to a 
+security or operational program and the test had not been performed. In accordance with IMC 0613 
+Appendix F, “Construction Cross-Cutting Areas and Aspects,” the inspectors determined the finding had a 
+cross-cutting aspect of Avoid Complacency in the area of Human Performance. Specifically, the licensee 
+did not properly proofread following a copy/paste from a previous section that allowed an incorrect number 
+to propagate through the procedure [H.12]. (Section 3T12) 
+ 
+Identified By: NRC 
+Identification Date: 12/31/2016 
+Significance: Green 
+Item Type:  ITAAC Finding 
+ 
+Failure to identify nonconforming welds 
+ 
+The inspectors identified an ITAAC finding of very low safety significance (Green) and associated NCV of  
+Title 10 of the Code of Federal Regulations (10 CFR) Part 50, Appendix B, Criterion XVI, "Corrective 
+Action," for the licensee's failure to identify nonconforming welds between seismic category I embed 
+plates and structural modules inside the Vogtle Unit 3 and Unit 4 containment building. The licensee 
+entered this finding into their corrective action program as Condition Reports (CRs) 10308295, 10308213, 
+Corrective Action, Prevention, and Learning (CAPAL) 100436977, SV3-CA01-GNR-000958, SV3-CA02- 
+GNR-000069, and SV4-CA05-GNR-000028. 
+ 
+The inspectors concluded this finding was associated with the Construction Reactor Safety - 
+Inspection/Testing Cornerstone. The finding was considered more-than-minor because the issue was 
+not isolated, similar to example 11 from Appendix E, "Examples of Minor Construction Issues," of IMC 
+0613, and represented a substantive failure to implement a quality oversight function.  Specifically, the 
+inspectors identified at least 33 nonconforming welds that were accepted by at least eight different 
+quality control (QC) inspectors.  The inspectors determined the finding was of very low safety 
+significance (Green) because the finding was associated with Row 1 of the AP1000 Construction 
+Significance Determination Matrix and the containment internal structures basemat was associated with 
+the Intermediate Risk of the Systems/Structures Risk Importance Table for AP1000 Construction 
+Significance Determination Process (SDP) Matrix X-Axis. Furthermore, the licensee was able to provide 
+reasonable assurance that the structure would have been able to meet its design function.  The 
+inspectors determined the finding represented an ITAAC finding because it was material to the 
+acceptance criteria of Vogtle Unit 3 and Unit 4 ITAAC 760, in that, if left uncorrected, the licensee could 
+not show that the acceptance criteria of these ITAAC were met. The acceptance criteria of Vogtle Unit 3 
+and Unit 4 ITAAC 760 requires that all deviations between the as-built containment internal structures 
+and the approved design be reconciled (evaluated) such that the as-built structure would withstand the 
+design basis loads without a loss of structural integrity or other safety-related functions. The inspectors 
+determined that the failure of these welds to meet the American Welding Society (AWS) D1.1:2000 and 
+AWS D1.6:1999 visual weld acceptance criteria represented a nonconformance with the approved 
+structural design, which if left uncorrected, represented a deviation from the design that would not have 
+been reconciled by the licensee. The inspectors screened the finding for a possible construction safety 
+focus component (CSFC) aspect in accordance with Appendix F, “Construction Cross -Cutting Areas 
+and Aspects,” of IMC 0613, “Power Reactor Construction Inspection Reports.” This finding has a cross -
+cutting aspect in the area of Safety Conscious Work Environment, avoid complacency, because the 
+licensee did not assure that individuals adequately recognized and planned for the possibility of 
+mistakes, latent issues, and inherent risk while expecting successful outcomes, in that multiple QC 
+inspectors failed to consider that the ends of the Complete Joint Penetration (CJP) welds were within 
+the scope of the inspection and even though the front sides of the welds were satisfactory the ends 
+were nonconforming.  [H.12].   (Section 1A32) 
+ 
+Security Programs 
+ 
+ 
+Identified By: NRC  
+Identification Date: 01/8/2020  
+Significance: Green 
+Item Type:  Construction Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Integrated Inspection Reports 
+05200025/2020004, 05200026/2020004 
+Item Number: 05200025/2021004-03 
+Note: Closed in Report (FIN)  
+ 
+NRC inspectors identified a construction finding of very low safety significance for the licensee’s failure to 
+analyze site specific conditions in accordance with NMP-SE-015, “Target Set Identification, Development, 
+and Maintenances.” The licensee entered this issue into its corrective action program as CR 50031962. 
+ 
+The performance deficiency was determined to be of more than minor safety significance because it 
+represented a substantive failure to establish or implement an adequate program,  process, procedure, or 
+quality oversight function. The inspectors concluded that this finding affected the cross-cutting area of 
+human performance and cross-cutting aspect of Bases for Decisions. Specifically, the licensee failed to 
+verify its understanding of the requirements for target set identification and development. 
+ 
+Identified By: NRC  
+Identification Date: 03/31/2019  
+Significance: Severity Level IV  
+Item Type: Enforcement 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Integrated Inspection Reports 
+05200025/2019001, 05200026/2019001  
+Item Number: 05200025/2019001-02  
+Note: Closed in Report (NCV)  
+ 
+Failure to Implement FFD Requirements 
+ 
+(Severity Level IV) The NRC identified a Severity Level IV NCV as a result of a NRC Office of  Investigation 
+(OI Report 2-2017-026) report for the licensee’s failure to adequately implement the Fitness For Duty (FFD) 
+testing program. Specifically, a FFD collector working at Vogtle Units 3 and 4 failed to ensure a donor 
+emptied their pockets of all contents before collection of a sample. This failure allowed the donor to subvert 
+a FFD test as required by 10 CFR 26.105(b). The licensee entered this finding into their corrective action 
+program as CR 10366889 and subsequently re-tested all the individuals which were tested on May 8, 2017, 
+by the FFD collector in question. All re-tested individuals passed. The FFD collector and the individual that 
+subverted the FFD test were both removed from the site. 
+ 
+The finding was determined to be more than minor because the issue represented a failure of  the licensee 
+to appropriately implement the requirements of 10 CFR 26.105(b) and 10 CFR 26.85(a). Although this 
+violation is willful, it was brought to the NRC's attention by the licensee, it involved isolated acts of low-level 
+individuals, and it was addressed by appropriate remedial actions. The security significance of this violation 
+was determined to be a Severity Level IV, in part, because there were no adverse security impacts to the 
+construction facility, and the individual was precluded from entering the Construction Controlled Area. 
+Violations that involve willfulness or that affect the regulatory process are dispositioned using traditional 
+enforcement and are not subject to IMC 2519, “Construction Significance Determination Process.” 
+Traditional enforcement violations are not assessed for cross-cutting aspects. (2P01) 
+ 
+Operational Programs 
+ 
+ 
+Identified By: SNC  
+Identification Date: 08/12/2021  
+Significance: Green 
+Item Type:  Construction Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Initial Test Program and Operational 
+Programs Integrated Inspection Reports 05200025/2021005, 05200026/2021005 
+Item Number: 05200025/2021005-01 
+Note: Closed in Report (NCV)  
+ 
+Failure to Follow Procedure 3-IDSC-SOP-002 
+ 
+A self-revealed construction finding of very low safety significance with an associated noncited violation 
+(NCV) of Title 10 of the Code of Federal Regulations (10 CFR), Part 50, Appendix B, Criterion V,  
+“Instructions, Procedures, and Drawings,” was identified for the licensee’s failure to accomplish activities in 
+procedure 3-IDSC-SOP-002, “Class 1E AC System – Division C,” Version 0 in accordance with procedure 
+NMP-AP-003, “Procedure and Work Instruction Use and Adherence,” Version 6.1. The licensee entered 
+this issue into its corrective action program (CAP) as condition report (CR) 50103788, CR 50103789, and 
+CR 50103907. 
+ 
+The performance deficiency was determined to be of more than minor significance and thus a finding  
+because it represented a substantive failure to implement an adequate program, process, procedure, or  
+quality oversight function. The inspectors determined the finding was of very low safety significance (Green) 
+because the event impaired only one train of the IDS. The inspectors determined the finding had a cross -
+cutting aspect of H.2, Field Presence, in the area of Human Performance. Specifically, senior  managers did 
+not ensure that operators performing 3-IDS-SOP-002 had adequate supervisory and management 
+oversight of work activities which led to plant equipment being damaged. 
+ 
+Identified By: NRC  
+Identification Date: 09/30/2021  
+Significance: Green 
+Item Type:  Construction Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Initial Test Program and Operational 
+Programs Integrated Inspection Reports 05200025/2021005, 05200026/2021005  
+Item Number: 05200025/2021005-02 
+Note: Closed in Report (NCV)  
+ 
+Failure to Obtain a License Amendment Prior to Altering Dynamic Restraint Qualification 
+Requirements 
+ 
+The NRC inspectors identified a performance deficiency and construction finding of very low safety 
+significance and an associated Severity Level (SL) IV non-cited violation (NCV) of 10 CFR 50.59,  
+“Changes, tests, and experiments,” for the licensee’s failure to perform a written safety evaluation prior to 
+implementing a change to remove ASME QME-1-2007 commitments from the UFSAR in accordance with 
+procedure ND-LI-VNP-002. The licensee entered this issue into its corrective action program as CR 
+50098695.  
+ 
+The inspectors determined that the failure to follow procedure ND-LI-VNP-002 to perform a 10 CFR 50.59 
+evaluation for the removal of ASME QME-1-2007 commitments from the design bases was a violation of 10 
+CFR 50.59(d)(1), and a performance deficiency. Per the guidance in IMC 0613, Appendix E, “Examples of 
+Minor Construction Issues,” the performance deficiency was determined to be more than minor, and thus a 
+finding, because it represented a substantive failure to establish or implement an adequate program, 
+process, procedure, or quality oversight function. Specifically, the removal of QME -1-2007 for dynamic 
+restraints constituted a more than minimal increase in the likelihood of a malfunction of a structure, system, 
+or component important to safety and there was a reasonable likelihood that the change would have 
+required Commission review and approval prior to implementation in accordance with 10 CFR 
+50.59(c)(2)(ii). The inspectors determined the finding had a cross-cutting aspect of H.3, Change 
+Management in the area of Human Performance. Specifically, the licensee failed to ensure the process for 
+reviewing the change to remove QME-1-2007 for dynamic restraints was systematic in that all aspects of 
+QME-1-2007 were evaluated for their impact on dynamic restraints. 
+ 
+Identified By: NRC  
+Identification Date: 09/30/2021  
+Significance: Green 
+Item Type:  ITAAC Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Initial Test Program and Operational 
+Programs Integrated Inspection Reports 05200025/2021005, 05200026/2021005 
+Item Number: 05200025/2021005-03 
+Note: Closed in Report (NCV)  
+ 
+Failure to Demonstrate Qualification of Valve Nonmetallic Parts 
+ 
+NRC inspectors identified a performance deficiency and ITAAC finding of very low safety significance and 
+an NCV of 10 CFR 50.49(e)(5), “Environmental qualification of electric equipment important to safety for 
+nuclear power plants,” for the licensee’s failure to establish the qualified lives of all nonmetallic  components 
+necessary for the completion of the safety function of the squib and main steam isolation (MSI) valves in 
+accordance with procedure APP-GW-G1-002, "AP1000 Equipment Qualification Methodology." The 
+licensee entered this issue into its CAP as CR 50096894.  
+ 
+The performance deficiency was determined to be more than minor, and thus a finding, because it is 
+material to the acceptance criteria of the ITAAC, and the performance deficiency prevented the licensee 
+from meeting the ITAAC Design Commitment. The inspectors determined this finding was of very low safety 
+significance because the finding did not impair a design function of the valves. The inspectors determined 
+no cross-cutting aspect applied because the performance deficiency did not reflect current licensee 
+performance. 
+ 
+Identified By: NRC  
+Identification Date: 07/19/2021  
+Significance: Green 
+Item Type:  ITAAC Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Initial Test Program and Operational 
+Programs Integrated Inspection Reports 05200025/2021005, 05200026/2021005 
+Item Number: 05200025/2021005-04 
+Note: Closed in Report (NCV)  
+ 
+Failure to Demonstrate Qualification of Containment High Radiation Monitor Door Gasket  
+ 
+NRC inspectors identified an ITAAC finding and associated NCV of 10 CFR 50.49.e(5) for the failure to 
+establish the qualified life of the Containment High Range Monitor (CHRM) door gasket in accordance with 
+Institute of Electrical and Electronics Engineers Standard (IEEE) 323-1974. The licensee entered this issue 
+into its CAP as CR 50096896 and CAP-IR-2021-6870 and is working on corrective actions to address the 
+issue.  
+ 
+The performance deficiency was determined to be more than minor, and thus a finding, because it 
+represented an adverse condition that rendered the quality of a system, structure, or component (SSC), 
+unacceptable or indeterminate, and required substantive corrective action. The inspectors determined that 
+the finding was of very low safety significance because the finding was not associated with a system or 
+structure in risk importance table. The inspectors determined the finding was associated with the cross -
+cutting aspect of “Consistent Process” in the area of Human Performance. Specifically,  the licensee failed 
+to use a consistent, systematic approach to make decisions whether the AP1000 harsh environment 
+included wetted environments. 
+ 
+Identified By: NRC  
+Identification Date: 07/9/2021  
+Significance: Green 
+Item Type:  ITAAC Finding 
+Report: Vogtle Electric Generating Plant, Units 3 And 4 - NRC Initial Test Program and Operational 
+Programs Integrated Inspection Reports 05200025/2021005, 05200026/2021005  
+Item Number: 05200025/2021005-05 
+Note: Closed in Report (NCV)  
+ 
+Failure to Qualify EPAs in Accordance with IEEE 317 
+ 
+NRC identified an ITAAC finding and associated violation of 10 CFR 50, Appendix B, Criterion III, for the 
+failure to seismically or environmentally qualify the Electrical Penetration Assemblies (EPAs) in accordance 
+with IEEE 317, Section 6.2.10. Specifically, the licensee failed to test or analyze the as installed assembly 
+including cable configurations, terminations, termination box, raceways, and their respective interactions. 
+The licensee entered this issue into its CAP as CR 50104476 and is working on corrective actions to 
+address the issue. 
+ 
+The performance deficiency was determined to be more than minor, and thus a finding, because it 
+represented an adverse condition that rendered the quality of an SSC unacceptable or indeterminate and 
+required substantive corrective action. The inspectors determined the finding was of very low safety 
+significance because the licensee was able to show through additional analysis that the finding did not 
+impact a design function of the EPAs. The inspectors determined the finding was associated with the cross -
+cutting aspect of “Change Management” in the area of Human Performance. Specifically, the licensee 
+leadership failed to use a systematic process for evaluating and implementing changes to as installed 
+SSCs compared to configurations that were environmentally qualified so that nuclear safety remained the 
+overriding priority. 
+ 
+Identified By: NRC 
+Identification Date: 12/31/2017 
+Significance: Green 
+Item Type:  Construction Finding 
+ 
+The inspectors identified a construction finding of very low safety significance (Green) for the licensee’s 
+failure to include accurate parameters in the ODCM for the calculation of offsite radiation doses due to 
+routine gaseous effluent releases. Specifically, the ODCM contained long-term atmospheric dispersion 
+factors that were less representative of current meteorological conditions and less conservative than 
+those used in the UFSAR and ESP to demonstrate compliance with 10 CFR 20 and 10 CFR 50,  
+Appendix I. The licensee documented this issue in CR 10437502 and has planned corrective actions 
+including re- evaluation of the dispersion values contained in the ODCM by an independent subject 
+matter expert. 
+ 
+The finding was of more than minor significance because it was associated with the Operational 
+Readiness Cornerstone, Program Effectiveness Attribute of Process and Effluent Monitoring, and 
+adversely affected the associated cornerstone objective to ensure licensees adequately develop and 
+implement the operational programs required by a license condition or regulation. The finding has a 
+cross-cutting aspect in the area of Human Performance, Conservative Bias [H.14], because the 
+dispersion parameters incorporated into the ODCM were less conservative than the ones used in the 
+approved licensing basis documents (3P02). The finding is not greater than Green because the finding 
+is not an omission of the ODCM’s critical attributes. 
+Violations Identified Prior to 2012 
+Significance:  Severity Level IV, August 18, 2011 
+Identified by: NRC 
+Item Type: Violation 
+ 
+Failure to Assure That Material Qualification Testing Associated With The Waterproof 
+System Simulated Field Conditions. 
+ 
+Based on the review of documentation and the observation of installation practices associated with site- 
+specific (SS) ITAAC 3.8.5.1.1, the inspectors identified several examples where Southern Nuclear 
+Operating Company, Inc (SNC) failed to simulate field conditions during qualification testing of the 
+waterproof system. This issue was determined to be an ITAAC- related construction finding and a severity 
+leveI (SL) IV violation of Criterion III, “Design Control,” of Appendix B, “Quality Assurance Program 
+Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to Title 10 of the  Code of Federal 
+Regulations (10 CFR) Part 50, “Domestic Licensing of Production and Utilization Facilities.” 
+ 
+Inspection Report #:  05200025/2011009 
+ 
+Significance:  Severity Level IV, December 31, 2010 
+Identified by: NRC 
+Item Type: Violation 
+ 
+Failure To Assure That Purchased Services Conform To Procurement Documents  
+ 
+During the review of records and the observation of a sample of pre-construction activities that could 
+affect the quality of the safety-related containment vessel (CV), the inspectors identified several 
+examples where Southern Nuclear Operating Company, Inc (SNC) failed to assure that safety -related 
+services purchased through their contractor and subcontractor conformed to the CV procurement 
+documents. This issue was determined to be a construction finding and a Severity Level IV Violation of 
+Criterion VII, “Control of Purchased Material, Equipment, and Services,” of Appendix B, “Quality 
+Assurance Program Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to Title 10 of  the 
+Code of Federal Regulations (10 CFR) Part 50, “Domestic Licensing of Production and Utilization 
+Facilities,” for SNC’s failure to assure that activities which could affect the quality of the safety -related 
+containment vessel for Vogtle Unit 3, conformed to the procurement documents. 
+ 
+Inspection Report #:  05200011/2010-008; 05200025/2010-002; 05200026/2010-001 
+Significance:  Severity Level IV, March 6, 2009 
+Identified by: NRC 
+Item Type: Violation 
+ 
+10 CFR Part 21 and 10 CFR 50.55(e) Procedure and Implementation 
+ 
+The NRC inspectors issued Violations 05200025/2009-201-01 and 05200026/2009-201-01 as a result of 
+SNC ND failure to: (1) accurately reflect the correct definitions of 10 CFR Part 21, (2) address all the 
+requirements of 10 CFR 50.55(e), and (3) use the correct terminology throughout the procedure. 
+Inspection Report #:  05200025/2009-201; 05200026/2009-201-01 
+ 
+Significance:  Severity Level IV, March 6, 2009 
+Identified by: NRC 
+Item Type: Violation 
+ 
+Corrective Action Program 
+ 
+The NRC inspectors issued Violations 05200025/2009-201-02 and 05200026/2009-201-02 because SNC 
+ND NMP-GM-002 does not include guidance to screen new condition reports for potential 10 CFR Part 21 
+applicability and does not provide a clear link to the SNC ND 10 CFR Part 21 Procedure (ND-ARL-017). 
+Inspection Report #:  05200025/2009-201; 05200026/2009-201-01 

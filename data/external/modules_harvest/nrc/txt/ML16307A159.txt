@@ -1,0 +1,1374 @@
+ 
+ 
+ 
+ 
+ 
+November 14, 2016 
+ 
+Steve Hamilton, Senior Vice President 
+Quality, Environment, Health & Safety 
+Westinghouse Electric Company 
+1000 Westinghouse Drive 
+Cranberry Township, PA 16066 
+ 
+SUBJECT: NUCLEAR REGULATORY COMMISSION VENDOR INSPECTION OF 
+WESTINGHOUSE ELECTRIC COMPANY LLC, CRANBERRY TOWNSHIP, 
+REPORT NO. 99900404/2016-204 and NOTICE OF NONCONFORMANCE 
+ 
+Dear Mr. Hamilton: 
+ 
+On September 26 through 30, 2016, the U.S. Nuclear Regulatory Commission (NRC) staff 
+conducted an inspection at the Westinghouse Electric Company (here-after referred to as WEC) 
+facility in Cranberry Township, PA.  The purpose of this limited-scope inspection was to assess 
+WEC’s compliance with the provisions of selected portions of Appendix B, “Quality Assurance 
+Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of 
+Federal Regulations (10 CFR) Part 50, “Domestic Licensing of Production and Utilization 
+Facilities,” and 10 CFR Part 21, “Reporting of Defects and Noncompliance.” 
+ 
+This technically focused inspection specifically evaluated WEC’s implementation of quality 
+activities associated with corrective actions, oversight of suppliers, procurement document 
+control, and design control.  S pecifically, the scope of the quality activities inspected included 
+WEC’s corrective actions to the January 2015 quality assurance (QA) vendor inspection (NRC 
+Inspection Report No. 99900404/2015-202 dated April 24, 2015) and design control topics 
+related to the AP1000 plant design.  The enclosed report presents the results of the inspection.  
+This NRC inspection report does not constitute NRC endorsement of WEC’s overall QA or 10 
+CFR Part 21 programs. 
+ 
+Based on the results of this inspection, the NRC staff determined that the implementation of your 
+QA program failed to meet certain NRC requirements imposed on you by your customers.  
+Specifically, 1) WEC failed to promptly identify and correct a condition adverse to quality that 
+could potentially affect regulatory compliance and/or nuclear safety when WEC determined that 
+the design of safety-related valves for the AP1000 did not comply with ASME Section XI, and            
+2) WEC failed to apply adequate design control measures to ensure that accessibility for 
+inservice inspection was provided for AP1000 safety-related valves. 
+ 
+The enclosed Notice of Nonconformance ci tes these nonconformances, and the enclosed 
+report describes the circumstances surrounding them.  In re sponse to the enclosed Notice of 
+Nonconformance, please provide a written statement or explanation within 30 days from the 
+date of this letter in accordance with the instructions specified in the enclosed Notice of 
+Nonconformance.  The NRC will consider extending the response time if you show good cause 
+to do so.  
+S. Hamilton - 2 - 
+ 
+In accordance with 10 CFR 2.390 of the NRC's "Rules of Practice," a copy of this letter, its 
+enclosure(s), and your response will be made available electronically for public inspection in the 
+NRC Public Document Room or from the NRC’s Agencywide Documents Access and 
+Management System (ADAMS), accessible at http://www.nrc.gov/reading-rm/adams.html.  To 
+the extent possible, your response, (if applicable), should not include any personal privacy, 
+proprietary, or safeguards information so that it can be made available to the Public without 
+redaction.  If personal privacy or proprietary information is necessary to provide an acceptable 
+response, then please provide a bracketed copy of your response that identifies the information 
+that should be protected and a redacted copy of your response that deletes such information.  If 
+you request that such material is withheld from public disclosure, you must specifically identify 
+the portions of your response that you seek to have withheld and provide in detail the bases for 
+your claim (e.g., explain why the disclosure of information will create an unwarranted invasion of 
+personal privacy or provide the information required by 10 CFR 2.390(b) to support a request for 
+withholding confidential commercial or financial information). 
+ 
+ 
+Sincerely, 
+ 
+ 
+ 
+ 
+Kerri Kavanagh, Chief /RA Paul Prescott acting for/ 
+Quality Assurance Vendor Inspection Branch-3 
+Division of Construction Inspection 
+  & Operational Programs 
+Office of New Reactors 
+ 
+Docket No.:  99900404 
+ 
+Enclosures: 
+1. Notice of Nonconformance 
+2. Inspection Report No. 99900404/2016-204 
+  and Attachment 
+S. Hamilton - 2 - 
+ 
+In accordance with 10 CFR 2.390 of the NRC's "Rules of Practice," a copy of this letter, its 
+enclosure(s), and your response will be made available electronically for public inspection in the 
+NRC Public Document Room or from the NRC’s Agencywide Documents Access and 
+Management System (ADAMS), accessible at http://www.nrc.gov/reading-rm/adams.html.  To 
+the extent possible, your response, (if applicable), should not include any personal privacy, 
+proprietary, or safeguards information so that it can be made available to the Public without 
+redaction.  If personal privacy or proprietary information is necessary to provide an acceptable 
+response, then please provide a bracketed copy of your response that identifies the information 
+that should be protected and a redacted copy of your response that deletes such information.  If 
+you request that such material is withheld from public disclosure, you must specifically identify 
+the portions of your response that you seek to have withheld and provide in detail the bases for 
+your claim (e.g., explain why the disclosure of information will create an unwarranted invasion of 
+personal privacy or provide the information required by 10 CFR 2.390(b) to support a request for 
+withholding confidential commercial or financial information). 
+ 
+ 
+Sincerely, 
+ 
+ 
+ 
+Kerri Kavanagh, Chief /RA Paul Prescott acting for/ 
+Quality Assurance Vendor Inspection Branch-3 
+Division of Construction Inspection 
+  & Operational Programs 
+Office of New Reactors 
+ 
+Docket No.:  99900404 
+  
+Enclosures: 
+1. Notice of Nonconformance 
+2. Inspection Report No. 99900404/2016-204 
+  and Attachment 
+ 
+DISTRIBUTION: 
+hamiltsk@westinghouse.com 
+wesselrp@westinghouse.com 
+ASakadales 
+RMusser 
+MMitchell 
+TLupold 
+KKavanagh 
+AP1000 Contacts 
+ 
+ADAMS Accession No:  ML16307A159  *Concurred via e-mail  NRO-002 
+OFC NRO/DCIP/QVIB-3 NRO/DCIP/QVIB-2 NRO/DCIP/QVIB-1 NRO/DCIP/QVIB-3 
+NAME JHeath JOrtega* JJimenez* KKavanagh (PPrescott 
+for) 
+DATE 11/4/2016 11/7/2016 11/10/2016 11/14/2016 
+OFC NRO/DEIA/MEB NRO/DEIA/MCB NRO/DCIP/OIE RII/DCI/CIB3 
+NAME TLe* SDowney* ABelen* TSteadham* 
+DATE 11/4/2016 11/7/2016 11/9/2016 11/7/2016 
+OFFICIAL RECORD COPY
+ 
+Enclosure 
+NOTICE OF NONCONFORMANCE 
+ 
+Westinghouse Electric Company       
+Cranberry, PA 
+Docket No. 99900404 
+ 
+Based on the results of a Nuclear Regulatory Commission (NRC) inspection conducted at 
+Westinghouse Electric Company (WEC) located in Cranberry Township, PA from September 26 
+through September 30, 2016, certain activities were not conducted in accordance with NRC 
+requirements which were contractually imposed on WEC by NRC licensees. 
+ 
+A. Criterion XVI, “Corrective Action,” of Appendix B, “Quality Assurance Criteria for Nuclear 
+Power Plants and Fuel Reprocessing Plants,” to Title 10 of the Code of Federal 
+Regulations (10 CFR) Part 50, “Domestic Licensing of Production and Utilization 
+Facilities,” states, in part, that “Measures shall be established to assure that conditions 
+adverse to quality, such as failures, malfunctions, deficiencies, deviations, defective 
+material and equipment, and nonconformances are promptly identified and corrected.”  
+ 
+WEC procedure WEC 16.2, “Corrective Action Process,” states, in part, that “Corrective 
+Action Process (CAP) Issue Reports should be created promptly whenever a 
+Westinghouse employee or contract employee becomes aware of an event or condition 
+that could potentially affect regulatory compliance and/or nuclear safety.”  
+ 
+Contrary to the above, as of February 18, 2016, WEC failed to ensure that a condition 
+adverse to quality was promptly identified and corrected that could potentially affect 
+regulatory compliance and/or nuclear safety.  Specifically, WEC determined that the 
+design of a population of safety-related AP1000 valves procured for Vogtle and V.C. 
+Summer construction sites were not designed so that access is provided to perform the 
+examinations required by American Society of Mechanical Engineers (ASME) Boiler and 
+Pressure Vessel Code, Section XI, “Rules for Inservice Inspection of Nuclear Power 
+Plant Components.”   The AP1000 valves impacted by this issue were procured between 
+June 2009 and December 2010.  However, despite identifying this inspectability issue as 
+early as January 2011, WEC did not enter the issue into its corrective action program 
+until February 2016.   
+ 
+These issues have been identified as Nonconformance 99900404/2016-204-01. 
+ 
+B. Criterion III, “Design Control,” of Appendix B, “Quality Assurance Criteria for Nuclear 
+Power Plants and Fuel Reprocessing Plants,” to 10 CFR Part 50, “Domestic Licensing of 
+Production and Utilization Facilities,” states, in part, that “Design control measures shall 
+be applied to items such as the following (… ) accessibility for inservice inspection, 
+maintenance, and repair.”  
+ 
+WEC design specifications APP-PV01-Z0-001, APP-PV03-Z0-001, APP-PV14-Z0-001, 
+APP-PV20-Z0-001, and APP-PV63-Z0-001 require that safety-related valves supplied 
+for service in the AP1000 plant be designed for inspection in accordance with the ASME 
+Section XI. 
+  
+ 
+- 2 - 
+ 
+Contrary to the above, as of September 30, 2016, WEC failed to apply adequate design 
+control measures to ensure that accessibility for inservice inspection was provided for 
+safety-related valves procured and shipped to the Vogtle and V.C. Summer construction 
+sites.  Specifically, WEC AP1000 design specifications permit the applicable safety-
+related valves to be designed and fabricated in a manner that does not provide access 
+to perform the examinations as required by ASME Section XI.  The AP1000 valve 
+designs result in valve-to-pipe weld configurations in which the achievable ultrasonic 
+examination volume is significantly less than the required examination volume as 
+required by the ASME Code.  
+ 
+These issues have been identified as Nonconformance 99900404/2016-204-02. 
+ 
+Please provide a written statement or explanation to the U.S. Nuclear Regulatory Commission, 
+ATTN:  Document Control Desk, Washington, DC 20555-0001 with a copy to the Chief, Quality 
+Assurance Vendor Inspection Branch 3, Division of Construction, Inspection and Operational 
+Programs, Office of New Reactors, within 30 days of the date of the letter transmitting this 
+Notice of Nonconformance.  This reply should be clearly marked as a "Reply to a Notice of 
+Nonconformance” and should include for each noncompliance:  (1) the reason for the 
+noncompliance, or if contested, the basis for disputing the noncompliance; (2) the corrective 
+steps that have been taken and the results achieved; (3) the corrective steps that will be taken 
+to avoid noncompliances; and (4) the date when your corrective action will be completed.  
+Where good cause is shown, consideration will be given to extending the response time. 
+ 
+Because your response will be made available electronically for public inspection in the NRC 
+Public Document Room or from the NRC’s Agencywide Documents Access and Management 
+System (ADAMS), accessible from the NRC Web site at http://www.nrc.gov/reading-
+rm/adams.html, to the extent possible, it should not include any personal privacy, proprietary, or 
+safeguards information so that it can be made available to the public without redaction.  If 
+personal privacy or proprietary information is necessary to provide an acceptable response, 
+then please provide a bracketed copy of your response that identifies the information that should 
+be protected and a redacted copy of your response that deletes such information. 
+ 
+If you request withholding of such material, you must specifically identify the portions of your 
+response that you seek to have withheld and provide in detail the bases for your claim of 
+withholding (e.g., explain why the disclosure of information will create an unwarranted invasion 
+of personal privacy or provide the information required by 10 CFR 2.390(b) to support a request 
+for withholding confidential commercial or financial information).  If safeguards information is 
+necessary to provide an acceptable response, please provide the level of protection described 
+in 10 CFR 73.21. 
+ 
+If you choose to respond, your response will be made available electronically for public 
+inspection in the NRC Public Document Room or from ADAMS, accessible from the NRC Web 
+site at http://www.nrc.gov/reading-rm/adams.html.  To the extent possible, it should not include 
+any personal privacy, proprietary, or safeguards information so that it can be made available to 
+the public without redaction.  If personal privac y or proprietary information is necessary to 
+provide an acceptable response, then please provide a bracketed copy of your response that  
+identifies the information that should be protected and a redacted copy of your response that  
+ 
+ 
+- 3 - 
+ 
+deletes such information.  If you request withholding of such material, you must specifically 
+identify the portions of your response that you seek to have withheld and provide in detail the 
+bases for your claim of withholding (e.g., explain why the disclosure of information will create an 
+unwarranted invasion of personal privacy or provide the information required by 
+10 CFR 2.390(b) to support a request for withholding confidential commercial or financial 
+information).  If safeguards information is necessary to provide an acceptable response, please 
+provide the level of protection described in 10 CFR 73.21.”Protection of Safeguards Information: 
+Performance Requirements.” 
+ 
+Dated this 14th day of November 2016. 
+ 
+ 
+ 
+Enclosure 2 
+U.S. NUCLEAR REGULATORY COMMISSION 
+OFFICE OF NEW REACTORS 
+DIVISION OF CONSTRUCTION INSPECTION & OPERATIONAL PROGRAMS 
+VENDOR IMPLEMENTATION INSPECTION REPORT 
+ 
+Docket No.:   99900404 
+ 
+Report No.:   99900404/2016-204 
+ 
+Vendor:   Westinghouse Electric Company  
+    Cranberry Township, PA 
+ 
+Vendor Contact:  Mr. Ronald Wessel 
+    wesselrp@westinghouse.com 
+    412-374-4023 
+ 
+Nuclear Industry Activity: Westinghouse Electric Company (WEC) holds a design certificate 
+for the AP1000 plant design and is responsible for detailed design 
+and testing of safety-related components to be used in AP1000 
+plants.  These qualification and functional tests are associated 
+with and may directly affect closure of Inspections, Tests, 
+Analyses, and Acceptance Criteria (ITAAC) from Revision 19 of 
+the certified AP1000 design.  Currently, these ITAAC are 
+incorporated into the combined licenses of Vogtle Units 3 and 4 
+and V.C. Summer Units 2 and 3. 
+ 
+Inspection Dates:  September 26 - 30, 2016 
+ 
+Inspectors:   Jermaine Heath, Team Leader, NRO/DCIP/QVIB-3 
+Jonathan Ortega, NRO/DCIP/QVIB-2 
+Jose Jimenez, NRO/DCIP/QVIB-1 
+Steven Downey, NRO/DEIA/MCB 
+Tuan Le, NRO/DEIA/MEB 
+Timothy Steadham, R-II/DCI/CIB3 
+ 
+Approved by:   Kerri Kavanagh, Branch Chief 
+Quality Assurance Vendor Inspection Branch-3  
+Division of Construction Inspection 
+  & Operational Programs 
+Office of New Reactors
+ 
+ 
+- 2 - 
+EXECUTIVE SUMMARY 
+ 
+Westinghouse Electric Company 
+Inspection Report No. 99900404/2016-204 
+ 
+The U.S. Nuclear Regulatory Commission (NRC) staff conducted an announced, routine 
+inspection at Westinghouse Electric Company (WEC), in Cranberry, Township, PA, from 
+September 26 through 30, 2016.  The purpose of the inspection was to review the 
+implementation of the WEC Quality Assurance (QA) program pursuant to Appendix B, “Quality 
+Assurance Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to Title 10 of the 
+Code of Federal Regulations (10 CFR) Part 50, “Domestic Licensing of Production and 
+Utilization Facilities,” and 10 CFR Part 21, “Reporting of Defects and Noncompliance.” 
+ 
+This technically focused inspection evaluated WEC’s implementation of quality activities 
+associated with safety-related systems, structures, and components to determine if those 
+activities were being effectively implemented.  Specifically, the NRC inspection team evaluated 
+WEC’s implementation of its corrective action program, which included corrective actions taken 
+in response to the NRC QA inspection conducted in January 2015 (Agencywide Documents 
+Access and Management System (ADAMS) Accession Number ML15070A213).  The NRC 
+inspection team also evaluated the WEC QA program as it applies to selected AP1000-related 
+design control topics which included American Society of Mechanical Engineers (ASME) 
+Section III, “Rules for Construction of Nuclear Facility Components;” design compliance for the 
+reactor vessel and pressurizer, design for inspectability for AP1000 valves; corrective actions 
+taken in response to AP1000 embedment plates supplied by Cives Steel Co. and Joseph Oat 
+Corp.
+; and corrective actions taken in response to a 2012 NRC QA inspection Finding 
+associated with AP1000 Squib Valve equipment qualification (ADAMS Accession Number 
+ML12128A072).  
+ 
+The following regulations serve as the bases for the NRC inspection: 
+ 
+• Appendix B to 10 CFR Part 50 
+• 10 CFR Part 21 
+ 
+During conduct of this inspection, the NRC inspection team implemented inspection procedure 
+(IP) 43002, “Routine Inspections of Nuclear Vendors,” supplemented by IP 36100, “Inspection of 
+10 CFR Part 21 and Programs for Reporting Defects and Noncompliance," and IP 43004, 
+“Inspection of Commercial-Grade Dedication Programs.” 
+ 
+The results of the inspection are summarized below. 
+ 
+ 
+- 3 - 
+10 CFR Part 21 Program 
+ 
+Based on the limited samples of documents reviewed, the NRC inspection team determined that 
+WEC is implementing its 10 CFR Part 21 program for evaluating deviations and reporting 
+defects that could create a substantial safety hazard in accordance with regulatory 
+requirements.  No findings of significance were identified. 
+ 
+Design Control 
+ 
+The NRC inspection team issued Notice of Nonconformance (NON) 99900404/2016-204-01 in 
+association with WEC's failure to implement the regulatory requirements of Criterion XVI, 
+“Corrective Actions,” of Appendix B to 10 CFR Part 50.  NON 99900404/2016-204-01 cites 
+WEC for failure ensure that a condition adverse to quality was promptly identified and corrected 
+that could potentially affect regulatory compliance and/or nuclear safety.  Specifically, WEC 
+determined, as late as January 2011, that the design of safety-related AP1000 valves procured 
+for Vogtle and V.C. Summer construction sites did not comply with the accessibility 
+requirements of ASME Section XI for the inservice inspectability of applicable safety-related 
+valves, but did not enter the issue into its corrective action program until February 2016.   
+ 
+The NRC inspection team also issued NON 99900404/2016-204-02 in association with WEC's 
+failure to implement the regulatory requirements of Criterion III, “Design Control,” of Appendix B 
+to 10 CFR Part 50.  NON 99900404/2016-204-02 cites WEC for failure to apply adequate 
+design control measures to ensure that accessibility for inservice inspection was provided for 
+safety-related valves procured for and shipped to the Vogtle and V.C. Summer construction 
+sites.  Specifically, WEC's AP1000 design specifications permitted the applicable safety-related 
+valves to be designed and fabricated in a manner that does not provide access to perform the 
+examinations as required by ASME Section XI. 
+ 
+Corrective Action 
+ 
+The documentation reviewed by the NRC inspection team showed that corrective actions 
+described by WEC in its response letter to NRC inspection report 99900404/2015-202, dated                 
+April 14, 2015 (ADAMS Accession Number ML15070A213) adequately addressed the issues 
+described in the NONs.  However, at the time of the inspection, corrective actions related to 
+these NONs were still outstanding.  Consequently, the NRC inspection team could not 
+adequately evaluate and close the NONs until WEC completes all corrective actions relating to 
+these issues. Therefore, NONs 99900404/2015-202-01, 99900404/2015-202-02, and 
+99900404/2015-202-03 will remain OPEN and may be reviewed for closure at a future NRC 
+inspection. 
+ 
+The NRC inspectors reviewed corrective actions associated with NON 99900404/2012-201-01, 
+issued for inadequate testing relating to AP1000 squib valves.  The NRC inspection team 
+determined that the corrective actions implemented were adequate to address the         
+identified NON.  Based on the inspectors’ review, NON 99900404/2012-201-01 is CLOSED. 
+ 
+ 
+ 
+ 
+ 
+- 4 - 
+ 
+ 
+REPORT DETAILS 
+ 
+1. 10 CFR Part 21 Program 
+ 
+a. Inspection Scope 
+ 
+The NRC inspection team reviewed the policies and implementing procedures that 
+govern Westinghouse Electric Company's (WEC’s) implementation of 10 CFR Part 21, 
+“Reporting of Defects and Noncompliance” program.  The NRC inspection team 
+reviewed a sample of WEC’s 10 CFR Part 21 evaluations from the last two years to 
+verify compliance with the requirements of 10 CFR 21.21, “Notification of Failure to 
+Comply or Existence of a Defect and its Evaluation.”  Additionally, the team reviewed a 
+sample of purchase orders (POs) issued by WEC for of safety-related materials, 
+services and equipment to verify compliance with the requirements of 10 CFR 21.31, 
+“Procurement Documents.”  The NRC inspection team also reviewed WEC’s procedures 
+that govern corrective action and nonconforming conditions to verify adequate 
+implementation of the regulatory requirements to identify and correct conditions adverse 
+to quality. 
+ 
+The attachment to this inspection report lists the individuals interviewed and documents 
+reviewed by the NRC inspection team. 
+ 
+b. Observations and Findings 
+ 
+No findings of significance were identified. 
+ 
+c. Conclusions 
+ 
+Based on the review of WEC’s 10 CFR Part 21 program, implementing procedures, and 
+a sample of 10 CFR Part 21 evaluations, the NRC inspection team determined that 
+WEC’s process met regulatory requirements.  No findings of significance were identified. 
+ 
+2. Design Control 
+ 
+AP1000 ASME III Design Compliance for Reactor Vessel and Pressurizer  
+ 
+a. Inspection Scope 
+ 
+The NRC inspection team reviewed AP1000 generic design assessment (GDA) review 
+GI-AP1000-S05.  The GDA identified WEC calculation packages which contained a 
+number of American Society of Mechanical Engineers (ASME) Section III code 
+compliance issues related to the stress calculations for the AP1000 reactor vessel (RV) 
+and pressurizer (PZR). 
+ 
+ 
+ 
+- 5 - 
+The NRC inspection team reviewed WEC's corrective actions documented in Apparent 
+Cause Analysis Report (ACAR) Issue 100382797 which covered WEC’s demonstration 
+of ASME Section III compliance for the AP1000) for the AP1000 RV and PZR.  The NRC 
+inspection team sampled WEC’s calculation packages and design reports for the 
+components, and reviewed WEC’s extent of condition relative to the issue. 
+ 
+The attachment to this inspection report lists the individuals interviewed and documents 
+reviewed by the NRC inspection team. 
+ 
+b. Observations and Findings 
+The NRC inspection team found that WEC’s ACAR evaluation and corrective actions 
+were acceptable to address the plant-specific risk consequences, and concerns 
+associated with the ASME code compliance issues relating to the stress calculations for 
+the AP1000 RV and PZR. 
+ 
+For the RV, the NRC inspection team found that WEC’s updated stress calculations for 
+the RV and PZR resulted in a reduction in margin for some stress results and fatigue 
+cumulative usage factors (CUFs); however, these results were still within the ASME 
+code allowable stress and allowable CUFs limits.  At the time of the inspection, stress 
+calculations for the PZR, and other “extent-of-condition” major components (steam 
+generator (SG), accumulator tank (ACC), core make-up Tank (CMT) and post residual 
+heat removal exchanger (PRHR HX) were still in the update and verification process.  
+The NRC inspection team also noted that WEC currently has corrective actions in 
+process to develop an ASME code compliance checklist to aid in its design verification 
+processes for the AP1000 plant design. 
+ 
+No findings of significance were identified regarding ASME III design compliance for the 
+AP1000 RV and PZR. 
+ 
+c. Conclusions 
+The NRC inspection team determined that WEC is implementing its design control 
+processes pertaining to ASME Section III design compliance for the AP1000 major 
+components, in accordance with the requirements of Criterion III in Appendix B to 10 
+CFR Part 50. No findings of significance were identified. 
+ 
+Design for Inspectability (AP1000 Valves) 
+ 
+a. Inspection Scope 
+The NRC inspection team reviewed WEC engineering design documents, evaluations, 
+and implementing procedures that govern design for inspectability for AP1000 valves in 
+order to verify compliance with ASME Section XI, and the requirements of Appendix B to 
+10 CFR Part 50. 
+ 
+The attachment to the inspection report lists the individuals interviewed and documents 
+reviewed. 
+ 
+ 
+- 6 - 
+ 
+ 
+b. Observations and Findings 
+ 
+b.1 Corrective Action 
+ 
+The NRC inspection team reviewed WEC Corrective Action Prevention and Learning 
+(CAPAL) 100361717, “Preservice Inspection/Inservice Inspection Inspectability for 
+AP1000 Component to Pipe Welds.”  While reviewing the CAPAL and timeline of events, 
+the NRC inspection team made two observations.  First, the NRC inspection team 
+observed that the timeline of events indicated that the valve inspectability issue was 
+identified as early as January 2011.  Second, CAPAL 100361717 was issued in 
+February 2016.  During subsequent discussions with WEC staff relating to the 
+documents provided, the NRC inspection team verified that the valve inspectability issue 
+was identified as early as January 2011.  However, the NRC inspection team identified 
+that the issue was not entered into WEC’s corrective action program until CAPAL 
+100361717 was issued in February 2016. 
+ 
+The NRC inspection team reviewed the revisions of WEC 16.2, “Westinghouse 
+Corrective Action Process,” that were in effect between 2008 and 2011 to determine the 
+requirements for entering issues into WEC's corrective action program.  The NRC 
+inspection team found that, in all cases, WEC 16.2 states, in part, that, "Corrective 
+Action Process (CAPs) Issue Reports should be created promptly (generally within one 
+business day) whenever a Westinghouse employee or contract employee becomes 
+aware of an event or condition that that could potentially affect regulatory compliance 
+and/or nuclear safety."  As a result, the NRC inspection team determined that WEC’s 
+failure to promptly enter the valve inspectability issue into its corrective action program 
+was not in accordance with WEC 16.2. 
+ 
+The NRC inspection team identified this corrective action issue as                                            
+NON 99900404/2016-204-01 for failure to ensure that a condition adverse to quality was 
+promptly identified and corrected that could potentially affect regulatory compliance 
+and/or nuclear safety. 
+ 
+b.2. Design Control 
+ 
+The NRC inspection team reviewed the POs for the AP1000 valve types impacted by the 
+inspectability issue.  The NRC inspection team found that the impacted valves were 
+procured for the Vogtle and V.C. Summer construction sites in accordance with WEC 
+design specifications between June 2009 and December 2010. 
+ 
+The NRC inspection team reviewed the WEC AP1000 design specification for each 
+valve type impacted by the inspectability issue.  These WEC AP1000 valve design 
+specifications established and imposed the requirements for safety-related, ASME Boiler 
+and Pressure Vessel Code Section III, Subsection NB, NC and ND, Class 1, 2 and 3 
+valves.  Per the design specifications, the valves shall be designed for inspection in 
+accordance with the 1998 Edition through 2000 Addenda, of the ASME Boiler and 
+ 
+ 
+- 7 - 
+Pressure Vessel Code, Section XI, Rules for Inservice Inspection of Nuclear Power Plant 
+Components. 
+ 
+Contrary to these requirements, the NRC inspection team observed two instances in 
+which the AP1000 design specifications permit the applicable safety-related valves to be 
+designed and fabricated in a manner that does not provide access to perform the 
+examinations required by ASME Section XI. 
+ 
+The NRC inspection team observed that these design specifications allow the valve 
+supplier the option to provide the austenitic stainless steel valve body as a casting.  The 
+1998 Edition, 2000 Addenda, of ASME Section XI requires that the resulting valve-to-
+pipe weld be ultrasonically examined using procedures, equipment and personnel 
+qualified by performance demonstration in accordance with Appendix VIII of the Code.  
+However, there are currently no performance demonstration qualified methods to 
+ultrasonically examine cast austenitic stainless steel (CASS).  ASME Section XI 
+requirements for performance demonstration for ultrasonic examination procedures, 
+equipment, and personnel used to detect and size flaws in CASS piping (Appendix VIII, 
+Supplement 9) have not been developed and are listed as “in the course of preparation.” 
+Considering the limitations associated with the ultrasonic examination of CASS, the NRC 
+inspection team determined that the allowance of CASS valve bodies in the design 
+specifications does not comply with ASME Section XI because the use of CASS valve 
+bodies results in valve-to-pipe weld configurations that cannot be ultrasonically 
+examined in accordance with ASME Section XI.  Specifically, the achievable ultrasonic 
+examination volume is significantly less than the required examination volume. 
+ 
+The NRC inspection team discussed with WEC staff why the design specifications 
+permitted the use of CASS valve bodies given the known lack of qualified methods and 
+qualification requirements.  During the discussion, WEC staff indicated that CASS valve 
+bodies were allowed in design specifications because it was anticipated that the 
+qualification requirements for CASS components would soon be provided in the ASME 
+Code.  However, the NRC inspection team determined that, as of September 29, 2016, 
+ASME Section XI still identifies Appendix VIII, Supplement 9 as “in the course of 
+preparation.”  WEC staff stated their plans to continue to work with ASME to resolve this 
+issue. 
+ 
+During the review of the design specifications for the affected AP1000 valves, the NRC 
+inspection team also observed that all design specifications require that butt weld 
+connections be in accordance with WEC AP1000 weld end configuration drawing,  
+APP-GW-VFY-001, Revision 0 through 2, “AP1000 Weld End Configuration for Stainless 
+Steel, Carbon Steel, and Alloy Steel Auxiliary Piping Components.”  The NRC inspection 
+team reviewed the drawing and determined that it does not comply with ASME Section 
+XI because the allowable contour angles result in a valve body geometry that provides 
+only single sided access to perform ultrasonic testing. 
+ 
+The NRC inspection team also met with WEC staff to discuss the implementation of the 
+weld end configuration requirements by valve suppliers.  During this meeting, the NRC 
+inspection team reviewed design drawings showing the resulting weld end preparation 
+ 
+ 
+- 8 - 
+for various procured valves.  After reviewing the drawings, the NRC inspection team 
+observed that some valves were provided with a minimum (0-2 degrees) weld contour 
+while others were provided with a valve body contour closer to the allowable maximum 
+(18 degrees).  The NRC inspection team verified that the forged valves impacted by the 
+inspectability issue are those in which the valve body and associated weld contour is 
+maximized.  For the cast valves impacted by this issue, the NRC inspection team 
+verified that a CASS valve body with no contour would still be impacted by the 
+inspectability issue, but to a lesser degree than valves in which the valve body and 
+associated weld contour is maximized.  
+ 
+These deficiencies represent a condition adverse to quality that, if left uncorrected, could 
+become a more significant safety concern.  As described above, the impacted valves 
+were designed and fabricated such that access will not be provided to ultrasonically 
+examine the resulting valve-to-pipe welds in accordance with ASME Section XI. 
+Specifically, the volume of the valve-to-pipe welds that can be ultrasonically examined is 
+significantly less than the required examination volume.  Consequently, any flaws that 
+develop in the portion of the welds that cannot be examined may go undetected and 
+could render the quality of the systems, structures, and components unacceptable, or 
+indeterminate. 
+ 
+The NRC inspection team identified these design control issues as                            
+NON 99900404/2016-204-02 failure to apply adequate design control measures to 
+ensure that accessibility for inservice inspection was provided for safety-related ASME 
+Class 1, 2, and 3 valves.  
+ 
+c. Conclusions 
+ 
+The NRC inspection team issued NON 99900404/2016-204-01 in association with 
+WEC's failure to implement the regulatory requirements of Criterion XVI, “Corrective 
+Actions,” of Appendix B to 10 CFR Part 50.  NON 99900404/2016-204-01 cites WEC for 
+failure ensure that a condition adverse to quality was promptly identified and corrected 
+that could potentially affect regulatory compliance and/or nuclear safety.  Specifically, 
+WEC determined, as early as January 2011, that the design of safety-related valves 
+procured for Vogtle and V.C. Summer construction sites for the AP1000 did not comply 
+with the accessibility requirements of ASME Section XI for the inservice inspectability of 
+applicable safety-related valves, but did not enter the issue into its corrective action 
+program until February 2016.  
+ 
+The NRC inspection team also issued NON 99900404/2016-204-02 
+in association with WEC's failure to implement the regulatory requirements of  
+Criterion III, “Design Control,” of Appendix B to 10 CFR Part 50.  
+NON 99900404/2016-204-02 cites WEC for failure to apply adequate design control 
+measures to accessibility for inservice inspection of AP1000 safety-related valves.  
+Specifically, WEC AP1000 design specifications permitted the applicable valves to be 
+designed and fabricated in a manner that does not provide access to perform the 
+examinations required by ASME Section XI. 
+ 
+ 
+ 
+- 9 - 
+3. Corrective Action 
+ 
+a. Inspection Scope 
+ 
+The NRC inspection team reviewed WEC's policies and implementing procedures that 
+govern the corrective action program to verify compliance with the requirements of 
+Criterion XVI, “Corrective Action,” of Appendix B to 10 CFR Part 50.  Specifically, the 
+NRC inspection team evaluated the following items:  
+ 
+• WEC’s corrective actions for three nonconformances associated with NRC 
+inspection report number 99900404/2015-202, dated April 14, 2015 (ADAMS 
+Accession Number ML15070A213), to verify that actions described in WEC’s 
+response to the NONs (ADAMS Accession Number ML15146A097 and 
+ML15201A128) adequately addressed the findings. 
+ 
+• WEC's implementation of corrective actions associated with                           
+NON 99900404/2012-201-01, issued for inadequate testing relating to AP1000 
+squib valves, documented in inspection report 99900404/2012-201 (ADAMS 
+Accession Number ML12313A461), dated November 9, 2012. 
+ 
+• WEC's implementation of AP1000-rela ted corrective actions issued since 
+January 2015 to verify that conditions adverse to quality were promptly identified 
+and corrected, and for significant conditions adverse to quality, the CAPALs 
+specified the cause of these conditions and corrective actions to prevent 
+recurrence. 
+The attachment to this inspection report lists the individuals interviewed and documents 
+reviewed by the NRC inspection team. 
+ 
+b. Observations and Findings 
+ 
+b.1 Corrective Action Associated with NON 99900404/2015-202-01  
+ 
+NON 99900404/2015-202-01 (NON-1) was issued for WEC’s failure to verify, by 
+auditing, that activities affecting safety-related functions had been correctly 
+performed.  The NRC inspection team verified that WEC adequately addressed the 
+two examples cited for NON-1. 
+ 
+Example 1 of NON-1 identified WEC’s failure to take timely and effective corrective 
+actions to address significant conditions adverse to quality relating to the oversight of 
+suppliers and the inadequate use of the qualified supplier list.  The NRC inspection 
+team reviewed numerous CAPALs that were opened to address the two examples 
+cited in the NON. 
+ 
+The NRC inspection team verified that WEC had effectively completed the actions 
+described in the CAPALs.  The documents reviewed included a self-assessment of 
+WEC’s organization, effectiveness evaluation of the corrective action program, re-
+ 
+ 
+- 10 - 
+qualification of personnel, revision and consolidation of procedures, and the 
+institution of the Westinghouse Executive Corrective Action Review Board.  The NRC 
+inspection team reviewed the current approved procedures affected by this NON to 
+verify that these procedures contained the changes described by the corrective 
+actions and that any required training was properly completed. 
+ 
+Example two of NON-1 identified WEC’s failure to verify that its suppliers had 
+measures in place to assure that purchased material, equipment, and services 
+conformed to the procurement documents.  WEC decided to address corrective 
+actions for this example under the corrective actions for                                                   
+NON 99900404/2015-202-03 because these issues have overlapping aspects. 
+ 
+The NRC inspection team did not identify any issues of significance associated with 
+WEC’s corrective actions to NON-1; however, many of the corrective actions that 
+addressed the weaknesses pertaining to supplier oversight were addressed by WEC 
+under its response to Nonconformance 99900404/2015-202-03 (NON-3) cited 
+against Criterion VII, “Control of Purchased Materials.”  Therefore, NON-1 will remain 
+OPEN pending the adequate closure of NON-3. 
+ 
+b.2 Corrective Action Associated with NON 99900404/2015-202-02  
+ 
+NON 99900404/2015-202-02 (NON-2) was issued for WEC’s failure to establish 
+measures to assure that conditions adverse to quality were promptly corrected, and 
+for significant conditions adverse to quality, corrective actions were taken to 
+preclude repetition.  The NRC inspection team verified that WEC adequately 
+addressed three of the four examples cited for NON-2.  Specifically, the NRC 
+inspection team assessed the CAPALs opened to address the nonconformance 
+examples associated with the inadequate management oversight for the control of 
+suppliers (Example one), inadequate audit of suppliers (Example two), and 
+inadequate characterization of corrective actions for the condensate return system 
+(Example four).  Due the extent of the document review and limitations on time, the 
+NRC inspection team was unable to evaluate the CAPALs issued to address 
+Example three of NON-2 for deficiencies associated with WEC’s internal audit 
+program. 
+ 
+Based on the documents reviewed, the NRC inspection team did not identify any 
+issues of significance associated with WEC’s corrective actions to NON-2.  As noted 
+above, the NRC inspection team was unable to evaluate corrective actions 
+associated with Example three of the nonconformance, which was issued to 
+address weaknesses in WEC’s internal audit program, NON-2 will remain OPEN 
+until corrective actions associated with Example three can be verified. 
+ 
+ 
+b.3 Corrective Action Associated with NON 99900404/2015-202-03  
+ 
+The NRC inspection team verified that WEC adequately resolved NON 
+99900404/2015-202-03 (NON-3) for failure to verify that its suppliers had measures 
+ 
+ 
+- 11 - 
+in place to assure that purchased material, equipment, and services conform to the 
+procurement documents.  The NRC inspection team reviewed several CAPALs that 
+were opened to address both this and NON-1 since there were overlapping aspects 
+relating to selection of suppliers for both NONs.  NON-3 specifically addressed 
+deficiencies identified with the procurement of services from L&S Machine Company 
+LLC (L&S) and Peerless Manufacturing Company.  The NRC inspection team 
+verified that WEC had effectively completed the actions described in the CAPALs.  
+The documents reviewed included a self-assessment of the procurement process, 
+re-qualification of personnel, verification of current status as approved suppliers for 
+both L&S and Peerless, extent of condition for previously procured services, and 
+revision to procedures and external audits used to qualify or dedicate suppliers’ 
+services.  The NRC inspection team also reviewed the current approved supplier list, 
+sampled audits performed on some of these vendors, and interviewed procurement 
+personnel regarding the plan to streamline all of WECs procurement activities. 
+ 
+The NRC inspection team did not identify any issues of significance associated with 
+WEC’s corrective actions to NON-3.  At the time of this inspection, WEC was still in 
+the progress of performing an effectiveness review for NON-3 corrective actions.  
+Therefore, NON-3 will remain OPEN pending successful completion and verification 
+of WEC’s effectiveness review.  
+ 
+b.4 Corrective Action Associated with NON 99900404/2012-201-01 
+ 
+The NRC inspection team verified that WEC adequately resolved Nonconformance 
+99900404/2012-201-01 for failure to verify the adequacy of certain design features 
+and include the most adverse design conditions in the test program for performing 
+functional testing of the AP1000 squib valve actuators. 
+ 
+The inspectors reviewed WEC corrective actions which included revisions to 
+functional qualification reports and test plans for the affected squib valves and 
+determined that the “no fire” testing was performed for the squib valve actuators.  In 
+addition, as documented in NRC Inspection Report 99900905/2012-201 
+(ML12242A459), the NRC previously observed squib valve actuator testing including 
+performance of the “no fire” testing.  The NRC inspection team also verified that the 
+valve testing included the temperature of the most adverse design condition with 
+respect to operation of the valve.  Specifically, the original concern was that the valve 
+shear caps were not tested at room temperature where this would require more force 
+to operate the valves.  To address this concern, WEC included shear cap lot 
+acceptance testing into the squib valve qualification documentation where a sample 
+of shear caps from each lot were tested at room temperature.  Based on the review, 
+the NRC inspection team determined that the corrective actions implemented were 
+adequate to address the identified nonconformance.  Therefore, NON 
+99900404/2012-201-01 is CLOSED. 
+ 
+ 
+ 
+ 
+ 
+ 
+- 12 - 
+c. Conclusions  
+ 
+The documentation reviewed by the NRC inspection team showed that corrective 
+actions described by WEC in its response letter to NRC inspection report 
+99900404/2015-202, dated April 14, 2015 (ADAMS ML15070A213) adequately 
+addressed the issues described in the nonconformances.  However, at the time of 
+the inspection, corrective actions related to these nonconformances were still 
+outstanding.  Consequentially, the inspectors could not satisfactorily close the 
+Nonconformances until WEC completes all corrective actions relating to these 
+issues.  Therefore, NONs 99900404/2015-202-01, 99900404/2015-202-02, and 
+99900404/2015-202-03 will remain OPEN and may be reviewed for closure at a 
+future NRC inspection. 
+ 
+The NRC inspection team reviewed corrective actions associated with                            
+NON 99900404/2012-201-01 issued for inadequate testing relating to AP1000 squib 
+valves. The NRC inspection team determined that the corrective actions 
+implemented were adequate to address the identified NON.  Therefore, NON 
+99900404/2012-201-01 is CLOSED. 
+ 
+4. Entrance and Exit Meeting 
+ 
+On September 26, 2016, the NRC inspection team presented the inspection scope 
+during an entrance meeting with Mr. Steve Hamilton, Senior Vice President of Quality, 
+Environment, Health & Safety and WEC staff.  On September 30, 2016, the NRC 
+inspection team presented the inspection findings during an exit meeting with Mr. Ronnie 
+Gardner, Vice President of Global Quality Programs, and WEC staff.  The attachment to 
+this report lists the participants of the entrance and exit meeting attendees, and those 
+personnel interviewed by the NRC inspection team.
+ 
+ 
+- 1 - 
+ATTACHMENT 
+ 
+1. ENTRANCE/EXIT MEETING ATTENDEES AND KEY POINTS OF CONTACT 
+ 
+Name Title Affiliation Entrance Exit Interviewed
+Jermaine Heath Inspection Team Leader NRC X X  
+Jonathan Ortega-
+Luciano Inspector NRC X X  
+Jose Jiminez Inspector NRC X X  
+Tuan Le Inspector NRC X X  
+Steven Downey Inspector NRC X X  
+Tim Steadham Inspector NRC X X  
+Kerri Kavanagh Chief NRC  X  
+Brian Smith Deputy Director, DCIP NRC  X  
+Alan Edwards Inspector ONR X X  
+Jim Caul Inspector ONR X X  
+Steve Hamilton 
+Senior Vice President 
+Quality, Environment, 
+Health & Safety (QEHS) 
+WEC X   
+Sara DiTammaso Manager, ITAAC & 
+Inspection WEC X X  
+Ron Wessel Principal Engineer WEC  X  
+Paul Russ Director, US Licensing & 
+Regulatory Support WEC X   
+Mark Urso Manager ASME Engineering WEC X X  
+Ronnie Gardner VP, Global Quality 
+Programming  WEC X X  
+Shayan Sinhn Licensing Engineer WEC X X  
+Angela Zubroski Principal Quality Engineer, 
+Quality Programs WEC X   
+Michael 
+Stefanchik 
+Manager, Supplier Quality 
+Assessment  WEC X X X 
+Kevin Accornerd Principal Engineer WEC    
+Bernie Copsey 
+Director, Energy Center Of 
+Excellence Quality & 
+Process Improvement 
+WEC X X  
+David Arrigo Program Manager, Codes & 
+Stds WEC X X  
+Bradley Mustio Pricipal QA Engineer, UK 
+Moorside WEC X X  
+Donna Burns Manager, NP & MP  WEC X X  
+Lori Lubic Manager, Quality Programs WEC X X  
+Tara Werner Director, Quality Program & 
+Programs & Assessment WEC X X  
+Luca Oriani VP, New Plants Engineering WEC X X  
+ 
+ 
+ 
+ 
+- 2 - 
+ENTRANCE/EXIT MEETING ATTENDEES AND KEY POINTS OF CONTACT (CONT.) 
+ 
+Name Title Affiliation Entrance Exit Interviewed
+Doug Ezar Operations Lead WEC X X  
+Elise Hamilton Operations Manager WEC X   
+Mark Marsuter Director Procurement 
+Engineering WEC X   
+Mike Wilkie Director, Mechanical 
+Engineering WEC X  X 
+Zak Kupec QEHS Lead Screener WEC X   
+Amanda Hurley Manager, HU/Trend (V.C. 
+Summer) WEC X   
+Michal McCullogh Engineering Manager, 
+Vogtle Site WEC X   
+Kevin Kilmer Director, Global Inventory 
+Management WEC X X  
+Mathew Welborn Program Manager, OE/LL WEC X   
+Eric Rossi Manager, Product and Plant 
+Licensing  X   
+Donna Aiken-Colflesh CAP Action Program 
+Strategic Lead WEC X   
+Lidia Haddock  WEC  X  
+Heath Susini Project Manager, UK 
+Licensing WEC  X  
+Brian McIntyre Director, VC Summer 
+Licensing WEC  X  
+Adam Tamilia Procurement Engineer WEC  X  
+Mike Klinvex Licensing Engineer WEC X X  
+Rick Rishel Fellow Engineer  X X X 
+Remington Iddings Licensing Engineer WEC  X  
+Dave Varner VP/Chief Procurement 
+Officer WEC X   
+Nancy Closky Manager, Component 
+Technical Issues 
+WEC X X  
+Ted Anderen 
+Director, Component 
+Replacement and 
+Engineering 
+WEC 
+X X  
+Sean Halfhill Manager, MRCDA-II WEC  X  
+Angela Zubroski Principal Quality Engineer WEC  X  
+Mathew Welborn Program Manager, OE/LL WEC X   
+Zach Harper Licensing Manager WEC X  X 
+Jim Gresham Manager, Regulator 
+Compliance WEC X X  
+Anthony Schoedel Licensing Engineer WEC X X  
+Jennifer MeNeely Licensing Engineer WEC X X X 
+Timothy Northcott Manager, Global CAP WEC X X  
+ 
+ 
+- 3 - 
+ENTRANCE/EXIT MEETING ATTENDEES AND KEY POINTS OF CONTACT (CONT.) 
+ 
+Name Title Affiliation Entrance Exit Interviewed
+Ed Renaud Engineering manager, CGD, 
+Codes and Stds WEC X X  
+Zachary Kupec Lead Screener, Global CAP WEC  X  
+Mike Corlettie Director, UK Ap1000 Project, 
+Engineer, & Licensing WEC  X  
+Greg Glenn Ap1000 ITAAC & Inspection 
+Report WEC X   
+Jason 
+Eisenhower Manager, UK Licensing WEC  X  
+Preston Vock Fellow Engineer WEC   X 
+Ed Pleins Principal Engineer WEC   X 
+Warren Banford Consulting Engineer WEC   X 
+Andy Breneman Product/Resource Manager WEC   X 
+Mark Urso Manager, AP1000 
+Engineering Integration WEC   X 
+ 
+ 
+2. LIST OF ITEMS OPENED, CLOSED, AND DISCUSSED  
+ 
+Item Number    Status  Type  Description 
+ 
+99900404/2012-201-01   Closed  NON  Criterion III 
+99900404/2015-202-01   Remain Open NON  Criterion I 
+99900404/2015-202-02   Remain Open NON  Criterion XVI 
+99900404/2015-202-03   Remain Open NON  Criterion VII 
+99900404/2016-204-01   Open   NON  Criterion XVI 
+99900404/2016-204-02   Open   NON  Criterion III 
+ 
+3. NRC INSPECTION PROCEDURES USED 
+ 
+• Inspection Procedure (IP) 36100, “Inspection of 10 CFR Part 21 Programs for 
+Reporting Defects and Noncompliance” 
+• IP 43002, “Routine Inspections of Nuclear Vendors” 
+• IP 43004, “Inspections of Commercial Grade Dedication Programs” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 4 - 
+4. LIST OF DOCUMENTS REVIEWED  
+ 
+Corrective Actions and Extent of Condition 
+ 
+• CAPAL 100078778, NDE Requirement Not Performed on V6-409 Support Pins for 
+Vogtle 3, dated February 10, 2015 
+• CAPAL100383544, Nonconforming Materials Supplied by Supplier Discovered After 
+Delivery, dated May 17, 2015 
+• CAPAL 100331507, KB25 and KB36 calculation deficiencies, dated September 30, 2015 
+• CAPAL 100170827, Discrepancies between design and licensing basis, dated March 26, 
+2015 
+• CAPAL 100393510, Incorrect material Used on Embed. Plates, dated June 28, 2016 
+• CAPAL Issue ID 100361717, PSI/ISI Inspectability for AP1000 Component to Pipe 
+Welds, dated February 18, 2016 
+• CAPAL Issue ID 100376365, Domestic PSI Program Plans, dated April 19, 2016 
+• CAPAL Issue ID 100412765, PSI/ISI Inspectability – CAPAL Significance, dated 
+September 14, 2016 
+• CAPAL Issue ID 100417162, ASME Section III Valve Design/Licensing Inspectability 
+Requirements Discreprancy, 09/29/2016 (Opened in response to findings) 
+• CAPAL Issue ID 100341382, “Possible Counterfeit Components Used in the PC Node 
+Box,” dated November 4, 2015 (L2) 
+• CAPAL Issue ID 100345705, “Falsification of UT Calibration Block Heat Treatment,” 
+dated December 11, 2015 (L1) 
+• CAPAL Issue ID 100078299, “Loss of Status Control for PV44 Valves at V.C. Summer,” 
+dated February 6, 2015 (L2) 
+• CAPAL Issue ID 100199478, “VC Summer 3 Closure Head Rod Travel Housing PT 
+Indications,” dated April 8, 2015 (L2) 
+• CAPAL Issue ID 100078778, “NDE Requirement Not Performed on V6-409 Support Pins 
+for Vogtle 3,” dated February 10, 2015 (L2) 
+• CAPAL Issue ID 100299217, “Discrepancy Between Calc and Drawing,” dated May 8, 
+2015 (L2) 
+• CAPAL Issue ID 100173014, “Vogtle WEC SEG Performing ASME Section III Design 
+Work Without ASME Accreditation,” dated March 31, 2015 (L3) 
+• CAPAL Issue ID 100214742, “Squib Valve IEEE Testing 1 Amp No Fire Testing,” dated 
+March 29, 2012 (L4) 
+• CAPAL Issue ID 100214842, “Squib Valve Operational Parameters,” dated March 30, 
+2012 (L2) 
+• CAPAL Issue ID 100000085, “Negative NRC Resu lts at Obayashi,” dated September 16, 
+2011 
+• CAPAL Issue ID 100000447, “Discrepancy between Pressurizer Column Embedment 
+Design Loads and Actual Loads,” dated May 10, 2013 (L1) 
+• CAPAL 100077431 – NRC Potential Issue – Inadequate Corrective Action 
+• CAPAL 100326623 – Inconsistent compliance with CAP requirements 
+• CAPAL 100073951 – Condensate Return – IRWST steaming rate discrepancy 
+ 
+ 
+- 5 - 
+• CAPAL 100000472 – Purchase Requisition/Purchase Order Processing Violates 
+Numerous WEC-7.5 Requirements, reference IR 
+• CAPAL 100312448 – Peerless Manufacturing Company Additional SR POs 
+• CAPAL 100077746 – Inadequate oversight of suppliers CRA-2014-111 
+• CAPAL 100377138 dated 4/21/16 
+• CAPAL 100382797 dated 5/13/16 
+• RCA “Failure to Address ONR Regulatory Issues on ASME Section III Calculations for 
+Structural Integrity” Issue 100377138 Rev.2 dated 7/6/2016 
+• ACAR Issue 100382797 “Deficiency in ASME Calculation for AP1000” investigator Kevin 
+E. Spencer (2016) 
+• CAPs 12-264-M017, “ASME Section III Criteria on WEC Quality Release,” dated 
+September 20, 2012 
+• CAPs 13-001-C004, “Improper Closure of Corrective Actions,” dated January 1, 2013 
+• CAPs 13-122-M034, “ Errors Within Data package SV4-PV31-VQQ-001, Rev. 0,” dated 
+May 2, 2013 
+• CAPs 13-212-M042, “CAP 13-001-C004.01 Closure Lacks Reference to Open IR and 
+Commitments,” dated July 31, 2013 
+• CAPs 13-218-C011, “Audit Team Lead Removed as QA Lead for CAPs 13-001-C004,” 
+dated August 6, 2013 
+• CAPs 11-259-M039, “Negative NRC Results at Obayashi,” dated September 16, 2011 
+• CAPs 13-015-M043, “Making Revisions to C ontingent Quality Release not Addressed in 
+APP-GW-GAP-137, Rev. 0,” dated January 15, 2013 
+• WSA-QEHS-15-1, “Self-Assessment of Co rrective Action Program Implementation”, 
+dated July 31, 2015 
+• Apparent Cause Analysis (ACA) 100077431 [including CAPAL 100075345] CRA-2014-
+111, “NRC Inspection Potential Issue – Inadequate Corrective Action and Extent of 
+Condition Shortfalls” 
+• Root Cause Analysis (RCA) 100073951, “Condensate Return” March 7, 2015 
+• RCA 100326623,” Inconsistent compliance with CAP requirements” dated December 7, 
+2015 
+• Root Cause Analysis, “Implementation of Purchase Requisition/Purchase Order Process 
+frequently results in violation of Numerous WEC 7.5 Requirements, reference IR 10-014-
+W012, dated May 29, 2014 
+• Interim Effectiveness Review Report CAPAL 10000472, dated n/a 
+• Effectiveness Review Report CAPAL 100073951, dated March 7, 201 
+• Review of Safety Analyses Inputs for Inclusion in SAIK Database, dated December 3, 
+2015 
+• APP-SSAR-GS-001, “AP1000 Plant Safety Analysis Input Knowledgebase (SAIK) 
+Methodology”, dated October 14, 2015 
+• DCP_DCP_007060, “Design Experience/Lessons Learned from WEC RCA on 
+Condensate Return”, dated April 16, 2015 
+• DCP_DCP_007732, “Review of Safety Related Design Criteria in System Specification 
+Documents”, dated December 18, 2015Engineering & Design Coordination Report 
+(E&DCR) – Revision of APP-SSAR-GS-001, dated October 13, 2015 
+ 
+ 
+- 6 - 
+• DCP_DCP_007271, “Review of CAPAL Commitment 800000015117”, dated June 30, 
+2015 
+• CDI-BWR-ENG-16-001 (CDI) Commercial Dedica tion Instructor for computational fluid 
+dynamics analysis work performed by peerless manufacturing company, revision 0, 
+dated September 27, 2016 
+• LTR-TA-15-62, Revision 0 – “LOFTRAN Applicability for Extended Closed Loop PRHR 
+HX Operation”, dated June 26, 2015 
+• LTR-EMPE-10-88, “Quality Assurance, Marking and Documentation Requirements for 
+the Supply of Replacement Parts for Westinghouse Nuclear Parts Operations” revision 
+0, dated April 2010 
+• Letter NPP_NPP_000280, “Assess AP1000 plant licensing plans (domestic and 
+international) content for guidance for addressing a compliance matrix and regulatory 
+questions” , dated June 30, 2015 
+• Assessment of Fluid Systems’ Excel Ba sed Calculations, dated December 21, 2015 
+• AP1000 Design Change Proposal of APP-GW-GEE-5007 , dated April 21, 2015 
+• DCP_DCP_007847, “Corrective Action Review Board (CARB) Meeting Minutes – 
+Effectiveness Review Approval”, dated November 9, 2015 
+• DCP_DCP_006939, “Corrective Action Review Board (CARB) Meeting Minutes – 
+Effectiveness Review Approval”, dated March 9, 2015 
+• CAR 2012-0874, Evaluation of vendor’s failure to provide quality products 
+• Root Cause Analysis Report CAR NO. 2012-0874 Revision 2, dated February 21, 2013 
+• CAR 2014-1961,”Southern Nuclear Company Letter ND_14-1513, “Ineffective and 
+Untimely Corrective Actions  Related to Quality & Compliance Deficiencies for 10 CFR 
+part 50 App M Modules and Submodules,” dated October 1, 2014 
+• CAR 2015-3384, “Lack of N690 Mag Particle Testing of Cives SR Welded Couplers 
+Embeds,” dated September 10, 2015 
+• 2015-3384, “Vogtle 3 & 4 Apparent Cause Analysis – Cives Steel Company Missed NDE 
+of PJP Coupler Welds,” dated January 15, 2015 
+• CAR 2015-4746, “Programmatic Discrepancy of Visual Acceptance Criteria,” dated 
+December 22, 2015 
+• CAR 2015-4484, “Duplicate Tag Numbers in Inventory,” dated December 2, 2015 
+• Issue ID: 100382034, “Embedment plates that were needed to disposition non-
+conforming condition were scraped at the Vog,” dated May 10, 2016 
+• Issue ID: 100361145, “SNC CRs 10180672 & 10181738 – NRC IOC 16-002: Green 
+NCV debrief by NRC at interim exit,” dated February 15, 2016 
+• Issue ID: 100390225, “Green NCV for SS Couplers,” dated June 14, 2016 
+• Issue ID: 100409799, “Non-Conforming for Cives Carbon Steel Plates at VC Summer 
+Site,” dated August 31, 2016 
+• Issue ID: 100413241, “Missing correspondence CAPAL for CAR 2015-3384 Corrective 
+Action,” dated September 16, 2016 
+• Issue ID: 100414651, “Review of the processes for holding material at site (Related to 
+CAPAL 100382034),” dated September 23, 2016 
+• Issue ID: 100237332, “Inadequate Implementation Criterion I,” dated April 25, 2015 
+• Issue ID: 100312448, “ Peerless Manufacturing Company – Additional SR POs,” dated 
+July 9, 2015 
+ 
+ 
+- 7 - 
+• Issue ID: 100000472, “Purchase Requisition/Purchase Order Processing Violates 
+Numerous WEC-7.5 Requirements, reference IR,” dated May 31, 2013 
+• CAPs-RCA-13-151-M013, “Root Cause Analysis – Implementation of Purchase 
+Requisition/Purchase Order Process frequently results in violation of Number WEC-7.5 
+Requirements, reference IR 10-014-W012, Revision 1 dated May 29, 2014 
+• CDI-BWR-ENG-15-001, “Commercial Dedication Instruction for Computational Fluid 
+Dynamics Analysis Work Performed by Peerless Manufacturing Company,” Revision 1 
+dated July 31, 2015 
+• CDI-BWR-ENG-15-001 – Results, “Commercial Dedication Instruction for Computational 
+Fluid Dynamics Analysis Work Performed by Peerless Manufacturing Company,” 
+Revision 1 dated July 31, 2015 
+• Issue Number: 100312448 Limited Cause Analysis Report for Peerless Manufacturing 
+Company – Additional Safety Related Purchase Orders.” 
+• Issue ID: 100414592 “Potential Gap in Peerless Manufacturing CGS WES-2014-117,” 
+dated September 23, 2016 
+• CAR 2015-2745, “Cives Commercial Grade Dedication Plans and Procedures not 
+reviewed and approved by CB&I,” dated July 22, 2015 
+Correspondence 
+ 
+• LTR-SRC-15-26, Closing Request for PI-15-004,”AP1000 Containment Basemat 
+Analysis Model Applied Incorrect Thermal Boundary Conditions,” dated March 3, 2015 
+• LTR-SRC-15-55, Closing Request for PI-15-016,”Lost Traceability for Safet-Related 
+Parts,” dated May 19, 2015 
+• Po6-68, Closing Request for PI-16-21, “Mangiarotti Delivered Components found to 
+have indeterminate Quality,” dated June 22, 2016 
+• LTR-SRC-15-29, Closing Request for PI-15-13,”Incorrect Vendor Potentiometers 
+Installed in SSPS Power Supplies,” dated March 9, 2015 
+• LTR-SRC-15-53, Closing Request for PI-15-015, “Problems with Implementation of 
+Design Release Process,” dated May 15, 2015 
+• LTR-SRC-15-54, Closing Request for PI-15-019, “Mirion Potential Defect Notification for 
+WL-24076 N16 Gamma Chambers,” dated May 18, 2015 
+• LTR-SRC-15-68, Closing Request for PI-15-018, “FHE&CM Discovery of Additional 
+Commercial Grade Dedication Deviations,” dated June 23, 2015 
+• LTR-SRC-15-65, Closing Request for PI-15-020,”Violation of Design  
+• LTR NCE-16-217 ‘Impact Assessment of UKDGA ONR Comments on Westinghouse 
+Operating Plants (Extent Condition Assessments) dated 9/26/20 
+• LTR-SRC-16-82 “Closeout Request for PI-16-20 “ASME Code Section III Analysis for 
+AP1000 Plant Components’ 
+• Requirements for Weldable Connectors,” dated June 11, 2015 
+• LTR-SRC-16-24, Closing Request for PI-16-003, “AP1000 MOV Lubrication Issue,” 
+dated February 26, 2016 
+• LTR-SRC-16-71, Closing Request for PI-16-014,”2B10254H02 Electroswitch Improper 
+Assembly and Non-Functioning After Torqueing,” dated May 19, 2016 
+• LTR-SRC-16-82, Closing Request for PI-16-20, “ASME Code Section III Analysis of 
+AP1000 Components,” dated June 16, 2016 
+ 
+ 
+- 8 - 
+• LTR-SRC-13-207, Opening Request for PI-13-55,”Processing of Purchase Requisitions / 
+Purchase Order in Accordance with WEC-7.5, Control of Purchases Items and 
+Services,” dated September 27, 2013  
+• LTR-SRC-15-78,”PD-1312 Closeout, “Peerless Manufacturing Company-Additional 
+Safety 9Related Purchase Orders, dated July 27, 2015 
+ 
+Procedures  
+ 
+• QMS-A, Quality Management System-A revision 7, dated October 01, 2013 
+• W2-5.1-100, “Westinghouse Corrective Action Program” revision 0.0, dated January 08, 
+2016 
+• W2-5.1-101, “Westinghouse Corrective Action Program Procedure” revision 1.0, dated 
+April 15, 2016 
+• W2-5.1-103, “Root Cause Analysis” revision 0.0, dated January 08, 2016 
+• W2-9.5-101, “Supplier QA Program Qualification and Assessment” revision 0.1, dated 
+January 15, 2016 
+• W2-9.6-101, “Control of Supplier-Generated Documents” revision 0.1, dated January 13, 
+2016 
+• W2-9.5-105, “Control of Suppliers on the ASL and QSL” revision 0.0, dated April 15, 
+2016 
+• W2-9.4-101, “Control of Purchase Items and Services” revision 3.0, dated June 1, 2016 
+• W2-5.1-104, “Apparent Cause Analysis” revision 0.0, dated January 08, 2016 
+• W2-5.1-102, “Issue Review Committee” revision 1.0, dated May 01, 2016 
+• W2-5.1-201, “Identification and Reporting of Conditions Adverse to Nuclear Safety”, 
+dated January 08, 2016 
+• W2-7.2-101, “External Audits and Regulatory Inspections,” Revision 0.1 dated July 29, 
+2016 
+• W2-8.4-100, Verification and Validation Process, Revision 1, dated September 6, 2015 
+• W2-8.4-105, Signing and Sealing by Professional Engineers, Revision 0,  dated January 
+8, 2015 
+• PP-09-01, “Production Order,” Revision 16, dated October 8, 2013 
+• PP-08-01, “Goods Receipt Slip,” Revision 8, dated April 11, 2014 
+• WEC 3.4.1, “Change Control For The AP1000 Plant Program, “ Revision 3.0, dated 
+October 31, 2013 
+• APP-GW-GAP-150, “Process and Guidelines for Preparing the Technical Content of 
+AP1000 Certified Construction Civil/Structural Drawings,” Revision 1, dated December 6, 
+2013 
+• APP-GW-GAH-004, “AP1000 Program Project Quality Plan,” Revision 5, dated 
+September 12, 2016 
+• WEC Procedure QA-7.5, “Quality Releases,” Revision 4, dated November 1, 2013 
+• WEC Procedure WEC 7.1, “Supplier Qualification and Assessment,” Revision 3.1, dated 
+April 5, 2012 
+• WEC Procedure QA-7.11, “Supplier Quality Development,” Revision 1, dated May 11, 
+2012 
+• Westinghouse Form F-2.8-4, “Lead Auditor Body of Knowledge,” Revision 1 
+ 
+ 
+ 
+- 9 - 
+• Form F-7.10-3, “Quality Release and Certificates of Conformance,” Revision 3, dated 
+August 15, 2013 
+• WEC Procedure GNSC-P-3202, “Supplier Dashboard,” Revision 0.1, dated January 31, 
+2016 
+Engineering Documents 
+ 
+• APP-PV70-VPR-014, “ASME QME-1 Functional Qualification Report for 8” Squib 
+Valves Installed in AP1000 Plants,” Revision 0, dated February 23, 2016 
+• APP-PV70-VPR-013, “ASME QME-1 Functional Qualification Report for 14” Squib 
+Valves Installed in AP1000 Plants,” Revision 0, dated February 14, 2016 
+• APP-PV70-VPH-004, “AP1000 Squib Valve Qualification Plan,” Revision 0, dated 
+September 9, 201570-VPH-001, “AP1000 Squib Valve Equipment Qualification Test 
+Plan,” Revision 5, dated January 28, 2016 
+• Drawing APP-1238-CR-903, “Reinforcement Locations Interface Drawing Basemat 
+and Shield Building Elevation 100’-0” Sections and Details,” Revision 3 
+• APP-GW-VW-001, Revision 0, AP1000 Design for Inspectability Program: ISI 
+Requirements and Design Guidance for Class 1 Components, 08/18/2006 
+• APP-GW-VW-001, Revision 1, AP1000 Design for Inspectability Program: ISI 
+Requirements and Design Guidance for Class 1 Components, 06/06/2014 
+• APP-GW-GLY-105, Revision 0, ASME Section XI Preservice and Inservice 
+Inspection Limitations, 05/19/2016 
+• APP-GW-VFY-001, Revision 0, AP1000 Weld End Configuration for Stainless Steel, 
+Carbon Steel, and Alloy Steel Auxiliary Piping Components, 2006 
+• APP-GW-VFY-001, Revision 1, AP1000 Weld End Configuration for Stainless Steel, 
+Carbon Steel, and Alloy Steel Auxiliary Piping Components, January 28, 2009 
+• APP-GW-VFY-001, Revision 2, AP1000 Weld End Configuration for Stainless Steel, 
+Carbon Steel, and Alloy Steel Auxiliary Piping Components, April 6, 2015 
+• APP-PV01-Z0-001, Revision 0, 3” and Larger Motor Operated Gate Valve and Globe 
+Valves, ASME Boiler and Pressure Vessel Code Section III, Class 1, 2, and 3, May 
+1, 2008 
+• APP-PV03-Z0-001, Revision 0, Design Spec ification for 3" and Larger Manually 
+Operated Gate, Stop Check, and Check Valves, ASME Boiler and Pressure Vessel 
+Code Section Ill Class 1, 2, and 3 for Various Systems,  2007 
+• APP-PV14-Z0-001, Revision 0, Air Operated Globe and Stop Check Valves, ASME 
+Boiler and Pressure Vessel Code, Section III, Class 1, 2, and 3, 2008 
+• APP-PV20-Z0-001, Revision 0, Passive Residual Heat Removal Discharge Valve, 
+ASME Boiler and Pressure Vessel Code, Section III, Class, 2009 
+• APP-PV63-Z0-001, Revision 0, Pressuri zer Safety Valve, ASME B&PV Code, 
+Section III, Class 1, 2008 
+• APP-PV01-Z5-003, Revision 3, Appendix 3: Technical and Quality Requirements for 
+the Procurement of PV01 Motor Operated Gate and Globe Valves for Domestic 
+Projects, May 20, 2013.  
+ 
+ 
+- 10 - 
+• APP-PV01-Z5-004, Revision 0, Appendix 4: Flowserve Compliance Matrix for Design 
+Specification APP-PV01-Z0-001 in Support of AP1000 Projects, June 28, 2009. 
+• APP-PV03-Z5-003, Revision 2, Appendix 3: Technical and Quality Requirements for 
+the Procurement of Manually Operated Gate, Stop Check, and Check Valves for 
+AP1000 Projects, May 22, 2013. 
+• APP-PV03-Z5-004, Revision 0, Appendix 4: Compliance Matrix for Design 
+Specification APP-PV03-Z0-001 in Support of AP1000 Projects, June 26, 2009. 
+• APP-PV14-Z5-001, Revision 1, Appendix 3: Technical and Quality Requirements for 
+the Procurement of PV14 Air Operated Globe and Stop Check Valves for AP1000 
+Projects, May 21, 2013 
+• CPP-PV14-V2-103022, PV14 Datasheet 103 Assembly Drawing 
+• APP-PV03-Z5-003, Revision 2, Appendix 3: Technical and Quality Requirements for 
+the Procurement of Manually Operated Gate, Stop, and Check Valves in AP1000 
+Projects, May 21, 2013 
+• APP-PV14-Z5-001, Revision 1, Appendix 3: Technical and Quality Requirements for 
+the Procurement of PV14 Air Operated Globe and Stop Check Valves for Ap1000 
+Projects, May 21, 2013.  
+• APP-GW-GAP-100 “Westinghouse Corrective Actions process” Rev. 20 dated 
+11/03/2008 
+• APP-MV20-VOR-002 “AP1000 Pressurizer Upper Head Nozzles Interaction 
+Technical Report” Rev. 0 dated 09/08/2016 
+• APP-MV20-ZOR-008 “AP1000 Pressurizer safety Relief Nozzle Analysis” Rev. 1, 
+dated 9/28/2016 
+• APP-MV20-ZOC-107 “AP1000 Pressurizer Sizing Calculation” Rev. 2 dated 
+09/20/2016 
+• APP-MV01-ZOC-004 “AP1000 Reactor Vessel Sizing Calculation” Rev. 7 dated 
+08/25/2016 
+• APP-MV01-ZOC-0101 “AP1000 Reactor Vessel Design Report” Rev. 7 dated 
+08/25/2016 
+• RQ-AP1000-1620 dated 6/30/2016 
+• RQ-AP1000-1621 dated 6/30/2016 
+• GI-AP1-000-SI-05: Demonstration of Compliance with ASME III Design Criteria 
+• GI-AP1000-SI-05-RCA-ACA,  AP1000 Plant Main Structural Components ASME III 
+Code Compliance Recovery Plan Report, dated August 2016 (TRIM 2016/310521) 
+• WEC-REG-1185 N “Transmittal of Full Response to RQ-AP1000-1620 and RQ-
+AP1000-1621” dated 08/11/2016 
+• WEC 16.2, Revision 0, Westinghouse Corrective Action Process, 11/03/08 
+• WEC 16.2, Revision 1, Westinghouse Corrective Action Process, 08/03/09 
+• WEC 16.2, Revision 2, Westinghouse Corrective Action Process, 02/08/10 
+• WEC 16.2, Revision 3, Westinghouse Corrective Action Process, 08/01/11 
+ 
+ 
+ 
+ 
+ 
+- 11 - 
+Purchase Orders 
+ 
+• Requisition 1000543214 “Peerless Manufacturing Co”, dated September 29, 2016 
+• Purchase Order (PO) 4500690088 “Tioga Pipe Supply Co.”, dated March 29, 2016 
+• PO 4500691963 “NOVA Machine Products”, dated April 22, 2016 
+• PO 4500694448 “Laboratory Testing Inc.”, dated May 05, 2016 
+• PO 4500687410 “Flowserve Corp.”, dated February 22, 2016 
+• PO 4500699883 “Curtiss-Wright EMCORP”, dated August 10, 2016 
+• PO No. 4500703751, “Change to Purchase Order for Peerless Manufacturing 
+Company,” dated September 29, 2016 
+• PO 4500327852, Westinghouse Electric to Fisher Controls dated December, 16, 2009 
+(66 Air-operated Globe and Stop Check Valves (PV14) – V.C. Summer) 
+• PO 4500327665, Westinghouse Electric to Fisher Controls dated December, 15, 2009 
+(66 Air-operated Globe and Stop Check Valves (PV14) – Vogtle) 
+• PO 4500315849, Westinghouse Electric to Flowserve dated August 28, 2009 ( 98 
+AP1000 motor operated valves (PV01) – V.C. Summer) 
+• PO 4500319052, Westinghouse Electric to  Flowserve dated September 28, 2009 (98 
+AP1000 motor operated valves (PV01) – Vogtle) 
+• PO 4500328866, Westinghouse Electric to Enertech dated December, 30, 2009 ( Inline 
+check valves (PV03) – V.C. Summer) 
+• PO 4500328840, Westinghouse Electric to Enertech dated December, 30, 2009 ( Inline 
+check valves (PV03) – Vogtle) 
+• PO 4500419083, Westinghouse Electric to Weir Valve & Controls dated December, 30, 
+2011 (Air-operated Stop Check Valves, Class 1 (PV 14 DS90) – V.C. Summer) 
+• PO 4500419078, Westinghouse Electric to Weir Valve & Controls dated December, 30, 
+2011 (Air-operated Stop Check Valves, Class 1 (PV 14 DS90) – Vogtle) 
+• PO 4500316051, Westinghouse Electric to Flowserve dated August 31, 2009 (106 
+AP1000 manually operated valves (PV03) – Vogtle) 
+• PO 4500309542, Westinghouse Electric to Fisher Controls dated June 30, 2009. 
+• PO 4500371190, Westinghouse Electric to Fish er Controls dated December 16, 2010.  
+ 
+Miscellaneous 
+ 
+• ASME Boiler and Pressure Vessel Code, Section XI, Rules for Inservice Inspection of 
+Nuclear Power Plant Components, 1998 Edition through 2000 Addenda. 
+• Audit No. V2016-18, “Implementation Audit of Cives Steel Company, dated April 5, 2016 
+• WES-2014-117, “Commercial Grade Survey of Peerless Manufacturing Company,” 
+dated June 2, 2014 
+• VS-2015-53, “Surveillance Report for Cives Steel Company,” dated November 23, 2015 
+• Audit No. WES-2016-043-R, “Audit of Scot Forge,” dated August 3, 2016 
+• Audit Package WES-2007-017, “Obayashi Corporation,” dated March 21, 2007 (audit 
+dates March 18-19, 2007) 
+• Audit Package WES-2010-039, “Obayashi Corporation,” dated April 14, 2010 (audit 
+ 
+ 
+- 12 - 
+dates March 15-16, 2010) 
+• APP-GW-GBH-602, “NPE Structural Review Board Charter,” Revision 1, dated 
+September 24, 2013 
+• Westinghouse Supplier Annual Evaluation Questionnaire, no date or revision, current 
+revision 
+• Westinghouse Letter SQA-11-0268, “Quality Program Compliance to 10CFR50 
+Appendix B, 10CFR21, and/or ASME NQA-1,“ (Quality Alert) dated December 21, 2011 
+• Westinghouse White Paper/Memo from Ivan Bo snjak, SQA Principal Engineer, to Jamie 
+Vasquez, Director – Suppllier Quality Oversight and Assessment, “CAP Commitment 12-
+010-M010.12 Document Risk Ranking Criteria Used [for supplier re-evaluation],” dated 
+August 29, 2012 
+• Excel Spreadsheet – Results of Quality Alert Memo to Suppliers 
+• Current Westinghouse Supplier Dashboard Executive Summary, dated August 2016 
+Corrective Action Reports Generated during the NRC Inspection 
+• CAPAL 100414592, dated September 29, 2016 
+• CAPAL 100417178, dated September 29, 2016 
+ 
+ 
+ 

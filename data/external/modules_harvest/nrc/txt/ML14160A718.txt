@@ -1,0 +1,92 @@
+S
+C1
+CB&I
+128 South Tryon Street
+Charlotte, NC 28202
+Tel: +1 704 343 7500
+www.CBI.com
+10 CFR 21.21
+May 22, 2014
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, DC 20555-0001
+SUBJECT: INTERIM 10 CFR PART 21 REPORT REGARDING CB&I LAKE CHARLES WELDING
+MATERIAL NONCONFORMANCE FOR AP 1000 MODULE FABRICATION
+The attachment to this letter provides an interim report in accordance with 10 CFR 21.21 pertaining to
+CB&I Lake Charles nonconformance of some welding material. CB&I Lake Charles is supplying basic
+components associated with modular construction for the V. C. Summer and Vogtle AP 1000 nuclear
+projects. It was discovered that submerged arc welding filler wire and flux combinations were not
+controlled in a manner to assure the required combinations were used.
+Evaluation for reportability in accordance with 10 CFR Part 21 was not able to be completed within the
+60-day evaluation period due to the need to determine the impact and extent of the identified issue. It is
+currently expected that the evaluation of these conditions will be completed by July 21, 2014, or an
+updated interim report will be provided by that date.
+If you have any questions pertaining to this information, please contact Curtis Castell, Licensing
+Manager, at 980-321-8314.
+Sincerely,
+Michael Hickey
+Senior Vice President, Functional Operations
+cc: Regional Administrator, USNRC, Region II
+Attachment
+........................
+• , . • .
+.',; ,, /9:
+'' , i ; ,
+
+Attachment to Letter Dated May 22, 2014
+Page 1 of 2
+INTERIM 10 CFR PART 21 REPORT REGARDING CB&I LAKE CHARLES WELDING
+MATERIAL NONCONFORMANCE FOR AP 1000 MODULE FABRICATION
+This report is being provided as an interim report in accordance with 10 CFR 21.21.
+(i) Name and address of the individual or individuals informing the Commission.
+Mr. Michael Hickey
+CB&I Functional Operations
+128 S. Tryon St., Suite 1000
+Charlotte, NC 28202
+(ii) Identification of the facility, the activity, or the basic component supplied for such facility or such
+activity within the United States which fails to comply or contains a defect.
+No basic components have been determined to fail to comply or contain a defect. This is an interim
+report. CB&I Lake Charles has supplied basic components associated with modular construction for the
+V. C. Summer and Vogtle AP1000 nuclear projects. It was discovered that CB&I Lake Charles did not
+control submerged arc welding filler wire and flux combinations in manner to assure the required
+combinations were used. The current extent of the deviations being evaluated are associated with CB&I
+Lake Charles Welding Procedure Specifications 1- 10-212, 10-10-211, and 10-10-299, which were used
+for fabricating sub-modules CA20-10 and CA20-12 that were delivered for use at V. C. Summer Unit 2
+and Vogtle Unit 3 nuclear projects. If any additional impact is found during the course of the
+evaluation, these impacts will be included in this evaluation, as appropriate.
+(iii) Identification of the firm constructing the facility or supplying the basic component which fails to
+comply or contains a defect.
+No basic components have been determined to fail to comply or contain a defect. This is an interim
+report. The deviations being evaluated pertain to control of some welding wire and flux combinations
+that were used for welding of construction modules for the V. C. Summer and Vogtle AP 1000 nuclear
+projects. The affected module components were supplied by CBI Lake Charles, 3191 West Lincoln Rd.,
+Lake Charles, LA 70605.
+(iv) Nature of the defect or failure to comply and the safety hazard which is created or could be created
+by such defect or failure to comply.
+No basic components have been determined to fail to comply or contain a defect. This is an interim
+report.
+
+Attachment to Letter Dated May -22, 2014
+Page 2 of 2
+(v) The date on which the information of such defect or failure to comply was obtained.
+The discovery date of the deviation is March 24, 2014, based on information received from CB&I Lake
+Charles regarding this deviation by letter on that date.
+(vi) In the case of a basic component which contains a defect or fails to comply, the number and location
+of these components in use at, supplied for, being supplied for, or may be supplied for, manufactured, or
+being manufactured for one or more facilities or activities subject to the regulations in this part.
+No basic components have been determined to fail to comply or contain a defect. This is an interim
+report.
+(vii) The corrective action which has been, is being, or will be taken; the name of the individual or
+organization responsible for the action; and the length of time that has been or will be taken to complete
+the action.
+No basic components have been determined to fail to comply or contain a defect. This is an interim
+report.
+Corrective actions are in the process of being determined for this condition. The resolution of the
+deviations is expected to provide information needed to complete the evaluation required by 10 CFR
+Part 2 1. It is currently expected that the evaluation of these conditions will be completed by July 2 1,
+2014, or another interim report will be provided by that date.
+(viii) Any advice related to the defect or failure to comply about the facility, activity, or basic
+component that has been, is being, or will be given to purchasers or licensees.
+None at this time.
+(ix) In the case of an early site permit, the entities to whom an early site permit was transferred.
+Not applicable.

@@ -1,0 +1,937 @@
+ 
+ 
+ 
+UNITED STATES 
+NUCLEAR REGULATORY COMMISSION 
+REGION II 
+245 PEACHTREE CENTER AVENUE NE, SUITE 1200 
+ATLANTA, GEORGIA  30303-1257 
+  
+ 
+ 
+ 
+ 
+October 30, 2014 
+ 
+Mr. B. L. Ivey 
+Vice President, Regulatory Affairs 
+Southern Nuclear Operating Company 
+P.O. Box 1295 
+Bin B022 
+Birmingham, AL 35201 
+ 
+SUBJECT: VOGTLE ELETRIC GENERATING PLANT UNITS 3 AND 4 – NRC PERIODIC 
+INSPECTION OF QUALITY ASSURANCE PROGRAM, REPORTS 
+05200025/2014014 and 05200026/2014014 
+ 
+Dear Mr. Ivey: 
+ 
+On October 10, 2014, the U.S. Nuclear Regulatory Commission (NRC) completed an inspection 
+at your Vogtle Electric Generating Plants Units 3 and 4.  The enclosed inspection report 
+documents the inspection results, which the inspectors discussed with Michael Yox, Licensing 
+Manager Vogtle 3&4, and other members of your staff on October 10, 2014.  
+ 
+The inspection examined a sample of construction activities conducted under your license as 
+they relate to safety and compliance with the Commission’s rules and regulations and with the 
+conditions of your license. These activities included programmatic elements to include the 
+Quality Assurance Program as described in your license.  Within these areas, the inspection 
+involved examination of selected procedures and representative records, observations of 
+activities, and interviews with personnel. 
+ 
+Based on the results of this inspection, the inspection team concluded that the implementation 
+of the quality assurance program at Vogtle Electric Generating Plants Units 3 and 4 was 
+effective. 
+ 
+No findings were identified during this inspection. 
+ 
+In accordance with 10 Code of Federal Regulations (CFR) 2.390 of the NRC's "Rules of 
+Practice," a copy of this letter, its enclosure, and your response (if any) will be available 
+electronically for public inspection in the NRC Public Document Room or from the Publicly 
+Available Records (PARS) component of NRC’s document system (ADAMS). ADAMS is 
+accessible from the NRC Website at http://www.nrc.gov/reading-rm/adams.html (the Public 
+Electronic Reading Room).
+B. Ivey 2 
+ 
+Should you have any questions concerning this letter, please contact us. 
+ 
+Sincerely, 
+ 
+/RA/ 
+ 
+Michael Ernstes, Branch Chief 
+Construction Projects Branch 4 
+Division of Construction Projects 
+ 
+ 
+Docket Nos.: 5200025, 5200026 
+ 
+Combined Licenses (COL) Nos.: NPF-91, NPF-92 
+ 
+Enclosure: NRC Inspection Report (IR) 
+05200025/2014014, 05200026/2014014 
+w/attachment: Supplemental Information 
+ 
+B. Ivey 2 
+ 
+Should you have any questions concerning this letter, please contact us. 
+ 
+Sincerely, 
+ 
+/RA/ 
+ 
+Michael Ernstes, Branch Chief 
+Construction Projects Branch 4 
+Division of Construction Projects 
+ 
+ 
+Docket Nos.: 5200025, 5200026 
+ 
+Combined Licenses (COL) Nos.: NPF-91, NPF-92 
+ 
+Enclosure: NRC Inspection Report (IR) 
+05200025/2014014, 05200026/2014014 
+w/attachment: Supplemental Information 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+■PUBLICLY AVAILABLE □ NON-PUBLICLY AVAILABLE □ SENSITIVE ■ NON-SENSITIVE 
+ADAMS: □ Yes ACCESSION NUMBER:  ML14303A481          ■  SUNSI REVIEW COMPLETE  ■ FORM 665 ATTACHED 
+OFFICE RII:  DCI RII:  DCI RII:  DCI RII:  DCI    
+SIGNATURE JAC1 GXC2 via e-mail GXC2 for MXS1 
+via e-mail 
+CAS6    
+NAME J. Christensen G. Crespo M. Shannon C. Smith    
+DATE 10/28/2014 10/24/2014 10/       /2014 10/28/2014    
+E-MAIL COPY? YES        NO YES        NO YES        NO YES        NO    
+        
+OFFICIAL RECORD COPY DOCUMENT NAME:   G:\CCI\DCP\CPB4\Project Vogtle\Inspection Reports\2014\2014-014\Vogtle QA 
+Inspection Report 2014-014.docx
+B. Ivey 3 
+ 
+ 
+cc w/ encls: 
+ 
+Resident Manager 
+Oglethorpe Power Corporation 
+Alvin W. Vogtle Road 
+7821 River Road 
+Waynesboro, GA 30830 
+ 
+Office of the Attorney General 
+40 Capital Square SW 
+Atlanta, GA  30334 
+ 
+Anne F. Appleby 
+Oglethorpe Power Corporation 
+2100 East Exchange Place 
+Tucker, GA 30084 
+ 
+Stephen E. Kuczynski 
+Chairman, President and CEO 
+Southern Nuclear 
+P.O. Box 1295 
+Birmingham, AL  35201 
+ 
+Mr. Reece McAlister 
+Executive Secretary 
+Georgia Public Service Commission 
+Atlanta, GA 30334 
+ 
+Mr. Joseph A. (Buzz) Miller 
+Executive Vice President 
+Southern Nuclear Operating Company 
+241 Ralph McGill Blvd 
+BIN 10240 
+Atlanta, GA 30308-3374 
+ 
+Resident Inspector 
+Plant Vogtle 3 and 4 
+7825 River Road 
+Waynesboro, GA 30830 
+ 
+County Commissioner 
+Office of the County Commissioner 
+Burke County Commission 
+Waynesboro, GA 30830 
+ 
+Mr. James C. Hardeman 
+Environmental Radiation Program Manager 
+Environmental Protection Division 
+Georgia Dept. of Natural Resources 
+4220 International Pkwy, Suite 100 
+Atlanta, GA  30354-3906 
+Elaine Sikes 
+Burke County Library 
+130 Highway 24 South  
+Waynesboro, GA 30830 
+ 
+Mr. Jerry Smith 
+Commissioner 
+District 8 
+Augusta-Richmond County Commission 
+1332 Brown Road 
+Hephzibah, GA 30815 
+ 
+Southern Nuclear Op. Co. 
+Document Control Coordinator 
+42 Inverness Center Parkway 
+Attn:  B236 
+Birmingham, AL  35242 
+ 
+Gene Stilp 
+1550 Fishing Creek Valley Road 
+Harrisburg, PA 17112 
+ 
+Mr. Robert Sweeney 
+IBEX ESI 
+4641 Montgomery Avenue 
+Suite 350 
+Bethesda, MD 20814 
+ 
+George B. Taylor, Jr. 
+2100 East Exchange Pl. 
+Atlanta, GA 30084-5336 
+ 
+ 
+B. Ivey  4 
+ 
+E-Mail 
+ 
+agaughtm@southernco.com   (Amy Aughtman) 
+amanda@georgiawand.org   (Amanda Hill-Attkisson) 
+awc@nei.org   (Anne W. Cottingham) 
+bhwhitle@southernco.com   (Brian Whitley) 
+Bill.Jacobs@gdsassociates.com   (Bill Jacobs) 
+blivey@southernco.com   (Pete Ivey) 
+bob.masse@opc.com   (Resident Manager) 
+bwwaites@southernco.com   (Brandon Waites) 
+collinlj@westinghouse.com   (Leslie Collins) 
+couturgf@westinghouse.com   (Gerald Couture) 
+crpierce@southernco.com   (C.R. Pierce) 
+csguinn@southernco.com   (Candace Guinn) 
+cwaltman@roe.com   (C. Waltman) 
+dahjones@southernco.com   (David Jones) 
+danawill@southernco.com   (Dana Williams) 
+david.hinds@ge.com   (David Hinds) 
+david.lewis@pillsburylaw.com   (David Lewis) 
+david.siefken@hq.doe.gov   (David Siefken) 
+delongra@westinghouse.com   (Rich DeLong) 
+dgbost@southernco.com   (Danny Bost) 
+dlfulton@southernco.com   (Dale Fulton) 
+drculver@southernco.com   (Randy Culver) 
+ed.burns@earthlink.net   (Ed Burns) 
+edavis@pegasusgroup.us  (Ed David) 
+erg-xl@cox.net   (Eddie R. Grant) 
+fdhundle@southernco.com   (Forrest Hundley) 
+G2NDRMDC@southernco.com  (SNC Document Control) 
+james1.beard@ge.com   (James Beard) 
+jamiller@southernco.com  (Buzz Miller) 
+jbtomase@southernco.com   (Janice Tomasello) 
+jenmorri@southernco.com  (Jennifer Buettner) 
+jim@ncwarn.org   (Jim Warren) 
+jlhall@southernco.com   (Jennifer Hall) 
+Joseph_Hegner@dom.com    (Joseph Hegner) 
+jranalli@meagpower.org   (Jerry Ranalli) 
+jrjohnso@southernco.com   (Randy Johnson) 
+jtgasser@southernco.com   (Jeff Gasser) 
+karen.patterson@ttnus.com   (Karen Patterson) 
+karlg@att.net   (Karl Gross) 
+Katherine.Janik@Hq.Doe.Gov   (Katherine Janik) 
+kim.haynes@opc.com   (Kim Haynes) 
+kmseiber@southernco.com   (Kristin Seibert) 
+KSutton@morganlewis.com   (Kathryn M. Sutton) 
+kwaugh@impact-net.org   (Kenneth O. Waugh) 
+lchandler@morganlewis.com   (Lawrence J. Chandler) 
+ldperry@southernco.com   (Leigh D. Perry 
+maria.webb@pillsburylaw.com   (Maria Webb) 
+markus.popa@hq.doe.gov   (Markus Popa) 
+mcintyba@westinghouse.com   (Brian McIntyre) 
+B. Ivey  5 
+ 
+media@nei.org   (Scott Peterson) 
+Melissa.Smith@Hq.Doe.Gov   (Melissa Smith) 
+mike.price@opc.com   (M.W. Price) 
+MSF@nei.org   (Marvin Fertel) 
+myox@southernco.com   (Mike Yox) 
+nirsnet@nirs.org   (Michael Mariotte) 
+nlhender@southernco.com   (Nancy Henderson) 
+Nuclaw@mindspring.com   (Robert Temple) 
+patriciaL.campbell@ge.com   (Patricia L. Campbell) 
+Paul@beyondnuclear.org   (Paul Gunter) 
+pbessette@morganlewis.com   (Paul Bessette) 
+randall@nexusamllc.com   (Randall Li) 
+rhenry@ap.org   (Ray Henry) 
+rjarrett@southernco.com   (Robyn Jarrett) 
+RJB@NEI.org   (Russell Bell) 
+Ronald.Jones@scana.com   (Ronald Jones) 
+russpa@westinghouse.com   (Paul Russ) 
+rwink@ameren.com   (Roger Wink) 
+sabinski@suddenlink.net   (Steve A. Bennett) 
+sblanton@balch.com   (Stanford Blanton) 
+sfrantz@morganlewis.com   (Stephen P. Frantz) 
+sjackson@meagpower.org   (Steven Jackson) 
+skauffman@mpr.com   (Storm Kauffman) 
+skuczyns@southernco.com   (Steve Kuczynski) 
+sroetger@psc.state.ga.us   (Steve Roetger) 
+stephan.moen@ge.com   (Stephan Moen) 
+taterrel@southernco.com   (Todd Terrell) 
+tlubnow@mpr.com   (Tom Lubnow) 
+Tom.Bilik@nrc.gov   (Thomas Bilik) 
+TomClements329@cs.com   (Tom Clements) 
+Vanessa.quinn@dhs.gov   (Vanessa Quinn) 
+Wanda.K.Marshall@dom.com   (Wanda K. Marshall) 
+wasparkm@southernco.com   (Wesley A. Sparkman) 
+wayne.marquino@ge.com   (Wayne Marquino) 
+weave1dw@westinghouse.com   (Doug Weaver) 
+ 
+ 
+ 
+Letter to B. L. Ivey from Michael E. Ernstes dated October 30, 2014 
+ 
+SUBJECT: VOGTLE ELETRIC GENERATING PLANT UNITS 3 AND 4 – NRC PERIODIC 
+INSPECTION OF QUALITY ASSURANCE PROGRAM, REPORTS 
+05200025/2014014 and 05200026/2014014 
+ 
+Distribution w/encl:
+ 
+Region II Regional Coordinator, OEDO 
+M. Brown, NRO 
+T. Kozak, NRO 
+L. Burkhart, NRO 
+B. Anderson, NRO 
+D. Jaffe, NRO 
+W. Jones, RII 
+J. Yerokun, RII 
+M. Ernstes, RII 
+R. Musser, RII 
+L. Suggs, RII, 
+G. Khouri, RII 
+P. Heher, RII 
+J. Kent, RII 
+J. Fuller, RII 
+C. Abbott, RII 
+C. Huffman, RII 
+S. Temple, RII 
+ConE_Resource@nrc.gov
+  
+NRO_cROP Resource@nrc.gov 
+Vogtle_Construction_Support@nrc.gov 
+PUBLIC 
+ 
+Enclosure 
+U.S. NUCLEAR REGULATORY COMMISSION 
+Region II 
+ 
+ 
+Docket Numbers: 5200025 
+5200026 
+ 
+License Numbers: NPF-91 
+NPF-92 
+ 
+Report Numbers: 05200025/2014014 
+05200026/2014014 
+ 
+Licensee: Southern Nuclear Operating Company, Inc. 
+ 
+Facility: Vogtle Electric Generating Plant, Unit 3 
+Vogtle Electric Generating Plant, Unit 4 
+ 
+Location: 
+ 
+Waynesboro, GA
+ 
+ 
+ 
+Inspection Dates: 
+ 
+October 6, 2014 through October 10, 2014 
+ 
+Inspectors: J.  Christensen, Construction Inspector, RII DCI 
+G.  Crespo, Senior Construction Inspector, RII DCI 
+M.  Shannon, Senior Construction Inspector, RII DCI 
+C.  Smith, Construction Inspector, RII DCI 
+ 
+ 
+Accompanying Personnel: None
+ 
+ 
+Approved by: 
+ 
+Michael Ernstes, 
+Branch Chief 
+Construction Projects Branch 4 
+Division of Construction Projects 
+ 
+ 
+ 
+ 
+SUMMARY OF FINDINGS 
+ 
+Inspection Report (IR) 05200025/2014014, 05200026/2014014; 10/06/2014 through 
+10/10/2014; Vogtle Unit 3 Combined License, Vogtle Unit 4 Combined License, periodic quality 
+assurance inspection report. 
+ 
+This report covers a one week period of inspection, by regional inspectors.  The purpose of this 
+inspection was to verify implementation of the quality assurance program with a focus on safety-
+related construction work in progress.   
+ 
+The Nuclear Regulatory Commission’s (NRC's) program for overseeing the construction of 
+commercial nuclear power reactors is described in IMC 2506, “Construction Reactor Oversight 
+Process General Guidance and Basis Document.”  Inspectors followed the guidance of NRC 
+inspection procedure 35007 – Quality Assurance Program Implementation During Construction 
+and pre-Construction Activities. 
+ 
+A. NRC-Identified and Self Revealed Findings
+ 
+No findings were identified 
+B. Licensee-Identified Violations 
+No findings were identified. 
+  
+ 
+ 
+ 
+REPORT DETAILS 
+ 
+1. CONSTRUCTION REACTOR SAFETY  
+ 
+Cornerstones: Design/Engineering, Procurement/Fabrication, 
+Construction/Installation, Inspection/Testing 
+ 
+IMC 2504, Inspection of Construction Programs
+ 
+Quality Assurance Program Implementation During Construction and Pre-Construction 
+Activities (IP 35007) 
+ 
+1P01 Inspection of Construction Quality Assurance Implementation  
+ 
+.1 Appendix 5, Inspection of Criterion V – Instructions, Procedures, and Drawings  
+ 
+a. Inspection Scope  
+ 
+The inspectors performed of document reviews, interviews, and facility walkdowns to 
+determine if: 
+ 
+• Quality Assurance (QA) program documents for preparing and revising 
+implementing instructions, procedures and drawings, for safety related work, 
+comply with the quality assurance program document (QAPD) and updated final 
+safety analysis report (UFSAR) commitments; 
+• Southern Nuclear Company (SNC), and c onsortium, has effectively implemented 
+the QA program implementing instructions, procedures and drawings for revising 
+implementing documents; and  
+• SNC, and consortium, personnel are trained to follow safety related instructions 
+and procedures. 
+ 
+Specifically, the inspectors interviewed responsible personnel to assess their qualification on 
+the installation of class QA1 electrical penetrations, conducted a walkdown of the off-site and 
+the on-site warehouse and storage areas to verify proper use of tracking, identification and 
+segregation procedures, and reviewed the following: 
+ 
+• tracking of training records for staff and re-qualification process maintained by 
+management; 
+• work packages in several stages of progress from in-process to already 
+completed and closed; 
+• Equipment Preservation History Cards for the inspection of components received 
+and required maintenance of equipment while in storage; 
+• a sample of Chicago Bridge and Iron (CB&I) corrective action reports (CARs) 
+associated with SNC condition reports (CRs) to verify that the issues were 
+adequately translated and an adequate solution provided;
+2 
+ 
+ 
+• the CB&I procedures governing the creation, control, and management of work 
+packages to verify conformance with the requirements in the UFSAR and 10 Code 
+of Federal Regulations (CFR) Appendix B; and 
+• eleven safety related work packages to verify that they met the requirements 
+outlined in the CB&I work package procedures. 
+ 
+b. Findings  
+ 
+No findings were identified. 
+ 
+.2 Appendix 6, Inspection of Criterion VI – Document Control  
+ 
+a. Inspection Scope  
+  
+The inspectors reviewed CB&I and SNC procedures to verify that the procedures were in 
+accordance with American Society of Mechanical Engineers (ASME) NQA-1 and 10 CFR 
+Part 50 Appendix B.  The inspectors interviewed personnel in the CB&I document control 
+centers to verify that document control activities were being performed in accordance with 
+CB&I procedures and 10 CFR Part 50 Appendix B.  The inspectors also reviewed CARs 
+for compliance with CB&I document control procedures. 
+ 
+b. Findings
+ 
+ 
+No findings were identified. 
+ 
+.3 Appendix 8, Inspection of Criterion VIII - Identification and Control of Materials, Parts and 
+Components 
+ 
+a. Inspection Scope  
+  
+The inspectors reviewed Westinghouse Electric Corporation (WEC) and CB&I procedures 
+governing material receipt, storage, and control as well as document control to verify 
+compliance with the requirements specified in the UFSAR and 10 CFR Part 50 Appendix 
+B.  Additionally, the inspectors toured warehouse locations to verify that they were in 
+accordance with CB&I and WEC storage and handling procedures.  The inspectors 
+conducted physical observations of safety-related and/or risk significant items to 
+determine if: 
+ 
+• items were properly identified; 
+• traceability of the item was consistent and accurate as documented in the 
+computer software that maintains the location, identification and status of stored 
+components; 
+• items that required inspection or tests were adequately marked; and 
+• methods used to identify nonconforming items were in agreement with associated 
+documentation. 
+ 
+b. Findings
+ 
+ 
+No findings were identified. 
+ 
+3 
+ 
+ 
+ 
+.4 Appendix 10, Inspection of Criterion X – Inspection  
+ 
+a. Inspection Scope  
+  
+The inspectors reviewed a number of SNC surveillances to determine if they were 
+completed in accordance with 10 CFR Appendix B requirements.   
+ 
+The inspectors reviewed: 
+ 
+• quality assurance inspection reports on work packages for safety related 
+penetration assemblies to verify that the latest of drawings were maintained in the 
+work packages; 
+• receipt inspection reports for pumps, ASME III items, embeds/anchors, and 
+structural steel to verify that the process was in compliance with procedures 
+indicating unsatisfactory conditions and the requirement for segregation of the 
+materials; 
+• receipt inspection report packages that included certificates of conformance, 
+material lists, pump and motor parts lists with quantities identified, associated 
+correspondence, Part 21 screening supplemental checklist, and design 
+specifications for Residual Heat Removal safety related pumps; and 
+• Engineering & Design Coordination Reports (E&DCRs) to assess evaluations 
+performed on conflicting fabrication tolerances. 
+  
+The inspectors reviewed completed surveillances and quality assurance inspection 
+reports to verify the following were included: 
+ 
+• observation or type of method used to perform inspection; 
+• item inspected and date of inspection; 
+• identification of person conducting inspection; 
+• identification or reference to acceptance criteria; 
+• results or description of inspection performed; and 
+• resolution of corrective actions for noted non-conformances or deficiencies. 
+ 
+ 
+b. Findings
+ 
+ 
+No findings were identified. 
+ 
+.5 Appendix 13, Inspection of Criterion XIII – Handling, Storage and Shipping  
+ 
+a. Inspection Scope  
+  
+The inspectors conducted a walkdown of the off-site and on-site warehouse facilities and 
+laydown yards and verified proper storage existed in accordance with licensee 
+documents and requirements.  The inspectors verified that required environmental 
+conditions were maintained and items received were properly staged for receipt 
+inspection.  Items were marked and tracked through a computer based inventory system.  
+The inspectors sampled a number of items, including Primary Dedicated Safety Panel 
+(PDSP) Console, PDSP Base, Secondary Dedicated Safety Panel Console and assorted 
+4 
+ 
+ 
+valves and verified the proper storage location as identified by the inventory system.  The 
+inspectors reviewed work packages and other documents to ensure proper tracking and 
+identification of materials outside of the storage warehouse.  The inspectors examined 
+various elements of the storage of items including the following: 
+  
+• storage levels for items were properly classified; 
+• storage location met the requirements of the intended storage level classification 
+including adequate environmental, animal/pest damage or infestation, and 
+security protection; 
+• caps, plugs, tape and plastic wrappings were used as required to prevent 
+deterioration of items; 
+• containers, crating and skids were used during storage as necessary; 
+• containers and items were adequately marked to provide for proper identification; 
+• nonconforming items discovered during receiving inspection were properly 
+identified, stored and segregated with controlled access; 
+• the storage area was well drained and paved; 
+• preventative maintenance activities for equipment in storage were identified and 
+performed; 
+• the storage area was removed from the actual construction area and traffic to 
+avoid damage from outside sources; 
+• appropriate cribbing was used; 
+• the storage area was clean and free of loose debris; 
+• temperature and humidity logs determined that this area met requirements;  
+• access to the enclosed storage area was controlled via lock; and 
+• a log was maintained to ensure that only designated personnel gained entry. 
+ 
+b. Findings
+ 
+ 
+No findings were identified. 
+ 
+.6 Appendix 14, Inspection of Criterion XIV – Inspection, Test, and Operating Status
+ 
+ 
+a. Inspection Scope  
+  
+The inspectors reviewed several condition reports issued by SNC to ensure compliance 
+with corrective action procedures and that the reports were thorough and contained 
+pertinent information and an adequate final resolution.  The inspectors also reviewed the 
+CRs for compliance with SNC document management procedures.  The inspectors 
+reviewed four Quality Assurance Surveillances conducted by SNC to verify that they were 
+completed in accordance with 10 CFR Part Appendix B requirements and established 
+SNC procedure ND-QA-003 “Nuclear Development and Consortium Member Quality 
+Assurance Surveillances,” Revision 8.  The inspectors attended a presentation and 
+discussion by the material management group for implementation of the preventive 
+maintenance processes, which included coordination with different consortium members 
+and work flow using software system “WINPCS”.  The inspectors reviewed documents to 
+verify that: 
+ 
+• personnel conducting the inspection or test are trained and qualified to perform 
+the inspection or tests;  
+• items were properly and accurately marked; and  
+5 
+ 
+ 
+• components found to be in non-conformance were marked and segregated to 
+prevent inadvertent use.  
+ 
+b. Findings  
+ 
+No findings were identified. 
+ 
+.7 Appendix 15, Inspection of Criterion XV –Nonconforming Materials, Parts, or 
+Components 
+ 
+a. Inspection Scope  
+  
+The inspectors reviewed QS 15.03 R.01.00, “Risk Release of UNSAT/Nonconforming 
+Material/Equipment” to determine the procedural adequacy to ensure that the at-risk 
+release of nonconforming items was completed and controlled in accordance with 10 
+CFR Appendix B.  The inspectors also reviewed a sample of items resolved in 
+accordance with QS 15.03 R.01.00 “Risk Release of UNSAT/Nonconforming 
+Material/Equipment”, to ensure the risk release process was being implemented as 
+specified.  In addition, the inspectors: 
+ 
+• interviewed responsible personnel and reviewed a sample of nonconformance 
+and disposition reports, issued by CB&I and WEC, to confirm that identified 
+deviations and failures to comply were promptly identified, controlled, evaluated, 
+and dispositioned; 
+• reviewed a sample of deviation notices to verify the licensee’s agents provided 
+effective oversight; 
+• conducted direct observations of the offsite and onsite materials receiving and 
+storage areas to evaluate the adequacy of controls to segregate, mark, and 
+control nonconforming items to prevent inadvertent installation or use; and 
+• reviewed a sample of nonconformance and disposition reports to verify 
+compliance with CB&I procedure NCSP-02-08, “Nonconformance Reporting and 
+Control,” Revision 0. 
+ 
+b. Findings
+ 
+ 
+No findings were identified. 
+ 
+.8 Appendix 17, Inspection of Criterion XVII – Quality Assurance Records  
+ 
+a. Inspection Scope  
+  
+The inspectors reviewed procedures for document control and record keeping from SNC, 
+CB&I, and WEC to verify that records were being stored in compliance with 10 CFR Part 
+50 Appendix B.  The inspectors also interviewed CB&I document library staff to verify that 
+the records and work packages were being stored and maintained in accordance with 
+CB&I Procedures.  Inspectors visited the satellite record keeping facility known as the 
+Nuclear Island Connex used for document access and control for activities in progress in 
+the field.  The inspectors were able to observe the process of checking out work 
+packages and their control while in use by craft personnel. 
+ 
+6 
+ 
+ 
+The inspectors performed an inspection of the Module Assembly Building remote 
+document control facility. Specifically, the inspectors verified that the following 
+requirements from the CB&I Power Standard Nuclear Quality Assurance Program, 
+Section 17, “Quality Assurance Records,” were met, such as: 
+ 
+• records were distributed, handled and controlled appropriately; 
+• the records system was sufficient to permit identification between the record and 
+the activities to which it applies; 
+• a method existed for tracking release and receipt of records from craft; 
+• the records were stored in a predetermined location that provided protection from 
+moisture and temperature; and 
+• methods were established to preclude the entry of unauthorized personnel into 
+the storage area. 
+ 
+ b.  Findings
+ 
+ 
+No findings were identified. 
+ 
+4. OTHER INSPECTION RESULTS  
+ 
+4A06 Meetings, Including Exit
+ 
+ 
+.1 Exit Meeting. 
+  
+On October 10, 2014, the inspectors presented the inspection results to Michael Yox, 
+Licensing Manager Vogtle 3&4, along with other licensee and consortium staff members. 
+The inspectors stated that no proprietary information would be included in the inspection 
+report. 
+ 
+ 
+ 
+Attachment 
+SUPPLEMENTAL INFORMATION 
+ 
+KEY POINTS OF CONTACT 
+ 
+Licensees and Contractor Personnel 
+ 
+J. Baines, CB&I Material Manager 
+W. Crisler, CB&I Quality Director  
+K. Durrwachter, SNC Licensing 
+D. Fujiyoshi, CB&I Licensing 
+G. Hiler, CB&I Quality Control 
+C. Morrow, SNC Licensing 
+B. Patterson, CB&I Document Control 
+B. Robinson, CB&I Material Manager 
+M. Yox, Licensing Manager Vogtle 3&4 
+ 
+LIST OF ITEMS OPENED, CLOSED, AND DISCUSSED 
+ 
+Opened and Closed
+ 
+None.     
+ 
+ 
+LIST OF DOCUMENTS REVIEWED 
+ 
+Appendix 5
+ 
+ 
+Procedures 
+• NCSP-02-19-2, “Work Package Planning, Development, Approval and Closure,” Rev. 3 
+• NCSP-02-12, “Construction Quality Completion Program,” Rev. 2 
+• NCSP-02-16, “Construction Documents, Records Managements and Control,” Rev. 2 
+• NCSP-02-07, “Post Acceptance Work Control,” Rev. 1 
+• PRIMI-00062, “Working with Nuclear Quality Assurance Records,” Rev. 4 
+ 
+Work Packages 
+• SV3-1000-CEW-CV0296 
+• SV3-1210-EGW-EL0355 
+• SV3-1210-EGW-EL1067 
+• SV4-1210-EGW-EL0357 
+• SV4-1210-EGW-EL1068 
+• SV3-1240-MEW-ME0739 
+• SV3-2020-MEW-ME0740 
+• SV3-2020-MEW-ME0848 
+• SV3-2020-MEW-ME0946 
+• SV3-WRS-PLW-ME0600 
+• SV3-WRS-PLW-ME0592 
+• SV3-CA20-S5W-CV1393 
+• SV4-1000-CEW-CV1479 
+ 
+Equipment Preservation Check Record  
+• SV3-DAS-JD-001 (DAS Cabinet Charging) Activity – EA50 dated: 5/29/2014
+2 
+ 
+ 
+• SV3-DAS-JD-001 (DAS Dunnage) Activity – MA605 dated: 5/29/2014 
+• SV3-DAS-JD-001 (DAS Digital Cabinet Unpa cking and Packing) Activity – MA614 dated: 
+5/29/2014 
+• SV3-DAS-JD-001 (DAS Digital Cabinet Damage) Activity – MA615 dated: 5/29/2014 
+ 
+Engineering Document Condition Reports  
+• APP-ME01-GNR-000130 
+• APP-ME01-GNR-000071 
+• APP-ME01-GNR-000103 
+• APP-ME01-GNR-000013 
+• APP-ME01-GEF-0146 
+• APP-ME01-GEF-0071 
+• APP-ME01-GEF-0103 
+• APP-ME01-GEF-0013 
+ 
+Non-conformance and Disposition Reports (NC&D) 
+• SV3-CVS-GNR-000002 
+• SV4-WLS-GNR-000006 
+• SV4-WRS-GNR-000023 
+• SV3-CA01-GNR-000131 
+• SV3-CR01-GNR-000123 
+• SV3-KB04-GNR-000001 
+• SV3-CA01-GNR-000088 
+• SV3-ME01-GNR-000130 
+  
+Appendix 6 
+ 
+Reports 
+• 2014-0528, Potential quality issue with weld testing on CA20-75A (SNC CR# 784236), 
+dated 3/7/2014 
+• 2013-1705, Dew Point test on shielding gas not performed. NRC IOC 13-64 (SNC CR 
+708205) dated 9/25/2013 
+ 
+Appendix 8
+ 
+ 
+Procedures 
+• NPP-10-01, Material Receipt, Storage, and Control, Rev. 3 
+• APP-GW-GDP-010, AP1000 Consortium Document Control Procedure, Rev. 2 
+• WEC 6.1, Document Control, Rev. 5 
+• WEC 13.1, Handling, Storage, Packaging, Cleaning, and Shipping, Rev. 2 
+• SNC ND-DC-001, Records Management, Rev. 9 
+ 
+Appendix 10
+ 
+ 
+Surveillances 
+• TE Number – 790019 CMP-SURV-Unit 3 CA05-04 Document Review 
+• TE Number – 790272 CMP-SURV-Unit 3 PZR Heater Testing and Packaging 
+• TE Number – 790282 CMP-SURV-Unit 3 AP1000 ACTs Final Data Packages 
+3 
+ 
+ 
+• TE Number – 794905 CMP-SURV-U3 Aux. Bldg. Area 2 Electric wall penetrations El 66-6 
+to 82-6 (Column L to I) 
+  
+Inspection Reports 
+• IR Number 132175-QA-E204-14-0209 dated: 7/24/2014 
+• IR Number 132175-QA-E225-001-14-0166 dated: 7/24/2014 
+  
+Receipt Inspection Reports 
+• Receipt inspection of WEC Procured-ASME III Items IR Number Q445-014-14-0001 
+PUMPXX dated: 1/22/2014  
+• Receipt inspection of WEC Procured-ASME III Items IR Number Q445-014-14-0002 
+PUMPXX dated: 1/13/2014 with inspection plan 
+• Receipt inspection of Non-ASME IR Number Q445-011-14-0728 Embeds dated: 
+09/03/2014 
+• Receipt inspection of Modules – Structural IR Number Q445-004-14-0149 STRSTL 
+dated: 08/21/2014 with inspection plan 
+  
+Design Specifications 
+• APP-MP08-Z0-001, Rev. 7  
+  
+Drawings 
+• APP-MP08-V1-001, RNS Centrifugal Normal Residual Heat Removal Pump A Outline 
+Drawing, Rev. 0 
+• APP-MP08-V1-002, RNS Centrifugal Normal Residual Heat Removal Pump B Outline 
+Drawing, Rev. 0  
+• 30157, Embed Plates – Type D2 Special (Cives Steel Company) dated: 03/27/2014 – 
+Construction Number SV4-CE01-CE-852223-R0, Rev. 0  
+• 30101, Embed Plates – Type N3 /3’-3” (Cives Steel Company) dated: 03/03/2014 – 
+Construction Number SV4-CE01-CE-852009-R0, Rev. 8 
+• 3104, Plate – Type DTN-H/3’-9 (Cives Steel Company) dated: 02/07/2014 – Construction 
+Number SV4-CE01-CE-852133-R0, Rev. 0   
+  
+Engineering & Design Coordination Report  
+• E&DCR Number APP-SS01-GEF-073, Embedment Plate Fabrication Tolerances, Rev. 0 
+ 
+Appendix 13 
+ 
+Procedures 
+• NCSP-02-08, “Non-conformances Reporting and Control,” Rev. 0 
+• NPP-10-01, Material Receipt, Storage, and Control, Rev. 3 
+• APP-GW-GDP-010, AP1000 Consortium Document Control Procedure, Rev. 2 
+• WEC 6.1, Document Control, Rev. 5 
+• WEC 13.1, Handling, Storage, Packaging, Cleaning, and Shipping, Rev. 2 
+• SNC ND-DC-001, Records Management, Rev. 9 
+ 
+Reports 
+• SV3-KB14-GNR-000001 , “KB14 Dimensional discrepancies,” Rev. 0 
+• SV4-ER01-GNR-000001, “MRR 14-04291 Cable Tray,” Rev. 0 
+• SV3-CR01-GNR-000123, “T-head dowel bent incorrectly U3 CVBH,” Rev. 0 
+4 
+ 
+ 
+• SV4-SS01-GNR-000036, “SV4-CH80_copes,” Rev. 0 
+• SV4-CE01-GNR-000023, “MRR14-00900 Embeds,” Rev. 0 
+• SV4-WRS-GNR-000023, “Lack of Fusion,” Rev. 0 
+• SV3-CA01-GNR-000038, “SV3-CA01-37 FLATNESS OUT OF TOLERANCE,” Rev. 0 
+• SV4-WLS-GNR-000006, “Identification marking on spooled Pipe,” Rev. 0 
+  
+Appendix 14 
+ 
+Condition Reports 
+• 789011, Potential quality issue with weld tests, dated 3/18/2014 
+• 784236, Potential quality issue with weld testing on CA20-75A, dated 3/07/2014 
+• 703542, The 50.55(e) evaluation as performed by  AMEC on constituent testing by CTL 
+Group is inadequate , dated 9/13/2013 
+• 708205, NRC IOC 13-64 Dew Point Test on Shielding Gas not Performed, dated 
+9/25/2013 
+• 859203, IOC 14-401, U3 RPV weld procedure testing requirements, dated 8/29/2014 
+• 878463, NRC IOC 14-53 Work Package Signatures Observation, dated 10/10/2014 
+• 878471, NRC IOC 14-54 Nonconformance Identification Potential Minor violation, dated 
+10/10/2014 
+ 
+Surveillances 
+• ND-QA-003, Quality Assurance Surveillances, Rev. 8.0 
+• TE Number – 809570 CMP-SURV-Unit 4 Reactor Closure Head Storage, Completed 
+7/10/2014  
+• TE Number – 799611 CMP-SURV-Vogtle Unit 4 – AP1000 Accumulators (ACTs) A&B 
+Tanks Final Data package Review, Completed 8/8/2014 
+• TE Number – 803962 CMP-SURV-Unit 4 – Digital Rod Control System Factory 
+Acceptance Testing (DRCS FAT), Completed 5/19/2014 
+• TE Number – 805141 CMP-SURV-U3 Squib Valves, Completed 6/16/2014 
+ 
+Appendix 15 
+ 
+Procedures 
+• QS 15.03 R.01.00, “Risk Release of UNSAT/Nonconforming Material/Equipment”, Rev. 1 
+• V-RL-14-0109, “Release of SG Support Columns for Installation”, dated 8/25/2014 
+• SV3-PH01-GNR-000001, “SG Columns Base Plate Dimension”, Rev. 0 
+• V-RL-14-0128, “Embed Plate APP-12161-CE-PW815 for U4”, Rev. 0 
+• SV4-CE01-GNR-000024, “U4 APP-12161-CE-PW815 Plate w Bent DWA”, Rev. 0 
+  
+Reports 
+• SV3-CA03-GNR-000006, CA03-06 Nelson Studs Bend, Rev. 0  
+• SV3-CA20-GNR-000455, CA20 Chamfered Holes for OLPs, Rev. 0 
+• SV3-KB14-GNR-000002, KB14 Pipe Slope, Rev. 0  
+• SV3-SS01-GNR-000310, Defect in I-Beam Plate, Rev. 0  
+• SV3-KB04-GNR-000001, KB04 Dimensional Discrepancies, Rev. 0  
+• SV3-CA01-GNR-000096, CA01-47 Unsat Structural IR Items,  Rev. 0  
+• SV3-CA01-GNR-000090, CA01-18 Bowed Rebar, Rev. 0  
+• SV2-CA01-GNR-000092, CA01-32 QC Reassessment, Rev. 0 
+  
+5 
+ 
+ 
+LIST OF ACRONYMS 
+ 
+ 
+ADAMS Agencywide Documents Access & Management System 
+AP1000 Advanced Passive Pressurized Water Reactors 
+ASME American Society of Mechanical Engineers 
+CAR Corrective Action Report 
+CB&I Chicago Bridge & Iron 
+CFR Code of Federal Regulations 
+CR Condition Report 
+E&DCR Engineering and Design Coordination Report 
+NRC Nuclear Regulatory Commission 
+PARS Publicly Available Records 
+PDSP Primary Dedicated Safety Panel 
+QA Quality Assurance 
+QAPD Quality Assurance Program Description  
+SNC Southern Nuclear Company 
+UFSAR Updated Final Safety Analysis Report 
+WEC Westinghouse Electric Corporation 
+ 

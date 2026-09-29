@@ -1,0 +1,284 @@
+TM he Shaw Group Inc F&M SMS FRE
+Shaw Modular Solutions
+February 22, 2011
+Page 1 of 3
+United States Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, DC 20555-0001
+Subject: Shaw Modular Solutions (SMS) response to NRC letter to SMS dated January 24, 2011;
+regarding NRC Vendor Inspection of SMS conducted from January 10 to 12, 2011
+Reference: Docket number 99901-401
+This letter and its Enclosure provide the SMS response to the subject letter. As requested, information
+is provided regarding the technical and programmatic challenges that SMS has identified, plus the
+proposed corrective actions that SMS plans on implementing to address those challenges.
+The technical and programmatic challenges that SMS has identified since initiation of fabrication
+activities in May 2010 are in the areas of:
+* Quality Assurance
+* Training
+* Corrective Action
+* Management Oversight
+* Welding
+* Material and Nonconforming Material Control
+Actions have been taken to assemble and trend the challenges that have been identified, plus the
+feedback received from Shaw Nuclear Services (SNS) and their AP 1000 clients. Analysis of the
+feedback identified a commonality of issues which facilitated the development of an action plan to
+address the challenges. The actions are related to the following general topics:
+* Nuclear Safety Culture
+" Quality Assurance
+" Nuclear Fundamentals
+- Corrective Action Program
+- Procedure Quality, Use and Adherence
+- Human Performance
+- Training
+- Management Oversight
+Shaw Group Inc F&M SMS FRE
+Shaw Modular Solutions
+3191 W. Lincoln Rd. 606 -
+Lake Charles, LA 70605
+337-562-3439 Main 337-562-3490 Fax
+
+S T The Shaw Group Inc F&M SMS FREShaw Modular Solutions
+February 22, 2011
+Page 2 of 3
+Subject: SMS response to NRC letter dated January 24, 2011, cont'd
+* Process Improvement
+- General
+- Welding
+- Work Control
+- Material Control
+SMS is committed to enhancing and maintaining a sustainable nuclear safety culture and regulatory
+compliance program that demonstrates our understanding of regulatory compliance and meets or
+exceeds the appropriate regulations.
+In addition to the above-requested information, the subject letter requested that SMS provide dates
+regarding when SMS expects to be in full production of structural and mechanical AP 1000 sub-
+modules, and the expected date of the first shipment of AP 1000 modules.
+SMS expects to be at a high level of production of structural modules in early June 2011. SMS
+expects that shipment of the first structural sub-module will occur the end of June 2011. Fabrication
+of mechanical modules will follow the structural modules. SMS will provide an update when the
+schedule for the mechanical modules is finalized. If schedule changes are necessary, SMS will
+promptly notify the NRC.
+Several challenge areas have been identified as a result of recent assessments, audits and program
+implementation. SMS is committed to the establishment and maintenance of a nuclear safety culture
+and regulatory compliance program that demonstrates our understanding of regulatory compliance and
+meets or exceeds the appropriate regulations.
+SMS appreciates the resources necessary to establish, and the efforts required to implement, a
+regulatory compliance program that demonstrates the level of effectiveness expected for the scope of
+supply we are providing to the nuclear industry. We recognize the importance of having a
+management team that possesses nuclear industry experience, and/or is supplemented by other
+experienced individuals until such time as that experience is acquired internally. We are taking, and
+will continue to take, actions in that area. We recognize and embrace an environment of continuously
+rising standards and process improvement. We have taken, are taking and will continue to take those
+actions needed to elevate our program implementation to the level of effectiveness appropriate to the
+fabrication of AP 1000 modules.
+Shaw Group Inc F&M SMS FRE
+Shaw Modular Solutions
+3191 W. Lincoln Rd.
+Lake Charles, LA 70605
+337-562-3439 Main 337-562-3490 Fax
+
+lTM The Shaw Group Inc F&M SMS FRE
+S h a- --w-- Shaw Modular Solutions
+February 22, 2011
+Page 3 of 3
+Subject: SMS response to NRC letter dated January 24, 2011, cont'd.
+SMS regrets that the status of activities at the time of the NRC inspection did not facilitate completion
+of the inspection as planned. We trust that the information provided in this letter and its Enclosure is
+satisfactory. If any further information or clarification is needed, please do not hesitate to contact me.
+Very truly yours,
+ZJ eph L. Ernst
+'Executive Vice President
+Shaw Modular Solutions
+Enclosure
+C: D. Chapman
+J. H. Martin
+M. Moser
+R. Rehkugler
+SMS Document Control
+J. Peralta, Chief
+Quality and Vendor Branch 1
+Division of Construction Inspection and Operational Programs
+Office of New Reactors
+United States Nuclear Regulatory Commission
+K. Kavanagh
+Senior Reactor Engineer
+Office of New Reactors
+United States Nuclear Regulatory Commission
+Shaw Group Inc F&M SMS FRE
+Shaw Modular Solutions
+3191 W. Lincoln Rd.
+Lake Charles, LA 70605
+337-562-3439 Main 337-562-3490 Fax
+
+Sh T  TM The Shaw Group Inc F&M SMS FRE
+Shaw Modular Solutions
+Enclosure to SMS response to NRC letter dated January 24, 2011
+Page 1 of 5
+This Enclosure provides the Shaw Modular Solutions (SMS) reply to items 1 and 2 of the United
+States Nuclear Regulatory Commission (NRC) letter dated January 24, 2011. NRC Request items 3
+and 4 are addressed in the letter transmitting this enclosure.
+NRC REQUEST
+1. (Provide) a description of the technical and programmatic challenges that SMS has identified
+during its self-assessment conducted in December 2010.
+SMS RESPONSE
+In addition to the self-assessments conducted in December 2010, multiple audits and assessments were
+performed in 2010, pertinent conclusions of which are included in this response for completeness.
+SMS identified one issue related to welding capabilities as a technical challenge area. All other
+challenge areas are considered to be programmatic in nature. The corresponding corrective actions for
+each issue are addressed in the response to NRC Request item 2.
+A) Quality Assurance
+Through various self-assessments and external reviews, SMS has determined that the Quality
+Assurance (QA) organization was not sufficiently independent from the execution of program
+activities. Members of the QA organization were frequently relied on to develop and
+implement processes and procedures. The skills and knowledge level of some members of the
+QA organization require improvement.
+B) Training
+Assessments, Corrective Action Reports (CAR) and other sources of input identified
+weaknesses in the SMS training program. Effectiveness improvement in several areas,
+including QA, Quality Control (QC), welding and material control, are needed.
+C) Corrective Action Program (CAP)
+The CAP had not been effectively implemented with regard to timely issue identification and
+resolution, resolution adequacy, and determination of the cause(s) for significant conditions
+adverse to quality.
+Shaw Group Inc F&M SMS FRE
+Shaw Modular Solutions
+3191 W. Lincoln Rd.
+Lake Charles, LA 70605
+337-562-3439 Main 337-562-3490 Fax
+
+T M The Shaw Group Inc F&M SMS FRE
+S:Ni64 Shaw Modular Solutions
+Enclosure to SMS response to NRC letter dated January 24, 2010, cont'd.
+Page 2 of 5
+D) Management Oversight
+The level and effectiveness of management oversight of daily activities was determined to be
+inadequate based on the quality of work, including fabrication and process development
+activities, performed to date.
+E) Welding capabilities
+A self-assessment concluded that improvement was needed with regard to the welding skills
+and technical knowledge of a number of SMS welding personnel.
+F) Material and Nonconforming Material Controls
+An internal audit identified that material storage areas were not clearly marked, including
+differentiation of nonconforming materials. Additionally, controls for tracking receipt and use
+of materials needed improvement.
+NRC REQUEST
+2. (Provide) the proposed corrective actions that SMS plans on implementing to address the
+technical and programmatic challenges.
+SMS RESPONSE
+After the recent NRC inspection at SMS, actions were taken to assemble and trend the challenges that
+had been self-identified or raised by other entities. These analyses resulted in the development of an
+action plan to address the challenges. The following topics are the focus of the plan.
+* Nuclear Safety Culture
+" Quality Assurance
+* Nuclear Fundamentals
+- Corrective Action Program
+- Procedure Quality, Use and Adherence
+- Human Performance
+- Training
+- Management Oversight
+Shaw Group Inc F&M SMS FRE
+Shaw Modular Solutions
+3191 W. Lincoln Rd.
+Lake Charles, LA 70605
+337-562-3439 Main 337-562-3490 Fax
+
+A he Shaw Group Inc F&M SMS FRE
+M Shaw Modular Solutions
+Enclosure to SMS response to NRC letter dated January 24, 2010, cont'd.
+Page 3 of 5
+Process Improvement
+- General
+- Welding
+- Work Control
+- Material Control
+The goal of the action plan is to ingrain nuclear industry expectations and high standards into the
+workforce and processes. The plan is designed to ensure regulatory margin above minimum
+compliance. The status of this plan is updated routinely, with periodic status reports to SNS and its
+AP1000 clients.
+A comprehensive listing of actions related to each of these categories has been developed and
+populated with owners and specific due dates. The action items have been prioritized to support the
+production and shipment dates referenced in this letter. The actions provided below are correlated to
+the challenge areas identified in the response to NRC Request item 1 above.
+A) Quality Assurance
+1. Establish independence of the QA and QC organizations by realigning organizational
+responsibilities.
+2. Revise the SMS QA Manual and implementing procedures to reflect organization and
+process changes.
+3. Determine the need for additional resources.
+B) Training
+1. Establish training standards and expectations for each department.
+2. Ensure SMS management is familiar with the relevant lessons learned that are identified in
+NUREG-1055, "Improving Quality and the Assurance of Quality in the Design and
+Construction of Nuclear Power Plants", and is committed to avoiding the concerns raised in
+NUREG-1055.
+3. Improve the process and tools in place to ensure ongoing personnel training effectiveness.
+4. Enhance SMS personnel understanding of the importance of training and ensure that they
+are fully capable of and committed to effectively administering the training.
+5. Develop performance metrics to assess the effectiveness of SMS training.
+6. Improve the technical process/procedural knowledge and welding skills of SMS welding
+personnel.
+Shaw Group Inc F&M SMS FRE
+Shaw Modular Solutions
+3191 W. Lincoln Rd.
+Lake Charles, LA 70605
+337-562-3439 Main 337-562-3490 Fax
+
+TM The Shaw Group Inc F&M SMS FRE
+•W Shaw Modular Solutions
+Enclosure to SMS response to NRC letter dated January 24, 2010, cont'd.
+Page 4 of 5
+7. Improve the methods by which requisite skills and knowledge are identified, evaluated,
+imparted and measured for existing and future/incoming welding personnel.
+8. Conduct additional training to improve the skills and knowledge of existing and
+future/incoming QA management and staff personnel.
+9. Reinforce and confirm QC personnel understanding of the expectations and standards
+applicable to working in a nuclear safety related work environment.
+10. Train all employees on expectations and use of the CAP.
+C) Corrective Action Program (CAP)
+1. Transfer "ownership" and administration of the CAP from the Independent Oversight
+organization to the Operations organization.
+2. Deploy new CAP process attributes (e.g., electronic tracking, trending program, Corrective
+Action Review board, performance metrics) to improve the level of CAP sophistication and
+effectiveness.
+3. Resolve the Significant Conditions Adverse to Quality (SCAQ) that have been previously
+identified.
+4. Perform a common cause evaluation related to current and past SCAQs.
+5. Implement the CAP in a manner to ensure that SMS work processes receive ongoing
+scrutiny to identify and implement identified improvements, contributing to identifying
+potential problems before they manifest themselves.
+6. Revise the CAP process to allow entry of conditions by any employee.
+D) Management Oversight
+1. Reinforce, on an ongoing basis, the expectations of a nuclear safety related work
+environment and the need to utilize and adhere to established procedural requirements.
+2. Enhance the amount and quality of SMS management/supervisory oversight of daily work
+activities.
+3. Develop, issue and use a procedure for pre-job briefings, including standard criteria,
+actions, responsibilities, schedule, communication and quality expectations.
+E) Welding capabilities
+1. Develop, issue, and use a SMS Welding Manual that addresses applicable Code
+requirements.
+Shaw Group Inc F&M SMS FRE
+Shaw Modular Solutions
+3191 W. Lincoln Rd.
+Lake Charles, LA 70605
+337-562-3439 Main 337-562-3490 Fax
+
+S The Shaw Group Inc F&M SMS FRESh~~~TM Sa
+Shaw Modular Solutions
+Enclosure to SMS response to NRC letter dated January 24, 2010, cont'd.
+Page 5 of 5
+2. Develop, issue, and use a listing of fabrication standards and acceptance criteria for
+welders, fitters and supervisors.
+3. Update the Weld Log portion of the Shop Traveler to include documentation of all weld-
+related activities.
+4. Develop, issue, and use a Standard Repair procedure for welding activities.
+F) Material and Nonconforming Material Controls
+1. Revise labeling, signage, and access controls in material storage locations to support
+differentiation of accepted and nonconforming material and revise governing procedures
+accordingly.
+2. Revise marking and tagging requirements of materials comprised of multiple parts to
+assure effective accountability and traceability.
+Shaw Group Inc F&M SMS FRE
+Shaw Modular Solutions
+3191 W. Lincoln Rd.
+Lake Charles, LA 70605
+337-562-3439 Main 337-562-3490 Fax

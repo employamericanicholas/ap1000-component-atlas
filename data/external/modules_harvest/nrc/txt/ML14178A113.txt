@@ -1,0 +1,89 @@
+CB&I
+128 South Tryon Street
+Charlotte, NC 28202
+Tel: +1 704 343 7500
+www.CBI.com
+10 CFR 21.21
+June 10, 2014
+U.S. Nuclear Regulatory Commission
+Attn: Document Control Desk
+Washington, DC 20555-0001
+SUBJECT: INTERIM 10 CFR PART 21 REPORT REGARDING SUBMODULE CA01-37
+NONCONFORMANCES FOR V.C. SUMMER UNIT 2 AP1000 PROJECT
+The attachment to this letter provides an updated interim report in accordance with 10 CFR 21.21
+pertaining to submodule CA01-37 supplied by CB&I Lake Charles for the V.C. Summer Unit 2 AP 1000
+nuclear project. Based on inspections of this submodule on April 11, 2014, several nonconformances
+were discovered including missing leak chase channel installation, a portion of the submodule that did
+not meet flatness specification, welding configuration deviations, and visible arc strikes.
+Evaluation of reportability in accordance with 10 CFR Part 21 was not able to be completed within the
+60-day evaluation period due to the initial evaluation of the identified deviations, which incorrectly
+assumed that the submodule was not yet considered delivered. A corrective action report has been
+initiated that documents the failure to perform the required evaluation within 60 days as required by 10
+CFR Part 21. It is currently expected that the evaluation of this condition will be completed by July 30,
+2014.
+If you have any. questions, pertaining to this information, please contact Curtis Castell, Licensing
+Manager, at 980-321-8314.
+Sincerely,
+Don DePierro
+Senior Vice Piesident, Nuclear: , ::.......a. -:... a..
+cc:. Regional Administrator, USNRC, Region II
+a .a... a,-.. . • * .. ; , .*
+"- . . . " a .. . . * -'  '! 'i : 'I'-' *:' . '. . . . . .Attachr .•er.t- . .r . . , .. ..
+•.',." ."....i . ......... . . "s...... . . .. ... "
+
+Attachment to Letter Dated June 10, 2014
+Page 1 of 2
+INTERIM 10 CFR PART 21 REPORT REGARDING SUBMODULE CAO1-37 DEVIATIONS FOR
+V.C. SUMMER UNIT 2 AP1000 PROJECT
+This report is being provided as an interim report in accordance with 10 CFR 21.21.
+(i) Name and address of the individual or individuals informing the Commission.
+Mr. Don DePierro
+CB&I Nuclear
+128 S. Tryon St., Suite 1000
+Charlotte, NC 28202
+(ii) Identification of the facility, the activity, or the basic component supplied for such facility or such activity
+within the United States which fails to comply or contains a defect.
+No basic components have been determined to fail to comply or contain a defect. This is an interim report. CB&I
+Lake Charles is supplying basic components associated with modular construction for the V.C. Summer Unit 2
+AP1000 nuclear project. Several nonconformances associated with submodule CA01-37 were discovered
+including missing leak chase channel installations, a portion of the submodule that did not meet flatness
+specification, welding configuration deviations, and visible arc strikes. The nonconforming condition was
+identified for repair. The CAOI module is a structural construction module for the inside of containment vessel.
+(iii) Identification of the firm constructing the facility or supplying the basic component which fails to comply or
+contains a defect.
+No basic components have been determined to fail to comply or contain a defect. This is an interim report. The
+nonconformances pertain to submodule fabrication that was performed by CB&I Lake Charles, 3191 West
+Lincoln Rd., Lake Charles, LA 70605.
+(iv) Nature of the defect or failure to comply and the safety hazard which is created or could be created by such
+defect or failure to comply.
+No basic components have been determined to fail to comply or contain a defect. This is an interim report.
+Evaluation of the condition is in progress and is expected to be completed by July 30, 2014.
+Based on inspections of this submodule on April 11, 2014, several nonconformances were discovered including
+missing leak chase channel installation, a portion of the submodule that did not meet flatness specification,
+welding configuration deviations, and visible arc strikes. These nonconformances were apparently introduced
+during fabrication of submodule CA01-37. The nonconforming conditions have been identified for repair.
+(v) The date on which the information of such defect or failure to comply was obtained.
+The discovery date of the deviation is April 11, 2014, based on the date of initiation of the inspection report that
+documents the deviation.
+
+-P
+Attachment to Letter Dated June 10, 2014
+Page 2 of 2
+(vi) In the case of a basic component which contains a defect or fails to comply, the number and location of these
+components in use at, supplied for, being supplied for, or may be supplied for, manufactured, or being
+manufactured for one or more facilities or activities subject to the regulations in this part.
+No basic components have been determined to fail to comply or contain a defect. This is an interim report.
+(vii) The corrective action which has been, is being, or will be taken; the name of the individual or organization
+responsible for the action; and the length of time that has been or will be taken to complete the action.
+No basic components have been determined to fail to comply or contain a defect. This is an interim report. The
+nonconforming condition was identified for repair.
+Evaluation of reportability in accordance with 10 CFR Part 21 was not able to be completed within the 60 day
+evaluation period due to the initial evaluation of the identified deviations, which incorrectly assumed that the
+submodule was not yet considered delivered. A corrective action report has been initiated that documents the
+failure to perform the required evaluation within 60 days as required by 10 CFR Part 21. It is currently expected
+that the evaluation of this condition will be completed by July 30, 2014.
+(viii) Any advice related to the defect or failure to comply about the facility, activity, or basic component that has
+been, is being, or will be given to purchasers or licensees.
+None at this time.
+(ix) In the case of an early site permit, the entities to whom an early site permit was transferred.
+Not applicable.

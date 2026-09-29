@@ -1,0 +1,2622 @@
+ 
+ 
+ 
+ 
+ 
+March 21, 2014 
+ 
+Mr. Kevin Walsh, Executive Vice President 
+Chicago Bridge & Iron Lake Charles 
+3191 West Lincoln Road 
+Lake Charles, LA  70605 
+ 
+SUBJECT:  NUCLEAR REGULATORY COMMISSION INSPECTION REPORT 
+        NO. 99901425/2014-201, NOTICE OF NONCONFORMANCE 
+ 
+Dear Mr. Walsh: 
+ 
+From February 3–7, 2014, U.S. Nuclear Regulatory Commission (NRC) staff conducted an 
+inspection at the Chicago Bridge & Iron Lake Charles (CB&I LC) facility in Lake Charles, LA.  
+The purpose of this limited-scope routine inspection was to assess CB&I LC’s compliance with 
+provisions of Title 10 of the Code of Federal Regulations (10 CFR) Part 21, “Reporting of 
+Defects and Noncompliance,” and selected portions of Appendix B, “Quality Assurance Program 
+Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to 10 CFR Part 50, “Domestic 
+Licensing of Production and Utilization Facilities.” 
+ 
+This technically focused inspection specifically evaluated CB&I LC’s implementation of quality 
+activities associated with the fabrication and inspection activities of Westinghouse Electric 
+Company’s AP1000 reactor design structural sub-modules for commercial nuclear power plant 
+applications.  The enclosed report presents the results of the inspection.  This NRC inspection 
+report does not constitute NRC endorsement of CB&I LC’s overall quality assurance (QA) 
+program.  During this inspection, the NRC inspection team reviewed inspection and 
+manufacturing activities associated with inspections, tests, analyses, and acceptance criteria 
+(ITAAC) from Revision 19 of the certified AP1000 Design Control Document (DCD), Tier 1.  
+Specifically, these activities were associated with the future closure of ITAAC 3.3.0.0.02a.i.a.  
+The NRC inspection team did not identify any findings associated with the ITAAC contained in 
+Section (4) of the attachment to this report. 
+ 
+The NRC inspection team also evaluated CB&I LC’s safety conscious work environment 
+(SCWE) and actions taken to address the April 18, 2013 Chilled Environment Letter.  The 
+SCWE has improved since previous inspections.  Most personnel said that they were willing and 
+able to raise concerns through multiple avenues without fear of harassment, intimidation, 
+retaliation or discrimination.  The team has concluded, that the corrective actions taken, if 
+continued to be implemented, will result in a sustained SCWE. 
+ 
+Based on the results of this inspection, the NRC inspection team found that the implementation 
+of your QA program did not meet certain regulatory requirements imposed on you by your 
+customers or NRC licensees.  Specifically, the NRC inspection team determined that CB&I LC 
+was not fully implementing its QA program in the areas of corrective action and control of 
+nonconforming items.  The enclosed notice of nonconformance (NON) with this letter identifies 
+the specific findings and references to the pertinent requirements, and the enclosed inspection 
+report describes in detail the circumstances surrounding it. 
+K. Walsh - 2 - 
+ 
+It is important to note that the NRC inspection team performed a limited scope inspection.  
+Issues were not identified in all areas reviewed; however, the NRC inspection team was 
+hindered by the ongoing CB&I LC initiated Stop-Work Order in effect.  The NRC inspection team 
+noted the CB&I LC’s continued challenges with the corrective action program to prevent 
+reoccurrence of conditions adverse to quality.  Additionally, the NRC inspection team identified 
+several missed opportunities that should have led to an earlier initiation of the Stop-Work Order.  
+In your response to the NON, CB&I LC should document the progress of the Stop-Work Order 
+and determine if there are impacts on previously fabricated sub-modules. 
+ 
+Please provide a written explanation or statement within 30 days of this letter in accordance with 
+the instructions specified in the enclosed NON.  The agency will consider extending the 
+response time if you show good cause for us to do so. 
+ 
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,” 
+of the NRC’s “Rules of Practice,” the NRC will make available electronically for public inspection 
+a copy of this letter, its enclosure, and your response through the NRC Public Document Room 
+or from the NRC’s Agencywide Documents Access and Management System (ADAMS), which 
+is accessible at http://www.nrc.gov/reading-rm/adams.html.  To the extent possible (and if 
+applicable), your response should not include any personal privacy, proprietary, or Safeguards 
+Information so that it can be made available to the public without redaction.  If personal privacy 
+or proprietary information is necessary to provide an acceptable response, please provide a 
+bracketed copy of your response that identifies the information that should be protected and a 
+redacted copy of your response that deletes such information.  If you request that such material 
+be withheld from public disclosure, you must specifically identify the portions of your response 
+that you seek to have withheld and provide in detail the bases for your claim (e.g., explain why 
+the disclosure of information would create an unwarranted invasion of personal privacy or 
+provide the information required by 10 CFR 2.390(b) to support a request for withholding 
+confidential commercial or financial information).  If Safeguards Information is necessary to 
+provide an acceptable response, please provide the level of protection described in 
+10 CFR 73.21, “Protection of Safeguards Information:  Performance Requirements.” 
+ 
+Sincerely, 
+ 
+ 
+/RA/ 
+ 
+Kerri A. Kavanagh, Chief 
+Quality Assurance Vendor Inspection Branch 
+Division of Construction Inspection  
+  and Operational Programs 
+Office of New Reactors 
+ 
+Docket No.:  99901425 
+ 
+Enclosures: 
+1.  Notice of Nonconformance  
+2.  Inspection Report No. 99901425/2014-201 
+       and Attachment 
+K. Walsh - 2 - 
+ 
+It is important to note that the NRC inspection team performed a limited scope inspection.  
+Issues were not identified in all areas reviewed; however, the NRC inspection team was 
+hindered by the ongoing CB&I LC initiated Stop-Work Order in effect.  The NRC inspection team 
+noted the CB&I LC’s continued challenges with the corrective action program to prevent 
+reoccurrence of conditions adverse to quality.  Additionally, the NRC inspection team identified 
+several missed opportunities that should have led to an earlier initiation of the Stop-Work Order.  
+In your response to the NON, CB&I LC should document the progress of the Stop-Work Order 
+and determine if there are impacts on previously fabricated sub-modules. 
+ 
+Please provide a written explanation or statement within 30 days of this letter in accordance with 
+the instructions specified in the enclosed NON.  The agency will consider extending the 
+response time if you show good cause for us to do so. 
+ 
+In accordance with 10 CFR 2.390, “Public Inspections, Exemptions, Requests for Withholding,” 
+of the NRC’s “Rules of Practice,” the NRC will make available electronically for public inspection 
+a copy of this letter, its enclosure, and your response through the NRC Public Document Room 
+or from the NRC’s Agencywide Documents Access and Management System (ADAMS), which 
+is accessible at http://www.nrc.gov/reading-rm/adams.html.  To the extent possible (and if 
+applicable), your response should not include any personal privacy, proprietary, or Safeguards 
+Information so that it can be made available to the public without redaction.  If personal privacy 
+or proprietary information is necessary to provide an acceptable response, please provide a 
+bracketed copy of your response that identifies the information that should be protected and a 
+redacted copy of your response that deletes such information.  If you request that such material 
+be withheld from public disclosure, you must specifically identify the portions of your response 
+that you seek to have withheld and provide in detail the bases for your claim (e.g., explain why 
+the disclosure of information would create an unwarranted invasion of personal privacy or 
+provide the information required by 10 CFR 2.390(b) to support a request for withholding 
+confidential commercial or financial information).  If Safeguards Information is necessary to 
+provide an acceptable response, please provide the level of protection described in 
+10 CFR 73.21, “Protection of Safeguards Information:  Performance Requirements.” 
+ 
+Sincerely, 
+ 
+ 
+/RA/ 
+ 
+Kerri A. Kavanagh, Chief 
+Quality Assurance Vendor Inspection Branch 
+Division of Construction Inspection  
+  and Operational Programs 
+Office of New Reactors 
+ 
+Docket No.:  99901425 
+ 
+Enclosures: 
+1.  Notice of Nonconformance  
+2.  Inspection Report No. 99901425/2014-201 
+       and Attachment 
+DISTRIBUTION: 
+See next page 
+ADAMS Accession No.:  ML14072A315     NRO-002 
+OFFICE NRO/DCIP/QVIB NRO/DCIP/QVIB NRO/DCIP/MVIB NRR/DIRS/IPAB NRR/DAR/AHPB 
+NAME TKendzia RLaura YDiaz-Castillo DWillis MKeefe 
+DATE 03/18/14 03/18/14 03/18/14 03/18/14 03/14/14 
+OFFICE RII/DCI/CIB3 RII/DCI/CIB2 RII/DCI/CIB3 NRO/DCIP/MVIB NRO/DCIP/MVIB 
+NAME AArtayet APonko JChristensen RPatel MAnderson 
+DATE 03/17/14 03/17/14 03/14/14 03/14/14 03/18/14 
+OFFICE NRO/DCIP/QVIB NRO/DCIP NRO/DCIP/QVIB   
+NAME PPrescott TFrye KKavanagh   
+DATE 03/21/2014 03/21/2014 03/21/2014   
+      OFFICIAL RECORD COPY 
+ 
+ 
+DISTRIBUTION 
+ 
+JHeisserer 
+RMusser 
+KKavanagh 
+ASakadales 
+ERoach 
+JCrutchley 
+RRasmussen 
+kevin.walsh@cbi.com 
+ 
+ 
+  ENCLOSURE 
+NOTICE OF NONCONFORMANCE 
+ 
+Chicago Bridge & Iron Lake Charles      Docket No. 99901425 
+3191 West Lincoln Road       Report No. 2014-201 
+Lake Charles, LA  70605 
+ 
+Based on the results of a U.S. Nuclear Regulatory Commission (NRC) inspection conducted at 
+the Chicago Bridge & Iron Lake Charles (CB&I LC) facility in Lake Charles, LA, from 
+February 3, 2014 through February 7, 2014, it appears that certain activities were not conducted 
+in accordance with NRC requirements contractually imposed on CB&I LC by its customers or 
+NRC licensees: 
+ 
+A. Criterion XV, “Nonconforming Materials, Parts, or Components,” of Appendix B, 
+“Quality Assurance Criteria for Nuclear Power Plants and Fuel Reprocessing 
+Plants,” to Title 10 of the Code of Federal Regulations (10 CFR) Part 50, “Domestic 
+Licensing of Production and Utilization Facilities,” states in part that, “Measures 
+shall be established to control materials, parts, or components which do not 
+conform to requirements in order to prevent their inadvertent use or installation.  
+These measures shall include, as appropriate, procedures for identification, 
+documentation, segregation, disposition, and notification to affected organizations.” 
+Section 15.0, “Control of Nonconforming Items,” CB&I LC’s Quality Assurance 
+Manual (QAM), Revision 8, dated September 13, 2013, states, “Items that do not 
+conform to specified requirements shall be identified and controlled to prevent 
+inadvertent installation or use, and further processing beyond a point where the non-
+conforming condition can no longer be corrected.” 
+ 
+Section 6.12, “Implementing instructions for NCRs,” of CB&I LC Administrative 
+Procedure QP-CA-215, “Control of Nonconforming Items,” Revision 0, dated October 
+31, 2012, step 6.12.2 states in part, “the initiator completes appropriate blocks in the 
+software form or on a hard copy”, and attachment 1 block 15 to QP-CA-215 is where 
+the initiator describes the “Nonconforming Condition”.  Also in QP-CA-215 the Manager 
+QC is designated as responsible to perform step 6.12.4.a, which states, “Reviews the 
+identified condition on the NCR and determines if nonconforming condition is valid.” 
+ 
+Contrary to the above, as of February 7, 2014, CB&I LC failed to adequately 
+implement measures to control materials, parts, or components which do not 
+conform to requirements in order to prevent their inadvertent use or installation.  
+Specifically, CB&I LC failed to correctly identify unresolved nonconformances on a 
+safety-related sub-module being prepared to ship: one stud that had an incomplete 
+weld was incorrectly located in the documentation; one stud that was identified on 
+the documentation as being added and having incomplete weld did not appear to 
+exist on the module; and one stud was documented as having an incomplete weld, 
+but was actually missing. 
+ 
+This issue has been identified as Nonconformance 99901425/2014-201-01.
+ 
+- 2 - 
+B. Criterion XVI, “Corrective Action,” of Appendix B, “Quality Assurance Program 
+Criteria for Nuclear Power Plants and Fuel Reprocessing Plants,” to Title 10 of the 
+Code of Federal Regulations (10 CFR) Part 50, states, in part, that “measures shall 
+be established to assure that conditions adverse to quality, such as deficiencies and 
+nonconformances are promptly identified and corrected.” 
+ 
+Criterion III, “Design Control,” of Appendix B to 10 CFR Part 50 states, in part, that 
+“design changes, including field changes, shall be subject to design control 
+measures commensurate with those applied to the original design”. 
+ 
+Section 16, “Corrective Action,” of CB&I LC’s Quality Assurance Manual (QAM), 
+Revision 8, dated September 13, 2013, states, in part, that in classifying conditions 
+adverse to quality, the review shall consider repetition of specific conditions adverse 
+to quality, as well as the relationship or similarity between different conditions. 
+ 
+Contrary to the above, as of February 7, 2014, CB&I LC did not ensure that 
+conditions adverse to quality, such as deficiencies and nonconformances are 
+promptly identified and corrected.  Specifically, CB&I LC did not take timely and 
+effective corrective action for a previously identified NRC finding 99901401/2011-
+202-03 from 2011 for red lining of drawings for safety-related AP1000 sub-modules.  
+CB&I LC had closed the corrective action on April 30, 2012, for the NRC finding.  
+Through a focused sample, the NRC identified 20 corrective action reports in 2013 
+related to inadequate implementation of red lining (which includes annotating 
+design changes) to drawings. 
+ 
+This issue has been identified as Nonconformance 99901425/2014-201-02. 
+ 
+Please provide a written statement or explanation to the U.S. Nuclear Regulatory Commission, 
+ATTN:  Document Control Desk, Washington, DC  20555-0001, with a copy to the Chief, Quality 
+Assurance Vendor Inspection Branch, Division of Construction Inspection and Operational 
+Programs, Office of New Reactors, within 30 days of the date of the letter transmitting this 
+Notice of Nonconformance.  This reply should be clearly marked as a “Reply to a Notice of 
+Nonconformance” and should include for each noncompliance:  (1) the reason for the 
+noncompliance or, if contested, the basis for disputing the noncompliance; (2) the corrective 
+steps that have been and the results achieved; (3) the corrective steps that will be taken to 
+avoid further noncompliance; and (4) the date when the corrective action will be completed.  
+Where good cause is shown, the NRC will consider extending the response time. 
+ 
+Because your response will be made available electronically for public inspection in the NRC 
+Public Document Room or from the NRC’s Agencywide Documents Access and Management 
+System (ADAMS), which is accessible from the NRC Web site at 
+http://www.nrc.gov/reading-rm/adams.html, to the extent possible, it should not include any 
+personal privacy, proprietary, or Safeguards Information (SGI) so that the NRC can make it 
+available to the public without redaction.  If personal privacy or proprietary information is 
+necessary to provide an acceptable response, please provide a bracketed copy of your 
+response that identifies the information that should be protected and a redacted copy of your 
+response that deletes such information.  If you request that such material be withheld, you must
+ 
+specifically identify the portions of your response that you seek to have withheld and provide in 
+detail the bases for your claim of withholding (e.g., explain why the disclosure of information 
+would create an unwarranted invasion of personal privacy or provide the information required by 
+  
+- 3 - 
+ 
+10 CFR 2.390(b) to support a request for withholding confidential commercial or financial 
+information).  If SGI is necessary to provide an acceptable response, please provide the level of 
+protection described in 10 CFR 73.21, “Protection of Safeguards Information:  Performance 
+Requirements.” 
+ 
+Dated this 21st day of March 2014. 
+ 
+Enclosure 2 
+U.S. NUCLEAR REGULATORY COMMISSION 
+OFFICE OF NEW REACTORS 
+DIVISION OF CONSTRUCTION INSPECTION AND OPERATIONAL PROGRAMS 
+VENDOR INSPECTION REPORT 
+ 
+Docket No.:   99901425 
+ 
+Report No.:   99901425/2014-201 
+ 
+Vendor:   Chicago Bridge & Iron Lake Charles 
+3191 West Lincoln Road 
+Lake Charles, LA  70605 
+ 
+Vendor Contact:  Kevin Walsh 
+Executive Vice President 
+kevin.walsh@cbi.com 
+980-322-8193 
+ 
+Nuclear Industry Activity: Chicago Bridge & Iron Lake Charles is under contract to Chicago 
+Bridge & Iron Power to fabricate, assemble, inspect, transport, 
+and deliver Westinghouse Electric Company’s AP1000 reactor 
+design structural sub-modules for commercial nuclear power plant 
+applications.  Specifically, the structural sub-modules are for the 
+Vogtle & V.C. Summer new construction sites. 
+ 
+Inspection Dates: February 3-7, 2014 
+ 
+Inspection Team: Paul Prescott  NRO/DCIP/QVIB Team Leader 
+Tom Kendzia  NRO/DCIP/QVIB 
+ Rich Laura  NRO/DCIP/QVIB 
+ Yamir Diaz-Cast illo NRO/DCIP/MVIB 
+Dori Wills  NRR/DIRS/IPAB 
+ Molly Keefe  NRR/DRA/APHB 
+ Alain Artayet  RII/DCI/CIB3 
+ Anthony Ponko RII/DCI/CIB2 
+Jason Christensen RII/DCI/CIB3 
+ Raju Patel  NRO/DCIP/MVIB 
+Mary Anderson NRO/DCIP/MVIB 
+ 
+Approved by:   Kerri A. Kavanagh, Chief 
+Quality Assurance Vendor Inspection Branch 
+Division of Construction Inspection  
+  and Operational Programs 
+Office of New Reactors 
+ 
+- 2 - 
+EXECUTIVE SUMMARY 
+ 
+Chicago Bridge & Iron Lake Charles 
+99901425/2014-201 
+ 
+The U.S. Nuclear Regulatory Commission (NRC) staff conducted a vendor inspection at the 
+Chicago Bridge & Iron Lake Charles (hereafter referred to as CB&I LC) facility to verify that it 
+had implemented an adequate quality assurance (QA) program that complies with the 
+requirements of Appendix B, “Quality Assurance Criteria for Nuclear Power Plants and Fuel 
+Reprocessing Plants,” to Title 10 of the Code of Federal Regulations (10 CFR) Part 50, 
+“Domestic Licensing of Production and Utilization Facilities.”  In addition, the NRC inspection 
+team also verified that CB&I LC had implemented a program under 10 CFR Part 21, “Reporting 
+of Defects and Noncompliance,” that met the NRC’s regulatory requirements.  The NRC 
+inspection team conducted the inspection from February 3 through 7, 2014. 
+ 
+This technically focused inspection specifically evaluated CB&I LC’s implementation of quality 
+activities associated with the fabrication activities of Westinghouse Electric Company’s AP1000 
+reactor design structural sub-modules for commercial nuclear power plant applications.  
+Specifically, the structural sub-modules are for the Vogtle & V.C. Summer new construction 
+sites.  It is important to note that the NRC inspection team performed a limited scope inspection.  
+Specifically, a self-imposed Stop-Work Order was in effect prior to and during the time of the 
+NRC inspection that limited the ability to observe ongoing fabrication activities. 
+ 
+Some of the specific activities observed by the NRC inspection team included: 
+ 
+• Visual inspection of nonconformances for three sub-modules which were ready to be 
+shipped to Vogtle and V.C. Summer. 
+ 
+• Observed a daily corrective action report screen meeting. 
+ 
+• Observed the weekly Corrective Action Review Board meeting. 
+ 
+• Observed the weekly Senior Leadership Staff meeting. 
+ 
+• Observed numerous training classes.  Specific examples include training on the 
+corrective program, documentation and procedure adherence.  
+ 
+• Observed welding and nondestructive exam ination qualification and certification 
+activities at the weld test facility. 
+ 
+• Measured fillet weld leg and throat dimension on several sub-modules. 
+ 
+• Observed in-process weld stud grid markings on 10-stud qualifier areas on several sub-
+modules. 
+ 
+• Observed mechanical test activities being performed for welded test coupons.
+ 
+- 3 - 
+• Assessed dropped sub-module CA01-20 and observed rigging activities on sub-module 
+CA01-03. 
+• Observed ongoing inspections and peer checks on the shop floor. 
+ 
+• Interviewed numerous management and other staff on the current state of CB&I LC’s 
+safety conscious work environment. 
+ 
+In addition to observing these activities, the NRC inspection team verified that measuring and 
+test equipment (M&TE) was properly identified, marked, calibrated, and used within its 
+calibrated range.  The inspectors also walked down CB&I LC’s assembly floor and verified that 
+nonconforming components were properly identified, marked, and segregated when practical, to 
+ensure that they were not reintroduced into the manufacturing processes. 
+ 
+These regulations served as the bases for the NRC inspection: 
+ 
+• Appendix B to 10 CFR Part 50 
+• 10 CFR Part 21 
+ 
+During the course of this inspection, the NRC inspection team implemented Inspection 
+Procedure (IP) 43003, “Reactive Inspections of Nuclear Vendors;” supplemented by IP 43002, 
+“Routine Inspection of Nuclear Vendors;” IP 36100, “Inspection of 10 CFR Part 21 and 
+Programs for Reporting Defects and Noncompliance,” and IP 65001.B, “Inspection of the 
+ITAAC-Related Welding Program.”  Other relevant inspection guidance included: IP40100, 
+Independent Safety Culture Assessment Followup;” IP 93100, “Safety Conscious Work 
+Environment Issue of Concern Followup,” and IP 95003.02, “Guidance for Conducting an 
+Independent NRC Safety Culture Assessment.” 
+ 
+This was the fourth NRC inspection at the CB&I LC facility.  CB&I LC is currently under contract 
+to Chicago Bridge and Iron Power to fabricate structural sub-modules for the Vogtle and 
+V.C. Summer construction projects. 
+ 
+With the exception of the nonconformances described below, the NRC inspection team 
+determined that, in general, the fabrication activities that CB&I LC conducted for the structural 
+sub-modules were performed in accordance with the Commission’s rules and regulations and 
+the technical and quality requirements passed down to CB&I LC from NRC licensees or its 
+contractors.  The information below summarizes the results of this inspection. 
+ 
+Nonconforming Materials, Parts, and Components
+ 
+ 
+The NRC inspection team issued Nonconformance 99901425/2014-201-01 because of CB&I 
+LC’s failure to implement the regulatory requirements of Criterion XV, “Nonconforming Material, 
+Parts, and Components,” of Appendix B to 10 CFR Part 50.  Nonconformance 99901425/2014-
+201-01 cites CB&I LC for failing to correctly identify unresolved nonconformances on a safety-
+related sub-module prepared to ship: one stud that had an incomplete weld was incorrectly 
+located in the documentation; one stud that was identified on the documentation as being added 
+and having incomplete weld did not appear to exist on the module; and one stud was 
+documented as having an incomplete weld, but was actually missing.  Specifically, CB&I LC 
+determined that their original Nonconformance Report 2013-2261 incorrectly documented the 
+nonconforming conditions.
+ 
+- 4 - 
+Corrective Action 
+ 
+The NRC inspection team issued Nonconformance 99901425/2014-201-02 because of CB&I 
+LC’s failure to implement the regulatory requirement of Criterion XVI, “Corrective Action,” in 
+accordance with the applicable regulatory requirements of Appendix B to 10 CFR Part 50.  
+Nonconformance 99901425/2014-201-02 cites CB&I LC failing to correct a condition adverse to 
+quality.  Specifically, CB&I failed to take timely and effective corrective action for a previously 
+identified NRC finding 99901401/2011-202-03 from 2011 for redlining of drawings for safety-
+related AP1000 sub-modules.  CB&I LC had closed the corrective action on April 30, 2012 for 
+the NRC finding.  Through a focused sample, the NRC inspection team identified 20 corrective 
+action reports in 2013 related to inadequate implementation of red lining (which includes 
+annotating design changes). 
+ 
+Other Inspection Areas
+ 
+ 
+The NRC inspection team determined that CB&I LC is implementing its programs for 10 CFR 
+Part 21; control of special processes; inspection control; identification and control of materials, 
+parts and components; personnel training and qualification; instructions, procedures, and 
+drawings; and oversight of contracted activities, independent assessments, internal audits and 
+surveillances in accordance with the applicable regulatory requirements of Appendix B to 
+10 CFR Part 50.  Based on the limited sample of documents reviewed and activities observed, 
+the NRC inspection team also determined that CB&I LC is implementing its policies and 
+procedures associated with these programs.  As a result of this inspection, CB&I LC generated 
+seven quality assurance corrective action reports (CARs) to address concerns of low 
+significance identified by the NRC inspection team that did not meet the threshold of more than 
+minor concerns as defined by Inspection Manual Chapter 0617, “Vendor and Quality Assurance 
+Implementation Inspection Reports.”  No findings of significance were identified. 
+ 
+ 
+- 5 - 
+REPORT DETAILS 
+ 
+1. Nonconforming Materials, Parts, or Components  
+ 
+a. Inspection Scope  
+ 
+The NRC inspection team (hereafter referred to as the inspectors) reviewed 
+Chicago Bridge and Iron Lake Charles’ (CB&I LC’s) processes and procedures to 
+verify compliance with the requirements of Criterion XV, “Nonconforming 
+Material, Parts, or Components,” and Criterion XVI, “Corrective Action,” of 
+Appendix B to 10 CFR Part 50.  The inspectors reviewed the basis for the stop 
+work order to evaluate if it was due to a failure in CB&I LC’s processes and 
+procedures to meet the regulatory requirements for nonconformances and 
+corrective action. 
+ 
+The inspectors reviewed the nonconformance reports (NCRs) associated with 
+the three sub-modules released from the stop work order to prepare for shipping, 
+to ensure that technical deficiencies, including but not limited to, technical 
+deficiencies associated with the key elements of the fabrication, assembly, and 
+inspection of the sub-modules had been appropriately evaluated, dispositioned, 
+and reported to customers.  The inspectors reviewed the NCRs to ensure that 
+they were closed with sufficient objective evidence and that they were reviewed 
+by qualified personnel.  The inspectors verified, that NCRs dispositioned as 
+“repair” included supplemental work instructions to address the repairs and that 
+the quality control (QC) inspectors inspected and signed-off on the repairs when 
+required. 
+ 
+The inspectors observed ongoing work activities associated with preparation and 
+cutting of material for sub-module work, to ensure reporting of nonconformances 
+and conditions adverse to quality was being performed. 
+ 
+The inspectors interviewed the CB&I LC’s customer quality representatives to 
+verify that there is no hesitation to write NCRs and CARs, and to assess their 
+perspective of the nuclear culture at CB&I LC.  The inspectors also verified that 
+Customer NCRs and CARs are entered into the corrective 
+action/nonconformance process and are addressed.  The inspectors interviewed 
+a large sample CB&I LC and contract supervisory and nonsupervisory personnel 
+to determine if they understood what nonconforming or condition adverse to 
+quality was, what the CB&I LC procedural requirements were, and if they were 
+able to initiate the correct documentation.   
+ 
+The attachment to this inspection report lists the documents reviewed by the 
+inspectors. 
+ 
+b. Observations and Findings
+ 
+ 
+The inspectors verified that the CB&I LC policies and procedures related to 
+nonconforming conditions adequately address the regulatory requirements.  The 
+inspectors observed that an NCR was submitted during the inspection when a 
+nonconforming condition was identified.
+ 
+- 6 - 
+The inspectors verified that for two sub-modules ready to be shipped to Vogtle, 
+there was clear documentation showing how CB&I LC had resolved all the 
+nonconformances in accordance with their procedures and regulatory 
+requirements.    
+ 
+Specifically, the inspectors reviewed the documentation and inspected  
+sub-module CA05-05 for V.C. Summer.  This sub-module had been released 
+from the stop work order to prepare for shipping, and was proposed to ship with 
+nonconformances to be resolved at the site.  The inspectors visually examined 
+accessible sides of the sub-module and noted that six nonconformances existed 
+and were marked (uncontrolled marking) on the sub-module.  The inspectors 
+compared the observed physical condition to the documented condition.  CB&I 
+LC had closed their open NCR 2013-2261 that documented the 
+nonconformances to an AP1000 Nonconformance and Disposition (N&D) Report 
+APP-CA05-GNR-850019, which was to include all of the nonconforming 
+conditions on the sub-module to be shipped and resolved at V.C. Summer.  In 
+reviewing the N&D report versus the actual sub-module conditions, the 
+inspectors determined that the documentation did not match the actual conditions 
+observed.  Specifically, of the observed nonconformances: one stud that had an 
+incomplete weld was incorrectly located in the documentation; one stud that was 
+identified on the documentation as being added and having incomplete weld did 
+not appear to exist on the module; and one stud was documented as having an 
+incomplete weld but was actually missing.  These errors demonstrated 
+inadequate implementation of CB&I LC’s nonconformance program.  The 
+inspectors identified this issue as Nonconformance 99901425/2014-201-01 for 
+CB&I LC’s failure to properly identify nonconformances on a sub-module 
+prepared for shipment.  CB&I LC determined that their original NCR 2013-2261 
+incorrectly documented the nonconforming conditions and initiated  
+CAR 2014-128, and NCR 2014-123 to address this issue.   
+ 
+c. Conclusions
+ 
+ 
+The inspectors concluded that CB&I LC is not effectively implementing its 
+nonconforming materials, parts, or components program in accordance with the 
+regulatory requirements of Criterion XV, “Nonconforming Materials, Parts, or 
+Components,” of Appendix B to 10 CFR Part 50.  The inspectors issued 
+Nonconformance 99901425/2014-201-01 for CB&I LC’s failure to correctly 
+identify open nonconformances in the documentation of a sub-module prepared 
+to be shipped.  Specifically, the documentation, (N&D) Report APP-CA05-GNR-
+850019, that was to identify all open nonconformances for sub-module CA05-05 
+for V.C. Summer to be resolved at site, did not correctly identify some of the 
+nonconforming conditions (including location and type). 
+ 
+2. Corrective Action
+ 
+ 
+a. Inspection Scope  
+ 
+The inspectors reviewed CB&I LC’s policies and procedures that govern the 
+programs for the control of corrective actions to verify compliance with 
+Criterion XVI, “Corrective Action,” of Appendix B, to 10 CFR Part 50.
+ 
+- 7 - 
+The inspectors reviewed a sample of CARs associated with the fabrication of 
+safety-related AP1000 sub-modules to verify the adequacy of CB&I LC’s 
+implementation and control of the corrective action program. 
+ 
+Additionally, the inspectors evaluated the adequacy of CB&I LC’s implementation 
+of corrective actions for findings previously identified in NRC inspection reports. 
+ 
+The inspectors observed a daily CAR screening meeting to determine if meeting 
+attendees demonstrated knowledge of the corrective action program, provided 
+adequate review of the CARs, including proposed categorization (significant 
+condition adverse to quality, condition adverse to quality, or other) and 
+appropriate screening for 10 CFR Part 21 applicability.  Additionally, the 
+inspectors observed a weekly CAR Review Board meeting to see if CB&I LC 
+supervisors demonstrated knowledge of the regulatory requirements and CB&I 
+LC procedures for corrective action, and maintained a Safety Conscious Work 
+Environment (SCWE) perspective when performing their CAR Review Board 
+function. 
+ 
+The inspectors determined through interviewing a large sample CB&I LC and 
+contract supervisory and nonsupervisory personnel that they understood what a 
+nonconforming or condition adverse to quality was, understood what the 
+reporting requirements were, and that they were able to initiate the correct 
+documentation. 
+ 
+The inspectors determined from a review of the various trend reports and of the 
+brief description in the CAR listing from 2012 to present that the trend reports did 
+identify the adverse trends in conditions adverse to quality, and that CB&I LC 
+initiated corrective action.  The inspectors determined from their review of CARS 
+and the trends in conditions adverse to quality that the scope of the CB&I LC’s 
+stop work order appeared to be appropriate. 
+ 
+The inspectors reviewed implementation of the corrective action program at CB&I 
+LC that focused on the areas of programmatic issues related to welding, 
+nondestructive examination (NDE), inspection, sub-module construction, training 
+and the nonconformance and corrective action programs.  In addition, the 
+inspectors reviewed CB&I LC’s CARs associated with the stop work order, as 
+well as condition reports for the V.C. Summer sub-module that was dropped.  
+ 
+The attachment to this inspection report lists the documents reviewed by the 
+inspectors. 
+ 
+b. Observations and Findings
+ 
+ 
+b.1 Internal Audit of Corrective Actions  
+ 
+The inspectors reviewed corrective actions initiated by CB&I LC in response to a 
+quality assurance (QA) internal audit report concerning indoctrination and training 
+(Number I-13-001).  The audit was conducted in February 2013 and the report 
+was completed in May 2013.  CAR 2013-530 was initiated in order to conduct the 
+apparent cause evaluation and identify corrective actions for the audit report 
+ 
+- 8 - 
+findings.  The CAR was screened as a Level 2 corrective action.  The inspectors 
+identified that the apparent cause evaluation had been conducted two times; 
+however, both were rejected.  The apparent cause was revised and subsequently 
+approved on January 31, 2014.  The inspectors observed that while the apparent 
+cause was not completed and approved in a timely manner, CB&I LC did make 
+changes to the training program to move toward correcting the deficient 
+condition.  No findings of significance were identified. 
+ 
+b.2 Corrective Action Program Training
+ 
+ 
+The inspectors witnessed new employee training classes that included 
+training on the function and use of the corrective action program.  In 
+addition, inspectors interviewed personnel on the shop floor to determine 
+if personnel felt free to initiate both corrective actions and non-
+conformances.  No findings of significance were identified. 
+ 
+b.3 Corrective Actions Associated with the Stop-Work Order
+ 
+ 
+The inspectors interviewed personnel and reviewed the stop work order 
+documentation to gain an understanding of the actions that were being 
+conducted to review the QA documentation for the sub-modules.  CB&I 
+LC was in the process of conducting a review of all in process travelers 
+and associated documents (i.e., drawings, weld logs, NCRs and 
+engineering and design change reports (E&DCRs)).  This review was 
+being completed by three groups: engineering, production and QC.  
+During the review, if errors were identified, CB&I LC corrected those 
+errors using objective evidence.  In order to document the resolution of 
+the errors, CB&I LC was opening CARs and NCRs as appropriate.  In 
+addition to the documentation, CB&I LC reviewed and verified the training 
+documentation for all personnel working on the sub-modules as part of 
+the stop work order.  In order for a sub-module to be released from the 
+stop work order, all QA documentation and training records were required 
+to be verified and then the Management Review Board (MRB) approved 
+the release of each individual sub-module to a designated team of 
+personnel. 
+ 
+The inspectors reviewed CARs and NCRs associated with qualification 
+records of personnel.  No findings of significance were identified. 
+ 
+b.4 CB&I LC’s Corrective Actions for Previous NRC Inspection Report 
+Findings 
+ 
+As a note, CB&I acquired Shaw Modular Solutions (SMS) on February 
+13, 2013.  At that time, the Lake Charles facility became known as CB&I 
+LC. 
+ 
+Nonconformance 99901401/2011-202-03 
+ 
+Nonconformance (NON) 99901401/2011-202-03 documented that SMS 
+failed to ensure that design changes were subject to the design control 
+ 
+- 9 - 
+measures commensurate with those applied to the original design, SMS 
+procedure QP-G-05a-00, and Westinghouse Specification APP-GA-G1-
+001.  Specifically, the SMS Product Manager redlined detailed drawing 
+APP-CA20-S5-02-000-0201, Revision 0, dated April 11, 2011, to add 
+supports to sub-module CA20-02; however, the Product Manager failed to 
+confirm with the Detailer Manager that the redline changes were in 
+accordance with the approved drawings prior to change. In addition, the 
+redlined drawings did not indicate that the subject angle iron supports 
+were to be considered temporary. 
+ 
+The inspectors reviewed the corrective actions taken by SMS and CB&I 
+LC specific to redlining of design changes.  The inspectors observed SMS 
+and CB&I LC evaluated the previous NRC finding in this area but failed to 
+adequately implement actions of CAR 11-450 to prevent recurrence. 
+ 
+Additionally, the inspectors observed that CB&I LC had not included 
+redlining of drawings in the stop work order dated January 13, 2014.  The 
+inspectors observed that CB&I LC had included the redlining of shop 
+travelers in the stop work order, but lifted the restriction on January 14, 
+2014.  The inspectors requested all CARs related to redlining of drawings 
+since CAR 11-450 be compiled for the inspectors review.  The inspectors 
+observed that there were more than 20 CARs in 2013 related to redlining 
+of drawings (separated from shop travelers) since the NRC finding 
+documented in NON 99901401/2011-202-03. 
+ 
+The inspectors reviewed a drawing for the safety-related module CA01-
+01-19-310-1902 and its associated four versions.  The inspectors further 
+observed that the current version (1.4) introduced a red line that was not 
+previously documented in versions 1.2 or 1.3.  As a result, the inspectors 
+determined that the subject drawing did not reflect all applicable redlines 
+for a time period of at least one month.  This issue is sgnificant because 
+this was a previous NRC finding and the redlining process is essential in 
+maintaining proper design configuration of safety-related AP1000 sub-
+modules.  As a result of the NRC identification of this concern, CB&I LC 
+issued CAR 2014-162.  The inspectors determined that CB&I LC’s 
+previous corrective actions associated with NRC’s NON 99901401/2011-
+202-03 were ineffective and issued Notice of Nonconformance 
+99901425/2014-201-02. 
+ 
+Nonconformance 99901401/2011-202-01 
+ 
+NON 99901401/2011-202-01 documented that SMS failed to provide 
+control over activities affecting quality in the SMS Quality Assurance 
+Manual (QAM) and failed to define the regulatory and industry standards 
+to which SMS is committed in the QAM. 
+ 
+SMS and CB&I LC evaluated the previous NRC findings in this area by 
+initiating, evaluating, and implementing actions in CAR 2011-485.  After 
+the NRC inspection in 2011, SMS and CB&I LC identified additional 
+examples of problems with the control of activities affecting quality in the 
+ 
+- 10 - 
+QAM. The programmatic issues of controlling activities affecting quality 
+were addressed by QAM changes to add additional guidance.  The 
+inspectors verified that the additional guidance provided was adequate.  
+This issue is closed. 
+ 
+Nonconformance 99901401/2011-202-02 
+ 
+NON 99901401/2011-202-02 documented that SMS failed to provide 
+indoctrination and training to personnel who; 1) manage or implement 
+activities affecting quality, 2) adequately document the training of 
+auditors, and 3) appropriately requalify a lead auditor in accordance with 
+SMS procedures. 
+ 
+The inspectors reviewed the corrective actions taken by SMS and CB&I 
+LC specific to indoctrination and training of these personnel.  The 
+inspectors observed that SMS and CB&I LC evaluated the previous NRC 
+findings in this area by initiating, evaluating and implementing actions of 
+CARs 11-484, 11-455 and 12-054. 
+ 
+Through an evaluation of training records, procedural changes, and 
+qualification records, the inspectors verified the CB&I LC management 
+had the requisite training and that it was properly documented.  
+Additionally, the inspectors reviewed a sample of CB&I LC lead auditor 
+qualification and requalification packages per QP-QA-01.  The inspectors 
+found that the lead auditors were qualified and documented consistent 
+with CB&I LC requirements. 
+ 
+The inspectors interviewed various CB&I-LC staff and verified adequate 
+worker awareness of the indoctrination and training of personnel. 
+ 
+The inspectors determined that CB&I LC’s implementation of corrective 
+actions was adequate.  This issue is closed.   
+ 
+Nonconformance 99901401/2011-202-04 
+ 
+NON 99901401/2011-202-04 documented that SMS failed to include the 
+applicable technical requirements in procurement documents, which are 
+necessary to assure that adequate quality is suitably included or 
+referenced. 
+ 
+The inspectors reviewed the corrective actions taken to address the 
+inclusion of applicable technical requirements in procurement documents 
+which are necessary to assure that adequate quality is suitably included 
+or referenced.  The inspectors observed that SMS and CB&I LC 
+evaluated the previous NRC findings in this area by initiating, evaluating 
+and implementing actions of CAR 11-448. 
+ 
+The inspectors determined that CB&I LC’s implementation of corrective 
+actions was adequate.  This issue is closed.
+ 
+- 11 - 
+Nonconformance 99901401/2011-202-05 
+ 
+NON 99901401/2011-202-05 documented that the SMS American 
+Welding Society (AWS) welder qualification program, including the welder 
+qualification records and Welder Qualification History Log, did not provide 
+adequate records to demonstrate that welding was accomplished by 
+qualified personnel. 
+ 
+The inspectors observed that SMS and CB&I LC evaluated the previous 
+NRC findings in this area by initiating, evaluating and implementing 
+actions of CARs 11-439 and 11-460.  The inspectors evaluated the CB&I 
+LC AWS welder qualification program through a review of Welder Roster, 
+a sampling of Welding Operator Qualification Continuity Logs, shop 
+travelers for welding, and witnessing of welder testing qualifications.   
+ 
+The inspectors determined that CB&I LC’s implementation of corrective 
+actions was adequate.  This issue is closed. 
+ 
+Nonconformance 99901401/2011-202-06 
+ 
+NON 99901401/2011-202-06 documented that SMS failed to properly 
+control and calibrate safety-related measurement and test equipment 
+(M&TE). 
+ 
+The inspectors observed that SMS and CB&I LC evaluated the previous 
+NRC findings in this area by initiating, evaluating and implementing 
+actions of CARs 11-448 and 11-456. 
+ 
+The inspectors interviewed various CB&I-LC staff and physically verified 
+proper control and calibration of safety-related M&TE.  The inspectors 
+determined that CB&I LC’s implementation of corrective actions was 
+adequate.  This issue is closed. 
+ 
+Nonconformance 99901401/2011-202-07 
+ 
+NON 99901401/2011-202-07 documented that SMS failed to control a 
+sub-module that had open nonconformances identified on it. 
+ 
+SMS and CB&I LC evaluated the previous NRC findings in this area by 
+initiating, evaluating and implementing actions for CARs 11-440, 11-446, 
+and 11-452.  Subsequent to the NRC inspection in 2011, SMS identified 
+additional examples of problems with control of nonconformances as 
+documented in CAR 12-076 which was classified as a significant 
+condition adverse to quality (SCAQ). 
+ 
+The inspectors reviewed a sample of sub-modules and confirmed that 
+NCRs identified in shop traveler packages were appropriately physically 
+tagged as required.  During interviews with CB&I LC staff, the inspectors
+ 
+- 12 - 
+verified adequate worker awareness of the controls for nonconforming 
+conditions. 
+ 
+The inspectors concluded that CB&I-LC developed adequately addressed 
+the controls for NON.  This issue is closed. 
+ 
+Nonconformance 99901401/2011-202-09 
+ 
+NON 99901401/2011-202-09 documented that SMS failed to perform a 
+trend analysis of conditions adverse to quality as required by the 
+licensee’s POs.  This NON was followed up during an NRC inspection 
+conducted September 10-14, 2012.  The inspection results were 
+documented in NRC Inspection Report No. 99901401/2012.  In 2012, the 
+inspectors found some progress had been made in trend analysis; but 
+SMS did not complete trending procedure revisions by August 31, 2012 
+as committed to the NRC.  The NRC subsequently issued NON 
+99901401/2012-201-01 for untimely corrective actions for not completing 
+the trending procedure revisions. 
+ 
+In the response to NON 99901401/2012-201-01, SMS indicated the 
+reason they did not meet the commitment to issue the trending procedure 
+was that it took longer to procure and implement new software, 
+understand the trending capabilities, and gather data to develop the 
+necessary procedural guidance.  In 2013, Procedure QP-CA-303, 
+“Trending Manual,” was issued which contained guidance for assigning 
+trend codes to condition reports, establishing timeframes for formal 
+trending reports, and specifies that when a potential adverse trend is 
+identified, a CAR should be initiated. 
+ 
+The inspectors reviewed a sample of completed trend reports involving 
+the corrective action program.  The individual trends were followed by an 
+overall site condition report trending summary which included a quarterly 
+comparison broken down by causal factors.   
+ 
+The trend data showed a clear increase in condition report overdue 
+analysis and action items from May 2013 through August 2013.  These 
+overdue actions were part of the reason why CB&I LC initiated a stop 
+work order in January 2014 to work down the backlog of procedure 
+revisions that were action items from condition reports.  The inspectors 
+also interviewed several site personnel including managers and 
+determined there was a good awareness of problem areas and corrective 
+actions being implemented to improve performance. 
+ 
+The inspectors determined that the initiation of CARs to evaluate and 
+correct adverse trends was being performed.  The inspectors concluded 
+that CB&I LC developed an adequate trending program which addressed 
+previous NRC findings in the area of trending.  This issue is closed.
+ 
+- 13 - 
+Nonconformance 99901401/2012-201-01 
+ 
+NON 99901401/2012-201-01 documented several examples where SMS 
+failed to promptly correct conditions adverse to quality and SCAQ. 
+ 
+These previous NRC findings, NONs 99901401/2011-202-08 and  
+2012-201-01 were examples of problems with the effective 
+implementation of the corrective action program.  SMS and CB&I LC have 
+implemented a number of corrective actions to address the NRC findings 
+to improve the overall timeliness and effectiveness of the corrective action 
+program.  The inspectors reviewed the corrective actions implemented for 
+the corrective action program and also the related performance 
+indicators. 
+ 
+The inspectors attended a corrective action review board (CARB) 
+meeting, and also reviewed the performance indicators developed to 
+track the timeliness of completing evaluation and action items associated 
+with CARs.  The inspectors reviewed a listing of open SCAQs and 
+determined that the root cause analysis reviews were scheduled and 
+completed within a reasonable time period.  Further, CB&I LC was under 
+a stop work order to reduce the backlog of CAR action items.  The CAR 
+action item backlog peaked in November 2013 and has trended down 
+since then.  Many of the CAR action items in the backlog were related to 
+procedure revisions.  The inspectors concluded that there was enhanced 
+management attention on the implementation of the corrective action 
+program. 
+ 
+The CB&I LC review of the control of weld wire, which was a previous 
+NRC finding, determined that the previous weld wire CAR evaluations 
+were too narrowly focused and did not focus on programmatic or process 
+issues.  Further, the management sponsor for the evaluations was not 
+sufficiently engaged.  Procedure QP-CA-216, “Corrective Action 
+Program,” was enhanced to define department owner responsibilities.  
+Effectiveness reviews were initiated to confirm that corrective actions 
+implemented for a SCAQ were effective.  The inspectors determined that 
+CB&I LC took adequate corrective actions for the control of weld wire. 
+ 
+The inspectors reviewed the corrective actions taken in response to an 
+NRC finding related to the documentation of late entries contained in 
+Procedure QP-G-17, “Quality Records.”  CB&I LC initiated CAR 12-857 to 
+evaluate and implement corrective actions as necessary.  The inspectors 
+determined that CB&I LC’s implementation of corrective actions was 
+adequate.  This issue is closed. 
+ 
+c. Conclusions
+ 
+ 
+The inspectors concluded that CB&I LC is not effectively implementing its 
+corrective program in accordance with the regulatory requirements of Criterion 
+XVI, “Corrective Action,” of Appendix B to 10 CFR Part 50.  The inspectors 
+issued Nonconformance 99901425/2014-201-02 for CB&I LC’s failure to take
+ 
+- 14 - 
+timely and effective corrective action for a previously identified NRC finding from 
+2011 for redlining of drawings for safety-related AP1000 sub-modules.  CB&I LC 
+had closed the issue of ineffective corrective action for the NRC finding.  Through 
+a focused sample, the NRC inspection team identified 20 CARs in 2013 related 
+to inadequate implementation of red lining (which includes annotating design 
+changes).  
+ 
+3. 10 CFR Part 21 Program
+ 
+ 
+a. Inspection Scope  
+ 
+The inspectors verified the adequacy of the evaluations and corrective actions, 
+for selected 10 CFR Part 21 and 10 CFR 50.55(e) reports by CB&I LC to the 
+NRC.  For the 10 CFR 50.55(e) reports, which were for a programmatic 
+breakdown in QA, the inspectors reviewed the CB&I LC corrective actions to 
+ensure they addressed the entire scope of the QA program and implementation 
+issue. 
+ 
+The inspectors reviewed CB&I LC’s processes and procedures to verify 
+compliance with the requirements of 10 CFR Part 21.  The inspectors observed a 
+daily CAR meeting for potential10 CFR Part 21 screening applicability.  For the 
+NCRs and CARs reviewed, the inspectors verified that 10 CFR Part 21 was 
+properly screened, evaluated and reported when applicable. 
+ 
+The inspectors reviewed 10 CARs associated with 10 CFR Part 21 and 10 CFR 
+50.55(e) reports.  The inspectors determined that the threshold for determining 
+10 CFR Part 21 reportability appeared adequate, and that corrective action was 
+initiated for the conditions adverse to quality.  For the 10 CFR 50.55(e) reports, 
+the inspectors determined that CB&I LC’s documented corrective actions 
+appeared to address the entire scope of the QA program and implementation 
+issue. 
+ 
+The attachment to this inspection report lists the documents reviewed by the 
+NRC inspection team. 
+ 
+b. Observations and Findings
+ 
+ 
+No findings of significance were identified. 
+ 
+c. Conclusions
+ 
+ 
+The inspectors determined that CB&I LC’s processes and procedures complied 
+with the requirements of 10 CFR Part 21.  Based on the limited sample of 
+documents reviewed and observation of CAR screening activities at the CB&I LC 
+facility, the inspectors determined that CB&I LC is adequately implementing its 
+QAM and the associated procedures for to 10 CFR Part 21.  No findings of 
+significance were identified.
+ 
+- 15 - 
+4. Control of Special Processes  
+ 
+a. Inspection Scope  
+ 
+The inspectors reviewed CB&I LC’s policies and implementing procedures that 
+govern the control of special processes ( i.e., welding, visual test (VT), penetrant 
+test (PT) and ultrasonic test (UT) inspections) to verify compliance with the 
+regulatory requirements of Criterion IX, “Control of Special Processes,” of 
+Appendix B to 10 CFR Part 50 as well as with the requirements of the AWS D1.1, 
+“Structural Welding Code-Steel,” 2000 Edition, AWS D1.4, “Structural Welding 
+Code – Reinforcing Steel,” 1998 Edition, and American Society for 
+Nondestructive Testing (ASNT) SNT-TC-1A, “Personnel Qualification and 
+Certification in Nondestructive Testing,” 1992 Edition. 
+ 
+The inspectors reviewed a sample of welding and NDE documents, observed 
+welding and NDE activities being performed at the weld test facility, and reviewed 
+completed NDE and welding records associated with the fabrication and 
+inspection of the AP1000 structural sub-modules. 
+ 
+The NRC inspection team interviewed welders and NDE inspectors to assess 
+their understanding of the applicable codes and standards, CB&I LC processes 
+and procedures, and the stop work requirements.   
+ 
+The inspectors measured fillet weld leg and throat dimensions on several  
+sub-modules with grinding marks in the areas of the toes for fillet welds, start and 
+stop locations, intricate inner and outer radius corners, and edges of weldments 
+to determine whether the minimum size of fillet weld dimensions were in 
+accordance with the requirements of engineering drawings; CB&I LC Quality 
+Procedure QP-QC-310, Visual Weld Inspection Procedure, Revision 7, October 
+9, 2013; and AWS D1.1 – 2000, Structural Welding Code – Steel. 
+ 
+The inspectors observed in-process weld stud grid markings and 10-stud qualifier 
+areas on several sub-modules, reviewed shop weld travelers, and interviewed 
+subject matter experts to determine whether the new stud and weld mapping 
+process with pictorials showing the sub-assembly number, unique stud identifier, 
+and weld number (e.g. 110-10-1892, respectively) for the location and dimension 
+for each traceable stud was performed in accordance with the requirements of 
+the CB&I LC Quality Procedure QP-QC-301, Implementation of Shop Traveler, 
+Revision 3, October 23, 2013, using paragraphs 6.5.3 thru 6.5.5 along with 
+Attachment 3, Stud Weld Map (6 pages), and Attachment 4, Studs Recorded by  
+Grid System (5 pages), and AWS D1.1 – 2000, Structural Welding Code – Steel. 
+ 
+The inspectors interviewed subject matter experts on the use of the Gas Metal 
+Arc Welding process to repair carbon steel plates damaged by the removal of 
+studs to determine whether substitution of the Shielded Metal Arc Welding 
+process required by paragraph 7.7.5 of the AWS D1.1 Code was properly 
+exempted by the Westinghouse engineer in accordance with the provisions of 
+paragraph 1.1 of the AWS D1.1 – 2000, Structural Welding Code – Steel.
+ 
+- 16 - 
+The inspectors interviewed a shop supervisor on using thermal air carbon arc 
+gouging (not considered a cutting process or oxygen gouging) on duplex 
+stainless steel to determine whether using both scarfing and remnant weld metal 
+grinding techniques prevented temperatures to exceed 300ºF and carbon 
+deposits on the final surface of the CA01-11 sub-module in accordance with the 
+requirements of CB&I LC Quality Procedure QP-PC-09, Rework/Repair of Welds 
+and Effective Weld Area, Revision 5, June 28, 2013.  
+ 
+The inspectors reviewed several duplex stainless steel Welding Procedure 
+Specifications (WPS) with supporting Procedure Qualification Records (PQRs) 
+that were qualified in accordance with the AWS D1.6, Structural Welding Code – 
+Stainless Steel, to determine whether the weld filler metal, maximum interpass 
+temperature, Charpy V-notch testing temperature and minimum absorbed 
+energy, maximum heat input energy, and ferrite content testing was in 
+accordance with the WEC APP-VW20-Z0-023, Welding Specification for 
+American Society for Testing and Materials (ASTM) A240 UNS S32101 Duplex 
+Stainless Steel Plate. 
+ 
+The inspectors witnessed 9 welders undergo re-test at CB&I LC’s welding test 
+facility to address a welding qualification issue documented in CAR 2014-11 
+related to a single complete joint penetration (CJP) “V,” groove joint for carbon 
+steel to carbon steel material and for carbon steel to duplex stainless steel 
+material.  The inspectors observed traceable weld materials, calibrated welding 
+machine, use of the latest revision of the WPS, welder performance  in 
+accordance with the WPS welding parameters (including preheat temperature, 
+root pass, interpass temperature, electrical characteristics and the travel speed) 
+and how the welder evaluation was evaluated. 
+ 
+The inspectors selected a sample of five WPSs and their associated PQRs used 
+during fabrication of sub-modules CA05-70 and CA01-32 for V.C. Summer to 
+verify that the sample documents used were qualified in accordance with the 
+requirements of AWS D1.1, AWS D1.6 and the applicable CB&I LC procedures.  
+The inspectors also verified that the applicable welding data such as weld 
+material and heat/lot number, WPS, etc. and inspection procedures used and the 
+final inspection results were recorded in accordance with the applicable CB&I LC 
+procedures and instructions.  The welding data was recorded on the associated 
+weld log data sheet for each weld joint along with the applicable NDE results. 
+ 
+The inspectors witnessed the mechanical test activity being performed on the 
+test coupons welded by the welders.  From each weld test coupon, two side bend 
+test specimen were cut and bend tested as specified in the Table 4.9,”Welder 
+and Welding Operator Qualification – Number and Type of Specimen and Range 
+of Thickness and Diameter Qualification,” of AWS D1.1 and visually inspected by 
+CB&I LC welding inspector to ensure there were no visible cracks as specified in 
+Section 3, “Acceptance Criteria,” of Attachment 2, “Requirements for Conducting 
+Welder/Operator Performance Qualification Tests,” of QP-WE-302 procedure in 
+accordance with AWS D1.1 and AWS D1.6 acceptance requirements. 
+ 
+The attachment to this inspection report lists the documents reviewed by the 
+inspectors.
+ 
+- 17 - 
+b. Observations and Findings  
+ 
+No findings of significance were identified. 
+ 
+c. Conclusions
+ 
+ 
+The inspectors concluded that the implementation of the CB&I LC program for 
+control of special processes is consistent with the regulatory requirements of 
+Criterion IX of Appendix B to 10 CFR Part 50.  Based on the limited sample of 
+documents reviewed and with limited observation of work activities due to the 
+stop work order at the CB&I LC facility, the inspectors determined that CB&I LC 
+was taking adequate steps in improving its welding program and that it was 
+effectively implementing its QAM and the associated procedures for control of 
+special processes.  No findings of significance were identified. 
+ 
+5. Document Control
+ 
+ 
+a. Inspection Scope
+ 
+ 
+The inspectors reviewed CB&I LC’s processes and procedures that govern CB&I 
+LC’s document control program to verify compliance with the regulatory 
+requirements of Criterion VI, “Document Control,” of Appendix B of 10 CFR 50.  
+The inspectors observed two training sessions, interviewed the trainer, reviewed 
+two post-training quizzes, and interviewed shop floor supervisors, process 
+engineers, QC inspectors, and welders to determine whether personnel 
+understand the importance and integrity of signatures, adhering to welding 
+procedures and drawing dimensions, reviewing welder/operator qualification 
+roster before assigning work, not bypassing inspection hold points, and accurate 
+recording of welder stencils and weld/base metal heat numbers during the 
+fabrication of safety-related modules in accordance with the CB&I LC Quality 
+Procedure QP-PC-301, Implementation of Shop Travelers, Revision 3, 
+November 6, 2013. 
+ 
+The inspectors interviewed shop supervisors and process engineers, and 
+reviewed the “scrubbing” of shop weld travelers associated with safety-related 
+sub-modules to determine whether updating of documents for completeness, 
+consistency, and accuracy was performed in accordance with the applicable 
+requirements of the AWS D1.1, Structural Welding Code – Steel, AWS D1.3, 
+Structural Welding Code – Sheet Steel, and CB&I LC’s QA Program. 
+ 
+The inspectors interviewed QC inspectors, shop supervisors, process engineers, 
+and craft personnel, and observed training discussions on the reluctance of 
+working multiple sub-modules in parallel to determine whether the reduction of 
+error traps will minimize incorrectly recording information on shop travelers for 
+safety-related sub-modules in accordance with the requirements of CB&I LC’s 
+QA Program.  The inspectors noted that the practice of personnel working 
+multiple sub-modules in parallel has been halted.
+ 
+- 18 - 
+b. Observations and Findings  
+ 
+No findings of significance were identified. 
+ 
+c. Conclusions
+ 
+ 
+The inspectors concluded that the implementation of the CB&I LC program for 
+document control is consistent with the regulatory requirements of Criterion VI of 
+Appendix B to 10 CFR Part 50.  Based on the limited sample of documents 
+reviewed and with limited observation of work activities due to the stop work 
+order at the CB&I LC facility, the inspectors determined that CB&I LC was taking 
+adequate steps to improve its document control program and that it was 
+effectively implementing its QAM and the associated procedures for document 
+control.  No findings of significance were identified. 
+ 
+6. Handling, Storage, and Shipping
+ 
+ 
+a. Inspection Scope  
+The inspectors reviewed CB&I LC’s policies and implementing procedures that 
+govern the control of handling, storage and shipping to verify compliance with the 
+regulatory requirements of Criterion XIII, “Handling, Storage, and Shipping,” of 
+Appendix B to 10 CFR Part 50.  Specifically, the inspectors reviewed the 
+activities associated with the handling and rigging of sub-modules CA01-20 and 
+CA01-03. 
+ 
+b. Observations and Findings
+ 
+ 
+The inspectors visually assessed sub-module CA01-20 after it was dropped on 
+the ground during transportation in the laydown area outside the shop and did 
+not identify any damage or repair that would be required in accordance with the 
+requirements of CB&I LC’s QA Program. 
+ 
+The inspectors observed rigging activities of sub-module CA01-03 to determine 
+whether the rigging procedure and lift plan were readily available and followed by 
+the rigging crew at the lifting location with supervisory oversight in accordance 
+the requirements of CB&I LC’s rigging procedures and QA Program. 
+ 
+No findings of significance were identified. 
+ 
+c. Conclusions
+ 
+ 
+The inspectors concluded that the implementation of the CB&I LC program for 
+control of handling, shipping, and storage is consistent with the regulatory 
+requirements of Criterion XIII of Appendix B to 10 CFR Part 50.  Based on the 
+limited sample of documents reviewed and with limited observation of work 
+activities due to the stop work order at the CB&I LC facility, the inspectors 
+determined that CB&I LC was taking adequate steps to improve its handling, 
+shipping and storage control program and that it was effectively implementing its
+ 
+- 19 - 
+QAM and the associated procedures for handling, shipping, and storage control.  
+No findings of significance were identified. 
+ 
+7.  Inspections
+ 
+ 
+a. Inspection Scope
+ 
+ 
+The inspectors reviewed CB&I LC’s QA processes and procedures to verify 
+compliance with the requirements of Criterion X, “Inspection,” of Appendix B to 
+10 CFR Part 50 for activities affecting quality and the applicable welding code 
+requirements in the AWS D1.1, “Structural Welding Code – Steel.”  The 
+inspectors verified that CB&I LC had procedures for inspection that provided 
+measures for the generation of inspection control documents, such as travelers, 
+process sheets, instructions, checklists, or other appropriate means. 
+ 
+The inspectors reviewed a sample of drawings, shop travelers, and welder  
+sign-off sheets, to verify the CB&I LC procedure requirements were being met.  
+The inspectors observed QC inspections on the shop floor to verify that CB&I LC 
+is performing inspections in accordance with its policies and procedures and 
+applicable codes and standards. 
+ 
+The inspectors interviewed QC inspectors and personnel performing peer checks 
+to assess their understanding of the applicable codes and standards, and CB&I 
+LC processes and procedures, and the stop work order requirements. 
+ 
+The inspectors interviewed the Vogtle and V.C. Summer customer quality 
+representatives to gather their perspective on CB&I LC progress in addressing 
+fabrication and inspection weaknesses previously noted in NCRs, CARs and Part 
+21 and 50.55(e) reports. 
+ 
+The inspectors interviewed several QC inspectors and reviewed shop weld 
+travelers to determine whether QC inspectors performing sign-offs during 
+production activities are cognizant of welding techniques and acceptance criteria, 
+and understand proper completion and accuracy of assigned tasks and the 
+significance of hold point inspection signatures in accordance with the 
+requirements of the CB&I LC QA Program. 
+ 
+The inspectors interviewed QC inspectors on the use of inspection hold points for 
+the transfer of heat numbers before cutting new sections from plates, and 
+inspected carbon and stainless steel plate cutting areas inside the shop and 
+inventory/laydown areas outside the shop to determine whether manual 
+markings, bar coding, and/or original manufacturer’s heat number designations 
+for various thickness were properly maintained and not lost or altered in 
+accordance with the requirements of the CB&I LC Quality ProcedureQP-WH-208, 
+Identification and Control of Items, Revision 0, November 8, 2012, and CB&I 
+LC’s QA Program. 
+ 
+The inspectors reviewed CB&I LC Type “B” Inspection Reports No. 12-527363-
+SMS-1122 and 1038 on multi-directional hydraulic forces applied on panel plates 
+of the CA01-02 sub-assembly that resulted in achieving acceptable width
+ 
+- 20 - 
+dimensions within tolerances while causing camber on the torqued tie-bars and 
+inducing unknown stresses to acceptable welds to determine whether corrective 
+action responses were in accordance with CB&I LC’s QA Program. 
+ 
+The inspectors reviewed the drawings, assembly shop travelers, and welder sign 
+off sheets, weld logs and weld inspection reports for six V.C. Summer  
+sub-modules (CA01-32-300, 240, 150, & 140, CA05-07-100 and CA05-08) to 
+verify that documents were appropriately signed, that the drawings included weld 
+symbols that appropriately documented the welds to be performed, and that 
+changes to the travelers and welder sign-off sheets were made in accordance 
+with CB&I LC procedures.  The inspectors verified that NCRs were documented 
+and dispostioned appropriately, based on the inspection documentation. 
+ 
+The attachment to this inspections report lists the documents reviewed by the 
+inspectors.  
+ 
+b. Observations and Findings
+ 
+ 
+The inspectors verified that CB&I LC’s procedures for inspection provided 
+measures for the generation of inspection control documents, such as travelers, 
+process sheets, instructions, checklists, or other appropriate means, and that the 
+procedures meet the regulatory requirements.  For a sample of drawings, shop 
+travelers, and welder sign-off sheets, the inspectors verified that inspection 
+control documents include the following information, the item inspected, 
+inspection date, type of observation, results of examination and tests, and the 
+initials of the QC inspector or welder for the activities witnessed.  The inspectors 
+verified that mandatory hold points were indicated in the controlling documents 
+and that work does not proceed without appropriate approval. 
+ 
+The inspectors observed the performance of ongoing inspections, and peer 
+checks (process where another individual, not QC or Inspector, checks a 
+marking, recording in the procedure or other work activity before work proceeds).  
+The inspectors observed QC inspections on the shop floor that included 
+traceability checks, witnessed mock-up NDE for PT and UT examination of weld 
+coupons, witnessed welder/welding operator qualification and welding procedure 
+qualification and reviewed fit and tack weld and inspections on stop work orders 
+to verify that CB&I LC is performing inspections in accordance with its policies 
+and procedures and applicable codes and standards.  The inspectors verified 
+that inspections are performed by qualified persons other than those who 
+performed or directly supervised the work being inspected.  The inspectors 
+verified that inspection results are documented by the inspector and reviewed by 
+authorized personnel qualified to evaluate the technical adequacy of the 
+inspection results.  The inspectors observed peer checks and inspection 
+activities associated with marking and cutting of materials to be used in moduleor 
+sub-module fabrication.  The inspectors observed that a CAR was submitted 
+when a condition adverse to quality was discovered during a peer check. 
+ 
+No findings of significance were identified.
+ 
+- 21 - 
+c. Conclusions  
+ 
+The inspectors concluded that the implementation of the CB&I LC program for 
+inspection is consistent with the regulatory requirements of Criterion X of 
+Appendix B to 10 CFR Part 50.  Based on the limited sample of documents 
+reviewed and with limited observation of work activities due to the stop work 
+order at the CB&I LC facility, the inspectors also determined that CB&I LC is 
+effectively implementing its QAM and the associated procedures for inspection.  
+No findings of significance were identified. 
+ 
+8. Identification and Control of Materials, Parts, and Components
+ 
+a. Inspection Scope  
+ 
+The inspectors reviewed CB&I LC’s processes and procedures to verify 
+compliance with the requirements of Criterion VIII, “Identification and Control of 
+Material, Parts, and Components,” of Appendix B to 10 CFR Part 50.  The 
+inspectors reviewed the associated Procedure QP-WH-01, “Material Control,” 
+Revision 9, to ensure that material traceability was maintained per CB&I LC 
+requirements. 
+ 
+The inspectors observed the weld material storage and issue station to verify 
+CB&I LC had adequate control of its weld material by selecting a sample of ten 
+weld filler material control slips.  The inspectors reviewed documentation and 
+verified traceability associated with ½-inch carbon steel plate material used in 
+two sub-modules that were released in preparation for shipping.  The inspectors 
+conducted an inspection of a sample of material in some sub-modules to ensure 
+no uncontrolled material was present.  The inspectors witnessed identification 
+and control of materials being performed during cutting of material for  
+sub-module work and on some of the material being stored. 
+ 
+The inspectors reviewed the CB&I LC implementation of recommendations of the 
+CB&I LC Nuclear Safety Advisory Board (NSAB), for implementation of an 
+electric data collection system and barcode system. 
+ 
+The inspectors interviewed QC inspectors, personnel performing material 
+marking and peer checks, and the weld material storage clerks to assess their 
+understanding of the applicable codes and standards, and CB&I LC processes 
+and procedures. 
+ 
+The attachment to this inspection report lists the documents reviewed by the 
+inspectors. 
+ 
+b. Observations and Findings
+ 
+ 
+The inspectors reviewed the product identification certification (PIC) tickets and 
+parts lists associated with Module No. KB37 for Vogtle and CA20-25 for V.C. 
+Summer to ensure material traceability was maintained and could be identified in 
+the sub-modules.
+ 
+- 22 - 
+The inspectors witnessed identification and control of materials being performed 
+during cutting of material to be used in sub-module fabrication. 
+ 
+The inspectors observed that a CAR 2014-138 was submitted when a condition 
+adverse to quality was discovered during a peer check due to mismarking of 
+material. 
+ 
+The inspectors observed the weld material storage and issue station to verify 
+CB&I LC had adequate control of its weld material by selecting a sample of ten 
+weld filler material control slips and interviewed the weld material storage clerk.  
+The inspectors noted that the weld materials in the issue station were properly 
+marked with manufacturer’s identification, size, AWS or American Society of 
+Mechanical Engineers (ASME) specification, heat/batch number traceable to the 
+approved supplier and had accepted green inspection tags attached.  The 
+inspectors selected a sample of five material control slips to verify materials were 
+issued to qualified welders and issued and returned by authorized weld 
+foremen/supervisors.  The inspectors noted that the weld filler material control 
+slip documented the welder name, his/her stencil, WPS, work order, and 
+machine number; whether the filler material was released for production or non-
+production order; described whether AWS/ASME type; diameter size; heat/lot 
+number; authorized weld foreman/supervisor name and signature; issuance and 
+return date, time, and quantity; issuer and returner’s name and welder’s 
+signature; and date acknowledging he/she understood the WPS.  The inspectors 
+verified that the weld material was controlled at all times until its consumption. 
+ 
+No findings of significance were identified. 
+ 
+c. Conclusions
+ 
+ 
+The inspectors determined that the implementation of CB&I LC’s program for 
+identification and control of material, parts and components was consistent with 
+the regulatory requirements in Criterion VIII of Appendix B to 10 CFR Part 50.  
+Based on the limited sample of PIC tickets and parts lists reviewed and the 
+observation of activities on the shop floor related to traceability, the inspectors 
+determined that CB&I LC is effectively implementing its QAM and the associated 
+nonconformance procedures.  No findings of significance were identified. 
+ 
+9.  Personnel Training and Qualification
+ 
+ 
+a. Inspection Scope
+ 
+ 
+The inspectors reviewed CB&I LC’s policies and procedures to verify that CB&I 
+LC was implementing training activities in a manner consistent with regulatory 
+requirements and industry standards.  The inspectors reviewed the training and 
+qualification process for QC personnel (which includes NDE), welding personnel, 
+and general CB&I and contract personnel to verify conformance with the 
+requirements in Criterion II, “Quality Assurance Program,” of Appendix B to 10 
+CFR Part 50.   
+ 
+- 23 - 
+The inspectors reviewed a sample of the training and qualification records of QC 
+inspectors and foremen, qualified welders, CB&I LC and contract nonsupervisory 
+and supervisory personnel to verify CB&I LC policies and procedures were being 
+implemented and documented. 
+ 
+The inspectors verified the implementation of recommendations of the CB&I LC 
+NSAB on the performance-based Continued Supervisor and Forman Training 
+program (Systematic Approach to Training) being performed as part of the stop  
+work order activities. 
+ 
+The inspectors discussed the personnel training and qualification process with 
+CB&I LC management and staff; attended portions of new employee training, a 
+safety meeting, a weekly management meeting, a weekly corrective action 
+review board meeting, and a weekly corrective action screening meeting; 
+interviewed CB&I LC and contract personnel, and observed them during the 
+performance of their work to assess the effectiveness of their training. 
+ 
+The inspectors interviewed subject matter experts and observed performance 
+qualification testing of a welder in the 2G (horizontal), 3G (vertical), and 4G 
+(overhead) positions to determine whether testing activities were performed in 
+accordance with the requirements of the AWS D1.1 – 2000, Structural Welding 
+Code – Steel, Section 4, Part C, Performance Qualification, and CB&I Quality 
+Procedure QP-WE-302, Welder/Operator Qualification – AWS, Revision 2, 
+February 26, 2013. 
+ 
+The inspectors noted the diverse backgrounds of workers and interviewed them 
+to ensure that CB&I LC training, guidance and procedures were understood by 
+all.  During discussions with the inspectors, two welders stated that while reading 
+procedures or any type of quality documents, there are instances when they do 
+not know the translation of a technical requirement.  The inspectors asked the 
+welders what actions they take once they realize that they do not understand a 
+technical requirement in the procedure or quality documents.  Both welders 
+stated that they stop their work and do not continue working until they find 
+somebody that can interpret the technical requirement.  Once they are able to 
+interpret and understand the technical requirement, they continue working. 
+ 
+The welders also stated that once they finish with their work, they are responsible 
+for completing and signing any quality records associated with their work. 
+ 
+The inspectors reviewed CB&I LC Quality Procedure QP-WE-302, 
+Welder/Operator Qualification – AWS, Revision 2, February 26, 2013, QP-WE-
+302-F-2, Welder or Welding Operator Qualification Test Record – D1.3, and
+ 
+- 24 - 
+WPS 1-1-516, Revision 0, January 30, 2014 to determine whether welder and 
+procedure qualifications for use on non-safety related mechanical sub-modules 
+were in accordance with the requirements of the AWS D1.3, Structural Welding 
+Code – Sheet Steel [carbon steel less than 1/8” thickness described in AWS 
+D1.1 – 2000, paragraph 1.1.1(2)]. 
+ 
+The attachment to this inspection report lists the documents reviewed by the 
+inspectors. 
+ 
+b. Observations and Findings
+ 
+ 
+The inspectors verified that CB&I LC has programs and procedures in place for 
+the qualification and training of QC personnel performing activities that affect 
+quality, and these programs and procedures are consistent with regulatory 
+requirements and with the ASNT, Recommended Practice No.  SNT-TC-1A 
+2006, “Personnel Qualification and Certification in Nondestructive Testing.”  The 
+programs and procedures also take into account the need for special skills to 
+attain the required quality and the need for verification of quality by inspection 
+and testing.  In addition, the programs and procedures provide for the 
+indoctrination and training of personnel performing activities affecting quality as 
+necessary to assure that suitable proficiency is achieved and maintained. 
+ 
+The inspectors also verified that the applicable procedure for welder qualification 
+meets the requirements of AWS D1.1 and AWS D1.6.  The inspectors also 
+reviewed a sample of qualifications records for those welders, and inspectors 
+associated with manufacturing equipment used during fabrication of the AP1000 
+structural sub-modules. 
+ 
+To verify effectiveness, the inspectors reviewed a representative sample of 
+training and certification records for QC staff members (10 of 48), including five 
+QC inspectors, three QC foremen, and the current QC ASNT Level III.  The 
+sampled QC staff member training and certification records also included the 
+following certifications: VT, PT, magnetic particle test (MT), UT, radiographic 
+testing (RT), certified welding inspector, and receipt inspector.  The inspectors 
+verified that qualification, training records, and certifications exist for the QC 
+foremen and QC inspectors and that these records are maintained in accordance 
+with CB&I LC’s program requirements and consistent with industry standards.  
+The inspectors verified that a previous employee who had signed on behalf of a 
+QC supervisor during the material receipt inspection validation for the V.C. 
+Summer sub-module that was being prepared for shipment had the correct 
+training and documentation to perform that function in the historical training 
+records. 
+ 
+The inspectors reviewed the welder qualification list and associated welder 
+qualification records and confirmed that the welders had completed the required 
+training and had maintained their qualifications in accordance with CB&I LC 
+procedures.
+ 
+- 25 - 
+The inspectors interviewed a large sample of other CB&I LC and contract 
+supervisory and nonsupervisory personnel (i.e., storeroom personnel, machine 
+operators, material handlers, process engineers, etc.).  The inspectors also 
+observed personnel during the performance of their work, including those jobs 
+such as for a material release, cut-off and transfer material traceability inspection 
+for mechanical sub-module R219 for Vogtle and personnel performing document 
+verification as part of the stop work order.  The interviewed individuals and the 
+observed individuals were knowledgeable of their job requirements.  The QC 
+inspections and peer checks were performed by qualified personnel other than 
+those who performed or directly supervised the work being inspected. 
+ 
+The inspectors observed portions of CB&I LC’s training of new personnel who 
+could be performing quality activities associated with the fabrication of structural 
+sub-modules being supplied to U.S. commercial nuclear power reactors as part 
+of Westinghouse’s AP1000 design.  Training was professional conducted on the 
+specified subjects, with personnel being attentive and asking questions. 
+ 
+No findings of significance were identified. 
+ 
+c. Conclusions
+ 
+ 
+The inspectors concluded that CB&I LC’s program requirements for training and 
+qualification of personnel are consistent with the requirements of Criterion II of 
+Appendix B to 10 CFR Part 50.  The inspectors also concluded that CB&I LC’s 
+QAM and associated training and qualification procedures were adequate and 
+effectively implemented.  No findings of significance were identified. 
+ 
+10.  Instructions, Procedures, and Drawings
+ 
+ 
+a. Inspection Scope
+ 
+ 
+The inspectors reviewed CB&I LC’s policies and procedures that govern 
+instructions, procedures and drawings to verify compliance with the requirements 
+of Criterion V, “Instructions, Procedures, and Drawings,” of Appendix B to  
+10 CFR Part 50, along with the requirements of the AWS D1.1, “Structural 
+Welding Code-Steel,” 2000 Edition, and AWS D1.4, “Structural Welding Code – 
+Reinforcing Steel.”  The inspectors also reviewed the procedures for compliance 
+with the design requirements (i.e., identifying and receiving concurrence for any 
+changes). 
+ 
+The inspectors reviewed a sample of drawings and shop travelers including 
+associated documentation packages, to verify that CB&I LC’s policies and 
+procedures were being implemented in accordance with the requirements.  The 
+inspectors observed the limited, due to the stop work order, work activities to 
+evaluate if work was being performed and documented in accordance with the 
+regulatory requirements.  The inspectors interviewed personnel and observed 
+training activities for how instructions, procedures and drawings adherence was 
+addressed.
+ 
+- 26 - 
+The inspectors reviewed the adequacy and implementation of CB&I LC’s 
+Assessment Team Interim Report entitled “NRC Chilled Environment Letter  
+EA-13-066, Assessment Team Interim Report (procedure review),” dated August 
+22, 2013 which provides the assessment results from procedure reviews.  The 
+inspectors also reviewed the implementation of the CB&I LC NSAB 
+recommendation to consolidate Production and QC procedures and to streamline 
+the number of WPS’s in use on the shop floor. 
+ 
+The attachment to this inspection report lists the documents reviewed by the 
+NRC inspection team. 
+ 
+b. Observations and Findings
+ 
+ 
+The inspectors verified that CB&I LC established and implemented processes 
+and procedures to ensure that design, specification, and procedural requirements 
+were adequately translated into documents used to support the fabrication of the 
+AP1000 structural sub-modules.  Documents reviewed included shop travelers, 
+project instruction sheets, supplemental instructions, weld logs, traceability logs, 
+and associated drawings used for fabrication. 
+ 
+The inspectors observed the use of procedures, drawings and travelers by CB&I 
+LC personnel on the shop floor including those engaged with the documentation 
+review as part of the stop work order.  The personnel performing stop work order 
+activities associated with verification of documentation in the shop travelers were 
+identifying issues with the documentation, and resolving them per the directions 
+given.  The inspectors observed that the procedures being used are the correct 
+revision, are being appropriately followed, and are of adequate detail to perform 
+the task.  The inspectors observed procedure adherence and documentation of 
+work being performed during cutting of material for sub-module work, which had 
+been released from the stop work order. 
+ 
+The inspectors noted that the stop work order was in part requiring 
+implementation of CB&I LC NSAB recommendation to consolidate Production 
+and QC procedures and to streamline the number of WPS’s.  For the limited new 
+work being performed, the shop travelers were clear and easy to understand as 
+to what had been done and the directions were clear as to what was the next 
+work activity. 
+ 
+The inspectors reviewed work orders for a sample of four structural sub-modules 
+currently in fabrication that were on hold due to the stop work order, conducted 
+interviews with responsible CB&I LC personnel, and reviewed fabrication 
+documents to determine if CB&I LC performed fabrication activities in 
+accordance with the applicable design, quality, and technical requirements 
+imposed through design drawings, specifications, procedural requirements.  The 
+inspectors reviewed in a sampling manner the documentation associated with 
+sub-modules that had been released to prepare for shipping.  The documentation 
+that was reviewed was found to be complete. 
+ 
+The inspectors noted that adherence to instructions, procedures and drawings 
+was addressed in training.  
+ 
+- 27 - 
+No findings of significance were identified. 
+ 
+c. Conclusions  
+ 
+The inspectors concluded that CB&I LC’s program requirements for instructions, 
+procedures and drawings are consistent with the requirements of Criterion V of 
+Appendix B to 10 CFR Part 50.  Based on the limited sample of documents 
+reviewed and observation of ongoing activities at the CB&I LC facility, the 
+inspectors determined that CB&I LC is implementing its QAM and the associated 
+procedures for to instructions, procedures and drawings.  No findings of 
+significance were identified. 
+ 
+11. Oversight of Contracted Activities, Independent Assessments, Internal Audits and 
+Surveillances 
+ 
+a. Inspection Scope  
+ 
+The inspectors reviewed CB&I LCs’ policies and implementing procedures that 
+govern the implementation of its external and internal audits and surveillances 
+program to verify compliance with the requirements of Criterion VII, “Control of 
+Purchased Material, Equipment, and Services,” and Criterion XVIII, “Audits,” of 
+Appendix B to 10 CFR Part 50.  The inspectors reviewed a sample of external 
+(third party) and internal audits and surveillances since the issuance of the 
+Chilling Effect Letter (CEL) to determine the adequacy of CB&I LCs’ performance 
+to self-identify and correct problems.  The inspectors reviewed the disposition of 
+audit and surveillance findings for adequacy and timeliness and a sample of 
+auditor’s training and qualification records.  In addition, the inspectors discussed 
+these programs with CB&I LC’s management and technical staff. 
+ 
+The attachment to this inspection report lists the documents reviewed by the 
+inspectors. 
+ 
+b. Observations and Findings
+ 
+ 
+b.1 External and Internal Audits and Surveillances  
+ 
+The inspectors reviewed a sample of external and internal audits and 
+surveillances to verify the implementation of CB&I LCs’ audit and 
+surveillance program.  The inspectors verified that CB&I LC had prepared 
+and approved plans that identify the audit and surveillance scope, focus, 
+and applicable checklist criteria before the initiation of the audit activity.  
+The inspectors verified that the checklists contained an adequate level of 
+objective evidence to support the classification of checklist criteria as 
+satisfactory or unsatisfactory.  For audits and surveillances that resulted 
+in findings, the inspectors verified that the supplier had established a plan 
+for corrective action and that CB&I LC had reviewed and approved the 
+corrective action and verified its satisfactory completion and proper 
+documentation.  CB&I LCs’ audit program also includes the performance 
+of annual evaluations of suppliers to ensure that they are effectively 
+implementing their approved QA programs.  For a sample of annual 
+ 
+- 28 - 
+evaluations, the inspectors verified that these evaluations were performed 
+in accordance with CB&I LCs’ procedures and contained all the required 
+information.  The inspectors also verified that auditors are not auditing 
+their own work.  The inspectors also reviewed a sample of the training 
+and qualification records of CB&I LCs’ lead auditors and auditors and 
+confirmed that auditing personnel had completed all required training and 
+had maintained qualification and certification in accordance with CB&I 
+LCs’ policies and procedures. 
+ 
+b.2 Internal Independent Assessment
+ 
+ 
+CB&I LC performed an independent focused assessment to determine if 
+effective programmatic controls are in place in the following areas: control 
+of special processes; inspections; personnel training and qualification; 
+instructions, procedures, and drawings; and corrective action.  The 
+assessment team also included representatives from Vogtle, V.C. 
+Summer and CB&I Power to evaluate the results of the independent 
+focused assessment and take corrective actions as appropriate.  The 
+inspectors confirmed that CB&I LC had performed an independent 
+focused assessment of the areas listed above.  The assessment 
+identified several corrective actions associated with inspections, 
+personnel training and qualification, and corrective actions.  The 
+inspectors verified that CB&I LC took corrective actions in response to the 
+recommendations from the assessment.   
+ 
+No findings of significance were identified 
+ 
+c. Conclusions
+ 
+ 
+The inspectors concluded that CB&I LC is implementing its external and internal 
+audits and surveillances program in accordance with the regulatory requirements 
+of Criterion VII and XVIII of Appendix B to 10 CFR Part 50.  Based on the limited 
+sample of documents reviewed, the inspectors determined that CB&I LCs’ audit 
+and surveillance procedures were being effectively implemented.  No findings of 
+significance were identified. 
+ 
+12. Inspections, Tests, Analyses, and Acceptance Criteria (ITAAC)
+ 
+ 
+a. Inspection Scope  
+ 
+The inspectors reviewed CB&I LC’s procedures, specifications, shop drawings, 
+shop travelers, correspondence, corrective action documents, and QA practices 
+associated with fabrication of structural sub-modules for the AP1000 
+Containment Internal Structures (CISs).  This review was to support future 
+closure of ITAAC 3.3.00.02a.i.a for Vogtle Electric Generating Plant (VEGP) Unit 
+3 and V.C. Summer Nuclear Station (VCSNS) Unit 2.  Additionally, the inspectors 
+inspected CIS sub-modules to support future closure of ITAAC 3.3.00.02a.ii.a for 
+the same units listed above.
+ 
+- 29 - 
+b. Observations and Findings  
+ 
+The inspectors noted that CB&I LC summarized key technical requirements 
+associated with fabrication of the CIS structural sub-modules into a Program 
+Instruction Sheet (PIS).  These requirements are consolidated from relevant 
+engineering drawings; specifications; Requests for Information (RFI); 
+Engineering & Design Coordination Reports (E&DCR); AWS, American Institute 
+of Steel Construction (AISC), and American Concrete Institute (ACI) code 
+requirements; and other technical documents.  The inspectors reviewed  
+PIS-AP1000 Revision 8 to verify that the technical requirements used by CB&I 
+LC for fabrication of the AP1000 CIS structural sub-modules are consistent with 
+the Updated Final Safety Analysis Reports (UFSAR) for Vogtle Unit 3 and V.C. 
+Summer Unit 2. 
+ 
+The inspectors verified that the shop drawing prepared by CB&I LC for 
+fabrication of the structural sub-modules were consistent with the engineering 
+drawings provided by the design authority and any relevant E&DCRs.  The 
+inspectors also confirmed that any inconsistencies or errors on the engineering 
+drawings that were identified by the structural detailers during development of the 
+shop drawings were addressed through the RFI process and that any required 
+design changes or clarifications were reconciled by the design authority using the 
+E&DCR process. 
+ 
+The inspectors verified that the CIS sub-modules were fabricated in accordance 
+with the technical requirements and engineering drawings and that design 
+deviations identified during fabrication were documented in NCRs and reconciled 
+by the design authority using the E&DCR process. 
+ 
+The inspectors observed CIS sub-modules CA01-01 and CA05-05, for Vogtle 
+Unit 3 and V.C. Summer Unit 2, respectively to verify that the sub-modules were 
+fabricated in accordance with the engineering drawings and technical 
+requirements to include those documented in the respective UFSARs for these 
+units.  The inspectors also reviewed the final QA walk-down package for Vogtle 
+Unit 3 CIS sub-module CA05-05 to verify that any design deviations identified 
+during final acceptance review were documented in NCRs.  The inspectors also 
+verified that the as-built thicknesses of the CIS sub-modules were consistent with 
+the requirements of the UFSARs for Vogtle Unit 3 and V.C. Summer Unit 2.   
+ 
+No findings of significance were identified 
+ 
+c. Conclusions
+ 
+ 
+Based on the limited sample of documents reviewed and sub-modules observed, 
+the inspectors concluded that CB&I LC had established and was implementing 
+adequate processes to ensure that design deviations identified during fabrication 
+were appropriately documented and reconciled by the design authority in 
+accordance with the acceptance criteria of the relevant ITAAC.
+ 
+- 30 - 
+13. Safety Conscious Work Environment  
+ 
+a. Inspection Scope  
+ 
+The inspectors evaluated CB&I LC’s progress to date in responding to the April 
+18, 2013 CEL.  Specifically, the inspectors reviewed CB&I LC’s actions related 
+to: 1) addressing existing SCWE issues, 2) improving the environment for raising 
+concerns, 3) ensuring that individuals are permitted to pursue resolution of issues 
+without fear of retaliation; and 4) improvements in the process for raising safety 
+and quality concerns.  The attachment to this inspection report lists the 
+documents reviewed by the inspectors. 
+ 
+b. Observations and Findings
+ 
+ 
+b.1 Current Overall Status of Safety Conscious Work Environment  
+ 
+During the inspection, the inspectors interviewed approximately 25 
+welders/welding operators, two tool room employees, five fitters, seven 
+QC inspectors/NDE technicians, two Welding Engineers and three 
+process engineers and several foremen about their willingness and ability 
+to raise concerns.  Most personnel expressed their experience with a 
+change in safety culture since CB&I bought the facility from Shaw, most 
+indicated that they were not afraid of raising safety concerns to their 
+Department Manager above their Foreman/Supervisors and most were 
+not afraid of any retaliatory action.  There were, however, still some 
+examples of employees being hesitant to raise concerns.  Everyone 
+interviewed understood their safety mission and expressed that their 
+management communicated the importance of safety through daily 
+briefings on safety issues. 
+ 
+ Based on the outcome of interviews, the inspectors concluded that most 
+CB&I LC personnel were not afraid of raising safety issues to their 
+management and understood CB&I LC’s safety mission. 
+ 
+The site is planning an independent safety culture assessment sometime 
+in the spring of 2014.  If conducted effectively, that assessment should 
+provide additional information regarding SCWE at CB&I LC. 
+ 
+The inspectors reviewed CB&I LC’s actions regarding SCWE to address 
+existing issues.  Specifically, the inspectors reviewed the training that was 
+provided to all employees in the areas of the corrective action program, 
+SCWE and maintaining a positive SCWE, and the employee concerns 
+program (ECP).  These training sessions were determined to be 
+adequate in providing information to the employees and promoting raising 
+concerns to both the ECP and the NRC.  The training courses were also 
+determined to have been developed and initially implemented by an 
+independent consultant.  Additionally, the inspectors reviewed the slides 
+for the all-hands meetings that are held monthly and determined that the 
+meetings provided an opportunity to provide information to employees.
+ 
+- 31 - 
+The inspectors reviewed CB&I LC’s notification to employees of the 
+chilled work environment to verify that the information was posted publicly 
+for employees.  CB&I LC posted the information on the Confirmatory 
+Order and the CEL in a memo from the CB&I President.  While the 
+training material was not posted, it was routinely covered in weekly safety 
+meetings and monthly All-Hands Meetings.  Additionally, the inspectors 
+located postings of information about the CB&I LC Safety Culture Policy, 
+the CB&I LC SCWE, 10 CFR Part 21, 10 CFR Part 50.55(e), and the 
+CB&I LC procedure for filing an issue under 10 CFR Part 21 and 10 CFR 
+Part 50.55(e). 
+ 
+b.2 Employee Concerns Program
+ 
+ 
+Based on the Confirmatory Order, CB&I has developed corporate 
+procedure CMS-805-01-PR-00001, “Employee Concerns Program,” 
+which changes the CB&I LC reporting chain to corporate ECP managers.  
+The CB&I LC ECP manager, responsibilities and processes will remain 
+the same under this new procedure.  CB&I LC has also created new 
+office space on the fabrication floor for two ECP investigators.  Interviews 
+with the ECP staff confirmed that this additional office space has made 
+the ECP more accessible and visible to the craft organization. 
+ 
+The inspectors reviewed CB&I corporate ECP procedure CMS-805-01-
+PR-00001, to ensure that it provided adequate information to create an 
+effective ECP for CB&I LC.  The inspectors also reviewed the cancelled 
+CB&I ECP procedure NQ-ECP-01-1 to ensure the changes support 
+creating an effective ECP.  During the review, the inspectors found that 
+the new corporate procedure was significantly shorter than the cancelled 
+procedure and lacked some of the previous information.  The new 
+procedure focused heavily on roles and responsibilities of the leadership 
+and employees and less on the process of reporting an issue to the ECP.  
+The cancelled procedure had a limited list of procedural steps for the 
+process; but much of the information was contained in the “Field Manual,” 
+which each site will have in order to develop site specific programs.  
+While the inspectors would have preferred to have instructions for the 
+ECP in the corporate ECP Procedure, the combination of the “Field 
+Manual” and the corporate procedure will be adequate to develop and 
+maintain an effective ECP. 
+ 
+The new corporate CB&I ECP procedure was benchmarked against other 
+nuclear ECP programs.  The benchmarking consisted of ECP’s review of 
+other nuclear organizations’ procedures. 
+ 
+Most of the CB&I LC staff interviewed stated that they would have no 
+issues using the ECP as an avenue for raising concerns.  Individuals 
+stated that they received training on using the ECP, and stated that they 
+knew where the ECP offices were located and who the ECP personnel 
+were.  The inspectors observed new hire orientation and training on ECP 
+and determined that the training was thorough.
+ 
+- 32 - 
+One of the CEL action items was for the site to conduct an independent 
+review of the ECP program.  CB&I LC employed the use of two corporate 
+CB&I LC individuals to perform the assessment.  The two individuals 
+selected were, at the time, not in a reporting chain with the CB&I LC ECP 
+manager; however, the assessment was conducted after the confirmatory 
+order was issued which required a common corporate ECP for all CB&I 
+employees.  The two individuals who conducted the assessment knew of 
+this requirement and had knowledge that with this new structure, they 
+would be the corporate managers to whom the CB&I LC ECP would 
+report.   
+ 
+b.3 Executive Review Board
+ 
+ 
+The inspection team reviewed the Executive Review Board (ERB) 
+corporate procedure and some recent ERB files, and it appeared that the 
+ERB was effective for screening disciplinary actions for potential chilling 
+effects. 
+ 
+b.4 Safety Conscious Work Environment Corrective Actions
+ 
+ 
+The inspectors interviewed personnel from Vogtle and V.C. Summer to 
+obtain their perspective of the progress of CB&I LC’s corrective actions.  
+During the discussions, it was found that both companies’ perspectives 
+on the corrective actions are similar to those found by the NRC.  The 
+environment of the site is improving, but slowly and still contains pockets 
+of craft that have issues with their immediate management.  Both 
+companies were awaiting the results of the Spring 2014 Safety Culture 
+Assessment being performed by a third-party company as metrics and 
+proof that the corrective actions from the CEL and Confirmatory Order 
+have improved conditions at CB&I LC. 
+ 
+The inspectors reviewed CAR 2013-438 to determine the adequacy and 
+effectiveness of the action steps identified to solve the condition.  CAR 
+2013-438 was initiated in response to the CEL issued by the NRC to 
+CB&I LC.  The inspectors identified some of the areas that were covered 
+through the actions as: 
+ 
+• Improving the ECP program: 
+o Add an ECP office to the shop floor to facilitate reporting 
+by employees 
+o Ensure that confidentiality is part of the ECP program 
+o Conduct pulse surveys of t he employees to determine the 
+progress of these corrective actions 
+o Modify the reporting structure of the ECP program to 
+ensure corporate ownership rather than ownership within 
+the facility
+ 
+- 33 - 
+• Create metrics to track the progress of the improvements created 
+by the corrective actions. 
+  
+• Developing and implementing training on SCWE, Nuclear Safety 
+Culture, ECP, etc. 
+ 
+• Create and implement the SCWE ICARE card.  The ICARE card 
+program provides a method for employees to have input into the 
+industrial safety program by identifying issues.  CB&I LC plans to 
+implement a SCWE ICARE care to help track SCWE programs 
+and improvements 
+ 
+• Interaction with customers for assistance and information on 
+perceived improvements: 
+ 
+o CB&I Power 
+o Vogtle 
+o V.C. Summer  
+The inspectors found the corrective actions identified in CAR 2013-438 to 
+be adequate to correct the issues identified in the CEL and will be 
+effective if implemented as described in the CAR.  CB&I LC had 
+effectively and adequately communicated the strategy for improving 
+nuclear safety culture and had addressed the concerns expressed by the 
+NRC in the CEL. 
+ 
+The inspectors also reviewed the Root Cause Analysis (RCA) 2013-438 
+to determine its adequacy and effectiveness in identifying the root causes 
+that lead to the issuance of the CEL.  The RCA identified three root 
+causes.  These three root causes were: SCWE, oversight, and training.  
+The RCA also identified five contributing causes: motivation, decision 
+making, implementation, corrective action program, and policies and 
+procedures.  Management Oversight and Risk Tree (MORT), Barrier 
+Analysis, and Event and Causal Factor Chart were the three techniques 
+used to develop and determine these root causes.  The inspectors 
+determined that these techniques were performed adequately and the 
+conclusions were acceptable. 
+ 
+The inspectors also reviewed the actions associated with CAR 2013-594 
+to determine if the corrective actions were adequate and sufficient to 
+correct the issues identified in the CEL.  CAR 2013-594 was written to 
+track the actions identified in the CB&I LC response to the CEL.  Some of 
+the actions identified were to track training, describe the CEL contents to 
+employees, coaching and mentoring, briefings, all-hands meetings, and 
+the use of consultants to aid in development of training.  The CAR 
+response actions also included an evaluation of SCWE at all CB&I sites, 
+performance of a second SCWE assessment review, and monitoring of 
+the SCWE at CB&I-LC.  The inspectors determined that the actions 
+identified in CAR 2013-594 were adequate and sufficient to track and 
+correct issues identified in the CEL.
+ 
+- 34 - 
+c. Conclusions  
+ 
+The inspectors concluded that CB&I LC’s SCWE program was consistent with 
+the NRC’s June 2011 Safety Culture Policy Statement.  Based on CB&I LC’s 
+progress to date in responding to the April 18, 2013 CEL, actions to address 
+existing SCWE issues, improve the environment for raising concerns, ensuring 
+that individuals are permitted to pursue resolution of issues without fear of 
+retaliation, and improvements in the process for raising safety and quality 
+concerns, the inspectors determined that CB&I LC is adequately implementing its 
+SCWE program.  No findings of significance were identified. 
+ 
+14. Entrance and Exit Meetings
+ 
+ 
+On February 3, 2014, the NRC inspection team discussed the scope of the inspection 
+with Mr. Kevin Walsh, Executive Vice President, and other CB&I LC management and 
+technical staff.  On February 7, 2014, the NRC inspection team presented the inspection 
+results and observations during an exit meeting with Mr. Walsh and other CB&I LC 
+management and technical staff.  The attachment to this report lists the attendees of the 
+entrance and exit meetings. 
+ 
+- 35 - 
+ATTACHMENT 
+ 
+1. ENTRANCE/EXIT MEETING ATTENDEES  
+ 
+Name Title Affiliation Entrance Exit 
+Kevin Walsh Executive Vice President Chicago Bridge 
+and Iron (CB&I) 
+X X 
+Phil Bagwell General Manager  CB&I X X 
+Ronald Stevens Nuclear Safety Officer CB&I X X 
+Sachin Sing Supply Chain Manager & 
+Engineering Lead Manager 
+CB&I X X 
+Robyn Breaux Human Resources Manager CB&I X X 
+Brian Gibson Site Quality Manager CB&I  X 
+Barry Ditzler Production Manager CB&I  X 
+Jack Gallagher Employee Concerns Manager CB&I X X 
+Ryan Whitford Director QA/QC CB&I X X 
+Chris Fordham Product Manager CB&I  X 
+Jeff Lyash* President, CB&I Power CB&I  X 
+Luke Scorsone President – Fabrication & 
+Manager 
+CB&I  X 
+Remi Bonnecazes President – Fabrication & 
+Manufacturing 
+CB&I X X 
+Pierre de Jager Director of Health, Safety, 
+Security, Environment & 
+Quality 
+CB&I X X 
+Dennis Dreyfus* Vice President Power Quality CB&I  X 
+Dave Jantosik* Senior Director Nuclear Quality CB&I  X 
+Elvin Dumas* Source Inspector Manager CB&I  X 
+Zachary Ashcraft  SCANA  X 
+Paul Prescott Team Leader NRC X X 
+Kerri Kavanagh Branch Chief NRC  X 
+Tony Ponko Inspector NRC X X 
+Yamir Diaz-Castillo Inspector NRC X X 
+Alain Artayet Inspector NRC X X 
+Molly Keefe Inspector NRC X X 
+Dori Willis Inspector NRC X X 
+Raju Patel Inspector NRC X X 
+Richard Laura Inspector NRC X X 
+Thomas Kendzia Inspector NRC X X 
+Jason Christensen Inspector NRC X X 
+Mary Anderson Trainee NRC X X 
+*Participated by teleconference 
+ 
+2. INSPECTION PROCEDURES USED  
+ 
+Inspection Procedure (IP) 36100, “Inspection of 10 CFR Part 21 and Programs for Reporting 
+Defects and Noncompliance,” dated February 13, 2012. 
+ 
+IP 40100, “Independent Safety Culture Assessment Followup,” dated April 5, 2011.
+ 
+- 36 - 
+IP 43002, “Routine Inspections of Nuclear Vendors,” dated July 15, 2013. 
+ 
+IP 43004, “Inspection of Commercial-Grade Dedication Programs,” dated April 25, 2011. 
+ 
+IP 65001B, “Inspection of the ITACC-Related Welding Program,” dated September 25, 2013 
+ 
+IP 95003.02, “Guidance for Conducting an Independent Safety Culture Assessments,” dated 
+January 15, 2009 
+ 
+3. LIST OF ITEMS OPENED, CLOSED, AND DISCUSSED
+ 
+ 
+Item Number Status Type Description 
+99901425/2014-201-01 Opened NON Criterion XVI 
+99901425/2014-201-02 Opened NON Criterion IV and VII 
+99901401/2011-202-01 Closed NON Criterion II 
+99901401/2011-202-02 Closed NON Criterion II 
+99901401/2011-202-03 Closed NON Criterion III 
+99901401/2011-202-04 Closed NON Criterion IV 
+99901401/2011-202-05 Closed NON Criterion IX 
+99901401/2011-202-06 Closed NON Criterion XII 
+99901401/2011-202-07 Closed NON Criterion XV 
+99901401/2011-202-09 Closed NON Criterion XVI 
+99901401/2012-201-01 Closed NON Criterion XVI 
+ 
+4. INSPECTIONS, TESTS, ANALYSES, AND ACCEPTANCE CRITERIA  
+ 
+The U.S. Nuclear Regulatory Commission (NRC) inspection team identified the inspections, 
+tests, analyses, and acceptance criteria (ITAAC) listed below related to components being 
+fabricated and tested at CB&I LC. At the time of the inspection, fabrication of AP1000 sub-
+modules for the Containment Internal Structures (CIS) of Vogtle Electric Generating Station 
+ 
+- 37 - 
+(VEGP) Unit 3 and V.C. Summer Nuclear Station (VCSNS) Unit 2 was in process. The NRC 
+team reviewed CB&I LC shop drawings, technical documents, and procedures to verify that no 
+conditions potentially impacting ITAAC closure were present.  The NRC inspection team also 
+observed CIS sub-modules that had been completed (with the exception of minor 
+nonconforming conditions that had yet to be repaired) to verify that the sub-modules met 
+technical requirements and that any design deviations had been appropriately identified and 
+reconciled through the design authority.  The ITAAC cited below are for future use by the NRC 
+staff during the ITAAC closure process; the listing of these ITAAC does not signify that they 
+have been met and/or closed.  The NRC inspection team did not identify any findings 
+associated with the ITAAC listed below. 
+ 
+Appendix C to the Combined License for Vogtle 
+Electric Generating Plant Unit 3 No. 760 ITAAC 3.3.00.02a.i.a 
+Appendix C to the Combined License for Vogtle 
+Electric Generating Plant Unit 3 No. 764 ITAAC 3.3.00.02a.ii.a 
+Appendix C to the Combined License for Virgil C. 
+Summer Nuclear Station Unit 2 No. 760 ITAAC 3.3.00.02a.i.a 
+Appendix C to the Combined License for Virgil C. 
+Summer Nuclear Station Unit 2 No. 764 ITAAC 3.3.00.02a.ii.a 
+ 
+5. DOCUMENTS REVIEWED  
+ 
+Policies and Procedures 
+ 
+1. QP-SMS-QAM-01, “CB&I LC’s Quality Assurance Manual”, Revision 8, dated September 
+13, 2013  
+2. Quality Procedure (QP) QA-01, “Qualification of Auditors,” Revision 6, dated May 9, 
+2012 
+3. QP-QA-218, “Quality Assurance Audits,” Revision 0, dated January 30, 2013 
+4. QP-QA-218a, “Quality Assurance Surveillances,” Revision 0, dated January 7, 2013 
+5. QP-QA-302, “Supplier Qualification and Evaluation,” Revision 3, dated July 22, 2013 
+6. QP-G-07, “Control of Purchased Items,” Revision 2, dated June 27, 2012 
+7. 1-10-79, Revision 3, 5/23/12, using GMAW-P 
+8. 1-10-212, Revision 1, 11/27/12, using SAW 
+9. 1-10-321, Revision 2, 1/28/14, using GTAW 
+10. 10-10-76, Revision 4, 11/28/14, using GMAW-P 
+11. QP-PC-205a, “Managing Detail Drawings,, Revision 1 
+12. QP-PC-301, “Implementation of Shop Traveler,” Revision 8, dated February 9, 2012 
+13. QP-PM-206a, “Request for Information (RFI),” Revision 0 
+14. QP-CA-215, “Control of Nonconforming Items,” Revision 0 
+15. QP-WE-301-301 “Weld Procedure Specification Development and Qualification - AWS,” 
+Revision 1 
+16. QP-PE-303 “Fabrication Change Notice,” Revision 0, dated May 24, 2013 
+17. Draft QP-PE-303 “Fabrication Change Notice,” Revision 1, issued for training November 
+20, 2013 to February 24, 2014 
+18. QP-EG-303 “Distortion Correction Stress Improvement Technique,” Revision 0, dated 
+November 20, 2012 
+19. QP-DC-206 “Document Control,” Revision 2, dated August 19, 2013 
+20. QP-DC-217 “Quality Assurance Records,” Revision 0, dated April 24, 2013 
+21. QP-G-07 “Control of Purchased Items,” Revision 2, dated June 28, 2012 
+ 
+- 38 - 
+22. QP-QA-01 “Qualification of Auditors,” Revision 6, dated May 10, 2012 
+23. QP-TR-302 “Training Processes,” Revision 1, dated January 7, 2013 
+24. QP-PC-203 “Shop Travelers,” Revision 0, dated January 9, 2013 
+25. QP-PC-205a “Managing Detail Drawing,” Revision 1, dated June 10, 2013 
+26. QP-PC-301 “Implementation of Shop Traveler,” Revision 3, dated November 6, 2013 
+27. QP-DC-303 “Shop Traveler Control,” Revision 1, dated September 12, 2013 
+28. QP-NDE-WP-301 “Certification of NDE Personnel,” Revision 0, dated April 22, 2013 
+29. QP-NDE-PT-01 “Liquid Penetrant Testing Procedure,” Revision 9, dated June 29, 2012 
+30. QP-WE-301 “Weld Procedure Specification Development and Qualification – AWS,” 
+Revision 1, dated March 1, 2013 
+31. QP-DC-301, “Document Review,” Revision 0, dated on August 1, 2012 
+32. QP-CA-215, “Control of Nonconforming Items,” Revision 0, dated October 31, 2012 
+33. QP-CA-216, “Corrective Action Program,” Revision 2, dated February 18, 2013 
+34. QP-PC-06, “Implementation of Shop Travelers,” Revision 8, dated February 9, 2012 
+35. QP-TR 202, “Training,” Revision 0, issued  November 20, 2012 
+36. QP-PC-09, “Rework/Repair of Welds and Effective Weld Area,” Revision 5, dated June 
+28, 2013 
+37. QP-PC-13, “Weld Procedure Specification Joint Configurations for AWS D1.1 and AWS 
+D1.6,” Revision 0, dated April 18, 2011 
+38. QP-NDE-WP-301, “Certification of NDE Personnel,” Revision 0, issued April 22, 2013 
+39. QP-NDE-WP-301-F1, “Nondestructive Examination of Personnel Qualification Record,” 
+Revision 0, issued April 22, 2013 
+40. QP-NDE-WP-301-F2, “Eye Exam Record,” Revision 0, issued Revision 0, issued April 
+22, 2013 
+41. QP-NDE-WP-301-F3, “NDE Experience Log,” Revision 0, issued April 22, 2013 
+42. QP-NDE-WP-301-F4, “Annual Technical Evaluation,” Revision 0, , issued April 22, 2013 
+43. QP-NDE-WP-301-F5, “NDT Practical Worksheet,” Revision 0, issued April 22, 2013 
+44. QP-NDE-MT-01, “Magnetic Particle Testing,” Revision 9, issued on June 28, 2012 
+45. QP-NDE-PT-01, “Liquid Penetrant Testing Inspection,” Revision 9, issued on June 28, 
+2012 
+46. QP-NDE-UT-01, “Ultrasonic Inspection of AWS D1.1 Groove Welds,” Revision 4, issued 
+on June 28, 2012 
+47. QP-NDE-RT-01, “Computed Radiographic Procedure, AWS,” Revision 4, issued on June 
+28, 2012 
+48. QP-NDE-UT-03, “Ultrasonic Thickness (Straight Beam) Measurement,” Revision 3, 
+issued on June 28, 2012 
+49. QP-NDE-UT-302, “Ultrasonic Inspection of AWS D1.6 Weld Grooves,” Revision 0, 
+issued on November 18, 2013 
+50. QP-WE-209a, “Welding Manual AWS,” Revision 0, dated March 14, 2013 
+51. QP-QC-210, “Inspection,” Revision 3, dated April 5, 2013 
+52. QP-QC-306, “Qualification and Certification of Inspection and Test Personnel,” Revision 
+00, dated August 3, 2012 
+53. QP-QC-310, “Visual Weld Inspection Procedure,” Revision 7, dated October 9, 2013 
+54. QP-NDE-VT-301, “Visual Examination Procedure,” Revision 01, issued on June 21, 
+2013 
+55. QP-WE-302, “Welder/Operator Qualification –AWS,” Revision 2, dated February 26, 
+2013 
+56. QP-WE-305, “Welder/Operator Qualification –ASME Section IX,” Revision 0, dated 
+August 16, 2012 
+57. QP-WE-308, “Weld Filler Material Control,” Revision 0, dated June 21, 2013 
+ 
+- 39 - 
+58. QP-WE-309, “Welding Fabrication Procedure –AWS,” Revision 1, dated October 30, 
+2012 
+59. QP-PE-10, “Development of Shop Travelers,” Revision 1, dated June 14, 2012 
+60. QP-PC-302, “Shop Traveler Development,” Revision 3, dated August 19, 2013 
+61. QP-MT-308, “Lincoln Power Wave S500 Calibration Procedure,” Revision 1, dated 
+August 7, 2013 
+62. QP-WH-303, “Material Handling and Storage,” Revision 0, dated January 14, 2012 
+63. QP-DC-304, “Quality Assurance Records Turnover Packages,” Revision 0, dated June 
+12, 2013 
+64. Welding Procedure Specification (WPS) 1-1-141, AWS D1.1 Stud Welding A108 to 
+A572-60, using the GMAW-Pulse process,” Revision 3, dated October 2, 2013 
+65. Procedure Qualification Record (PQR) No. 1-1-129, “3/4” Stud Welding by GMAW-Pulse 
+process,” Revision 2, dated November 15, 2012 
+66. WPS 1-1-164, “WPS for GTAW of AWS Group I, I to II, and II to II Materials,” Revision 7, 
+dated January 28, 2014  
+67. PQR 1-1-396, “Manual GTAW of A992 to A992 for PJP Joints,” Revision 0, dated March 
+27, 2013 
+68. PQR 1-1-397, “Manual GTAW of A992 to A992 for PJP Joints,” Revision 0, dated March 
+27, 2013 
+69. PQR 1-1-134, “Semi-automatic GMAW-Pulse of Stud Welding ASTM A108 to A572,” 
+process in sidehand direction, Revision 02, dated November 15, 2012 
+70. WPS No. 1-1-39, “AWS D1.1 3/4” Stud Welding A108 to A572-60, semi-automatic 
+process in downward, sidehand and overhead positions,” Revision 6, dated March 5, 
+2013 
+71. Stud PQR No. 1-1-38, “Semi-automatic ¾” Stud Welding process,” Revision 1, dated 
+January 6, 2011 
+72. Stud PQR No. 1-1-37, “Semi-automatic ¾” Stud welding process,” Revision 1, dated 
+March 15, 2011 
+73. Stud PQR No. 1-1-118, “Semi-automatic ¾” Stud welding process in downward 
+direction,” Revision 2, dated May 23, 2012 
+74. Stud PQR No. 1-1-119, “Semi-automatic ¾” Stud welding process in sidehand direction,” 
+Revision 2, dated May 23, 2012 
+75. Stud PQR No. 1-1-120, “Semi-automatic ¾” Stud welding process in overhead 
+direction,” Revision 1, dated August 29, 2011 
+76. Stud PQR No. 1-1-165, “Semi-automatic ¾” Stud welding process in sidehand direction,” 
+Revision 1, dated November 15, 2012 
+77. Stud PQR No. 1-1-166, “Semi-automatic ¾” Stud welding process in overhead 
+direction,” Revision 1, dated November 15, 2012 
+78. WPS -1-10-379, “Manual GTAW  of Carbon Steel with Duplex Steel,” Revision 3, dated 
+August 9, 2013 
+ 
+Procurement Documents
+ 
+ 
+1. Purchase Order (PO) No. 11119-000 to Industrial Testing Laboratory, dated June 6, 
+2013 
+2. PO No. 833099-000 to Exelon Power Labs, dated January 22, 2013 
+3. JM Test Systems, Inc. PO No. 884860 OI, Revision 0, dated January 10, 2014 
+4. JM Test Systems, Inc. PO No. 879556-000, Revision 0, dated November 20, 2013 
+5. JM Test Systems, Inc. PO No. 11101 OB, Revision 1, dated April 17, 2013 
+6. JM Test systems, Inc. PO No. 883102 OI, Revision 0, dated December 20, 2013 
+ 
+- 40 - 
+7. JM Test Systems, Inc. PO No. 882541 OI, Revision 0, dated December 16, 2013 
+8. JM Test Systems, Inc. PO No. 886788 OI, Revision 0, dated January 27, 2014 
+9. Fox Valley Metrology Ltd. PO No. 877096 OI, Revision 0, dated October 29, 2013 
+10. Fox Valley Metrology Ltd. PO No. 11102 OB, Revision 1, dated September 24, 2013 
+11. Fox Valley Metrology Ltd. Purchase Order No. 882612 OI, Revision 0, dated December 
+17, 2013 
+12. Exelon Powerlabs LLC, Purchase Order No 8333099-000 OP, Revision 2, dated May 1, 
+2013 
+ 
+Correspondence
+ 
+ 
+1. Letter dated April 18, 2013 from G. M. Tracy, USNRC to P. K. Asherman, President and 
+CEO, CB&I, “Chilled Work Environment for Raising and Addressing Safety Concerns at 
+Chicago Bridge & Iron Fabrication Lake Charles Facility (Formerly Known as Shaw 
+Modular Solutions),” (ADAMS Accession No. ML13092A077) 
+2. Letter dated May 17, 2013 from P. K. Asherman, President and CEO, CB&I, to G. M. 
+Tracy, USNRC, “Response to April 18, 2013, NRC Letter Regarding Chilled Work 
+Environment at Chicago Bridge & Iron Fabrication Lake Charles Facility,” (ADAMS 
+Accession No. ML13149A351) 
+3. Letter dated December 20, 2013 from L. W. Scorsone, Executive VP, Fabrication 
+Services, CB&I, to M. C. Cheok, USNRC, “Update to CB&I Response Letter Dated May 
+17, 2013, to April 18, 2013, NRC Letter Regarding Chilled Work Environment at Chicago 
+Bridge & Iron Fabrication Lake Charles Facility,” (ADAMS Accession No. ML13357A509) 
+4. Letter dated April 18, 2013 from R.P. Zimmerman, USNRC to D. Barry, President, CB&I, 
+“Notice of Violation and Imposition of Civil Penalties - $36,400 (Office of Investigations 
+Report No. 2-2011-047) (ADAMS Accession No. ML13050A597) 
+5. Letter dated October 19, 2012 from R.P. Zimmerman, USNRC to E. Smith, President, 
+Shaw Power Group, “Apparent Violation of Employee Protection Requirements (Office of 
+Investigations Report No. 2-2011-047) (ADAMS Accession No. ML12270A171) 
+6. Confirmatory Order for Chicago Bridge and Iron (CB&I) – EA-12-189 (ADAMS Accession 
+No. ML13233A432) 
+7. CB&I letter, “Potential Part 21 Issue with WPS found nonconformance,” Revision 1, 
+dated January 3. 2014 to CB&I Power Group 
+ 
+Previous Inspection Reports
+ 
+ 
+1. NRC Inspection Report No. 99901401/2011-202 and Notice of Nonconformance, dated 
+January 6, 2012 (ADAMS Accession No. ML11354A389) 
+2. NRC Inspection Report No. 99901401/2012-201 and Notice of Nonconformance, dated 
+October 24, 2012 (ADAMS Accession No. ML12279A119) 
+ 
+Drawings and Specifications 
+ 
+1. APP-GW-S9-100, “AP1000 Structural Modules General Notes – I,” REV. 4 
+2. APP-GW-S9-101, “AP1000 Structural Modules General Notes – VII,” REV. 0 
+3. APP-GW-S9-102, “AP1000 Structural Modules General Notes – II,” REV. 3 
+4. APP-GW-S9-103, “AP1000 Structural Modules General Notes – III,” REV.3 
+5. APP-GW-S9-104, “AP1000 Structural Modules General Notes – IV,” REV. 3 
+ 
+- 41 - 
+6. APP-GW-S9-105, “AP1000 Structural Modules General Notes – V,” REV. 3 
+7. APP-GW-S9-106, “AP1000 Structural Modules General Notes – VI,” REV. 1 
+8. Drawing No. CA01-01-19-310-1902, “Containment Bldg. Area 1 Module CA01,” Version 
+1.0, dated July 15, 2013 
+9. Drawing No. CA01-01-19-310-1902, “Containment Bldg. Area 1 Module CA01,” Version 
+1.1, dated August 26, 2013 
+10. Drawing No. CA01-01-19-310-1902, “Containment Bldg. Area 1 Module CA01,” Version 
+1.2, dated December 7, 2013 
+11. Drawing No. CA01-01-19-310-1902, “Containment Bldg. Area 1 Module CA01,”  Version 
+1.3, dated December 9, 2013 
+12. Drawing No. CA01-01-19-310-1902, “Containment Bldg. Area 1 Module CA01,” Version 
+1.4, dated December 11, 2013 
+13. Drawing APP-CA01-11-32-300-P5190, Revision 0, dated October 7, 2013 
+14. Drawing APP-CA01-32-220-3205, “Containment Building Area 2,” Revision 0 dated 
+August 12, 2013  
+15. Weld Map and Alignment Drawing APP-CA01-11-32-220, Revision 0, dated August 12, 
+2013 
+16. Weld Map and Alignment Drawing APP-CA01-11-32-120-3214, Revision 0, dated 
+August 5, 2013 
+17. Weld Map and Alignment Drawing APP-CA01-11-32-110-3206, Revision 0, dated 
+August 12, 2013 
+18. Drawing APP-R106-13-106-000-10603, Revision 0, dated July 27, 2012 
+ 
+Work Orders and Associated Technical Documents
+ 
+ 
+1. Program Instruction Sheet, PIS-AP1000 Rev 8 
+2. Walk Down Package, VS2-CA05-05 
+3. Walk Down Package, SV3-CA01-01 
+4. QA Reassessment of VS-CA05-05, 430011-QCIR-13-018482 Rev 1 
+5. Shop Traveler Package for Work Order 2320477 
+6. Weld Log Data Sheet for Work Order 1908305, dated October 19, 2013 
+7. Traveler with transfer material traceability for Module No R219 for Vogtle, Job No. 
+430003, Work Order No. 2827293 
+8. Traveler and welder log sign-off sheet for Sub-module No. CA01-32-300 for V.C. 
+Summer, Job No. 430001, Work Order No. 1933470-300 
+9. Traveler and welder log sign-off sheet for Sub-module No. CA01-32-240 for V.C. 
+Summer, Job No. 430001, Work Order No. 1933470-240 
+10. Traveler and welder log sign-off sheet for Sub-module No. CA01-32-150 for V.C. 
+Summer, Job No. 430011, Work Order No. 1933470-150 
+11. Traveler and welder log sign-off sheet for Sub-module No. CA01-32-140 for V.C. 
+Summer, Job No. 430011, Work Order No. 1933470-140 
+12. Traveler and welder sign-off sheet for Module No. KB37, Job No. 430013, Work Order 
+No. 2169867 
+13. Weld Filler Material Control Slip No. 94628, dated January 13, 2014 issuing 2.08 lbs. of 
+3/32” ER805-Mil weld wire to welder stencil S1, for welder qualification test to WPS 1-1-
+164, Revision 7 
+14. Weld Filler Material Control Slip No. 94633, dated January 13, 2014 issuing 3.61 lbs. of 
+1/8” ER2209 weld wire to welder stencil VP for welder qualification test to WPS 1-10-
+379, Revision 3 
+ 
+- 42 - 
+15. Weld Inspection Report (WIR) No. 430011-WIR-14-016101, Revision 0, dated January 
+6, 2014 for acceptance of Fit/Tack fillet Weld Id Nos. 120-20-0104, 120-20-0110, and 
+120-20-0111 on Traveler 1933470 Sequence 40, for Job No. 430011, Module No. CA01-
+32-120 
+16.  WIR No. 430011-WIR-14-016287, Revision 0, dated January 9, 2014 for acceptance of 
+baffle plate to spacer plate fillet Weld Id Nos. 120-20-0104, 120-20-0110, and 120-20-
+0111 on Traveler 1933470 Sequence 60, for Job No. 430011, Module No. CA01-32-150 
+17. WIR No. 430011-WIR-14-016374, Revision 0, dated January 9, 2014 for acceptance of 
+fit tacks on baffle plate to baffle plate fillet Weld Id Nos. 220-20-0018, 220-20-0026, on 
+Traveler 1933470 Sequence 80, for Job No. 430011, Module No. CA01-32-240 
+18. WIR No. 430011-WIR-14-016266, Revision 0, dated January 8, 2014 for acceptance of 
+final weld out on baffles fillet Weld Id Nos. 220-20-0019, 220-20-0021 and 220-20-0027, 
+on Traveler 1933470 Sequence 60, for Job No. 430011, Module No. CA01-32-240 
+19. WIR No. 430011-WIR-14-016367, Revision 0, dated January 9, 2014 for acceptance of 
+baffles plate to baffle plate fit tack for fillet Weld Id Nos. 120-20-0107, and 120-20-0116, 
+on Traveler 1933470 Sequence 80, for Job No. 430011, Module No. CA01-32-150 
+20. WIR No. 430011-WIR-14-016140, Revision 0, dated January 6, 2014 for acceptance of 
+fit/tack connector plates fillet Weld Id Nos. 220-20-0019, 220-20-0021 and 220-20-0027, 
+on Traveler 1933470 Sequence 40, for Job No. 430011, Module No. CA01-32-220 
+ 
+Internal and External Audit Reports
+ 
+ 
+1. Internal Audit Schedule for 2013 and 2014 
+2. Internal Audit Reports I-13-001, I-13-002, I-13-003, I-13-005, I-13-007, I-13-009, and I-
+13-010 
+3. External Audit Schedule for 2013 and 2014 
+4. External Audit Reports S-11-002, S-12-015, S-12-017, S-13-004, S-13-006, S-13-010, 
+and S-14-002 
+ 
+Surveillance Reports
+ 
+ 
+1. SURV 13-001, SURV 13-014, SURV 13-015, SURV I-13-016, SURV 13-017, SURV 13-
+018, SURV 13-019, SURV 13-020, SURV 13-021, SURV 13-023 
+ 
+Annual Evaluations 
+ 
+1. JM Test Systems, Inc., dated January 25, 2014 
+2. Fox Valley Methodology, LTD., dated August 16, 2013 
+ 
+Training Records and Associated Documents 
+ 
+1. Qualification and training records for 3 lead auditors and 5 auditors 
+2. Record of Assigned Reading for Corrective Action Manager for QP-CA-215-00, “Control 
+of Nonconforming Items” dated October 24, 2012 
+3. Record of Assigned Reading for Senior Vice President (SVP) Kevin Walsh for QP-QA-
+215a Revision 0, “10 CFR 21 and 10 CFR 50.55(e) Compliance”, dated January 26, 
+2014 
+ 
+- 43 - 
+4. TAR-ENG-13-000009 Part 21 Training for Daniel Grannan, dated March 19, 2013 
+5. TAR-QA-13-000019 Part 21 Training for Penny Flemming, dated March 20, 2013 
+6. TAR-QA-13-000020 Part 21 Training for 8 employees, dated March 19, 2013 
+7. TAR-QA-13-000021 Part 21 Training for Group and SVP (Kevin Walsh), dated April 1, 
+2013 
+8. CB&I LC Quality Training Matrix, dated February 4, 2014 
+9. CB&I LC Quality Training Matrix, dated February 5, 2014 
+10. Welder/Welding Operator Qualification Roster, Revision 181, dated January 10, 2014 
+11. Welder or Welding Operator Qualification Continuity Log for Viradeth Suriyadeth, last 
+tested December 20, 2013 
+12. Welder or Welding Operator Qualification Continuity Log for Richard Thomas, last tested 
+August 18, 2010 
+13. Welder or Welding Operator Qualification Continuity Log for JD Dickinson, last tested 
+April 10, 2012 
+14. Welder or Welding Operator Qualification Continuity Log for Wilfred Watson, last tested 
+December 16, 2013 
+15. Welder or Welding Operator Qualification Continuity Log for Kevin Watson, last tested 
+January 9, 2014 
+16. Welder or Welding Operator Qualification Continuity Log for Randall Gilchrist, last tested 
+December 4, 2013 
+17. Welder or Welding Operator Qualification Continuity Log for Robert Guerra, last tested 
+December 20, 2013 
+18. Welder or Welding Operator Qualification Continuity Log for Barrett Henry, last tested 
+December 27, 2013 
+19. Welder or Welding Operator Qualification Continuity Log for Heath Martin date tested 
+September 16, 2013 
+20. Welder or Welding Operator Qualification Test Record (D1.6) for Derrick South for WPS 
+1-10-79 for 2G welding, dated June 11, 2012  
+21. Welder or Welding Operator Qualification D1.6 for Heath Martin for WPS 1-10-379 rev 3, 
+for 3G welding, dated January 17, 2014 
+22. Welder or Welding Operator Qualification D1.6 for Heath Martin for WPS 1-10-379 rev 3, 
+for 4G welding, dated January 17, 2014 
+23. Welder or Welding Operator Qualification Test Record (D1.6) for Derrick South for WPS 
+1-10-79 for 3G welding, dated June 11, 2012  
+24. Welder or Welding Operator Qualification Test Record (D1.4) for John J. Smithson dated 
+April 6, 2012 
+25. Procedure Qualification Record (PQR) 1-10-250, Revision 0, dated May 7, 2012 
+26. PQR 1-10-78, Revision 2, dated May 7, 2012 
+27. PQR 1-10-81, Revision 2, dated May 7, 2012 
+28. PQR 1-10-250, Revision 0, dated May 7, 2012 
+29. PQR 1-1-107, Revision 1B, dated August 29, 2011 
+30. PQR 1-1-341-1, Revision 0, dated September 6, 2012 
+31. PQR 1-1-134-2, Revision 0, dated September 6, 2012 
+32. PQR 1-1-343, Revision 0, dated August 21, 2012 
+33. PQR 1-1-343-2, Revision 0, dated August 21, 2012 
+34. PQR 1-1-359-1, Revision 0, dated October 29, 2012 
+35. PQR 1-1-360-1, Revision 0, dated October 29, 2012 
+36. PQR 1-1-361-1, Revision 0, dated October 29, 2012 
+37. PQR 1-1-66, Revision 1, dated November 22, 2011 
+38. PQR 1-1-89, Revision 2, dated October 23, 2012 
+ 
+- 44 - 
+39. Welder or Welding Operator Qualification Continuity Log (WQCL) for welder Id No. VR, 
+last tested to GMAW-Pulse and FCAW process updated on November 11, 2013 and 
+October 26, 2013 respectively 
+40. WQCL for welder Id No. TX , qualified in GMAW-Pulse and FCAW process last tested 
+on December 21, 2013 
+41. WQCL for welder Id No. QT , qualified in FCAW process, last tested on November 2, 
+2013 
+42. WQCL for welder Id No. YT, qualified in GMAW-Pulse, FCAW and GTAW process, last 
+tested on September 28, 2013, and October 31, 2013 respectively 
+43. WQCL for welder Id No. NE, qualified in Stud and FCAW process last tested on August 
+26, 2013 and November 1, 2013 respectively  
+44. Welder or Welding Operator Qualification (WQ) form QP-WE-302-F-1 for welder Id No. 
+VR qualified in GMAW-Pulse process to WPS 1-1-107, Revision 07 per AWS D1.1 on 
+June 3, 2013 
+45. WQ form QP-WE-302-F-1 for welder Id No. LN qualified in manual GTAW process to 
+WPS 1-1-164, Revision 02, to AWS D1.1 on August 16, 2012 
+46. WQ form QP-WE-302-F-1 for welder Id No. TX, qualified in GMAW-Pulse process to 
+WPS 1-1-107, Revision 05, to AWS D1.1 on May 14, 2013 
+47. WQ form QP-WE-302-F-1 for welder Id No. NE, qualified in FCAW process to WPS 1-1-
+500, Revision 0, to AWS D1.1 on November 9, 2013 
+48. WQ form QP-WE-302-F-4 for welder Id No. YT, qualified in GMAW-Pulse process to 
+WPS 1-1-352,  Revision 1, to AWS D1.6 on September 11, 2013 
+49. WQ form QP-WE-302-F-4 for welder Id No. QT, qualified in GMAW-Pulse process to 
+WPS 1-1-352,  Revision 1, to AWS D1.6 on April 25, 2013 
+50. Form QP-WE-301-F-7, “Procedure Qualification Test Traveler,” for PQR No. 1-1-532 for 
+manual GTAW process dated February 04, 2014 
+51. CB&I GTAW Testing Report dated February 05, 2014 for 12 welders qualified to manual 
+GTAW process to WPS 1-10-379 Revision 03 and WPS 1-1-164, Revision 07 
+ 
+Calibration and Inspection Related Records
+ 
+ 
+1. JM Test Systems, Inc A2LA Calibra tion Certification Number 1995.01, dated 
+November 29, 2012 
+2. Fox Valley Metrology, LTD, Certificate of Accreditation Certification Number ACT-
+1272, dated May 22, 2013 
+3. Fox Valley Metrology, LTD Scope of Accreditation to ISO/IEC 17025:2005 & 
+ANSI/NCSL Z540-1-1994, dated August 9, 2013 
+4. JM Test Systems, Inc Certificate of Calibration Serial Number 9241, dated March 30, 
+2010 
+5. Parker Research Corporation Certification Serial Number 9241, dated March 15, 2010 
+6. Report No. MT-13-002626, Magnetic Particle Examination Report Serial Number 9241, 
+dated May 21, 2013 
+7. Receipt Inspection Report for PO 877096, dated November 21, 2013 
+8. Fox Valley Metrology, Certificate of Compliance for PO 11102 OB and 877096 OI, 
+dated November 18, 2013 
+9. Fox Valley Metrology, Certificate of Calibration for Serial Number N39626 (ID MTE-
+012A), dated November 20, 2013 
+10. CGI Service Dedication Approval for PO 877096 and 11102 OB for MTE-012A, dated 
+November 20, 2013 
+11. CGI Service Dedication Plan No CGDP 12-000001/R2, dated June 26, 2013 
+ 
+- 45 - 
+12. ACLASS Surveillance Assessment Report to Fox Valley Metrology, LTD, dated April 
+22, 2012 
+13. Full Section Testing of Rebar Anchorage Samples for PQR 1-1-89 Letter, dated 
+August 5 
+14. Ultrasonic Test Report (UTR) No. 430001-UT-13-001909, Revision 0, dated May 31, 
+2013, acceptance of CJP with backing bar to AWS D1.1 for Module CA05-03, Job No. 
+430001 on Traveler 1926471 Sequence 80 
+15. UTR No. 430011-UT-12-001235, Revision 0, dated September 14, 2012, acceptance 
+of 10% UT on CJP weld #100-30-0001 to AWS D1.6, for Module CA05-01-100, on 
+Traveler 2550579 Sequence No.260 
+16. Penetrant Test Report 430001-PT-12-00-115, Revision 0, dated September 13, 2012, 
+acceptance of weld removal base metal prep weld #'s: 100-20-0003A, 100-20-0003B, 
+100-20-0006A, 100-20-0006B, 100-20-0007A, and 100-20-0007B to AWS D1.6, for 
+Module CA05-01-100, Traveler 2542326, Sequence 340 
+17. Form QP-MT-304-F-1, “Lincoln Power Wave S350 Calibration Form,” for Welding 
+Machine No. 23, calibrated on August 2, 2013, due February 2, 2014 
+18. Form QP-MT-304-F-1 for Welding Machine No. 24, calibrated on November 15, 2013, 
+due May 15, 2014 
+19. Form QP-MT-304-F-1, for Welding Machine No. 36, calibrated on January 23, 2014, 
+due July 23, 2014 
+20. Form QP-MT-304-F-1, for Welding Machine No. 36, calibrated on January 23, 2014, 
+due July 23, 2014 
+21. Form QP-MT-304-F-1, for Welding Machine No. 44, calibrated on January 23, 2014, 
+due July 23, 2014 
+22. Form QP-MT-304-F-1, for Welding Machine No. 47, calibrated on January 23, 2014, 
+due July 23, 2014 
+23. Form QP-MT-304-F-1, for Welding Machine No. 59, calibrated on January 23, 2014, 
+due July 23, 2014 
+24. Form QP-MT-304-F-1, for Welding Machine No. 95, calibrated on January 23, 2014, 
+due July 23, 2014 
+25. Calibration Certificate for UT Reference IIW Type I Block, S/N 20222 calibration date 
+April 19, 2012, due April 19, 2017 
+26. Excelon Power Labs Calibration Certificate for Light Meter – S/N 121201435 
+calibration date October 31, 2013 due October 31, 2014 
+27. GE Inspection Technologies Calibration Certificate for UT meter S/N 
+USMGU12116126 calibration date October 24, 2013, due prior to use 
+28. Magnaflux Certificate of Material Report for Spotcheck Developer SKD-02, batch No. 
+13f18K, dated July 10, 2013 
+29. Magnaflux Certificate of Material Report for Spotcheck Penetrant SKL-SP2, batch No. 
+12L04K, dated November 13, 2012 
+30. Magnaflux Certificate of Material Report for Spotcheck Cleaner SK-S, batch No. 
+13K12K dated October 30, 2013 
+31. Flawtech Flaw Location and NDT Report for Specimen No. UT-4934 for UT personnel 
+qualification testing dated July 22, 2009 
+ 
+Nonconformance Reports
+ 
+ 
+NCR 13-001158, 001162, 001205, 001501, 001784, 001889, 001832, 001913, 001940, 
+001940, 001925, 001935, 002010, 002147, 002261 
+ 
+ 
+- 46 - 
+Corrective Action Reports 
+ 
+2011 
+ 
+CAR 2011-402, 439, 440, 446, 448, 450, 452, 455, 456, 460, 484, 485 
+ 
+2012 
+ 
+CAR 2012-0054, 0076, 0243, 0250, 0437, 0534, 0542, 0543, 0559, 0566, 0567, 0617, 
+0649, 0650, 0690, 0703, 0820, 0856, 0857, 0921, 0924, 0938, 0991, 0992, 0993, 0941, 
+0994, 1000, 1037, 1040, 1057, 1129, 1145, 1161, 1078, 1081, 1190, 1208, 1231, 1234, 
+1258, 1253, 1294, 1341, 1343, 1365, 1397, 1410, 1431, 1469 
+ 
+2013
+ 
+ 
+CAR 2013-0013, 0021, 0036, 0051, 0058, 0064, 0065, 0099, 0111, 0128, 0152, 0223, 
+0235, 0254, 0266, 0315, 0319, 0330, 0351, 0353, 0356, 0366, 0393, 0412, 0420, 0438, 
+0446, 0463, 0469, 0487, 0488, 0489, 0490, 0491, 0492, 0493, 0494, 0495, 0496, 0498, 
+0499, 0500, 0501, 0502, 0503, 0504, 0507, 0512, 0513, 0530, 0531, 0533, 0534, 0535, 
+0536, 0544, 0558, 0575, 0579, 0587, 0594, 0635, 0644, 0657, 0697, 0739, 0759, 0758, 
+0776, 0851, 0897, 0914, 0916, 0926, 0964, 0993, 1027, 1060, 1074, 1090, 1127, 1035, 
+1148, 1161, 1249, 1296, 1299, 1319, 1338, 1340, 1341, 1343, 1344, 1345, 1351, 1352, 
+1353, 1354, 1355, 1356, 1357, 1358, 1359, 1360, 1438, 1461, 1507, 1547, 1578, 1607, 
+1608, 1615, 1625, 1631, 1641, 1645, 1657, 1669, 1692, 1696, 
+ 
+2014
+ 
+ 
+CAR 2014-0004, 0011, 0013, 0022, 0037, 0040, 0069, 0092, 0097, 0125, 126, 127, 128, 
+129, 130, 0135, 0136, 0162 
+ 
+Corrective Action Reports Generated During the NRC Inspection
+ 
+ 
+CAR 2014-0123, 0125, 0128, 0135, 0136, 0138, 0156 
+ 
+Safety Conscious Wok Environment Related Documents
+ 
+ 
+1. Slides:  Inspiration for Kaizen Blitz 
+2. Employee Concerns Program- Lake Charles Metrics, 2014 
+3. CB&I Pulse Survey Results 
+4. Nuclear Safety Advisory Board (NSAB) Quarterly Meeting minutes:  June 19; August 20
+; 
+and October 8, 2013. 
+5. NQ-SCWE-01: “Executive Review Board,” Revision 0, July, 22, 2013. 
+6. CMS-805-00-PR-10000:  “Executive Review Board,” DRAFT 
+7. CMS-805-00-FM-10001:  “Executive Review Board Single Person Layoff Event Form,” 
+DRAFT 
+8. CMS-805-00-FM10002:  “Executive Review Board Confidentiality Agreement Form,” 
+DRAFT 
+ 
+- 47 - 
+9. CMS-805-00-FM-10001:  “Executive Review Board Proposed Adverse Action Review 
+Form,” DRAFT 
+10. CMS-805-00-FM-10004:  “Executive Review Board Chilling Effect Mitigation Plan,” 
+DRAFT 
+11. CMS-805-00-FM-10005:  “Executive Review Board Record of Action,”  DRAFT 
+12. CMS-805-01-PR-00001:  “Employee Concerns Program,” Revision 1, December 17, 
+2013. 
+13. CMS-805-01-WI-00002:  “ECP Qualification Card,” DRAFT 
+14. CMS-500-03-PR-00003:  “Performance Management,” Revision 1, March 20, 2013. 
+15. Nuclear Safety Advisory Board Charter-  DRAFT 
+16. CB&I Lake Charles Nuclear Safety Advisory Board:  DRAFT version 7.28.2013 rev. 02 
+17. Nuclear Safety Advisory Board presentation slides:  August 20, 2013 
+18. DRAFT Gap Analysis for Prior CB&I Safety Culture/SCWE Training 
+19. January 15, 2014 All Hands Meeting slides 
+ 
+Miscellaneous
+ 
+ 
+1. Compensatory Measure Plan for QP-PE-303, “Fabrication Change Notice” Revision 0, 
+“Fabrication Change Notice”, dated January 21, 2013 
+2. SMS Job Title Master Matrix, Revision 00c, dated January 26, 2013 
+3. Procedure Status for Stop Work, dated January 15, 2014 

@@ -1,0 +1,4347 @@
+ 
+ 
+UNITED STATES 
+NUCLEAR REGULATORY COMMISSION 
+REGION II 
+245 PEACHTREE CENTER AVENUE NE, SUITE 1200 
+ATLANTA, GEORGIA  30303-1257 
+ 
+November 7, 2016 
+ 
+Michael Yox  
+Regulatory Affairs Director  
+Southern Nuclear Operating Company  
+7835 River Road, Bldg. 140, Vogtle 3 & 4  
+Waynesboro, GA 30830 
+ 
+SUBJECT: VOGTLE ELECTRIC GENERATING PLANT UNITS 3 AND 4 – NRC  
+INTEGRATED INSPECTION REPORTS 05200025/2016003, 
+05200026/2016003 
+ 
+Dear Mr. Yox: 
+ 
+On September 30, 2016, the U.S. Nuclear Regulatory Commission (NRC) completed an 
+inspection at your Vogtle Electric Generating Plant (VEGP) Units 3 and 4. The enclosed 
+inspection report documents the inspection results, which the inspectors discussed on October 
+5, 2016 with Mr. Mark Rauckhorst, Vogtle 3&4 Executive Vice President Construction, and other 
+members of your staff. 
+ 
+The inspection examined a sample of construction activities conducted under your Combined 
+License (COL) as it relates to safety and compliance with the Commission’s rules and 
+regulations and with the conditions of these documents. The inspectors reviewed selected 
+procedures and records, observed activities, and interviewed personnel. 
+ 
+Based on the results of this inspection, no findings of significance were identified. 
+ 
+In accordance with 10 CFR 2.390, “Public inspections, exemptions, requests for withholding,” of 
+the NRC's "Agency Rules of Practice and Procedure," a copy of this letter, its enclosure, and 
+your response (if any), will be made available electronically for public inspection in the NRC 
+Public Document Room or from the Publicly Available Records (PARS) component of NRC's 
+document system ADAMS.  ADAMS is accessible from the NRC Web site at 
+http://www.nrc.gov/reading-rm/adams.html (the Public Electronic Reading Room).  To the extent 
+possible, your response should not include any personal privacy or proprietary information so 
+that it can be made available to the public without redaction.   
+M. Yox 2 
+Should you have any questions concerning this letter, please contact us. 
+ 
+Sincerely, 
+ 
+                /RA/ 
+ 
+Jamie Heisserer, Chief 
+Construction Inspection Branch 1 
+Division of Construction Oversight 
+ 
+ 
+ 
+Docket Nos.: 5200025, 5200026 
+License Nos: NPF-91, NPF-92 
+ 
+Enclosure:  NRC Inspection Report (IR) 05200025/2016003, 05200026/2016003 
+w/attachment: Supplemental Information 
+ 
+M. Yox 2 
+ 
+Should you have any questions concerning this letter, please contact us. 
+ 
+Sincerely, 
+ 
+                /RA/ 
+       
+Jamie Heisserer, Chief 
+Construction Inspection Branch 1 
+Division of Construction Oversight 
+ 
+ 
+ 
+Docket Nos.: 5200025, 5200026 
+License Nos: NPF-91, NPF-92 
+ 
+Enclosure:  NRC Inspection Report (IR) 05200025/2016003, 05200026/2016003 
+w/attachment: Supplemental Information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ADAMS Accession No.: ML 
+Publicly Available   Non-Publicly Available  Sensitive  Non-Sensitive  SUNSI Review Complete Form 665 Attached 
+OFFICE DRP/PB7 DCO/CIB2 DCO/CIB2 DCO/C IB4 DCO/CIB4 DCO/CIB1 DCO//CIB1 DCO/CIB1 DCO/CIB2 RIII DCO/CIB2 
+SIGNATURE /RA via 
+email/ 
+/RA via email/ /RA via 
+email/ 
+/RA via email/ /RA via 
+email/ 
+/RA via 
+email/ 
+/RA via 
+email/ 
+/RA via email/ /RA via email/ /C. Oelstrom 
+via email for/ 
+/RA via email/ 
+NAME B. DAVIS K. MCCURRY A. ARTAYET C. OELSTROM J. VASQUEZ S. SMITH J. FULLER J. 
+CHRISTENSEN 
+T. STEADHAM J. BOZGA P. CARMAN 
+DATE 10/26/2016 10/25/2016 10/28/2016 11/01/2016 10/26/2016 11/01/2016 10/31/2016 10/28/2016 11/02/2016 11/02/2016 11/07/2016 
+E-MAIL 
+COPY? 
+YES NO YES NO YES NO YES NO YES NO YES NO YES NO YES NO YES NO YES NO YES NO 
+OFFICIAL RECORD COPY
+M. Yox 3 
+ 
+ 
+cc w/ encls: 
+Resident Manager Resident Inspector 
+Oglethorpe Power Corporation Plant Vogtle 3&4 
+Alvin W. Vogtle Nuclear Plant 7825 River Road 
+7821 River Road Waynesboro, GA 30830 
+Waynesboro, GA 30830        
+       Mr. Barty Simonton 
+Office of the Attorney General Environmental Radiation Program Manager 
+40 Capitol Square, SW Environmental Protection Division 
+Atlanta, GA 30334 Georgia Dept. of Natural Resources 
+       4224 International Pkwy, Suite 120 
+Southern Nuclear Op. Co. Atlanta, GA 30354-3906 
+Document Control Coordinator        
+42 Inverness Center Parkway Gene Stilp 
+Attn:  B236 1550 Fishing Creek Valley Road 
+Birmingham, AL 35242 Harrisburg, PA 17112 
+              
+Anne F. Appleby Mr. Robert E. Sweeney 
+Olgethorpe Power Corporation IBEX ESI 
+2100 East Exchange Place 4641 Montgomery Avenue 
+Tucker, GA 30084 Suite 350 
+       Bethesda, MD 20814 
+County Commissioner        
+Office of the County Commissioner George B. Taylor, Jr. 
+Burke County Commission 2100 East Exchange Pl 
+Waynesboro, GA 30830 Atlanta, GA 30084-5336 
+              
+Mr. Wayne Guilfoyle Brian H. Whitley 
+Commissioner 42 Inverness Center Parkway 
+  District 8 BIN B237 
+Augusta-Richmond County Commission Birmingham, AL 35242 
+4940 windsor Spring Rd        
+Hephzibah, GA 30815 
+       
+Gwendolyn Jackson 
+Burke County Library 
+130 Highway 24 South 
+Waynesboro, GA 30830 
+       
+Mr. Reece McAlister 
+Executive Secretary 
+Georgia Public Service Commission 
+Atlanta, GA 30334 
+ 
+M. Yox 4 
+ 
+Email 
+agaughtm@southernco.com   (Amy Aughtman) 
+annacom@westinghouse.com   (Michael J. Annacone) 
+awc@nei.org   (Anne W. Cottingham) 
+Bartley.Higgins@hq.doe.gov   (Bartley Higgins) 
+becky@georgiawand.org  (Becky Rafter) 
+bhwhitle@southernco.com   (Brian Whitley) 
+Bill.Jacobs@gdsassociates.com   (Bill Jacobs) 
+bjadams@southernco.com   (Brad Adams) 
+burrouno@westinghouse.com   (Nicholle Burroughs) 
+bwwaites@southernco.com   (Brandon Waites) 
+castelca@westinghouse.com  (Curtis Castell) 
+comerj@westinghouse.com  (James Comer) 
+couturgf@westinghouse.com   (Gerald Couture) 
+crenshjw@westinghouse.com   (John Crenshaw) 
+crpierce@southernco.com   (C.R. Pierce) 
+dahjones@southernco.com   (David Jones) 
+david.hinds@ge.com   (David Hinds) 
+david.lewis@pillsburylaw.com   (David Lewis) 
+dgbost@southernco.com   (Danny Bost) 
+dlfulton@southernco.com   (Dale Fulton) 
+drculver@southernco.com   (Randy Culver) 
+durhamdc@westinghouse.com   (David Durham) 
+ed.burns@earthlink.net   (Ed Burns) 
+edavis@pegasusgroup.us  (Ed David) 
+erg-xl@cox.net   (Eddie R. Grant) 
+fdhundle@southernco.com   (Forrest Hundley) 
+G2NDRMDC@southernco.com  (SNC Document Control) 
+graysw@westinhgouse.com   (Scott W. Gray) 
+james1.beard@ge.com   (James Beard) 
+jannina.blanco@pillsburylaw.com   (Jannina Blanco) 
+jantol1dj@westinghouse.com    (David Jantosik) 
+jenmorri@southernco.com  (Jennifer Buettner) 
+jim@ncwarn.org   (Jim Warren) 
+John.Bozga@nrc.gov  (John Bozga) 
+Joseph_Hegner@dom.com    (Joseph Hegner) 
+jpredd@southernco.com   (Jason R. Redd) 
+jranalli@meagpower.org   (Jerry Ranalli) 
+jtgasser@southernco.com   (Jeff Gasser) 
+karen.patterson@ttnus.com   (Karen Patterson) 
+karlg@att.net   (Karl Gross) 
+kdfili@southernco.com   (Karen Fili) 
+kim.haynes@opc.com   (Kim Haynes) 
+kmseiber@southernco.com   (Kristin Seibert) 
+kmstacy@southernco.com   (Kara Stacy) 
+KSutton@morganlewis.com   (Kathryn M. Sutton) 
+kwaugh@impact-net.org   (Kenneth O. Waugh) 
+lchandler@morganlewis.com   (Lawrence J. Chandler) 
+markus.popa@hq.doe.gov   (Markus Popa) 
+mcintyba@westinghouse.com   (Brian McIntyre) 
+M. Yox 5 
+ 
+mdmeier@southernco.com   (Mike Meier) 
+media@nei.org   (Scott Peterson) 
+Melissa.Smith@Hq.Doe.Gov   (Melissa Smith) 
+Michael.Kuca@hq.doe.gov   (Michael Kuca) 
+mike.price@opc.com   (M.W. Price) 
+mlgraves@southernco.com   (Michelle Graves) 
+MSF@nei.org   (Marvin Fertel) 
+myox@southernco.com   (Mike Yox) 
+nirsnet@nirs.org   (Michael Mariotte) 
+Nuclaw@mindspring.com   (Robert Temple) 
+patriciaL.campbell@ge.com   (Patricia L. Campbell) 
+Paul@beyondnuclear.org   (Paul Gunter) 
+pbessette@morganlewis.com   (Paul Bessette) 
+r.joshi15@comcast.net   (Ravi Joshi) 
+randall@nexusamllc.com   (Randall Li) 
+rjarrett@southernco.com   (Robyn Jarrett) 
+RJB@NEI.org   (Russell Bell) 
+Ronald.Jones@scana.com   (Ronald Jones) 
+russpa@westinghouse.com   (Paul Russ) 
+rwink@ameren.com   (Roger Wink) 
+sabinski@suddenlink.net   (Steve A. Bennett) 
+sara@cleanenergy.org   (Sara Barczak) 
+sblanton@balch.com   (Stanford Blanton) 
+sfrantz@morganlewis.com   (Stephen P. Frantz) 
+Shiva.Granmayeh@hq.doe.gov   (Shiva Granmayeh) 
+sjackson@meagpower.org   (Steven Jackson) 
+skauffman@mpr.com   (Storm Kauffman) 
+sroetger@psc.state.ga.us   (Steve Roetger) 
+stephan.moen@ge.com   (Stephan Moen) 
+taterrel@southernco.com   (Todd Terrell) 
+tom.miller@hq.doe.gov   (Tom Miller) 
+TomClements329@cs.com   (Tom Clements) 
+Vanessa.quinn@dhs.gov   (Vanessa Quinn) 
+Wanda.K.Marshall@dom.com   (Wanda K. Marshall) 
+wasparkm@southernco.com   (Wesley A. Sparkman) 
+wayne.marquino@ge.com   (Wayne Marquino) 
+weave1dw@westinghouse.com   (Doug Weaver) 
+x2gabeck@southernco.com   (Gary Becker)
+ 
+Enclosure 
+U.S. NUCLEAR REGULATORY COMMISSION 
+Region II 
+ 
+ 
+Docket Numbers: 5200025 
+5200026 
+ 
+License Numbers: NPF-91 
+NPF-92 
+ 
+Report Numbers: 05200025/2016003 
+05200026/2016003 
+ 
+Licensee: Southern Nuclear Operating Company, Inc. 
+ 
+Facility: Vogtle Electric Generating Plant Units 3 & 4  
+ 
+Location: Waynesboro, GA 
+ 
+ 
+Inspection Dates: July 1, 2016 through September 30, 2016 
+ 
+Inspectors: A. Artayet, Senior Construction Inspector, DCO 
+J. Bozga, Reactor Inspector, Region 3 
+P. Braxton, Resident Inspector, DCO 
+T. Brimfield, Resident Inspector, DCO 
+P. Carman, Construction Inspector, DCO 
+J. Christensen, Construction Inspector, DCO 
+B. Davis, Senior Construction Inspector, DCO 
+J. Fuller, Senior Resident Inspector, DCO 
+C. Oelstrom, Construction Inspector, DCO 
+S. Smith, Senior Construction Inspector, DCO 
+T. Steadham, Senior Construction Inspector, DCO 
+K. Steddenbenz, Construction Inspector, DCO 
+S. Temple, Resident Inspector, DCO 
+J. Vasquez, Construction Inspector, DCO 
+ 
+Accompanying Personnel: Malcolm Patterson, Reliability and Risk Analyst, NRO 
+Odunayo Ayegbusi, Reliability and Risk Analyst, NRO 
+ 
+ 
+Approved by: Jamie Heisserer, Branch Chief 
+Construction Inspection Branch 1 
+Division of Construction Oversight 
+ 
+ 
+ 
+ 
+ 
+ 
+SUMMARY OF FINDINGS 
+ 
+Inspection Report (IR) 05200025/2016003, 05200026/2016003; 07/01/2016 through 
+09/30/2016; Vogtle Electric Generating Plant Unit 3, Vogtle Electric Generating Plant Unit 4, 
+routine integrated inspection report. 
+ 
+This report covers a three month period of inspection by regional and resident inspectors, and 
+announced Inspections, Tests, Analysis, and Inspection Criteria (ITAAC) inspections by regional 
+inspectors. The NRC's program for overseeing the construction of commercial nuclear power 
+reactors is described in Inspection Manual Chapter (IMC) 2506, “Construction Reactor 
+Oversight Process General Guidance and Basis Document.
+ 
+ 
+A. NRC-Identified and Self Revealed Findings 
+None 
+ 
+B. Licensee-Identified Violations 
+None 
+ 
+ 
+ 
+ 
+ 
+ 
+REPORT DETAILS 
+ 
+Summary of Plant Construction Status 
+ 
+During this reporting period in Unit 3, concrete was placed in course 04 of the shield building, 
+and courses 05 and 06 were placed into the nuclear island.  Installation for floors in the auxiliary 
+building at elevation 82'6" resumed with some floors being placed.  Onsite work began on pipe 
+for the passive core cooling system (PXS) including receipt acceptance and limited welding 
+work.  Rebar work began on the east side of the shield building.  Concrete was placed on east 
+side inside containment up to 87'6" and rebar work began from 87'6" to 96'. 
+ 
+For Unit 4, concrete was placed under the containment vessel from elevation 82'6" to 90'6" 
+(east)/96'.  CA20, which makes up portions of areas 5 and 6 of the radiologically controlled 
+auxiliary building was set into the Nuclear Island and additional interior walls were placed on the 
+non-radiologically controlled auxiliary building.  Submodules for CA03, which forms the west 
+wall of the In-containment refueling water storage tank began to arrive onsite and were up-
+ended for assembly. 
+ 
+1. CONSTRUCTION REACTOR SAFETY  
+ 
+Cornerstones: Design/Engineering, Procurement/Fabrication, 
+Construction/Installation, Inspection/Testing 
+ 
+IMC 2503, Inspections, Tests, Analyses, and Acceptance Criteria (ITAAC) - Related Work 
+Inspections 
+ 
+1A01 (Unit 3) ITAAC Number 2.2.01.02a (91) / Family 06F 
+ 
+a.  Inspection Scope 
+ 
+The inspectors performed a direct inspection of construction activities associated with 
+ITAAC Number 2.2.01.02a (91).  The inspectors used the following NRC Inspection 
+Procedures (IPs)/sections to perform this inspection: 
+ 
+• 65001.11-02.01 - Purchase Orders 
+• 65001.11-02.07 - Offsite Fabrication of Assemblies 
+• 65001.F-02.02-Fabrication Records Review 
+• 65001.F-02.04-General QA Review 
+ 
+ The inspectors reviewed fabrication records associated with the Unit 3 containment 
+vessel, top head, plates C3-A15, C3-A30, C3-B8, C3-B17, and C3-C1 to verify that 
+materials met the applicable requirements of the American Society of Mechanical 
+Engineers (ASME) Code, Section III.  Specifically, the inspectors reviewed receiving 
+inspection reports, certified material test reports, and ultrasonic examination reports to 
+verify the materials' chemical composition, mechanical properties, and fabrication 
+requirements were met.  For plates received as fabricated assemblies, the inspectors 
+4 
+reviewed N-2 data reports to verify that the assemblies were fabricated in accordance 
+with the design specifications and ASME Code requirements. 
+ 
+ 
+b.  Findings 
+ 
+No findings were identified. 
+ 
+1A02 (Unit 3) ITAAC Number 2.2.01.03a (93) / Family 06B 
+ 
+a.  Inspection Scope 
+ 
+The inspectors performed a direct inspection of construction activities associated with 
+ITAAC Number 2.2.01.03a (93).  The inspectors used the following NRC IPs/sections to 
+perform this inspection: 
+ 
+• 65001.11-02.03 - Installation and Welding 
+• 65001.11-02.05 - Nondestructive Examination 
+• 65001.B-02.01-Program and Procedures Review 
+• 65001.B-02.02-Welding Procedure Qualification 
+• 65001.B-02.03-Welder Qualification 
+• 65001.B-02.04-Production Controls 
+• 65001.B-02.05-Inspection 
+• 65001.B-02.06-Records 
+• 65001.F-02.02-Fabrication Records Review 
+• 65001.F-02.03-Observation of Fabrication Activities 
+• 65001.F-02.04-General QA Review 
+ 
+ The inspectors observed welding activities and reviewed fabrication records associated 
+with pressure boundary welds of the Unit 3 containment vessel, top head to verify that 
+pressure boundary welds were performed in accordance with ASME Code, Section 
+III.  The inspectors observed in-process welding of one longitudinal weld (U3-TH4-
+B8/B9), reviewed welding and inspection records for two longitudinal welds (U3-TH4-
+A14/A15 and U3-TH4-A29/A30), and performed an independent inspection of a sample 
+of radiographic film for one weld (U3-TH4-A29/A30).
+ 
+  
+The inspectors reviewed weld records for longitudinal welds U3-TH4-A14/A15 and U3-
+TH4-A29/A30 to determine whether:
+ 
+• the welding activity was properly documented in the weld traveler; 
+• records provided adequate traceability to all aspects of the welding activity, 
+including traceability to the welder or welding operator who performed the work; 
+• the records adequately documented reference to procedure and welder 
+qualifications, inspector qualifications, weld material certifications and receipt 
+inspection reports, weld data or process records (travelers), weld maps, weld 
+inspection records, Nondestructive Examination (NDE) records; 
+• the records were appropriately retained and stored in accordance with Quality 
+Assurance (QA) program requirement; 
+5 
+ 
+• required inspections were identified in the traveler with hold points, as appropriate; 
+and 
+• accepted, rejected, and repaired items were documented in written reports. 
+ 
+The inspectors observed in-process submerged arc welding of weld seam U3-TH4-
+B8/B9 to ensure the following:
+ 
+• work was conducted in accordance with a "traveler," weld data record or similar 
+document which coordinated and sequenced the welding and inspection 
+operations; 
+• the welding procedure used was the latest revision and appropriate for the work 
+performed; 
+• the weld joint was sufficiently protected from inclement conditions; 
+• minimum preheat and maximum interpass temperature met the requirements of 
+the welding procedure specification (WPS); 
+• surfaces to be welded were smooth, uniform, and free from surface discontinuities 
+such as cracks or seams, and free from paint, oil, rust, scale, slag, grease, 
+moisture or other harmful foreign materials that could be detrimental to welding for 
+at least 2 inches from the weld joint; 
+• the filler metal type and size was in compliance with the WPS; 
+• the weld joint was traceable to the welders; and 
+• welding machine variables were correctly set. 
+  
+The inspectors reviewed three WPSs to verify they were available, up to date, 
+accurate, and in conformance with the ASME Code requirements, specifying all 
+applicable essential, nonessential, and supplementary essential variables.  The 
+inspectors reviewed the supporting nine procedure qualification records (PQRs) to 
+verify the specific ranges of welding variables listed in the WPSs were appropriately 
+qualified and the type and number of qualification tests required received acceptable 
+results.  The inspectors reviewed 11 welder or welding operator performance 
+qualification records to determine whether the welders or welding operators were 
+assigned a unique identification number and demonstrated their skill by performing 
+specific performance qualification tests, the qualification testing conditions and 
+qualification limits were fully documented, and the appropriate number of acceptable 
+test results was achieved.
+ 
+  
+The inspectors reviewed two certified material test reports (CMTRs) for filler metal to 
+verify traceability between welds and conformance with the applicable Code 
+specifications and WPSs.  The inspectors reviewed these reports to ensure the 
+materials' chemical composition, mechanical properties, fracture toughness 
+requirements, and fabrication requirements were met. 
+ 
+  
+The inspectors performed an independent inspection of a sample of radiographic film 
+taken during the radiographic (RT) examination of weld U3-TH4-A29/A30 to verify that 
+the radiography met the requirements of ASME Section III Code.  The inspectors 
+reviewed the film to determine whether indications shown on the radiographs of welds 
+were characterized in accordance with applicable Code sections; the image quality 
+indicators were properly certified, selected, and placed; film quality and density met 
+applicable Code requirements; and measuring and test equipment was properly 
+calibrated. 
+ 
+ 
+6 
+b.  Findings 
+No findings were identified. 
+ 
+1A03 (Unit 3) ITAAC Number 2.2.01.04a.ii (96) / Family 06F 
+ 
+a.  Inspection Scope 
+ 
+The inspectors performed a direct inspection of construction activities associated with 
+ITAAC Number 2.2.01.04a.ii (96).  The inspectors used the following NRC IPs/sections 
+to perform this inspection: 
+ 
+• 65001.F-02.02-Fabrication Records Review 
+• 65001.F-02.03-Observation of Fabrication Activities 
+• 65001.F-02.04-General QA Review 
+ 
+ The inspectors reviewed fabrication records associated with pressure boundary 
+materials of the Unit 3 containment vessel top head to verify that the fracture 
+toughness requirements were in accordance with ASME Code, Section III.  The 
+inspectors reviewed CMTRs for plates (C3-A15, C3-A30, C3-B8, C3-B17, and C3-C1) 
+and weld filler metal used for the longitudinal welds of plates (C3-A29 to C3-A30 and 
+C3-A14 to C3-A15) to verify the materials met applicable Charpy V-notch impact 
+testing requirements.  For plates received as fabricated assemblies, the inspectors 
+reviewed N-2 data reports to verify that the assemblies were fabricated in accordance 
+with the design specifications and ASME Code requirements. 
+ 
+ 
+b.  Findings 
+ 
+No findings were identified. 
+ 
+1A04 (Unit 3) ITAAC Number 2.2.03.02b (160) / Family 03F 
+ 
+a.  Inspection Scope 
+ 
+The inspectors performed a direct inspection of construction activities associated with 
+ITAAC Number 2.2.03.02b (160).  The inspectors used the following NRC IPs/sections 
+to perform this inspection: 
+ 
+• 65001.03-02.01 - Purchase and Receipt of Materials 
+• 65001.03-02.02 - Storage and Handling 
+• 65001.F-02.02-Fabrication Records Review 
+  
+The inspectors reviewed fabrication records and performed a visual inspection of the 
+following PXS pipe lines that are presently stored at the Vogtle site:  
+• SV3-PXS-PLW-019-1; Line SV3-PXS-PL-L021A, 8" DVI A Header from CMT A 
+Injection Header to Reactor Vessel (ASME Class 1, schedule 160 ASME SA-
+312 Grade TP316LN, seamless); and 
+7 
+• SV3-PXS-PLW-026-1; Line SV3-PXS-PL-L021B, 8" DVI B Header from CMT B 
+Injection Header to Reactor Vessel (ASME Class 1, schedule 160 ASME SA-
+312 Grade TP316LN, seamless). 
+ 
+ 
+The inspectors reviewed the manufacturing records for the pipes listed above to 
+determine whether the selected materials conformed to the design requirements 
+specified by the relevant purchase order.  The inspectors reviewed the contractor’s 
+receipt inspection reports to determine whether the inspection was performed 
+according to Quality Control (QC) Inspection Plan F-Q445-008, “Receipt Inspection: 
+CB&I Procured ASME III Items.” 
+ 
+  
+On July 1, 2016, the inspectors performed a walk down of the Level D storage area 
+where the Vogtle Unit 3 Direct Vessel Inspection (DVI) Lines (L021A and L021B) were 
+stored to determine conformance with ASME NQA-1-1994, 10 CFR Part 50, Appendix 
+B, and applicable project procedures and specifications.  Specifically the inspectors 
+verified the following:
+ 
+• the storage area met the requirements of Level D storage; 
+• there was no evidence of mechanical damage or corrosion to the pipe’s outside 
+surface; 
+• the as-built pipe length and diameter matched the supplier’s records; 
+• the markings matched the documentation supplied by the manufacturer and 
+were in accordance with ASME Section III, 1998 Edition through 2000 
+addenda; and 
+• the pipe ends were sealed with caps and were not stored on the ground. 
+  
+The inspectors performed a direct inspection of these two piping lines to verify that the 
+pipes were traceable to the supplier’s records, markings on the pipe were clear and 
+legible, the pipe was clean and there was no evidence of damage such corrosion, 
+deep scratches or gouges.  The inspectors verified that the pipe ends were properly 
+sealed and the pipes were not stored in direct contact with the ground.
+ 
+  
+The inspectors reviewed the WECTEC Certificates of Compliance for both spool 
+pieces to verify that they were signed by the supplier, source inspector, and authorized 
+nuclear inspector.
+ 
+  
+The inspectors reviewed the procurement and fabrication records to verify the 
+following: 
+• the purchase order appropriately specified the applicable quality and technical 
+requirements and 10 CFR Part 21; 
+• that the fabrication records were adequate to furnish evidence of activities 
+affecting quality and evidence that the pipes conformed with the applicable 
+codes, standards, regulations, and quality and technical requirements; and 
+• the certified material test reports were traceable to materials used during 
+fabrication and the materials conformed with the specified material 
+specifications for chemical and mechanical properties. 
+ 
+ 
+Specifically, the inspectors reviewed the following documentation for SV3-PXS-PLW-
+019-1 and SV3-PXS-PLW-026-1: 
+• As-built shop sketch 
+• Shop Traveler including weld data and Visual Testing (VT) report 
+• Manufacturer’s Certificate of Compliance 
+8 
+• NDE reports 
+• QC bend report 
+• Heat treatment records 
+• Nonconformance reports 
+• Passivation report. 
+  
+The inspectors reviewed the quality control bending reports for SV3-PXS-PLW-019-1 
+and SV3-PXS-PLW-026-1 to verify that the supplier measured the wall thicknesses 
+before and after bending in the proper locations and that the post bend minimum wall 
+thickness was in accordance with SV3-PL02-Z0-001, “Piping Class Sheets and 
+Standard Details,” Rev. 5.  
+ 
+  
+The inspectors reviewed supplier nonconformance report number NCR-2016-23 to 
+determine whether the nonconforming condition was in accordance with applicable 
+codes, standards, regulations, and quality and technical requirements. 
+ 
+  
+The inspectors reviewed the certified material test reports for the SA312 Grade 
+TP316LN, 8” schedule 160 ASME Class 1 pipe (Heat Number 06971 for L021A and 
+L021B) to determine whether the material conformed with SA-312, “Specification for 
+Seamless and Welded Austenitic Stainless Steel Pipes.”  
+ 
+  
+The inspectors reviewed the hydrostatic test report for both spool pieces to verify 
+conformance with APP-GW-P0-007, SA-312, and SA-530. 
+  
+ 
+b.  Findings 
+ 
+No findings were identified. 
+ 
+1A05 (Unit 3) ITAAC Number 2.2.03.02b (160) / Family 03F 
+ 
+a.  Inspection Scope 
+ 
+The inspectors performed a direct inspection of construction activities associated with 
+ITAAC Number 2.2.03.02b (160).  The inspectors used the following NRC IPs/sections 
+to perform this inspection: 
+ 
+• 65001.03-02.01 - Purchase and Receipt of Materials 
+• 65001.03-02.03 - Installation and Welding 
+• 65001.03-02.05 - Pressure Testing 
+• 65001.03-02.06 - Nondestructive Examination (NDE) 
+• 65001.03-02.07 - Review of Records 
+• 65001.F-02.02-Fabrication Records Review 
+ 
+ The inspectors observed welding activities and reviewed welding records associated 
+with PXS piping to verify applicable codes, standards, specifications, and procedure 
+requirements were met.  Specifically, the inspectors performed the following tasks 
+9 
+related to a pipe support welded to the DVI line B from the in-containment refueling 
+water storage tank (IRWST): 
+ 
+• observed in-process welding; 
+• observed visual inspection; 
+• observed liquid penetrant examination; 
+• reviewed associated CMTRs; 
+• reviewed engineering & design coordination reports (E&DCRs); 
+• reviewed weld data records; 
+• reviewed WPSs with supporting PQRs; 
+• reviewed personnel qualification records; and  
+• reviewed NDE reports. 
+  
+The inspectors observed in-process welding of weld number SV3-PXS-PLW-029-171 
+to verify that a sample of welding variables were within the ranges allowed by the WPS 
+and ASME Code, specifically amperage, voltage, and travel speed.  The inspectors 
+also witnessed visual inspection by the welder, field engineer, and QC inspector to 
+verify proper hold points were signed off and the inspectors followed the applicable 
+inspection plan, F-S562-005, “Pipe Welding / Braze; ASME Section III Visual Pipe 
+Weld Inspection,” revision 2.  The inspectors independently visually inspected the weld 
+to verify the surface and size of the weld met the ASME Code and applicable design 
+drawings.  The inspectors also observed the liquid penetrant examination to verify:
+ 
+• penetrant, developer, and cleaning products were adequate;  
+• appropriate dwell times were met;  
+• the test temperature was within the required range;  
+• there were no recordable defects on the surface of the weld; and  
+• the examiner followed procedure 100-PT-301, “Liquid Penetrant Examination in 
+Accordance with ASME Section V, Article 6,” revision 12.   
+  
+The inspectors observed measuring and test equipment (M&TE), specifically 
+multimeters and thermometers (V-2Z-0030, V-AP-0052, and E4092015620), to verify 
+they were properly calibrated and traceable.  The inspectors reviewed qualifications of 
+the welders, QC personnel, and NDE personnel to verify personnel were uniquely 
+identified and qualifications were completed and maintained in accordance with 
+applicable industry codes and standards.  The inspectors also observed licensee 
+oversight of the same welding activities, M&TE verifications, and personnel 
+qualification assurance to determine whether the licensee implemented adequate 
+oversight over their programs and processes.  
+ 
+The inspectors reviewed the various records stated above to verify: 
+ 
+• the base material and weld filler metal were adequately certified as 
+demonstrated by Certificates of Compliance and CMTRs that recorded 
+acceptable results for chemistry, mechanical, and impact properties;  
+• receipt inspection of the material was conducted in accordance with applicable 
+procedures, traceability was maintained, and inspection reports recorded 
+satisfactory results; 
+• E&DCRs were appropriately created, justified, approved, and incorporated into 
+impacted design drawings or other affected documents;  
+10 
+• work was conducted in accordance with weld data sheets that (1) properly 
+referenced the applicable WPSs, drawings, and work package, (2) provided 
+adequate hold points for QC signatures, and (3) provided traceability between 
+welding material heat numbers, welders, M&TE, NDE reports, and QC 
+inspections for each weld;  
+• welding material requisitions (WMRs) from the associated work package 
+selected the correct WPS, base material, filler material, and joint type; 
+• WPSs were available, up to date, accurate, and in conformance with code 
+requirements;   
+• supporting PQRs appropriately qualified the specific ranges of welding 
+variables listed in the WPS, and the type and number of qualification tests 
+required received acceptable results; and 
+• NDE reports for liquid penetrant examination and vacuum box leak testing 
+showed proper review and acceptable results. 
+ 
+ 
+b.  Findings 
+ 
+No findings were identified. 
+ 
+1A06 (Unit 3) ITAAC Number 2.2.03.03b (162) / Family 03B 
+ 
+a.  Inspection Scope 
+ 
+The inspectors performed a direct inspection of construction activities associated with 
+ITAAC Number 2.2.03.03b (162).  The inspectors used the following NRC IPs/sections 
+to perform this inspection: 
+ 
+• 65001.03-02.01 - Purchase and Receipt of Materials 
+• 65001.03-02.03 - Installation and Welding 
+• 65001.03-02.06 - Nondestructive Examination (NDE) 
+• 65001.03-02.07 - Review of Records 
+• 65001.03-02.08 - Problem Identification and Resolution 
+• 65001.B-02.01-Program and Procedures Review 
+• 65001.B-02.02-Welding Procedure Qualification 
+• 65001.B-02.03-Welder Qualification 
+• 65001.B-02.04-Production Controls 
+• 65001.B-02.05-Inspection 
+• 65001.B-02.06-Records 
+• 65001.F-02.02-Fabrication Records Review 
+• 65001.F-02.03-Observation of Fabrication Activities 
+• 65001.F-02.04-General QA Review 
+ 
+ The inspectors reviewed welding and inspection records of two butt welds associated 
+with the welding of the Vogtle Unit 3 PXS pipe line L112B (IRWST injection line B to 
+DVI line B).  The inspectors reviewed the completed weld records associated with 
+11 
+work package SV3-PXS-P0W-ME3240 for the following welds:  SV3-PXS-PLW-029-1, 
+SV3-PXS-PLW-029-2, and SV3-PXS-PLW-029-2-RW1. 
+  
+The inspectors reviewed weld records to determine whether: 
+• the welding activity was properly documented in the work traveler; 
+• records provided adequate traceability to all aspects of the welding activity, 
+including traceability to the welder who performed the work; 
+• the records adequately documented the following attributes: reference to 
+procedure and welder qualifications, inspector qualifications, weld material 
+certifications and receipt inspection reports, weld data or process records 
+(travelers), weld maps, weld inspection records, NDE records; 
+• the records were appropriately retained and stored in accordance with QA 
+program requirement; 
+• required inspections were identified in the traveler with hold points, as 
+appropriate; and 
+• accepted, rejected, and repaired items were documented in written reports. 
+  
+The inspectors reviewed the RT examination records for the welds listed above to 
+determine whether the required examinations were performed in accordance with the 
+MISTRAS procedure 100-RT-302, ASME Section III, Subsection NC, and ASME 
+Section V, Article 2.  Additionally, the inspectors performed an independent inspection 
+of the radiograph to determine whether indications shown on the radiographs of welds 
+were characterized and documented in accordance with ASME Section III, Subsection 
+NC, and ASME Section V, Article 2.  For the welds listed above, the inspectors 
+reviewed RT Level II and Level III NDE qualifications to verify personnel were qualified 
+to the applicable processes and procedures.
+ 
+  
+The inspectors reviewed a sample of CMTRs and WMRs for the weld filler material to 
+determine conformance with ASME Section II, Part C, SFA 5.9 for Type ER308L, the 
+applicable weld filler material procurement specification, and the applicable WPS.
+ 
+  
+The inspectors reviewed the WPS and associated PQRs for the welds listed above to 
+determine if the WPS met the requirements of ASME Section IX, the supporting PQRs 
+appropriately qualified the specific ranges of welding variables listed in the WPS, and 
+the type and number of qualification tests required received acceptable results.  The 
+inspectors also reviewed a sample of welder qualifications to verify personnel were 
+qualified to the applicable process, material, and position.
+ 
+  
+The inspectors reviewed a corrective action report (CAR) related to work package 
+SV3-PXS-P0W-ME3240.  The inspectors reviewed this report to determine if the 
+actions taken were appropriate for the situation and that the CAR received the 
+appropriate amount of review. 
+ 
+ 
+b.  Findings 
+ 
+No findings were identified. 
+ 
+1A07 (Unit 3) ITAAC Number 3.3.00.02a.i.a (760) / Family 01F 
+ 
+a.  Inspection Scope 
+12 
+ 
+The inspectors performed a direct inspection of construction activities associated with 
+ITAAC Number 3.3.00.02a.i.a (760).  The inspectors used the following NRC 
+IPs/sections to perform this inspection: 
+ 
+• 65001.01-02.05 - Steel Structures 
+• 65001.B-02.04-Production Controls 
+ 
+ On July 7, 2016 the inspectors observed the in-process welding of an overlay plate 
+(SRR-15-01569; A4-038) to the Vogtle Unit 3 CA01 module (Weld Number CV6238-
+38) to determine if the welding was performed within the ranges allowed by the WPS 
+and the requirements of American Welding Society (AWS) D1.1:2000.  At the welding 
+lead, the inspectors made an independent measurement of the welding current and 
+voltage to verify that the welder was welding within the ranges allowed by WPS2-
+1.1S02.
+ 
+  
+Additionally, the inspectors verified the following: 
+• work was conducted in accordance with a "traveler," weld data record or similar 
+document which coordinated and sequenced the welding and inspection 
+operations; 
+• the welding procedure used was the latest revision; 
+• the weld joint was sufficiently protected from inclement conditions; 
+• surfaces to be welded were smooth, uniform, and free from surface 
+discontinuities such as cracks or seams, and free from paint, oil, rust, scale, 
+slag, grease, moisture or other harmful foreign materials that could be 
+detrimental to welding for at least 2 inches from the weld joint; 
+• the temperature of the base material at the joint, prior to welding, met the 
+preheat requirements of the WPS; 
+• the welder had in his possession the correct size and classification of filler 
+material that was indicated on the welding material requisition form; 
+• the interpass temperatures did not exceed the maximum value specified in the 
+WPS; and 
+• the weld joint was traceable to the welders. 
+  
+ 
+b.  Findings 
+ 
+No findings were identified. 
+ 
+1A08 (Unit 3) ITAAC Number 3.3.00.02a.i.b (761) / Family 01F 
+ 
+a.  Inspection Scope 
+ 
+The inspectors performed a direct inspection of construction activities associated with 
+ITAAC Number 3.3.00.02a.i.b (761).  The inspectors used the following NRC 
+IPs/sections to perform this inspection: 
+ 
+• 65001.01-02.05 - Steel Structures 
+13 
+• 65001.A.02.03 - Independent Assessment/Measurement Inspection 
+• 65001.A.02.04 - Review As-built Deviations/Nonconformance 
+• 65001.B-02.06-Records 
+• 65001.F-02.02-Fabrication Records Review 
+ 
+ For two Vogtle Unit 3 shield building steel composite modules (SV3-1208-SC-01E and 
+SV3-1208-SC-01D) the inspectors observed the contractor’s receipt inspection 
+activities, reviewed manufacturing and inspection records, reviewed a sample of 
+certified material test reports, reviewed a sample of weld travelers, and performed 
+independent visual inspections and measurements of the modules to determine 
+whether the applicable quality and technical requirements specified in the purchase 
+order had been satisfied.  Specifically, the inspectors verified that welding and 
+nondestructive testing was performed according to AWS D1.1:2000 and American 
+Institute of Steel Construction (AISC) N-690-1994 requirements.  
+ 
+  
+On June 23, 2016, the inspectors observed contractor QC personnel perform the 
+receipt inspection of Vogtle Unit 3 Shield Building panels 01D and 01E to determine 
+whether the receipt inspection was performed according to QC inspection plan F-
+Q445-004, Quality Standard (QS) 07.01, and Nuclear Quality Assurance Directive 
+(QAD) 07.14.  The inspectors also performed an independent visual inspection of the 
+modules at this time to determine the following:
+ 
+  
+• the modules were stored in the appropriate storage level area, and this area 
+met the applicable requirements of ASME NQA-1-1994; 
+• the modules' markings were legible and matched the procurement documents; 
+• protective covers and caps were in place to protect threaded connections; and 
+• the modules were not damaged from shipping and met the shipping and 
+cleanliness requirements specified by SV3-1208-Z0-001, “Specification for the 
+Fabrication and Field Erection of the SC Panels for the AP1000 Shield 
+Building”; 
+  
+The inspectors noted that the physical properties, dimensions, weld preparations, and 
+general workmanship were inspected by the contractor at the supplier’s facility prior to 
+arrival at the Vogtle site.  The inspectors reviewed the contractor’s source inspection 
+reports, certificates of conformance, and supplier documentation packages to 
+determine whether the modules were in compliance with the applicable quality and 
+technical requirements specified in the purchase order.  
+ 
+   
+The inspectors made independent measurements of a sample of module dimensions 
+that were specified by design drawings such as base metal thickness, shield building 
+wall thickness, module length, tie bar spacing and bolt hole spacing. 
+  
+Prior to installation in the nuclear island, the inspectors performed independent visual 
+inspections and measurements of the welds to determine whether they met the design 
+drawings, including type, size, and location.  Additionally, the inspectors performed 
+independent inspection of the welds to verify they met visual inspection acceptance 
+criteria for the applicable design and fabrication codes, including cracks, lack of fusion, 
+undercut, porosity, weld size, and other visual defects.  The inspectors reviewed a 
+sample of weld records provided by the fabricator to determine whether:
+ 
+  
+14 
+• records provided adequate traceability to all aspects of the welding activities, 
+including traceability to the welder who performed the work; 
+• the records adequately documented weld material certifications, weld data or 
+process records, weld inspection records, and nondestructive examination 
+records; 
+• required inspections were identified with hold points as required by the design 
+codes; and 
+• accepted, rejected, and repaired items were documented. 
+  
+Moreover, the inspectors made independent measurements of a sample of module 
+dimensions that were specified by design drawings such as base metal thickness, 
+shield building wall thickness, module length, tie bar spacing, and bolt hole spacing.
+ 
+   
+The inspectors reviewed a sample of documents (nonconformance and disposition 
+reports [N&Ds]) that were used to identify differences between the as-designed and 
+as-built shield building panels to determine if: 
+  
+• the difference, if not corrected to comply with the as-designed conditions, was 
+properly documented and incorporated in the final as-built drawings;  
+• the difference, if corrected to comply with the as-designed configuration, was 
+completed and accepted by qualified personnel; 
+• the condition was properly documented and evaluated against the current 
+licensing basis; and 
+• any differences between documents used for construction and the 
+corresponding document used for a design analysis were appropriately 
+reconciled with the design report by the person or organization responsible for 
+the design. 
+  
+The inspectors reviewed a sample of the shield building steel composite shop 
+drawings to determine whether the shape, size, dimensions, type, and grade of 
+material conformed to the approved specifications and design drawings that were 
+included in purchase order number P-D100.SB003 (Purchase Order Line Item 1).  The 
+inspectors reviewed a sample of certified material test reports to determine whether 
+the actual material used to fabricate panels 01D and 01E were compliant with the 
+American Society of Testing Materials (ASTM) specifications and SV3-VL52-Z0-572, 
+“Material Specification for ASTM A572 Grade 50 for SC Shield Building,” Rev. 0. The 
+inspectors performed a direct inspection of a sample of the materials used to fabricate 
+panels 01D and 01E to verify that markings on the material matched the fabrication 
+records and CMTRs.  The inspectors verified that the material was protected from 
+corrosion as specified by specification SV3-1208-Z0-001.  
+ 
+  
+During the review of a sample of welding and nondestructive testing records for panels 
+01D and 01E the inspectors verified that the identification of welds and welders was 
+maintained for each weld and nondestructive examination methods and acceptance 
+criteria were appropriately specified and that the visual, surface, and volumetric 
+examination sampling requirements were specified and had been met for a sample of 
+welds.  
+ 
+  
+ 
+b.  Findings 
+ 
+15 
+No findings were identified. 
+ 
+1A09 (Unit 3) ITAAC Number 3.3.00.02a.i.b (761) / Family 01F 
+ 
+a.  Inspection Scope 
+ 
+The inspectors performed a direct inspection of construction activities associated with 
+ITAAC Number 3.3.00.02a.i.b (761).  The inspectors used the following NRC 
+IPs/sections to perform this inspection: 
+ 
+• 65001.01-02.05 - Steel Structures 
+• 65001.B-02.05-Inspection 
+• 65001.B-02.06-Records 
+ 
+ The inspectors reviewed E&DCR number SV0-1208-GEF-000026, "Shield Building 
+NDE Allowance,", which was associated with the nondestructive testing of the Vogtle 3 
+and 4 Shield Building steel composite wall.  The inspectors reviewed this E&DCR to 
+determine whether the change received the proper level of engineering review and 
+was incorporated into all affected documents.  The inspectors also verified that this 
+design change was performed in accordance with Domestic AP1000 Project 
+Procedure (DAPP) 5-14, "AP1000 Engineering and Design Coordination Report."
+ 
+  
+The inspectors evaluated this design change for conformance to 10 CFR Part 50, 
+Appendix B, Criterion III, "Design Control," and Supplement 3S-1, "Supplementary 
+Requirements for Design Control," of ASME NQA-1-1994.  The inspectors reviewed 
+the licensing impact determination screening associated with this design change to 
+determine whether the change was properly evaluated against the current licensing 
+basis as described in the Vogtle Unit 3 and Unit 4 updated final safety analysis report 
+(UFSAR) and was performed in accordance with procedure DAPP 5-18, "AP1000 
+Licensing Basis Reviews."  Furthermore, the inspectors reviewed this design change 
+to determine whether the change received the proper level of engineering review and 
+was incorporated into all affected documents.  
+ 
+  
+ 
+b.  Findings 
+ 
+No findings were identified. 
+ 
+1A10 (Unit 3) ITAAC Number 3.3.00.02a.i.b (761) / Family 01F 
+ 
+a.  Inspection Scope 
+ 
+The inspectors performed a direct inspection of construction activities associated with 
+ITAAC Number 3.3.00.02a.i.b (761).  The inspectors used the following NRC 
+IPs/sections to perform this inspection: 
+ 
+• 65001.01-02.07 - Identification and Resolution of Problem 
+16 
+• 65001.02-02.01 - Inspection of Concrete Placement 
+• 65001.02-02.03 - Special Considerations 
+• 65001.02-02.07 - Problem Identification and Resolution 
+• 65001.A.02.04 - Review As-built Deviations/Nonconformance 
+ 
+ The inspectors reviewed quality records and performed direct inspection of 
+construction activities associated with the Shield Building for Vogtle Unit 
+3.  Specifically, the inspectors observed construction activities associated with steel 
+composite panels along the west side between elevations 123’-6” and 131’-6”. 
+ 
+   
+The inspectors observed concrete delivery operations and reviewed batch plant 
+records to determine whether: 
+ 
+• concrete was batched in accordance the specified mix design;  
+• specifications, procedures, codes, and design requirements were followed; 
+• each truck was measured and each trip received proper ticketing and 
+documentation;  
+• batch records were generated, controlled, and indicated placement location, 
+mix, volume, date, time, and special instructions; 
+• transporting equipment was suitable, reliable, and in an acceptable condition; 
+• the time limit between mixing and placement was not been exceeded; 
+• temperature limits were not exceeded; 
+• test results were being utilized at the batch plant to adjust mix proportions, as 
+allowed by the procedures and specifications, to optimize concrete mix 
+characteristics for the placement; and 
+• remixing in the truck after required water additions conformed to the 
+appropriate standards, including the amount of water allowed as called out in 
+the concrete mix design specifications. 
+  
+ 
+The inspectors reviewed the concrete placement plan included in the work package to 
+determine whether pre-placement planning had been completed, including appropriate 
+considerations for hot weather and mass concrete.  The inspectors observed concrete 
+placement activities to determine whether: 
+ 
+• accepted procedures and specifications were followed throughout the concrete 
+placement; 
+• the equipment used was suitable and sized for the work;  
+• each batch ticket was reviewed for verification of proper mix, transport time, 
+placement location, and amount of temper water being added at the truck 
+delivery point; 
+• placement drop distances did not exceed specification requirements and did 
+not result in segregation; 
+• vibrators were approved and calibrated;  
+• vibrators were handled and operated to ensure adequate consolidation and 
+avoid voiding or honeycombing, including vertical operation and penetration 
+through the new concrete into the previously placed layer; 
+• concrete was placed in lifts in accordance with the concrete placement plan;  
+• inspection during placement was performed as required; and 
+• records were produced, reviewed, and indicated mix, location, time placed, 
+water additions, temperature of the concrete mix, and ambient conditions. 
+   
+17 
+During the placement, the inspectors observed in-process concrete testing to 
+determine whether: 
+• concrete temperature, slump, air content, and unit weight were determined at 
+the proper location and frequency as required by procedures, specifications, 
+and ASTM standards;  
+• sample collection and testing techniques conformed to the procedures, 
+specifications, and ASTM standards; 
+• concrete strength test sample cylinders were made at the required location and 
+frequency and were cured in accordance with specified requirements; and 
+• personnel performing sampling and testing were trained and qualified. 
+  
+The inspectors reviewed test results from in-process testing to determine whether: 
+• records were complete, accurate, and approved as required; 
+• test results were reviewed and evaluated against appropriate acceptance 
+criteria; 
+• the records were retrievable; and  
+• any adverse trends or problems were identified at an appropriate threshold and 
+documented in the corrective action program in accordance with approved 
+procedures.  
+  
+ 
+The inspectors reviewed a sample of design changes and nonconformances included 
+in the work package to verify:  
+• the licensee was identifying problems at an appropriate threshold and entering 
+them into the corrective action program; 
+• any differences between the as-built and as-designed Structures, Systems or 
+Components (SSCs) were documented and dispositioned in accordance with 
+approved modification or change procedures; and 
+• the nonconformances were resolved and their dispositions had adequate 
+technical bases.  
+  
+ 
+b.  Findings 
+ 
+No findings were identified. 
+ 
+1A11 (Unit 3) ITAAC Number 3.7.00.01 (841) / Family 16F 
+ 
+a.  Inspection Scope 
+ 
+The inspectors performed a direct inspection of construction activities associated with 
+ITAAC Number 3.7.00.01 (841).  The inspectors used the following NRC IPs/sections to 
+perform this inspection: 
+ 
+• 65001.16-02.01 - Design Procedures 
+• 65001.16-02.02 - Design Input 
+• 65001.16-02.03 - Design Documents 
+• 65001.16-02.04 - Design Analysis 
+• 65001.F-02.01-Design Document Review 
+• 65001.F-02.04-General QA Review 
+18 
+ 
+ The inspection team reviewed the principal closure document for the Design Reliability 
+Assurance Program (D-RAP) ITAAC to confirm that all components from the AP1000 
+Design Control Document, Tier 1, Table 3.7–1 had been included in its scope. To 
+maximize the extent of the review, the team designed a stratified sample of 
+documents. Procurement documents and installation drawings relevant to various 
+disciplines were selected. Both safety-related and non-safety related SSC’s were 
+selected, based in part on risk importance measures.
+ 
+  
+For each of the components in the sample, the staff reviewed the design documents to 
+confirm that the appropriate programs had been used in their preparation. The 
+inspectors reviewed the signatures of the design documents and installation drawings 
+to verify that they were made by qualified personnel.  The inspectors also reviewed the 
+qualification process to verify that each person was adequately qualified to sign the 
+documents. 
+ 
+  
+The team also examined procedures used for design review, design document 
+verification, document control, and qualification of personnel to verify thoroughness 
+and completion. The inspectors selected a sample of design disciplines and reviewed 
+specific competencies required for qualification to verify that the personnel were 
+adequate to be signing the documents. 
+ 
+ 
+b.  Findings 
+ 
+No findings were identified. 
+ 
+1A12 (Unit 4) ITAAC Number 2.2.01.02a (91) / Family 06F 
+ 
+a.  Inspection Scope 
+ 
+The inspectors performed a direct inspection of construction activities associated with 
+ITAAC Number 2.2.01.02a (91).  The inspectors used the following NRC IPs/sections to 
+perform this inspection: 
+ 
+• 65001.11-02.01 - Purchase Orders 
+• 65001.F-02.02-Fabrication Records Review 
+• 65001.F-02.04-General QA Review 
+ 
+ The inspectors reviewed fabrication records associated with the Unit 4 containment 
+vessel, upper ring, plates B4-C47, B4-D25, B4-D29, B4-E15, and B4-E20 to verify that 
+materials met the applicable requirements of the ASME Code, Section III.  Specifically, 
+the inspectors reviewed receipt inspection reports, certified material test reports, and 
+ultrasonic examination reports to verify the materials' chemical composition, 
+mechanical properties, and fabrication requirements were met. 
+ 
+ 
+b.  Findings 
+ 
+19 
+No findings were identified. 
+ 
+1A13 (Unit 4) ITAAC Number 2.2.01.03a (93) / Family 06B 
+ 
+a.  Inspection Scope 
+ 
+The inspectors performed a direct inspection of construction activities associated with 
+ITAAC Number 2.2.01.03a (93).  The inspectors used the following NRC IPs/sections to 
+perform this inspection: 
+ 
+• 65001.11-02.03 - Installation and Welding 
+• 65001.11-02.05 - Nondestructive Examination 
+• 65001.B-02.01-Program and Procedures Review 
+• 65001.B-02.02-Welding Procedure Qualification 
+• 65001.B-02.03-Welder Qualification 
+• 65001.B-02.04-Production Controls 
+• 65001.B-02.05-Inspection 
+• 65001.B-02.06-Records 
+• 65001.F-02.02-Fabrication Records Review 
+• 65001.F-02.03-Observation of Fabrication Activities 
+• 65001.F-02.04-General QA Review 
+ 
+ The inspectors observed welding activities and reviewed fabrication records 
+associated with pressure boundary welds of the Unit 4 containment vessel, upper ring 
+to verify that pressure boundary welds were performed in accordance with ASME 
+Code, Section III.  The inspectors observed in-process welding and reviewed welding 
+and inspection records of one circumferential weld (course S9 to course S10), 
+reviewed welding and inspection records for two longitudinal welds (U4-S9-E15/E16 
+and U4-S10-C46/C47), and performed an independent inspection of a sample of 
+radiographic film for two welds (U4-S9-E15/E16 and U4-S10-C46/C47).
+ 
+  
+The inspectors reviewed weld records for circumferential weld U4-S9/S10 and 
+longitudinal welds U4-S9-E15/E16 and U4-S10-C46/C47 to determine whether:
+ 
+  
+• the welding activity was properly documented in the weld traveler; 
+• records provided adequate traceability to all aspects of the welding activity, 
+including traceability to the welder or welding operator who performed the 
+work; 
+• the records adequately documented the following attributes: reference to 
+procedure and welder qualifications, inspector qualifications, weld material 
+certifications and receipt inspection reports, weld data or process records 
+(travelers), weld maps, weld inspection records, NDE records; 
+• the records were appropriately retained and stored in accordance with QA 
+program requirement; 
+• required inspections were identified in the traveler with hold points, as 
+appropriate; and 
+• accepted, rejected, and repaired items were documented in written reports. 
+20 
+  
+The inspectors observed in-process submerged arc welding of weld seam U4-S9/S10 
+to ensure the following: 
+  
+• work was conducted in accordance with a "traveler," weld data record or similar 
+document which coordinated and sequenced the welding and inspection 
+operations; 
+• the welding procedure used was the latest revision and appropriate for the 
+work performed; 
+• the weld joint was sufficiently protected from inclement conditions; 
+• minimum preheat and maximum interpass temperature met the requirements 
+of the WPS; 
+• surfaces to be welded were smooth, uniform, and free from surface 
+discontinuities such as cracks or seams, and free from paint, oil, rust, scale, 
+slag, grease, moisture or other harmful foreign materials that could be 
+detrimental to welding for at least 2 inches from the weld joint; 
+• the filler metal type and size was in compliance with the WPS; 
+• the weld joint was traceable to the welders; and 
+• welding machine variables were correctly set. 
+  
+The inspectors reviewed three WPSs to verify they were available, up to date, 
+accurate, and in conformance with the ASME Code requirements, specifying all 
+applicable essential, nonessential, and supplementary essential variables.  The 
+inspectors reviewed the supporting nine PQRs to verify the specific ranges of welding 
+variables listed in the WPSs were appropriately qualified and the type and number of 
+qualification tests required received acceptable results.  The inspectors reviewed 15 
+welder or welding operator performance qualification records to determine whether the 
+welders or welding operators were assigned a unique identification number and 
+demonstrated their skill by performing specific performance qualification tests, the 
+qualification testing conditions and qualification limits were fully documented, and the 
+appropriate number of acceptable test results was achieved.
+ 
+  
+The inspectors reviewed four CMTRs for filler metal to verify traceability between 
+welds and conformance with the applicable Code specifications and WPSs.  The 
+inspectors reviewed these reports to ensure the materials' chemical composition, 
+mechanical properties, fracture toughness requirements, and fabrication requirements 
+were met. 
+ 
+  
+The inspectors reviewed RT examination reports welds U4-S9-E15/E16 and U4-S10-
+C46/C47 to determine whether the required examinations were performed in 
+accordance with ASME Code, Section III.  The inspectors performed an independent 
+inspection of a sample of radiographic film taken during the RT examination of welds 
+U4-S9-E15/E16 and U4-S10-C46/C47 to verify that the radiography met the 
+requirements of ASME Code, Section III.  The inspectors reviewed the film to 
+determine whether indications shown on the radiographs of welds were characterized 
+in accordance with applicable Code sections; the image quality indicators were 
+properly certified, selected, and placed; film quality and density met applicable Code 
+requirements; and measuring and test equipment was properly calibrated. 
+ 
+ 
+b.  Findings 
+21 
+ 
+No findings were identified. 
+ 
+1A14 (Unit 4) ITAAC Number 2.2.01.04a.ii (96) / Family 06F 
+ 
+a.  Inspection Scope 
+ 
+The inspectors performed a direct inspection of construction activities associated with 
+ITAAC Number 2.2.01.04a.ii (96).  The inspectors used the following NRC IPs/sections 
+to perform this inspection: 
+ 
+• 65001.F-02.02-Fabrication Records Review 
+• 65001.F-02.04-General QA Review 
+ 
+ The inspectors reviewed fabrication records associated with pressure boundary 
+materials of the Unit 4 containment vessel, upper ring to verify that the fracture 
+toughness requirements were met in accordance with ASME Section III Code. The 
+inspectors reviewed CMTRs for plates (B4-C47, B4-D25, B4-D29, B4-E15, and B4-
+E20), weld filler metal used for the longitudinal welds of plates (B4-C46 to B4-C47 and 
+B4-E15 to B4-E16), and a sample of weld filler metal used in one circumferential weld 
+(course S9 to course S10).  The CMTRs were reviewed to verify the materials met 
+applicable Charpy V-notch impact testing requirements. 
+ 
+ 
+b.  Findings 
+ 
+No findings were identified. 
+ 
+1A15 (Unit 4) ITAAC Number 2.2.02.07b.iii (140) / Family 06F 
+ 
+a.  Inspection Scope 
+ 
+The inspectors performed a direct inspection of construction activities associated with 
+ITAAC Number 2.2.02.07b.iii (140).  The inspectors used the following NRC IPs/sections 
+to perform this inspection: 
+ 
+• 65001.06 - Inspection of ITAAC-Related Installation of Mechanical Components 
+• 65001.F-02.01-Design Document Review 
+• 65001.F-02.02-Fabrication Records Review 
+• 65001.F-02.03-Observation of Fabrication Activities 
+• 65001.F-02.04-General QA Review 
+ 
+ The inspectors observed in-process coating activities being performed on the interior 
+of the containment vessel seven feet above the operating deck and higher (Panels B4-
+E11, B4-C23, B4-C26, B4-D14, B4-D23, and B4-E1).  The inspectors reviewed 
+Westinghouse Design Specification APP-GW-Z0-604, "Design Specifications for the 
+22 
+Application of Protective Coatings to Systems, Structures, and Components for the 
+AP1000 Reactor Plant for All Systems", revision 8 and 9 as guidance for the 
+inspection and to determine whether the procedures met the requirements of the 
+UFSAR, the design specification, industry standards, and manufacturer's 
+recommendations.
+ 
+  
+Specifically, the inspectors reviewed the Westinghouse Design Specification to verify 
+that the coatings applied to the internal portions of the containment vessel were 
+properly classified as inorganic zinc Service Level I coatings as described in the 
+UFSAR. The inspectors also verified that these coatings were classified as safety-
+related coatings as required to be procured under 10 CFR Part 50, Appendix B.
+ 
+  
+The inspectors walked down the storage area of the coating and abrasive medium to 
+determine whether the procedural requirements and manufacturer’s recommendations 
+for storage were being followed. Specifically, the inspectors observed the storage area 
+to verify cleanliness, inventory and the required temperature/humidity were adequately 
+monitored.  Additionally, the inspectors observed the blasting of the containment 
+vessel surface to determine whether the requirements of ASTM D4285 and the work 
+procedures were followed. Specifically, the inspectors observed: 
+ 
+• blotter testing to ensure no water or oil residue will be dispersed to the surface 
+during blasting; 
+• environmental conditions were suitable and not predisposed to precipitate dew 
+on the surface; and 
+• blasted areas were painted within four hours of abrasive blasting and before 
+rust bloom occurs. 
+  
+The inspectors reviewed documentation for coatings on the interior of the containment 
+vessel.  Specifically, the inspectors reviewed the Environmental Conditions Log for 
+panels B4-E11, B4-C23, B4-C26, B4-D14, B4-D23, and B4-E1 to verify that the 
+environmental conditions were in accordance with the Westinghouse Design 
+Specification.  Additionally, the inspectors verified that the calibration was current for 
+the environmental testing equipment gauges. The inspectors reviewed work travelers 
+for the application of the inorganic zinc coating on the containment vessel to determine 
+whether hold points were observed.
+ 
+  
+The inspectors observed mixing of the coating for the containment vessel lower and 
+middle rings to determine if the coatings were mixed according to the correct 
+proportions, the mixture was constantly agitated, and the outlined procedures were 
+followed. The inspectors reviewed the Pre Coating Material Inspection Log to verify 
+that the components of the inorganic zinc coating were not expired and were the 
+correct components as defined in the Westinghouse Design Specification.  As a part of 
+this observation the inspectors reviewed the training records to ensure current 
+training/qualification of the applicator and to determine whether the applicator was 
+qualified and certified for the work performed. Specifically, that the worker was certified 
+to the actual coating being applied.   
+ 
+ 
+b.  Findings 
+ 
+No findings were identified. 
+23 
+ 
+1A16  (Unit 4) ITAAC Number 3.3.00.02a.i.a (760) / Family 01F 
+ 
+a.  Inspection Scope 
+ 
+The inspectors performed a direct inspection of construction activities associated with 
+ITAAC Number 3.3.00.02a.i.a (760).  The inspectors used the following NRC 
+IPs/sections to perform this inspection: 
+ 
+• 65001.01 - Inspection of ITAAC-Related Foundations & Buildings 
+• 65001.01-02.01 - Procedures 
+• 65001.01-02.05 - Steel Structures 
+• 65001.01-02.06 - Records 
+• 65001.01-02.07 - Identification and Resolution of Problem 
+• 65001.A.02.03 - Independent Assessment/Measurement Inspection 
+• 65001.A.02.04 - Review As-built Deviations/Nonconformance 
+• 65001.B-02.05-Inspection 
+• 65001.B-02.06-Records 
+• 65001.F-02.01-Design Document Review 
+• 65001.F-02.02-Fabrication Records Review 
+ 
+ The inspectors reviewed quality records and performed independent verification of 
+construction activities associated with the containment internal structures for Vogtle 
+Unit 4.  Specifically, the inspectors sampled the following steel concrete composite 
+submodules associated with structural module CA01, which forms the reactor vessel 
+cavity, steam generator compartments, and pressurizer compartment, prior to on-site 
+assembly: 
+ 
+• CA01-01, which is part of the south and east refueling cavity walls from 
+elevation 98'-0" to 135'-3" 
+• CA01-07, which is part of the south east corner of the east steam generator 
+compartment from elevation 98’-0” to 158’-0” 
+• CA01-31, which is part of the north wall of the west steam generator 
+compartment from elevation 103’-0” to 153’-0” and the west wall of the 
+pressurizer compartment from elevation 107’-2” to 160’-0” 
+• CA01-37, which is part of the fuel transfer canal  
+  
+The inspectors reviewed a sample of approved implementing procedures and 
+specifications to determine whether the documents:
+ 
+• met the requirements specified in the quality assurance program and the 
+UFSAR, including the reconciliation of construction deviations in critical 
+dimensions and tolerances; 
+• correctly translated requirements from applicable codes and standards; 
+• described work controls, approved work processes, and inspection 
+requirements; 
+• included appropriate quantitative and/or qualitative acceptance criteria for 
+determining that the prescribed activities were accomplished satisfactorily; 
+24 
+• clearly prescribed acceptable methods of quality control inspection to ensure 
+that the as-built condition met specified design requirements, drawings and 
+material specifications; and 
+• provided qualification requirements for craft and quality control inspection 
+personnel performing installation and testing activities. 
+  
+The inspectors reviewed a sample of design drawings and design changes to 
+determine whether the documents adequately defined the final design and 
+arrangement of these submodules, critical attributes associated with the ITAAC were 
+correctly identified, and the documents were consistent with code requirements and 
+the UFSAR.  The inspectors reviewed a sample of fabrication records to determine 
+whether they were complete, accurate, and provided evidence that the quality and 
+code requirements were satisfied.  The inspectors reviewed a sample of certified 
+material test reports to verify that materials meet the specified design, material, and 
+mechanical testing requirements.  The inspectors reviewed a sample of inspection 
+records to determine whether: 
+ 
+• the records were adequate to furnish evidence of activities affecting quality  
+• the requisite material characteristics were documented; 
+• performance tests, nondestructive tests, material certification, chemical and 
+physical tests, and other specification requirements were performed and 
+documented as required;  
+• installation, inspection, and testing sequences were maintained; 
+• the records were reviewed and approved by the responsible organization;  
+• the recorded information was complete, accurate, met the licensing basis, and 
+conformed to applicable specifications;  
+• the items were correctly shipped, stored, and maintained in such a manner as 
+to demonstrate conformance with design and procedure requirements; and 
+• the as-fabricated submodule conformed to applicable codes, standards, quality 
+requirements, and technical requirements.   
+  
+The inspectors performed independent inspection and measurements of the size, 
+spacing, and dimensions of headed reinforcement, plates, angles, reinforcement 
+hooks, and mechanical couplers to determine whether:  
+ 
+• fabrication was completed in accordance with applicable specifications, 
+drawings, and approved procedures; 
+• any nonconforming conditions were identified by the licensee and were 
+adequately documented in the corrective action program; and  
+• the as-built configuration was in accordance with the final design and UFSAR. 
+  
+The inspectors reviewed tagging and markings on a sample of the submodules to 
+determine whether the marking system was adequate to identify the material and 
+inspection status during storage and installation.  The inspectors observed the storage 
+of the submodules to determine whether the submodules were stored and maintained 
+in accordance with applicable quality and technical requirements.  
+ 
+   
+The inspectors performed independent inspection and measurements of the welds to 
+determine whether they met the design drawings, including type, size, and 
+location.  Additionally, the inspectors performed independent inspection of the welds to 
+verify they met visual inspection acceptance criteria for the applicable design and 
+25 
+fabrication codes, including cracks, lack of fusion, undercut, porosity, weld size, and 
+other visual defects.  The inspectors reviewed a sample of weld records provided by 
+the fabricator to determine whether: 
+ 
+• records provided adequate traceability to all aspects of the welding activities, 
+including traceability to the welder who performed the work; 
+• the records adequately documented weld material certifications, weld data or 
+process records, weld inspection records, and nondestructive examination 
+records; 
+• required inspections were identified with hold points as required by the design 
+codes; and 
+• accepted, rejected, and repaired items were documented. 
+  
+The inspectors reviewed a sample of nonconformances to verify:  
+ 
+• the licensee was identifying deviations at an appropriate threshold and entering 
+them into the corrective action program; 
+• any differences between the as-built and as-designed SSCs were documented 
+and dispositioned in accordance with approved modification or change 
+procedures; and 
+• the nonconformances were resolved and their dispositions had adequate 
+technical bases.  
+ 
+ 
+b.  Findings 
+ 
+No findings were identified. 
+ 
+1A17 (Unit 4) ITAAC Number 3.3.00.02a.i.a (760) / Family 01F 
+ 
+a.  Inspection Scope 
+ 
+The inspectors performed a direct inspection of construction activities associated with 
+ITAAC Number 3.3.00.02a.i.a (760).  The inspectors used the following NRC 
+IPs/sections to perform this inspection: 
+ 
+• 65001.01-02.05 - Steel Structures 
+• 65001.B-02.01-Program and Procedures Review 
+• 65001.B-02.02-Welding Procedure Qualification 
+• 65001.B-02.03-Welder Qualification 
+• 65001.B-02.04-Production Controls 
+• 65001.B-02.05-Inspection 
+• 65001.B-02.06-Records 
+ 
+ The inspectors inspected vertical weld seams inside the associated with the assembly 
+of the CA01 structural module. The inspectors observed the completed weld joint and 
+reviewed documentation for the weld between the faceplates on the east and west 
+26 
+walls of submodules CA01-20 to CA01-21 which form part of the west refueling cavity 
+wall inside containment.   
+  
+Specifically, the inspectors observed the completed welds for CV15611-L16 and L17 
+welds. For these welds the inspectors reviewed design documents, weld data sheets, 
+applicable design drawings, work packages, WPS, PQR, welder qualifications and 
+specifications to verify construction and quality control activities, were being conducted 
+in accordance with design documents and applicable codes, processes and 
+procedures. In addition the inspectors observed quality control inspectors perform 
+visual inspection of weld CV15611-L16. The inspectors verified:  
+ 
+• contractors performing safety-related work had approved implementing 
+procedures that described administrative and procedural controls, approved 
+work processes, and inspection requirements; 
+• procedures clearly prescribed acceptable methods of quality control inspection 
+which ensured that the as-built condition met specified design requirements, 
+drawings and material specifications; 
+• design calculations met applicable codes and certified design criteria; 
+• WPS were qualified in conformance to AWS D1.6 Structural Welding Code - 
+Stainless Steel;  
+• WPSs were available, up to date and accurate;  
+• welding positions qualified for a WPS were in accordance with AWS D1.6 
+Structural Welding Code - Stainless Steel; 
+• the WPS specified all the applicable essential, nonessential supplementary 
+variables referenced in AWS D1.6 Structural Welding Code - Stainless Steel.  
+• welding personnel demonstrated their skill by performing specific performance 
+qualification tests prescribed by AWS D1.6; 
+• performance qualification tests were fully documented; 
+• each weld was traceable to the welder; 
+• work was conducted in accordance with a weld data record or similar 
+document which coordinated and sequences all operations, referenced 
+procedures and instructions, established hold points, and provided for 
+production welding and inspection signoffs; 
+• inspection procedures ensured that the size, length, and location of welds 
+conform to design requirements;   
+• acceptance criteria for completed welds were in accordance with AWS D1.6 
+Structural Welding Code - Stainless Steel; and 
+• weld profile tolerances were suitable and met code requirements. 
+  
+Additionally, the inspectors reviewed a sample of design output documents, design 
+criteria, E&DCRs, and N&Ds included in the work package, to verify that AISC N690, 
+AWS D1.6, and UFSAR welding requirements were being adequately implemented; 
+and any nonconforming conditions, including deviations from the approved design, 
+were being appropriately identified, evaluated, and dispositioned according to 
+approved procedures and processes.
+ 
+  
+ 
+b.  Findings 
+ 
+No findings were identified. 
+ 
+27 
+1A18 (Unit 4) ITAAC Number 3.3.00.02a.i.b (761) / Family 01F 
+ 
+a.  Inspection Scope 
+ 
+The inspectors performed a direct inspection of construction activities associated with 
+ITAAC Number 3.3.00.02a.i.b (761).  The inspectors used the following NRC 
+IPs/sections to perform this inspection: 
+ 
+• 65001.01-02.06 - Records 
+• 65001.02-02.01 - Inspection of Concrete Placement 
+• 65001.02-02.03 - Special Considerations 
+• 65001.02-02.09 - Concrete Quality Process Problems 
+ 
+ The inspectors reviewed quality records and performed direct inspection of 
+construction activities associated with the Shield Building for Vogtle Unit 
+4.  Specifically, the inspectors observed construction activities associated with the 
+eastern side of the Shield Building basemat dish and interior wall for the lower 
+manway from approximately azimuth 337° to 186° between elevation 82’-6”and 90’-6”. 
+ 
+   
+The inspectors observed concrete pre-placement activities to determine whether pre-
+placement planning and training had been completed, including appropriate 
+considerations for hot weather and mass concrete, and the pre-placement inspection 
+was performed by quality control before any concrete was placed.  Prior to concrete 
+placement, the inspectors independently evaluated whether the reinforcing steel met 
+drawings and specifications included in the work packages, all deviations were 
+adequately captured and addressed, and preparation and cleanliness of the formwork 
+had been completed.  The inspectors observed concrete placement activities, 
+observed concrete delivery operations, and reviewed batch plant records to determine 
+whether:  
+ 
+• specifications, procedures, codes, and design requirements were followed 
+throughout the concrete placement; 
+• concrete was batched in accordance the specified mix design;  
+• the equipment used was suitable and sized for the work and performed as 
+required;  
+• each truck was measured and each trip received proper ticketing and 
+documentation;  
+• batch records were generated, controlled, and indicated placement location, 
+mix, volume, date, time, and special instructions; 
+• each batch ticket was reviewed for verification of proper mix, transport time, 
+and placement location; 
+• the time limit between mixing and placement was not exceeded;  
+• temperature limits were not exceeded; 
+• mixing time and rotations were adequate;   
+• placement drop distances did not exceed specification requirements and did 
+not result in segregation; 
+• concrete was placed in lifts in accordance with the concrete placement plan; 
+and 
+28 
+• inspection during placement was performed as required.  
+   
+During the placement, the inspectors observed in-process concrete testing to 
+determine whether: 
+ 
+• concrete temperature, slump, air content, and unit weight were determined at 
+the proper location and frequency as required by procedures, specifications, 
+and ASTM standards;  
+• sample collection and testing techniques conformed to the procedures, 
+specifications, and ASTM standards; 
+• concrete strength test sample cylinders were made at the required location and 
+frequency and were cured in accordance with specified requirements; and 
+• personnel performing sampling and testing were trained and qualified. 
+   
+The inspectors reviewed test results to determine whether: 
+ 
+• records were complete, accurate, and approved as required; 
+• test results were reviewed and evaluated against appropriate acceptance 
+criteria; 
+• the records were retrievable; and  
+• any adverse trends or problems were identified at an appropriate threshold and 
+documented in the corrective action program in accordance with approved 
+procedures.  
+  
+The inspectors reviewed aspects of the concrete placement processes to determine 
+whether process controls were in place, to verify that issues identified were adequately 
+documented and corrected, and to verify that any process related issues did not 
+adversely affect the concrete quality. The inspectors interviewed licensee and 
+contractor personnel to determine whether: 
+ 
+• contractors performing safety-related work followed approved implementing 
+procedures that described administrative and procedural controls, approved 
+work processes, and inspection requirements; 
+• design processes were performed in compliance with applicable instructions 
+and procedures; 
+• personnel conducting work and quality assurance roles were qualified and 
+knowledgeable; and  
+• effective oversight in accordance with specifications and program requirements 
+was implemented for the installation activities observed.  
+  
+ 
+b.  Findings 
+ 
+No findings were identified. 
+ 
+1A19 (Unit 4) ITAAC Number 3.3.00.02a.i.c (762) / Family 01F 
+ 
+a.  Inspection Scope 
+ 
+29 
+The inspectors performed a direct inspection of construction activities associated with 
+ITAAC Number 3.3.00.02a.i.c (762).  The inspectors used the following NRC 
+IPs/sections to perform this inspection: 
+ 
+• 65001.01-02.07 - Identification and Resolution of Problem 
+• 65001.02-02.01 - Inspection of Concrete Placement 
+• 65001.02-02.07 - Problem Identification and Resolution 
+• 65001.A.02.01 - Observation of in-Process Installation Activities 
+• 65001.A.02.03 - Independent Assessment/Measurement Inspection 
+• 65001.A.02.04 - Review As-built Deviations/Nonconformance 
+• 65001.F-02.01-Design Document Review 
+ 
+ The inspectors reviewed quality records and performed direct inspection of 
+construction activities associated with the non-radiologically controlled area of the 
+Auxiliary Building for Vogtle Unit 4.  Specifically, the inspectors observed construction 
+activities associated with the floor sections at elevation 82’-6” between column lines Q 
+and L and between the shield building and column line 11. 
+ 
+   
+The inspectors reviewed a sample of drawings included in the work packages and 
+specifications to determine whether: 
+ 
+• the documents adequately defined the final design and arrangement of these 
+SSCs;  
+• critical attributes associated with the ITAAC were correctly identified and 
+documented for review and approval by responsible engineering personnel; 
+and 
+• the documents were consistent with the design commitments and requirements 
+of the technical specifications, the UFSAR, and code commitments. 
+   
+The inspectors observed installation activities associated with formwork, embedments, 
+and steel reinforcement, including horizontal reinforcing steel bars, shear 
+reinforcement, steel reinforcement extending into the walls at 82’-6”, and bar splices to 
+determine whether: 
+ 
+• the installation activities met applicable quality and technical requirements 
+established by approved procedures, specifications, and drawings included in 
+the work packages;  
+• piping, penetrations, reinforcing steel, and embedments were located properly 
+in the structure, were sized as specified in drawings and calculations, and had 
+proper clearances; and 
+• reinforcing steel and embedments were secured and free of concrete or 
+excessive rust. 
+   
+The inspectors observed the storage of reinforcing steel bars and hooks to determine 
+whether the storage conditions met applicable quality and technical requirements.  The 
+inspectors performed independent inspection and measurements to determine 
+whether the steel reinforcement, embedments, and formwork conformed to the design 
+specifications.  The inspectors performed independent inspection and measurements 
+30 
+to determine whether the as-built concrete thickness of completed wall sections were 
+in accordance with the final design, the ITAAC, and UFSAR.   
+   
+The inspectors reviewed a sample of in-process work packages for reinforcing steel, 
+embedments, and formwork to determine whether:  
+ 
+• the latest approved procedures, drawings, and other work instructions would 
+be included in the work packages; 
+• the licensee had verified that the items to be installed met specified 
+requirements; 
+• the items being installed were not damaged prior to installation;  
+• materials, tools, and other equipment being used were qualified and approved 
+in accordance with site procedures;  
+• nonconforming items were clearly identified, segregated if possible, and 
+dispositioned;  
+• inspection and test reports were current, accurate, and complete; and 
+• design changes, field modifications, and nonconformances associated with the 
+work observed were properly controlled and processed in accordance with the 
+approved quality assurance program. 
+  
+ 
+The inspectors reviewed a sample of nonconformances to verify:  
+ 
+• the licensee was identifying problems at an appropriate threshold and entering 
+them into the corrective action program; 
+• any differences between the as-built and as-designed SSCs were documented 
+and dispositioned in accordance with approved modification or change 
+procedures; and 
+• the nonconformances were resolved and their dispositions had adequate 
+technical bases.  
+  
+ 
+b.  Findings 
+ 
+No findings were identified. 
+ 
+1A20 (Unit 4) ITAAC Number 3.3.00.02a.i.d (763) / Family 01F 
+ 
+a.  Inspection Scope 
+ 
+The inspectors performed a direct inspection of construction activities associated with 
+ITAAC Number 3.3.00.02a.i.d (763).  The inspectors used the following NRC 
+IPs/sections to perform this inspection: 
+ 
+• 65001.01 - Inspection of ITAAC-Related Foundations & Buildings 
+• 65001.01-02.01 - Procedures 
+• 65001.01-02.05 - Steel Structures 
+• 65001.01-02.06 - Records 
+• 65001.A.02.01 - Observation of in-Process Installation Activities 
+• 65001.A.02.02 - Installation Records Review 
+31 
+• 65001.A.02.04 - Review As-built Deviations/Nonconformance 
+• 65001.B-02.01-Program and Procedures Review 
+• 65001.B-02.02-Welding Procedure Qualification 
+• 65001.B-02.03-Welder Qualification 
+• 65001.B-02.04-Production Controls 
+• 65001.B-02.05-Inspection 
+• 65001.B-02.06-Records 
+• 65001.F- Inspection of the ITAAC-Related Design and Fabrication Requirements 
+• 65001.F-02.01-Design Document Review 
+• 65001.F-02.02-Fabrication Records Review 
+• 65001.F-02.03-Observation of Fabrication Activities 
+ 
+ The inspectors observed installation activities and reviewed documents related to the 
+installation of the steel floor of the spent fuel pool of the Vogtle Unit 4 CA20 
+module.  The inspectors observed in-process welding of the ledger angle to CA20-22B 
+and CA20-25 (weld CV13386-5T) which supports the spent fuel pool floor submodule 
+CA20-50 and reviewed welding and inspection records of the weld joining spent fuel 
+pool floor submodules CA20-47 and CA20-48 (weld CV13387-1).
+ 
+  
+The inspectors observed in-process shielded metal arc welding of a ledger angle 
+associated with work package SV4-CA20-S4W-CV6879 for weld CV13386-5T which 
+supports spent fuel pool floor submodule CA20-50.  The inspectors observed welding 
+activities to ensure the following: 
+ 
+• work was conducted in accordance with a "traveler," weld data record or similar 
+document which coordinated and sequenced the welding and inspection 
+operations; 
+• the welding procedure used was the latest revision and appropriate for the 
+work performed; 
+• the weld joint was sufficiently protected from inclement conditions; 
+• surfaces to be welded were smooth, uniform, and free from surface 
+discontinuities such as cracks or seams, and free from paint, oil, rust, scale, 
+slag, grease, moisture or other harmful foreign materials that could be 
+detrimental to welding for at least 2 inches from the weld joint; 
+• the filler metal type and size was in compliance with the WPS; 
+• the weld joint was traceable to the welders; and 
+• welding machine variables were correctly set.  
+  
+The inspectors reviewed weld records to determine whether records provided 
+adequate traceability to all aspects of the welding activity, including traceability to the 
+welder who performed the work and the weld filler metal used.  The inspectors 
+reviewed welder qualifications to verify the welder performing the work was qualified to 
+the applicable processes and procedures.
+ 
+  
+The inspectors reviewed a sample of CMTRs for the ledger angle material used in 
+weld CV13386-5T to determine conformance with section 4.0, “Materials,” of SV4-
+CA20-S5Y-00003, “Auxiliary Building Areas 5 & 6 Module CA20 Submodules General 
+Notes II,” Rev. 3, ASTM A992, and design documents.  The inspectors reviewed a 
+32 
+sample of CMTRs and WMRs for the weld filler material to determine conformance 
+with material specification DMD-M-NS-55_8018_C1_SMAW-02 and SFA 5.5 for Type 
+E8018-C1 and the applicable WPS. 
+   
+The inspectors reviewed the completed weld records associated with work package 
+SV4-CA20-S4W-CV6879 for weld CV13387-1 which joins spent fuel pool floor 
+submodules CA20-47 and CA20-48.  The inspectors reviewed these weld records to 
+determine whether: 
+ 
+• the welding activity was properly documented in the work traveler; 
+• records provided adequate traceability to all aspects of the welding activity, 
+including traceability to the welder who performed the work; 
+• the records adequately documented the following attributes: reference to 
+procedure and welder qualifications, inspector qualifications, weld material 
+certifications and receipt inspection reports, weld data or process records 
+(travelers), weld maps, weld inspection records, NDE records; 
+• the records were appropriately retained and stored in accordance with QA 
+program requirement; 
+• required inspections were identified in the traveler with hold points, as 
+appropriate; and 
+• accepted, rejected, and repaired items were documented in written reports. 
+  
+The inspectors reviewed the ultrasonic (UT) examination records for weld CV13387-1 
+to determine whether the required examinations were performed in accordance with 
+the MISTRAS UT procedure (100-UT-310, "Ultrasonic Examination of Welds in 
+Accordance with the AWS Structural Welding Code D1.1," Rev. 6), and the AWS 
+D1.1:2000, Structural Welding Code - Steel.  
+ 
+  
+The inspectors reviewed the magnetic particle (MT) examination records for the welds 
+listed above to determine whether the required examinations were performed in 
+accordance with the MISTRAS MT procedure (100-MT-302, "Magnetic Particle 
+Examination in accordance with AWS Structural Welding Code," Rev. 3), and the AWS 
+D1.1:2000, Structural Welding Code - Steel.
+ 
+  
+The inspectors reviewed a sample of CMTRs and WMRs for the weld filler material 
+used in weld CV13387-1 to determine conformance with SFA 5.5 for Type E8018-C1 
+H4R, SFA 5.28 for Type ER80S-Ni1, and the applicable WPSs.  The inspectors 
+reviewed a sample of the CMTRs for the backing bar material used for the weld to 
+determine conformance with section 4.0, “Materials,” of SV4-CA20-S5Y-00003, 
+“Auxiliary Building Areas 5 & 6 Module CA20 Submodules General Notes II,” Rev. 3, 
+and ASTM A36.  
+ 
+  
+The inspectors reviewed a sample of WPSs used for weld CV13387-1 to determine if 
+they were appropriate for the material and work performed.  The inspectors also 
+reviewed a sample of welder qualifications to verify personnel were qualified to the 
+applicable processes and procedures.
+ 
+  
+The inspectors reviewed an N&D report related to work package SV4-CA20-S4W-
+CV6879.  The inspectors reviewed this report to determine if the condition was 
+properly evaluated and that the N&D received the appropriate amount of review.  No 
+design deviations were reviewed.   
+33 
+ 
+ 
+b.  Findings 
+ 
+No findings were identified. 
+ 
+1A21 (Unit 4) ITAAC Number 3.3.00.02a.i.d (763) / Family 01F 
+ 
+a.  Inspection Scope 
+ 
+The inspectors performed a direct inspection of construction activities associated with 
+ITAAC Number 3.3.00.02a.i.d (763).  The inspectors used the following NRC 
+IPs/sections to perform this inspection: 
+ 
+• 65001.01-02.01 - Procedures 
+• 65001.01-02.05 - Steel Structures 
+• 65001.01-02.06 - Records 
+• 65001.02-02.06 - Record Review 
+• 65001.B-02.06-Records 
+• 65001.F-02.02-Fabrication Records Review 
+ 
+ The inspectors observed the assembly of the Vogtle Unit 4 CA20 module in the 
+modular assembly building.  The inspectors reviewed welding and inspection records, 
+and performed independent visual examinations for welds associated with the welding 
+of submodules CA20-25 to CA20-22B (inside face, column line 4 wall from K2 to L-2 
+from 66’6” to 135’3”).  
+ 
+  
+Specifically, the inspectors reviewed these weld records associated with work package 
+SV4-CA20-S4W-CV5628 to determine whether: 
+ 
+• the welding activity was properly documented in the work traveler; 
+• records provided adequate traceability to all aspects of the welding activity; 
+• the records were appropriately retained and stored in accordance with QA 
+program requirement; and 
+• accepted, rejected, and repaired items were documented in written reports. 
+  
+The inspectors reviewed inspection reports and performed an independent visual 
+inspection for the welds listed above to determine whether the final weld satisfied the 
+requirements of Table 6.1, "Visual Inspection Acceptance Criteria," of AWS 
+D1.1:2000.  The inspectors also verified that the final weld profile met the 
+requirements of section 5.24.4, "Groove or Butt Welds," of AWS D1.1:2000. 
+ 
+  
+The inspectors reviewed a sample of E&DCRs to determine whether these changes 
+were performed in accordance with procedure APP-GW-GAP-420, "Engineering and 
+Design Coordination Report."  The inspectors evaluated these design changes for 
+conformance to 10 CFR Part 50, Appendix B, Criterion III, "Design Control." 
+ 
+ 
+b.  Findings 
+34 
+ 
+No findings were identified. 
+ 
+1A22 (Unit 4) ITAAC Number 3.7.00.01 (841) / Family 16F 
+ 
+a.  Inspection Scope 
+ 
+The inspectors performed a direct inspection of construction activities associated with 
+ITAAC Number 3.7.00.01 (841).  The inspectors used the following NRC IPs/sections to 
+perform this inspection: 
+ 
+• 65001.16-02.01 - Design Procedures 
+• 65001.16-02.02 - Design Input 
+• 65001.16-02.03 - Design Documents 
+• 65001.16-02.04 - Design Analysis 
+• 65001.F-02.01-Design Document Review 
+• 65001.F-02.04-General QA Review 
+ 
+ The inspection team reviewed the principal closure document for the D-RAP ITAAC to 
+confirm that all components from the AP1000 Design Control Document, Tier 1, Table 
+3.7–1 had been included in its scope. To maximize the extent of the review, the team 
+designed a stratified sample of documents. Procurement documents and installation 
+drawings relevant to various disciplines were selected. Both safety-related and non-
+safety related SSC’s were selected, based in part on risk importance measures.
+ 
+  
+For each of the components in the sample, the staff reviewed the design documents to 
+confirm that the appropriate programs had been used in their preparation. The 
+inspectors reviewed the signatures of the design documents and installation drawings 
+to verify that they were made by qualified personnel.  The inspectors also reviewed the 
+qualification process to verify that each person was adequately qualified to sign the 
+documents. 
+ 
+  
+The team also examined procedures used for design review, design document 
+verification, document control, and qualification of personnel to verify thoroughness 
+and completion. The inspectors selected a sample of design disciplines and reviewed 
+specific competencies required for qualification to verify that the personnel were 
+adequate to be signing the documents. 
+ 
+ 
+b.  Findings 
+ 
+No findings were identified. 
+ 
+IMC 2504, Construction Inspection Program – Inspection of Construction and Operational 
+Programs 
+ 
+1P01 Construction QA Criterion 3 
+35 
+ 
+a.  Inspection Scope 
+ 
+ The inspectors reviewed AP1000 Westinghouse Electric Company (WEC) design 
+control documents to verify implementation of their program was performed in 
+accordance with 10 CFR Part 50, Appendix B, Criterion III, "Design Control;" ASME 
+NQA-1-1994, Supplement 3S-1, "Supplementary Requirements for Design Control;” 
+and applicable industry standards and project procedures.  Specifically, the inspectors 
+reviewed a sample of design specifications, welding filler material specifications, 
+design drawings, and E&DCRs to verify that: 
+ 
+• welding requirements stated in the design specifications for PXS piping and 
+piping supports met the requirements of ASME Section III, Subsections NB, 
+NC, ND, and NF; 
+• those welding requirements were adequately reflected in design drawings and 
+material specifications; 
+• design changes were initiated and performed in accordance with procedure 
+APP-GW-GAP-420, "Engineering and Design Coordination Report;" 
+• E&DCRs received the proper level of engineering review and approved 
+changes were adequately incorporated into all affected documents; and 
+• licensing impact determination screenings associated with each change were 
+properly evaluated against the current licensing basis as described in the 
+Vogtle Unit 3 and Unit 4 UFSAR. 
+ 
+ 
+WEC is designing the PXS system for both Vogtle Unit 3 and Vogtle Unit 4 using the 
+procedures and processes listed here.  Therefore this section also applies to ITAAC 
+2.2.03.03a and 2.2.03.03b for both units 3 & 4.  
+ 
+ 
+b.  Findings 
+ 
+No findings were identified. 
+ 
+1P02 Construction QA Criterion 4 
+ 
+a.  Inspection Scope 
+ 
+ The inspectors reviewed a sample of Chicago Bridge and Iron and Shaw Nuclear 
+procurement documents, now adopted by WECTEC, to verify implementation of the 
+WECTEC quality assurance program was performed in accordance with 10 CFR Part 
+50, Appendix B, Criterion IV, "Procurement Document Control" and applicable industry 
+standards and project procedures.  Specifically, the inspectors reviewed welding filler 
+material procurement specifications, CMTRs, and design specifications related to 
+ASME piping to verify the following: 
+ 
+• technical, design, and regulatory requirements were met for the items; 
+• tests, inspections, and special processes were identified and appropriate for 
+the items; 
+• specifications differing from the original design documents were reviewed and 
+approved by qualified technical personnel; 
+36 
+• certifications identified the specific procurement requirements met by the 
+purchase item, such as codes, standards, and specific design requirements; 
+and 
+• procurement documents contained requirements to provide appropriate 
+documentation of quality, including component traceability. 
+  
+WECTEC is building the PXS system for both Vogtle Unit 3 and Vogtle Unit 4 using 
+the procedures and processes listed here.  Therefore this section also applies to 
+ITAAC 2.2.03.03a and 2.2.03.03b for both units 3 & 4.  
+ 
+ 
+b.  Findings 
+ 
+No findings were identified. 
+ 
+1P03 Construction QA Criterion 7 
+ 
+a.  Inspection Scope 
+ 
+ The inspectors reviewed surveillance report CMP-NI-2016-7-12030, “Review of 
+contractor’s rigging plan for Unit 4 CA20 Lift/Set activities,” which was performed by 
+Southern Nuclear Company (SNC), the licensee, to ensure the subcontractor’s 
+implementation of the rigging plan for the lift and set of the Unit 4 CA20 module was 
+done in accordance with applicable procedures, codes, and standards.  Additionally, 
+the inspectors reviewed surveillance report S-132175-2016-082, “Jack and Weigh, 
+Transport, Lift and Setting of CA20 Module NI4,” which was performed by WEC, the 
+contractor, to verify supporting documentation and activities associated with the lift and 
+set of the Unit 4 CA20 module were completed by the subcontractor in accordance 
+with requirements. 
+ 
+  
+The inspectors performed direct observation of surveillance activities performed by 
+SNC and Westinghouse during the lift and set of the Unit 4 CA20 module, including 
+planning, pre-job briefings, rigging, transporting, jacking and weighing, leveling, lifting, 
+and setting.  The inspectors observed these surveillance activities to determine 
+whether the licensee and contractor had adequately implemented the quality 
+requirements of 10 CFR Part 50, Appendix B, Criterion VII, “Control of Purchased 
+Material, Equipment, and Services,” Section 7, “Control of Purchased Material, 
+Equipment, and Services,” of the SNC Nuclear Development Quality Assurance 
+Manual; and applicable procedures. 
+ 
+  
+The inspectors reviewed the SNC surveillance results to determine whether the 
+licensee had appropriately assessed the effectiveness of the control of quality by WEC 
+and their subcontractors.  Additionally, the inspectors reviewed the WEC surveillance 
+results to determine whether the contractor had appropriately assessed the 
+effectiveness of the control of quality by their subcontractors.  The inspectors also 
+reviewed these reports to determine whether: 
+ 
+• the reports were adequate records of activities affecting quality; 
+• the reports were completed in accordance with the licensee’s quality assurance 
+program implementing procedures; and  
+37 
+• any issues identified were appropriately documented and corrected in 
+accordance with the project quality requirements. 
+   
+ 
+b.  Findings 
+ 
+No findings were identified. 
+ 
+1P04 Construction QA Criterion 9 
+ 
+a.  Inspection Scope 
+ 
+ The inspectors reviewed WECTEC's QAM-Section 29, "ASME Section III Program 
+Application for AP1000 Fleet Projects" and associated controlling documents for 
+welding, postweld heat treatment (PWHT), and NDE to determine whether the control 
+of these special processes were in accordance with: 
+ 
+• 10 CFR Part 50, Appendix B, Criterion IX, "Control of Special Processes"; 
+• ASME NQA-1-1994, Supplement 9S-1, "Supplementary Requirements for 
+Control of Processes”; and  
+• ASME Section III, Division 1. 
+  
+The inspectors reviewed whether the combinations of manual, semi-automatic, and 
+machine WPSs with supporting PQRs for the various types of welding were qualified in 
+accordance with ASME Section IX, "Welding and Brazing Qualifications".  Specifically, 
+the inspectors reviewed the following WECTEC welding program attributes to 
+determine if the Gas Tungsten Arc Welding (GTAW), Shielded Metal Arc Welding 
+(SMAW), Gas Metal Arc Welding (GMAW), and Flux Core Arc Welding (FCAW) 
+processes using certified welders and welding operators were all prepared, tested, and 
+qualified in accordance with the requirements of ASME Section IX: 
+ 
+• WECTEC's QA Manual described effective operational control of welding 
+procedure qualifications for conglomerated companies of different names; 
+• WPSs were qualified in accordance with the requirements of WECTEC's 
+procedure PQ-1 for the applicable nonessential and essential variables, and 
+supplementary essential variables delineated in the Code for impact testing; 
+• references made within WPSs adequately addressed weld groove/joint 
+geometry, base metal preparation, use of nonmetallic retainers, gas nozzle 
+size, tacking, cleaning, oscillation, limits of heat input, up/downhill welding 
+progression, and peening; 
+• WPSs and supporting documents address PWHT limitations for qualification 
+testing equivalent to be encountered for production welds, including at least 
+80% of the aggregate times at temperature(s); 
+• welding processes and welder performance qualification tests were 
+documented and records were certified; 
+• welder/operator qualifications were successfully tested and controlled in 
+accordance with WECTEC procedure WQ-1 using a Welder Qualification Test 
+Index that links WPQ test numbers with a WPS and performance qualification 
+essential variables for specific test coupon thicknesses and diameters, use or 
+omission of backing material and gas, and test positions; 
+38 
+• instructions required monitoring of welder/operator performance qualifications 
+to control six months continuity and ensure the welders/operators used each 
+process during that time period; and 
+• welders/operators who were qualified for a given welding process were 
+required to requalify, if any essential variable for a process were changed 
+beyond the limits specified on qualification records. 
+ 
+ 
+The inspectors observed the time monitored storage, distribution, and traceability of 
+GTAW bare rods and SMAW electrodes (using stationary and portable ovens) by 
+designated attendants at the Weld Material Issue Station #7 to determine whether the 
+issuance of weld filler metals were controlled in accordance with the requirements of 
+WECTEC procedure FMC-1.  The inspectors verified continuity of welder certifications, 
+accuracy and signature approval of the WMRs for the scope of work, and using the 
+electronic Material Issue Record (MIR) for issue/return of weld filler metal. 
+ 
+  
+The inspectors reviewed WECTEC's procedure PWHT-1 and subcontractor Superheat 
+FGH's procedure QEP-NSOP-06 to determine whether the following attributes for local 
+controlled preheat, postbaking, and PWHT were addressed in accordance with the 
+applicable requirements of ASME Section III, Division 1: 
+ 
+• preheat and postbaking hold times; 
+• exemptions to mandatory PWHT; 
+• uniform heating of weldments at holding/soak temperature and time limits; 
+• heating and cooling rates; 
+• minimum width of heat controlled band width; 
+• attachment of thermocouple wires using capacitor discharge methods; 
+• calibrated measuring and monitoring instruments; 
+• documentation and heat treatment records; and 
+• use of PWHT subcontractors. 
+  
+The inspectors reviewed (MISTRAS's) written practice for the qualification and 
+certification of NDE personnel, and contents of the 300 series qualified NDE 
+procedures PT-301, MT-301, RT-301, and RT-302 to determine whether methods, 
+techniques, and acceptance criteria were in accordance with the applicable 
+requirements of ASNT SNT-TC-1A, CP-189, and ASME Section V, "Nondestructive 
+Examination," Articles 1, 2, 6, 7, 22, 24, and 25.  Specifically, the inspectors reviewed 
+a sample of computed RT examination reports for two welds performed on the PXS 
+piping to determine whether the required examinations were performed and 
+documented in accordance with: 
+ 
+• methods and techniques described in MISTRAS procedure 100-RT-302;  
+• ASME Section III, Subsection NC; and  
+• ASME Section V, Article 2.   
+  
+In addition, the inspectors also reviewed a sample of RT Level II and Level III NDE 
+qualifications and certifications to verify personnel were qualified to the applicable 
+processes and procedures (including annual visual near-distance acuity, color 
+contrast, and brightness discrimination). 
+ 
+  
+39 
+WECTEC is building the PXS system for both Vogtle Unit 3 and Vogtle Unit 4 using 
+the procedures and processes listed here.  Therefore this section also applies to 
+ITAAC 2.2.03.03a and 2.2.03.03b for both units 3 & 4.  
+ 
+ 
+b.  Findings 
+ 
+No findings were identified. 
+ 
+1P05 Construction QA Criterion 10 
+ 
+a.  Inspection Scope 
+ 
+ The inspectors reviewed WECTEC's QAM-Section 29, "ASME Section III Program 
+Application for AP1000 Fleet Projects," to determine whether the program for 
+inspection activities using QC/ANI hold points was established and implemented in 
+conformance with:
+ 
+• applicable procedures;  
+• 10 CFR Part 50, Appendix B, Criterion X, "Inspection";  
+• ASME NQA-1-1994, Supplement 10S-1, "Supplementary Requirements for 
+Inspection”; and  
+• ASME Section III, Division 1. 
+  
+The inspectors reviewed weld travelers to verify field welding examination activities 
+were performed in accordance with the requirements of (WECTEC's) QA 
+Manual.  Specifically, the inspectors verified: 
+ 
+• completed QC hold points for material verification inspections; 
+• fit-up and tack inspections; 
+• final VT examinations; 
+• final liquid penetrant (PT) examinations; 
+• final computed RT examinations; and  
+• traceability to CMTRs and welders/operators for safety-related pressure 
+boundary welds .  
+  
+The inspectors reviewed WECTEC procedures and inspection plans for conducting 
+visual examinations to verify the requirements were in accordance with industry codes 
+and standards.  The inspectors also witnessed a visual examination performed by QC 
+personnel and reviewed the applicable qualifications to verify the inspection plan was 
+followed, appropriate hold points were signed-off prior to and after the inspection, and 
+personnel qualifications were adequately completed and maintained.
+ 
+  
+The inspectors reviewed a sample of computed RT examination reports for two welds 
+performed on the PXS piping to determine whether the required final examination hold 
+points were signed-off on the weld traveler and interpretation of indications shown on 
+the radiographic images were characterized in accordance with ASME Section III, 
+Subsection NC, for Class 2 Components. 
+ 
+  
+40 
+WECTEC is building the PXS system for both Vogtle Unit 3 and Vogtle Unit 4 using 
+the procedures and processes listed here.  Therefore this section also applies to 
+ITAAC 2.2.03.03a and 2.2.03.03b for both units 3 & 4.  
+ 
+ 
+b.  Findings 
+ 
+No findings were identified. 
+ 
+1P06 Construction QA Criterion 16 
+ 
+a.  Inspection Scope 
+ 
+ Daily Corrective Action Program Review
+  
+As part of the various inspection procedures discussed in previous sections of this 
+report, the inspectors routinely reviewed issues during inspection activities and plant 
+status reviews to verify they were being entered into the licensee's corrective action 
+program at an appropriate threshold.  The inspectors verified that adequate attention 
+was being given to timely corrective actions and any adverse trends were identified 
+and addressed.  The inspectors reviewed corrective action program procedures and 
+evaluated implementation of these procedures to determine whether the procedures 
+contained guidance for the following attributes: 
+ 
+• classification, prioritization, and evaluation for reportability (i.e., 10 CFR 
+50.55(e)) of conditions adverse to quality; 
+• complete and accurate identification of the problem in a timely manner 
+commensurate with its significance and ease of discovery; 
+• screening of items entered into the CAP to determine the proper level of 
+evaluation; 
+• identification and correction of procurement documents errors, deviations from 
+procurement document requirements, defective items, poor workmanship, 
+incorrect vendor instructions, significant recurring deficiencies at both vendor 
+shops and on site, and generic procurement related deficiencies; 
+• identification and correction of design deficiencies; 
+• consideration of extent of condition, generic implications, common cause, and 
+previous occurrences; 
+• classification and prioritization of the resolution of the problem commensurate 
+with its safety significance; 
+• identification of corrective actions that are appropriately focused to correct the 
+problem; 
+• identification of root and contributing causes, as well as actions to preclude 
+recurrence for significant conditions adverse to quality;  
+• completion of corrective actions in a timely manner commensurate with the 
+safety significance of the issue;  
+• provisions for escalating to higher management those corrective actions that 
+are not adequate or not timely; and 
+• conditions adverse to quality were trended to proactively identify potential 
+adverse trends and potential common cause problems, and the trending results 
+were reported to management. 
+41 
+  
+Routine Review of Items Entered into the Corrective Action Program 
+ 
+On a routine basis, the inspectors screened a sample of issues entered into the 
+licensee and contractor's corrective action programs.  The inspectors attended several 
+weekly management review committee meetings at the site and held discussions with 
+licensee and contractor personnel responsible for the screening and correction of the 
+issues to determine if: 
+ 
+• the licensee and the contractors were identifying equipment, human 
+performance, and program issues at an appropriate threshold and were 
+entering the issues into their respective corrective action programs; 
+• the licensee and the contractors appropriately classified the issues and took 
+appropriate short-term corrective actions; 
+• conditions adverse to quality were controlled in accordance with each 
+company’s quality assurance program; and 
+• potential adverse trends were appropriately identified and corrected by the 
+licensee or their contractors. 
+  
+  
+b.  Findings 
+ 
+No findings were identified. 
+ 
+1P07 Construction QA Criterion 16 
+ 
+a.  Inspection Scope 
+ 
+ Based on nonconformances associated with  safety-related structural modules 
+documented in eight corrective action documents (four of which were NRC-identified 
+and four were licensee-identified), the licensee determined that CB&I failed to both 
+perform adequate module inspections and to take appropriate corrective actions to 
+address the nonconformances.  All eight of these corrective action documents, 
+identified as CRs 823683, 824468, 835092, 837191, 837111, 850266, 861037, and 
+862311, were previously reviewed as documented in NRC inspection report 
+05200025/2016007, 05200026/2016007 (ML16245A895) so the inspectors did not 
+further review the technical issues identified in these CRs as part of this inspection. 
+On September 14, 2014, the licensee submitted letter ND-14-1513 to request that 
+CB&I Power evaluate ineffective and untimely corrective actions safety related 
+modules and submodules.  ND-14-1513 documented the failure of CB&I Power to 
+perform adequate inspections of safety related materials at supplier facilities as well as 
+their failure to perform adequate examinations of products prior to delivery onsite. 
+In response to ND-14-1513, CB&I Power initiated level 1 CAR 2014-1961 on October 
+1, 2014, and performed a root cause analysis to determine the cause of the failure to 
+ensure consistent supplier quality with AP 1000 Modules.  On February 04, 2015, an 
+evaluation of the root cause analysis results concluded that a significant QA program 
+breakdown had occurred that could have produced a defect. Consequently, a report 
+42 
+was made to the NRC on February 9, 2015, via Event Notification 50798 in 
+accordance with 10CFR50.55(e)(4)(iii) and 10CFR50.55(e)(5)(i). 
+The inspectors reviewed the events and circumstances related to the issue, including 
+the referenced corrective action documents, to determine if the licensee: 
+• effectively classified, prioritized, and evaluated the condition for reportability; 
+• completely and accurately identified the problem in a timely manner, 
+commensurate with its significance and ease of discovery; 
+• reported the issue in accordance with the reporting requirements of 
+10CFR50.55(e); 
+• identified the cause and implemented corrective actions to prevent recurrence 
+of similar deficiencies; 
+• considered the extent of condition, generic implications, common cause, and 
+previous occurrences; 
+• classified and prioritized corrective actions commensurate with the safety 
+significance of the issue; 
+• identified corrective actions that were appropriately focused to correct the 
+problem; and 
+• completed corrective actions in a timely manner commensurate with the safety 
+significance of the issue 
+ 
+b.  Findings 
+ 
+No findings were identified. 
+ 
+4. OTHER INSPECTION RESULTS  
+ 
+4OA6 Meetings, Including Exit 
+ 
+ On October 5, 2016, the inspectors presented the inspection results to Mr. Mark 
+Rauckhorst, Vogtle 3 & 4 Vogtle 3&4 Executive Vice President Construction, along 
+with other licensee and contractor staff members.  The inspectors stated that no 
+proprietary information would be included in the inspection report. 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment 
+SUPPLEMENTAL INFORMATION 
+ 
+KEY POINTS OF CONTACT 
+ 
+Licensees and Contractor Personnel 
+ 
+F. Willis, SNC Licensing Manager 
+J. Watkins, WEC Licensing Supervisor 
+S. Hand, CB&I Services Quality Manager 
+H. Agha, SNC Licensing Engineer 
+M. Washington, SNC Licensing Supervisor 
+A. Buckley, WECTEC Licensing Engineer 
+P. Shaw, WEC Licensing Engineer 
+M. Jones, SNC Engineering Supervisor 
+A. Wilcher, SNC Construction Compliance Civil Supervisor 
+D. Gillahan, SNC Construction Compliance Mechanical Supervisor 
+K. Clough, SNC Construction Civil Engineering Supervisor 
+B. Hirmanpour, SNC Licensing 
+M. Klinvex, WEC Licensing 
+S. DiTommaso, WEC Licensing 
+J. Petagno, WEC Engineering 
+G. Cesare, WEC Engineering 
+C. Landon, WEC Engineering 
+M. Evans, WEC Engineering 
+N. Rish, WECTEC Welding Manager 
+ 
+LIST OF ITEMS OPENED, CLOSED, AND DISCUSSED 
+ 
+Item Number 
+Type Status Description 
+None    
+ 
+ 
+ 
+Attachment 
+LIST OF DOCUMENTS REVIEWED 
+ 
+Section 1A01 
+Design Documents 
+SV3-MV50-Z0-001, “AP1000 Containment Vessel Design Specification,” Rev. 1 
+  
+Receiving Inspection Reports 
+Receiving Inspection Report No. U3-287, 03/11/2015 
+Receiving Inspection Report No. U3-302, 03/03/2015 
+Receiving Inspection Report No. U3-321, 04/02/2015 
+Receiving Inspection Report No. U3-323, 04/02/2015 
+  
+ASME N-2 Data Reports 
+Form N-2 for C3-A15 (IN-5068), 07/16/2013 
+Form N-2 for C3-A30 (IN-5083), 08/08/2013 
+Form N-2 for C3-C1 (IN-5086), 08/06/2013 
+  
+Certified Material Test Reports 
+CMTR from JFE Steel Corporation, No. 6406-6 for Heat No. 6-6882 / Plate No. JE169 A, 
+11/06/2012 
+CMTR from JFE Steel Corporation, No. 6406-11 for Heat No. 6-6371 / Plate No. HG425 A, 
+11/06/2012 
+CMTR from JFE Steel Corporation, No. 6411-8 for Heat No. 4-0515 / Plate No. JG286 A, 
+11/21/2012
+ 
+CMTR from JFE Steel Corporation, No. 6411-17 for Heat No. 6-6884 / Plate No. J8085 B, 
+11/21/2012
+ 
+CMTR from JFE Steel Corporation, No. 6413-1 for Heat No. 4-0517 / Plate No. JY153 A, 
+11/22/2012
+ 
+CMTR from JFE Steel Corporation, No. 6413-2 for Heat No. 4-0515 / Plate No. JY154 A, 
+11/22/2012
+ 
+CMTR from JFE Steel Corporation, No. 6413-5 for Heat No. 4-0517 / Plate No. K9022 A, 
+11/22/2012
+ 
+CMTR from JFE Steel Corporation, No. 6419-8 for Heat No. 6-8582 / Plate No. KG383 A, 
+12/12/2012
+ 
+CMTR from JFE Steel Corporation, No. 6419-17 for Heat No. 4-0515 / Plate No. K3035 A, 
+12/12/2012 
+  
+Nondestructive Examination Reports 
+Inspection Results of Ultrasonic Testing Report from JFE Steel Corporation, No. H24-211, 
+11/06/2012 
+Inspection Results of Ultrasonic Testing Report from JFE Steel Corporation, No. H24-215, 
+11/21/2012
+ 
+Inspection Results of Ultrasonic Testing Report from JFE Steel Corporation, No. H24-225, 
+11/26/2012
+ 
+Inspection Results of Ultrasonic Testing Report from JFE Steel Corporation, No. H24-231, 
+12/12/2012
+ 
+ 
+Section 1A02 
+Design Documents 
+SV3-MV50-Z0-001, “AP1000 Containment Vessel Design Specification,” Rev. 1 
+3 
+  
+Weld Records 
+Traveler - Nuclear, U3-TH4-A14/A15, Weld TH4 Course Longitudinal Seam, Rev. 0 
+Traveler - Nuclear, U3-TH4-A29/A30, Weld TH4 Course Longitudinal Seam, Rev. 0 
+  
+Welding Procedure Specification / Procedure Qualification Records 
+  
+WPS E9018M H4 R, Rev. 8 
+WPS E91TG-H4, Rev. 12 
+WPS Eni4 / OK 10.72, Rev. 8 
+PQR 13087, 05/01/2012 
+PQR 12676, 12/18/2009 
+PQR 12677, 12/18/2009 
+PQR 12690, 12/17/2009 
+PQR 12691, 01/04/2010 
+PQR 12723, 03/08/2010 
+PQR 12749, 04/07/2010 
+PQR 12750, 04/07/2010 
+PQR 12757, 05/03/2010 
+  
+Welder or Welding Operator Performance Qualification 
+Welder or Welding Operator Performance Qualification for ID No 63009296, Dated 02/22/2011 
+Welder or Welding Operator Performance Qualification for ID No 63009296, Dated 04/20/2011 
+Welder or Welding Operator Performance Qualification for ID No 63009296, Dated 07/02/2015 
+Welder or Welding Operator Performance Qualification for ID No 63013016, Dated 12/15/2011 
+Welder or Welding Operator Performance Qualification for ID No 63021159, Dated 12/13/2012 
+Welder or Welding Operator Performance Qualification for ID No 63076332, Dated 04/07/2015 
+Welder or Welding Operator Performance Qualification for ID No 63077447, Dated 07/06/2016 
+Welder or Welding Operator Performance Qualification for ID No 63081804, Dated 10/22/2014 
+Welder or Welding Operator Performance Qualification for ID No 63081804, Dated 11/03/2014 
+Welder or Welding Operator Performance Qualification for ID No 63109489, Dated 07/16/2015 
+Welder or Welding Operator Performance Qualification for ID No 63126066, Dated 10/07/2015 
+  
+Certified Material Test Reports 
+CMTR from The Lincoln Electric Company, Customer PO No. 879733 Rev. 2, Lot 1204D 
+CMTR from ESAB Welding & Cutting Products, Customer PO No. 698615-1, Lot No. 2H005T01 
+ 
+Section 1A03 
+Design Documents 
+SV3-MV50-Z0-001, “AP1000 Containment Vessel Design Specification,” Rev. 1 
+  
+ASME N-2 Data Reports 
+Form N-2 for C3-A15 (IN-5068), 07/16/2013 
+Form N-2 for C3-A30 (IN-5083), 08/08/2013 
+Form N-2 for C3-C1 (IN-5086), 08/06/2013 
+  
+Certified Material Test Reports 
+CMTR from JFE Steel Corporation, No. 6406-6 for Heat No. 6-6882 / Plate No. JE169 A, 
+11/06/2012 
+4 
+CMTR from JFE Steel Corporation, No. 6406-11 for Heat No. 6-6371 / Plate No. HG425 A, 
+11/06/2012 
+CMTR from JFE Steel Corporation, No. 6411-8 for Heat No. 4-0515 / Plate No. JG286 A, 
+11/21/2012 
+CMTR from JFE Steel Corporation, No. 6411-17 for Heat No. 6-6884 / Plate No. J8085 B, 
+11/21/2012 
+CMTR from JFE Steel Corporation, No. 6413-1 for Heat No. 4-0517 / Plate No. JY153 A, 
+11/22/2012
+ 
+CMTR from JFE Steel Corporation, No. 6413-2 for Heat No. 4-0515 / Plate No. JY154 A, 
+11/22/2012 
+CMTR from JFE Steel Corporation, No. 6413-5 for Heat No. 4-0517 / Plate No. K9022 A, 
+11/22/2012 
+CMTR from JFE Steel Corporation, No. 6419-8 for Heat No. 6-8582 / Plate No. KG383 A, 
+12/12/2012
+ 
+CMTR from JFE Steel Corporation, No. 6419-17 for Heat No. 4-0515 / Plate No. K3035 A, 
+12/12/2012
+ 
+CMTR from The Lincoln Electric Company, Customer PO No. 879733 Rev. 2, Lot 1204D 
+CMTR from ESAB Welding & Cutting Products, Customer PO No. 698615-1, Lot No. 2H005T01 
+ 
+Section 1A04 
+Drawings / Specifications: 
+SV3-PXS-PLW-019, “Passive Core Cooling System Containment Building Room 11206/11105 
+DVI-A to Reactor Vessel,” Rev. 2; 
+SV3-PXS-PLW-026, “Passive Core Cooling System Containment Building Room 11105/11204 
+DVI-B to Reactor Vessel,” Rev. 1 
+SV3-GW-P0-007, “AP1000 Specification for Shop Fabricated Piping,” Rev. 7; 
+SV3-PL02-Z0-001, “Piping Class Sheets and Standard Details,” Rev. 5 
+E&DCR APP-PXS-GEF-383, “Remove Shop Weld on APP-PXS-PLW-026,” Rev. 0; 
+E&DCR APP-ML05-GEF-073, “Errors on APP-ML05-V2-221,” Rev. 0; 
+  
+Procedures: 
+SV3-GW-VH-001, “AP1000 Site Receiving, Inspection, and Storage Requirements for System 
+Materials and Equipment,” Rev 2; 
+QC Inspection Plan F-Q445-008, “Receipt Inspection: CB&I Procured ASME III Items,” Rev. 5 
+CHG:5; 
+  
+QA Data Package / Manufacturing Records: 
+QA Documentation Package Vogtle Unit 3, PO Number J132175-C601.02, Packing List / 
+Shipping Number 295123 (CB&I Laurens);
+ 
+QA Documentation Package Vogtle Unit 3, PO Number J132175-C601.02, Packing List / 
+Shipping Number 294327 (CB&I Laurens);
+ 
+Shop Sketch, As Built 890300-42-00366 Rev. 3A 
+Heat Treatment Reports for Spool Number 00366 (SV3-PXS-PLW-019-1R1) and Spool Number 
+00374 (SV3-PXS-PLW-026-1); 
+CMTR1300035 (Heat 06971 - SV3-PXS-PLW-019-1R1 and SV3-PXS-PLW-026-1) 
+  
+Inspection / Examination Reports:  
+Receipt Inspection Reports Q445-16-11587 (SV3-PXS-PLW-019-1R1 [L021A]) and Q445-16-
+11585 (SV3-PXS-PLW-026-1 [L021B]); 
+  
+5 
+Corrective Action Documents 
+NCR-2016-23 
+  
+Section 1A05 
+Certified Material Test Reports 
+4974203, ES-RAXM, Lot No. 1030J, 12/07/2011 
+4974203, ES-RAXL, Lot No. 1030K, 12/07/2011 
+Spool No. 890300-40-00800/R1, Piece Mark No. SV3-PXS-PLW-029-1, Heat No. F119140, 
+07/31/2014 
+Spool No. 890300-40-00801/R0, Piece Mark No. SV3-PXS-PLW-029-2, Heat No. F119140, 
+01/06/2014
+ 
+Spool No. 890300-40-00802/R0, Piece Mark No. SV3-PXS-PLW-029-3, Heat No. F119140, 
+01/07/2014 
+  
+Design Drawings 
+SV3-ML05-V2-425-R2, "AP1000 Duplex Penetration 11305-ML-P01 (SP10) Details," Revision 2 
+SV3-PXS-M6-002-R4, "Piping and Instrumentation Diagram Passive Core Cooling System," 
+Revision 4
+ 
+SV3-PXS-PLK-840000, "Penetration Material SV3-PXS-PLW-029," Revision 0 
+SV3-PXS-PLW-029-R0, "Passive Core Cooling System Containment Building Room 11207 from 
+IRWST to DVI-B," Revision 0 
+  
+Engineering & Design Coordination Reports 
+APP-ML05-GEF-154, "Addition of Identifying Weld Number," Revision 0 
+APP-ML05-GEF-155, "Penetration Testing Correction," Revision 0 
+APP-ML05-GEF-175, "11305-ML-P01/P02 Missing Weld," Revision 0 
+APP-ML05-GEF-194, "ML05 Weld Detail Clarification," Revision 0 
+APP-PXS-GEF-116, "E&DCR to Delete Pipe End Prep Note on Various PXS Drawings Related 
+to IRWST and Containment Recirculation Screens," Revision 0 
+APP-PXS-GEF-306, "E&DCR to Update Pipe End Prep Note on Various PXS Drawings Related 
+to IRWST and Containment Recirculation Screens," Revision 0 
+APP-PXS-GEF-398, "Remove Conflicting Hydro Test Requirements from Design Drawings," 
+Revision 0 
+ 
+Miscellaneous 
+J132175-MIR-16-01076, Stores Requisition for SV3-PXS-PLW-029-1, SV3-PXS-PLW-029-2, 
+and SV3-PXS-PLW-029-3, 03/03/2016  
+Weld Data Sheet for Weld No. SV3-PXS-PLW-029-171 from Work Package No. SV3-PXS-
+P0W-ME3240, Revision 0
+ 
+Welding Material Requisition No. 174487, 174490, 179401, 179407, and 179409 for Heat Nos. 
+1030J and 1030K 
+ 
+Nondestructive Examination Records 
+V-16-PT-301-1295, "Liquid Penetrant Examination Report" 
+V-16-LT-302-008, "Vacuum Box Examination Report" 
+  
+Personnel Qualifications 
+Record of Welder Performance Qualification Test - ASME Section IX for Welder No. RJT6063, 
+04/09/2014 
+Welder Qualification Report - ASME Section IX for Welder No. RJT6063, 05/02/2016 
+6 
+Certification of Qualification - Special Process, 562 Pipe Welding and Brazing, 12/28/2015 
+Eye Test Certification, 11/17/2015 
+NDT Certification Record No. 17225, 12/05/2015 
+Visual Acuity Record No. 512257, 06/21/2016 
+  
+Procedures 
+WECTEC Inspection Plan No. F-S562-005, "Pipe Welding / Braze; ASME Section III Visual Pipe 
+Weld Inspection," Revision 2 
+(Mistras) 100-PT-301, "Liquid Penetrant Examination in Accordance with ASME Section V, 
+Article 6," Revision 12 
+(Mistras) 521-VB-LT-301, "Vacuum Box Leak Testing in Accordance with API 650," Revision 1 
+  
+Westinghouse Specifications 
+SV3-GW-P0-007, "AP1000 Specification for Shop Fabricated Piping," Revision 4 
+APP-PL02-Z0-001, "AP1000 Standard Piping Specifications Class JBB/JBC," Revision 10 
+APP-PXS-M6X-004, "PXS Pipe Line Designation Table," Revision 1 
+  
+Welding Procedure Specifications/Procedure Qualification Records 
+WPS1-8.8T01, Revision 8 
+PQ574, Revision 1 
+PQ589, Revision 1 
+PQ595, Revision 0 
+WPS1-8.8M01, Revision 0 
+PQ569, Revision 0 
+ 
+Section 1A06 
+Design Documents 
+SV3-GW-P0-008, "AP1000 Specification for Field Fabricated Piping and Installation, ASME III, 
+Code Classes 1, 2, and 3 and ASME B31.1," Revision 4; 
+SV3-GW-VFY-001, "AP1000 Weld End Configuration for Stainless Steel, Carbon Steel and 
+Alloy Steel Auxiliary Piping Components," Revision 1;
+ 
+SV3-PXS-PLW-02E, "Passive Core Cooling System Containment Building Room 11207 IRWST 
+to DVI-B & RNS Pump Suction," Revision 1; 
+SV3-PXS-PLW-029, "Passive Core Cooling System Containment Building Room 11207 from 
+IRWST to DVI-B," Revision 0 
+  
+Welding / Inspection Records 
+Welding Records for:  SV3-PXS-PLW-029-1, SV3-PXS-PLW-029-2, and SV3-PXS-PLW-029-2-
+RW1;
+ 
+V-16-RT-302-0130 (Final RT Report for SV3-PXS-PLW-029-1), Dated 07/11/2016; 
+V-16-RT-302-0145 (Final RT Report for SV3-PXS-PLW-029-2-RW1), Dated 07/11/2016;  
+WMR # 145662, Dated 03/10/2016; 
+WMR # 145663, Dated 03/11/2016; 
+WMR # 145664, Dated 03/11/2016; 
+WMR # 145665, Dated 03/14/2016; 
+WMR # 145666, Dated 03/15/2016; 
+WMR # 145679, Dated 03/08/2016; 
+WMR # 145681, Dated 03/09/2016; 
+WMR # 145685, Dated 03/09/2016; 
+WMR # 148791, Dated 03/07/2016; 
+7 
+WMR # 155877, Dated 04/01/2016; 
+WMR # 155885, Dated 03/18/2016; 
+WMR # 155886, Dated 03/18/2016; 
+WMR # 155887, Dated 03/19/2016; 
+WMR # 155892, Dated 03/30/2016; 
+WMR # 155894, Dated 03/31/2016; 
+Welder Performance Qualification Test # 1SS-02, ID 3221, Dated 07/24/2015; 
+Welder Performance Qualification Test # 1SS-02, ID 5885, Dated 11/06/2014; 
+RT Level II Certification # 15580, Dated 04/28/2015; 
+RT Level II Certification # 16168, Dated 07/17/2015; 
+RT Level III Certification # 10674, Dated 06/14/2013; 
+RT Level III Certification # 17420, Dated 01/05/2016; 
+RT Level III Certification # 18526, Dated 06/20/2016 
+  
+Material Test Reports 
+Certificate of Conformance and Certified Material Test Report from The Lincoln Electric 
+Company, Customer PO # 695750-000 3P, Lot 1030J; 
+Certificate of Conformance and Certified Material Test Report from The Lincoln Electric 
+Company, Customer PO # 695750-000 3P, Lot 1030K
+ 
+  
+Weld Filler Material Specifications 
+TR-5.9-308L / 316L, “ER308L / ER316L Stainless Steel Bare Wire / Rods,” Revision 0 
+  
+Procedures 
+100-RT-302, “Radiographic Examination Using Computed Radiography In Accordance with 
+ASME Section V, Article 2,” Revision 4; 
+WCP-1, “Welding Control Procedure,” Revision 9; 
+WPS1-8.8T01, Revision 9; 
+PQR PQ574, Revision 1; 
+PQR PQ589, Revision 1; 
+PQR PQ595, Revision 0 
+  
+Corrective Action Reports 
+CB&I CAR 2016-1201 
+ 
+Section 1A07 
+Work Control Documents: 
+In-process welding record for weld number CV6238-38 (Work Package SV3-CA01-S4W-
+CV3233); 
+  
+Procedures: 
+Welding Procedure Specification Number WPS2-1.1S02, Rev. 2; 
+  
+Drawings and Design Changes: 
+SV3-CA01-S4K-CV6238, "Weld Map for CA01-02 Overlay Plates and Attachments East Side," 
+Rev. 4;
+ 
+E&DCR APP-CA01-GEF-638, "Addition of Spreader Plates to CA01," Rev. 0; 
+SV3-CA01-S4-04302, "Containment Building Area 4 Module CA01 Subassembly 04 Structural 
+Outline - Elevation Views Outfitted-I," Rev. 0;
+ 
+  
+Misc. Documents: 
+8 
+Welding Material Requisition (WMR) Number 178924; 
+  
+Section 1A08 
+Specifications / Drawings:  
+SV3-1208-Z0-001, “Specification for the Fabrication and Field Erection of the SC Panels for the 
+AP1000 Shield Building,” Rev. 1; 
+SV3-VL52-Z0-572, “Material Specification for ASTM A572 Grade 50 for SC Shield Building,” 
+Rev. 0; 
+SV3-1208-SC-100, “Shield Building Steel Wall Panels El. 100’0” to El. 248’-61/2” General 
+Notes,” Rev. 2; 
+SV3-1208-SC-904, “Shield Building Steel Wall Panels El. 100’0” to El. 248’-61/2” Typical Details 
+(Sheet 4),” Rev. 2;
+ 
+SV3-1208-SC-906, “Shield Building Steel Wall Panels El. 100’0” to El. 248’-61/2” Typical Details 
+(Sheet 6),” Rev. 5;
+ 
+SV3-1208-SC-907, “Shield Building Steel Wall Panels El. 100’0” to El. 248’-61/2” Typical Details 
+(Sheet 7),” Rev. 2;
+ 
+[Panel 01E] SV3-1208-SC-201, “Shield Building Steel Wall Panels El. 100’0” to El. 248’-61/2” 
+Connection Panel Group 20,” Rev. 2; 
+[Panel 01D] SV3-1208-SC-321, “Shield Building Steel Wall Panels El. 100’0” to El. 248’-61/2” 
+Connection Panel Group 32,” Rev. 2 
+  
+Engineering and Design Coordination Reports: 
+APP-1208-GEF-181, “Shield Building – Revise Finish Weld Profiles,” Rev. 0; 
+  
+Procedures:  
+QS 07.01, “Receiving Process,” Rev. 1; 
+QAD 07.14, “Receiving Inspection,” Rev. 03.01; 
+QC inspection plan F-Q445-004, “Receipt Inspection – Modules – Structural,” Rec. 3 Change 5; 
+  
+Inspection Reports:  
+132175-D100.SB003-NNI-VA-202 (WECTEC Type “B” Inspection Report – Source Inspection 
+Report for Panel 01D);
+ 
+132175-D100.SB003-NNI-VA-195 (WECTEC Type “B” Inspection Report – Source Inspection 
+Report for Panel 01E);
+ 
+  
+Supplier / Manufacturer Documentation Packages: 
+SV3-1208-SC-01E Documentation Package for AP1000 Shield Building Structural Modules, 
+Group 20 NNI JO 7340-F;
+ 
+SV3-1208-SC-01D Documentation Package for AP1000 Shield Building Structural Modules, 
+Group 32 NNI JO 7340-F; 
+NNI and WECTEC Certificates of Conformance for SV3-1208-SC-01E and SV3-1208-SC-01D; 
+Work Instruction / Welding / Inspection records for the assembly of SV3-1208-SC-01E outer 
+panel (weld number 7340-F-101-001); 
+Work Instruction / Welding / Inspection records for the assembly of SV3-1208-SC-01E inner 
+panel (weld number 7340-F-101-002);
+ 
+Work Instruction / Welding / Inspection records for the assembly of SV3-1208-SC-01D wall 
+attachment (Weld number 7340-F-100-010);
+ 
+QC No. 12NNI095, CMTR for panel plate 2003A and 2004B (Panel 01E), Heat No. 4504977; 
+QC No. 14NNI007, CMTR for panel plate 3216A and 3217A, Heat No. 3508603; 
+QC No. 15NNI003, CMTR for #11 Lenton Couplers EL36C3JQ, Heat Nos. L8089 & L8112 
+  
+9 
+Corrective Action and Nonconformance and Disposition Reports: 
+APP-1208-GNR-850443, “NNI NCR 1615A SV3-1208-SC-01E Critical Dimensions Out of 
+Tolerance,” Rev. 0; 
+APP-1208-GNR-850438, “NNI NCR 1558A, WPS 1070 used incorrectly, SV3-1208-SC-01E,” 
+Rev. 0;
+ 
+APP-1208-GNR-850444, “NCR 1614B SV3-1208-SC-01E Critical Dimensions Out of 
+Tolerance,” Rev. 0;
+ 
+ 
+Section 1A09 
+Engineering and Design Coordination Report 
+E&DCR SV0-1208-GEF-000026, "Shield Building NDE Allowance," Revision 0; 
+  
+Procedures 
+DAPP 5-14, "AP1000 Engineering and Design Coordination Report," Revision 7; 
+DAPP 5-18, "AP1000 Licensing Basis Reviews," Revision 09.01; 
+  
+Section 1A10 
+Concrete/Grout Delivery Ticket # 42169, Pour # 2797, 08/22/2016 
+Concrete/Grout Delivery Ticket # 42170, Pour # 2797, 08/22/2016 
+Concrete/Grout Delivery Ticket # 42171, Pour # 2797, 08/22/2016 
+Concrete/Grout Delivery Ticket # 42172, Pour # 2797, 08/22/2016 
+Concrete/Grout Delivery Ticket # 42173, Pour # 2797, 08/22/2016 
+Concrete/Grout Delivery Ticket # 42174, Pour # 2797, 08/22/2016 
+Concrete/Grout Delivery Ticket # 42175, Pour # 2797, 08/22/2016 
+Concrete/Grout Delivery Ticket # 42176, Pour # 2797, 08/22/2016 
+Concrete/Grout Delivery Ticket # 42177, Pour # 2797, 08/22/2016 
+Concrete/Grout Delivery Ticket # 42178, Pour # 2797, 08/22/2016 
+Concrete/Grout Delivery Ticket # 42179, Pour # 2797, 08/22/2016 
+Concrete/Grout Delivery Ticket # 42180, Pour # 2797, 08/22/2016 
+Concrete/Grout Delivery Ticket # 42181, Pour # 2797, 08/22/2016 
+Concrete/Grout Delivery Ticket # 42182, Pour # 2797, 08/22/2016 
+Concrete/Grout Delivery Ticket # 42183, Pour # 2797, 08/22/2016 
+Concrete/Grout Delivery Ticket # 42184, Pour # 2797, 08/22/2016 
+Concrete/Grout Delivery Ticket # 42185, Pour # 2797, 08/22/2016 
+Concrete/Grout Delivery Ticket # 42186, Pour # 2797, 08/22/2016 
+Concrete/Grout Delivery Ticket # 42187, Pour # 2797, 08/22/2016 
+Concrete/Grout Delivery Ticket # 42188, Pour # 2797, 08/22/2016 
+Concrete/Grout Delivery Ticket # 42189, Pour # 2797, 08/22/2016 
+Concrete/Grout Delivery Ticket # 42190, Pour # 2797, 08/22/2016 
+Quality Assurance Inspection Report C113-16-10072, “Placing Safety Related Concrete,” 
+07/05/16 
+SNC Surveillance CMP-NI-2016-8-12153, “Unit 3 Nuclear Island Shield Building Course 4 
+Elevation 123’-6” to 131’-6” Concrete Testing and Placement,” 08/31/2016 
+Specification SV3-CC01-Z0-026, “Safety Related Mixing and Delivering Concrete,” Revision 6 
+Specification SV3-CC01-Z0-027, “Safety Related Concrete Testing Services,” Revision 4 
+Specification SV3-CC01-Z0-031, “Safety Related Placing Concrete and Reinforcing Steel,” 
+Revision 7 
+Work Package SV3-1208-CCW-851004, “Course 4 Concrete Placement,” Revision 1 
+  
+Section 1A11 
+10 
+Program Documents:  
+APP-GW-GRR-011, Rev 0, "AP1000 Design Reliability Assurance Program Inspections, Tests, 
+Analyses and Acceptance Criteria Report" 
+APP-GW-GAH-020, Rev 6, "AP1000® Plant Systems, Structures, and Components Quality 
+Requirements"
+ 
+APP-GW-GA-200, Rev 2, "AP1000 Quality Assurance Requirements for RTNSS Systems, 
+Structures and Components"
+ 
+APP-GW-GRR-009, Rev 3, "AP1000 Design Reliability Assurance Program" 
+APP-GW-GL-026, Rev 2, "AP1000 Implementation of the Regulatory Treatment of Nonsafety-
+Related Systems Process" 
+APP-MG02-GA-001, Rev 0, "AP1000 Quality Assurance Requirements for the Supply of Control 
+Rod Drive System Power Supply Hardware" 
+  
+Procedures: 
+W2-2.5-200, Rev 0.2, "Personnel Qualification and Certification Process" 
+W2-6.1-100, Rev 1, "Document Control" 
+W2-6.2-100, Rev 0.1, "Quality Assurance Records" 
+W2-8.4-101, Rev 0, "Design Review" 
+W2-8.4-102, Rev 0, "Design Document Verification" 
+W2-9.4-101, Rev 3, "Control of Purchased Items and Services" 
+  
+Purchase Orders: 
+4500298884, dated 3/30/09 
+4500298889, dated 3/30/09 
+4500328257, dated 12/23/09 
+4500328256, dated 12/23/09 
+4500667254, dated 4/30/15 
+4500667232, dated 4/30/15 
+4500611983, dated 7/29/13 
+4500611985, dated 7/29/13 
+132175-EA02.01, dated 5/14/15 
+132176-EA02.01, dated 5/14/15 
+132177-EA02.01, dated 5/26/15 
+132178-EA02.01, dated 5/26/15 
+4500447617, dated 9/10/12 
+4500448263, dated 9/14/12 
+4500298884, dated 3/30/09 
+4500298889, dated 3/30/09 
+4500328256, dated 12/23/09 
+4500328257, dated 12/23/09 
+4500439554, dated 6/22/12 
+4500445916, dated 8/23/12 
+4500454043, dated 11/9/12 
+4500466697, dated 3/11/13 
+  
+Design Specifications: 
+APP-MP08-Z0-001, Rev 7, "RNS Centrifugal RHR Pumps" 
+APP-MP08-Z5-003, Rev 0, "Appendix 3--Technical and Quality Requirements for AP1000, 
+MP08 RNS Centrifugal Normal RHR Pumps"
+ 
+APP-JE52-Z0-001, Rev 4, "AP1000 General Design Equipment Specification for Class 1E 
+Pressure and Differential Pressure Transmitters" 
+11 
+APP-JE52-Z0R-001, Rev 3, "AP1000 Class 1E Pressure and Differential Pressure Transmitters 
+Data Sheet Report" 
+APP-MG02-Z0-001, Rev 1, "AP1000 Rod Drive Power Supply System Design Specification" 
+APP-PLS-J4-007, Rev 4, "AP1000 Plant Control System and Data Display System – System 
+Design Specification"
+ 
+APP-PLS-J4-189, Rev 1, "AP1000 Miscellaneous System Control Application Functional 
+Specification for PLS" 
+APP-EA02-Z0-001, Rev 3, "Design Specification for Non-Class 1E AC Distribution Panels for 
+EDS"
+ 
+APP-PLS-J0R-001, Rev 0, "AP1000 Nuclear Steam Supply System (NSSS) Pressurizer Water 
+Level Control System (PL) Requirements Traceability Matrix"
+ 
+APP-PLS-J4-007, Rev 4, "AP1000 Plant Control System and Data Display System – System 
+Design Specification"
+ 
+APP-PV70-Z5-003, Rev 2, "Appendix 4: Quality Assurance Requirements for the Procurement 
+and Delivery of AP1000 Squib Valves (PV70) In Support of AP1000 Projects" 
+APP-PV70-Z0-001, Rev 6, "Squib (Pyrotechnic Actuated) Valves, ASME Boiler and Pressure 
+Vessel Code, Section Ill Class 1" 
+APP-PV70-Z0R-001, Rev 7, "PV70 Squib (Pyrotechnic Actuated) Valves, ASME Section III 
+Class 1, Data Sheet Report"
+ 
+APP-MP08-Z0-001, Rev 7, "RNS Centrifugal RHR Pumps" 
+APP-MP08-Z5-003, Rev 0, "Appendix 3 – Technical and Quality Requirements for AP1000, 
+MP08 RNS Centrifugal Normal RHR Pumps"
+ 
+APP-MV01-Z0-001, Rev 4, "AP1000 Reactor Pressure Vessel Functional Specification" 
+APP-PMS-J1-001, Rev 11, "AP1000 Protection and Safety Monitoring System Functional 
+Requirements" 
+APP-PMS-J0R-001, Rev 3, "AP1000 Protection and Safety Monitoring System Requirements 
+Traceability Matrix" 
+APP-PMS-J7X-001, Rev 3, "AP1000 Protection and Safety Monitoring System Equipment 
+Classification List" 
+APP-JE00-J8-001, Rev 10, "AP1000 Guidelines for Instrument Installation" 
+  
+Drawings: 
+APP-SGS-PLW-032, Rev 4, "Steam Generator System Auxiliary Building Room 12406 Main 
+Steam Line A" 
+APP-SGS-PLW-042, Rev 5, "Steam Generator System Auxiliary Building Room 12404 Main 
+Steam Line B" 
+APP-1215-CE-002, Rev 7, "Auxiliary Building Area 5 Pump RNS-MP-01A Anchor Bolts 
+Locations 112162 - Plan at El 66'-6""
+ 
+APP-1215-CE-003, Rev 6, "Auxiliary Building Area 5 Pump RNS-MP-01B Anchor Bolts 
+Locations 112163 - Plan at El 66'-6""
+ 
+APP-MZ12-V1-001, Rev 1, "RNS Pumps A & B Auxiliary Building Area 5 Structural Steel 
+Support Frame Plan and Elevation" 
+APP-MZ12-V1-002, Rev 1, "RNS Pumps A & B Auxiliary Building Area 5 Pump Supports Plan 
+and Details" 
+APP-RNS-PLW-09A, Rev 3, "Normal Residual Heat Rem. System Auxiliary Building Room 
+12162 RNS Pump Suction Lines (pump MP 01A)" 
+APP-RNS-PLW-09B, Rev 3, "Normal Residual Heat Rem. System Auxiliary Building Room 
+12163 RNS Pump Suction Lines (pump MP 01B)" 
+APP-RNS-PLW-141, Rev 3, "Normal Residual Heat Rem. System Auxiliary Building Room 
+12162/12262 MP-01A Discharge from Pump to ME-01A" 
+12 
+APP-RNS-PLW-161, Rev 3, "Normal Residual Heat Rem. System Auxiliary Building Room 
+12163/12262 MP-01B Discharge from Pump to ME-01B" 
+APP-CP65-S5-017, Rev 2, "Containment Building Areas 2& 3 Assembled CB 65 VCS Enclosure 
+Assembly Drawing I" 
+APP-CP65-S5-018, Rev 1, "Containment Building Areas 2& 3 Assembled CB 65 VCS Enclosure 
+Assembly Drawing II" 
+APP-FA01-V2-101, Rev 3, "AP1000 Fuel Assembly Interface Parameters 17×17×168 Active 
+Fuel"
+ 
+APP-FA01-V2-102, Rev 3, "AP1000 Fuel Assembly 17×17×168 Active Fuel Sections and 
+Details" 
+  
+Section 1A12 
+Design Documents 
+SV4-MV50-Z0-001, “AP1000 Containment Vessel Design Specification,” Rev. 1 
+  
+Receipt Inspection Reports 
+Receiving Inspection Report No. U4-344, 11/05/2014 
+Receiving Inspection Report No. U4-349, 11/04/2014 
+Receiving Inspection Report No. U4-364, 12/02/2014 
+Receiving Inspection Report No. U4-366, 01/20/2015 
+Receiving Inspection Report No. U4-370, 01/20/2015 
+  
+Certified Material Test Reports 
+CMTR from JFE Steel Corporation, No. 6504-3, Heat No. 6-5348, Plate No. FX343 A, 
+09/25/2013 
+CMTR from JFE Steel Corporation, No. 6504-8, Heat No. 5-9181, Plate No. H3259 A, 
+09/25/2013
+ 
+CMTR from JFE Steel Corporation, No. 6505-11, Heat No. 5-9181, Plate No. HA190 A, 
+10/10/2013 
+CMTR from JFE Steel Corporation, No. 6524-1, Heat No. 5-0027, Plate No. J5423 A, 
+10/21/2013 
+CMTR from JFE Steel Corporation, No. 6524-5, Heat No. 5-0027, Plate No. J5419 A, 
+10/21/2013
+ 
+  
+Nondestructive Examination Reports 
+Inspection Results of Ultrasonic Testing Report from JFE Steel Corporation, No. H25-146, 
+10/11/2013
+ 
+Inspection Results of Ultrasonic Testing Report from JFE Steel Corporation, No. H25-151, 
+10/22/2013
+ 
+Inspection Results of Ultrasonic Testing Report from JFE Steel Corporation, No. H25-139, 
+09/26/2013
+ 
+ 
+Section 1A13 
+Design Documents 
+SV4-MV50-Z0-001, “AP1000 Containment Vessel Design Specification,” Rev. 1 
+  
+Weld Records 
+Traveler - Nuclear, U4-S9/S10, Weld S9 Ring to S10 Ring Circumferential Seam, Rev. 0 
+Traveler - Nuclear, U4-S9-E15/E16, Weld S9 Ring Vertical Seam, Rev. 0 
+Traveler - Nuclear, U4-S10-C46/C47, Weld S10 Ring Vertical Seam, Rev. 0 
+13 
+  
+Welding Procedure Specification / Procedure Qualification Records 
+WPS E9018M H4 R, Rev. 8 
+WPS E91TG-H4, Rev. 12 
+WPS Eni4 / OK 10.72, Rev. 8 
+PQR 13087, 05/01/2012 
+PQR 12676, 12/18/2009 
+PQR 12677, 12/18/2009 
+PQR 12690, 12/17/2009 
+PQR 12691, 01/04/2010 
+PQR 12723, 03/08/2010 
+PQR 12749, 04/07/2010 
+PQR 12750, 04/07/2010 
+PQR 12757, 05/03/2010 
+  
+Welder or Welding Operator Performance Qualification 
+Welder or Welding Operator Performance Qualification for ID No 1296894, Dated 03/20/2015 
+Welder or Welding Operator Performance Qualification for ID No 63009725, Dated 10/17/2013 
+Welder or Welding Operator Performance Qualification for ID No 63013293, Dated 04/03/2013 
+Welder or Welding Operator Performance Qualification for ID No 63013293, Dated 07/21/2014 
+Welder or Welding Operator Performance Qualification for ID No 63021159, Dated 04/11/2013 
+Welder or Welding Operator Performance Qualification for ID No 63021159, Dated 12/13/2012 
+Welder or Welding Operator Performance Qualification for ID No 63070462, Dated 02/18/2014 
+Welder or Welding Operator Performance Qualification for ID No 63070462, Dated 05/28/2014 
+Welder or Welding Operator Performance Qualification for ID No 63081804, Dated 10/22/2014 
+Welder or Welding Operator Performance Qualification for ID No 63081804, Dated 11/03/2014 
+Welder or Welding Operator Performance Qualification for ID No 63081804, Dated 04/12/2016 
+Welder or Welding Operator Performance Qualification for ID No 63081808, Dated 08/14/2014 
+Welder or Welding Operator Performance Qualification for ID No 63081808, Dated 11/04/2015 
+Welder or Welding Operator Performance Qualification for ID No 63083388, Dated 04/09/2015 
+Welder or Welding Operator Performance Qualification for ID No 63083388, Dated 04/27/2015 
+  
+Certified Material Test Reports 
+CMTR from The Lincoln Electric Company, Customer PO No. 879733 Rev. 2, Lot 1204D 
+CMTR from ESAB Welding & Cutting Products, Customer PO No. 653283 Rev. 3, Heat 093096 
+CMTR from ESAB Welding & Cutting Products, Customer PO No. 698615-1, Lot No. 2H005T01 
+CMTR from ESAB Welding & Cutting Products, Customer PO No. 698615-1, Lot No. 4H005P03 
+  
+Inspection Records 
+U4-208 (RT Report for U4-S9-E15/E16) 
+U4-217 (RT Report for U4-S10-C46/C47) 
+ 
+Section 1A14 
+Design Documents 
+SV4-MV50-Z0-001, “AP1000 Containment Vessel Design Specification,” Rev. 1 
+  
+Certified Material Test Reports 
+CMTR from JFE Steel Corporation, No. 6504-3, Heat No. 6-5348, Plate No. FX343 A, 
+09/25/2013 
+14 
+CMTR from JFE Steel Corporation, No. 6504-8, Heat No. 5-9181, Plate No. H3259 A, 
+09/25/2013 
+CMTR from JFE Steel Corporation, No. 6505-11, Heat No. 5-9181, Plate No. HA190 A, 
+10/10/2013 
+CMTR from JFE Steel Corporation, No. 6524-1, Heat No. 5-0027, Plate No. J5423 A, 
+10/21/2013 
+CMTR from JFE Steel Corporation, No. 6524-5, Heat No. 5-0027, Plate No. J5419 A, 
+10/21/2013
+ 
+CMTR from The Lincoln Electric Company, Customer PO No. 879733 Rev. 2, Lot 1204D 
+CMTR from ESAB Welding & Cutting Products, Customer PO No. 653283 Rev. 3, Heat 093096 
+CMTR from ESAB Welding & Cutting Products, Customer PO No. 698615-1, Lot No. 2H005T01 
+CMTR from ESAB Welding & Cutting Products, Customer PO No. 698615-1, Lot No. 4H005P03 
+ 
+Section 1A15 
+Procedures: 
+AP1000-PQAP-05-02, "Controlling Instructions and Procedures", Rev. 3 
+AP1000-PQAP-17-01, "Controlling Quality Assurance Records", Rev. 5 
+AP1000-PQAP-13-01, "Handling and Storing Items", Rev. 3 
+AP1000-PQAP-09-02, "Qualifying and Certifying Coating Applicators", Rev. 4 
+WSS-3080-3081-TWI-Z0-604-01, "Preparing and Applying Coatings to Service Level I, II, and III 
+Surfaces", Rev. 6 
+APP-GW-Z0-604, "Application of Protective Coating to Systems, Structures, and Components 
+for AP1000 Reactor Plant", Rev. 8
+ 
+APP-GW-Z0-604, "Application of Protective Coating to Systems, Structures, and Components 
+for AP1000 Reactor Plant", Rev. 9
+ 
+  
+ASME Standards: 
+D4228-05, "Standard Practice for Qualification of Coating Applicators for Application of Coating 
+to Steel Surface"
+ 
+D4285-83, "Standard Test Method for indicating Oil or Water in Compressed Air" 
+D5144-08, "Standard Guide for Use of Protective Coating Standard in Nuclear Power Plants" 
+  
+Miscellaneous Documents: 
+Regulatory Guide 1.54, "Service Level I, II, and III Protective Coatings Applied to Nuclear Power 
+Plants", Rev. 2
+ 
+Regulatory Guide 1.54, "Service Level I, II, and III Protective Coatings Applied to Nuclear Power 
+Plants", Rev. 1 
+ 
+Product Data Sheet Carbozinc 11 HSN, dated June 2016 
+Data Logger 93504, dated 8/10/16 
+Data Logger 96180, dated 8/10/16 
+Data Logger 93504, dated 8/16/16 
+Data Logger 96180, dated 8/16/16 
+WSS-F-8-01-1, "WSS Inventory Control Form", Rev. 3 dated 9/5-11/16 
+  
+Pre/Post Surface Prep Inspection/Environmental Conditions Log: 
+Int-Panels-006, dated 8/16/16 
+Int-Panels-005, dated 8/15/16 
+Int-Panels-003, dated 8/10/16 
+Int-Panels-008, dated 8/18/16 
+Int-Panels-011, dated 8/23/16 
+15 
+  
+Section 1A16 
+Drawings  
+SV4-CA01-S5-01001 to 01007, “Containment Building Area 4 Module CA01 Submodule 
+CA01_01 Structural Drawings,” Rev. 0 
+SV4-CA01-S5-31001 to 31012, “Containment Building Area 2 Module CA01 Submodule 
+CA01_31 Structural Drawings,” Revision 0 
+ 
+SV4-CA01-S5-37001 to 37005, “Containment Building Area 4 Module CA01 Submodule 
+CA01_37 Structural Drawings,” Rev. 0
+ 
+SV4-CA01-S5B-01001, “Containment Building Area 4 Module CA01 Submodule CA01_01 Bill of 
+Materials,” Rev. 0
+ 
+SV4-CA01-S5B-31001, “Containment Building Area 2 Module CA01 Submodule CA01_31 Bill of 
+Materials,” Revision 0 
+SV4-CA01-S5B-37001, “Containment Building Area 4 Module CA01 Submodule CA01_37 Bill of 
+Materials,” Rev. 0 
+SV4-GW-S9-100 onward, “AP1000 Structural Modules General Notes,” Rev. 3 
+SV4-GW-S9-200 onward, “AP1000 Structural Modules Standard Structural Details,” Rev. 1 
+SV4-GW-S9-300 onward, “AP1000 Structural Modules Standard Weld Details,” Rev. 1 
+  
+Engineering & Design Coordination Reports 
+APP-CA00-GEF-173, “Carbon Steel Repair by Welding,” Revision 0 
+APP-CA00-GEF-190, “Flatness Requirement for Landing Plates,” Revision 0 
+APP-CA00-GEF-202, “Full-Size fillet weld lengths and Weld terminations,” Revision 0 
+APP-CA01-GEF-243, Rev. 0, “CA01_31 Standard Weld Details – Fillet Weld and Corner Joint 
+Modifications”
+ 
+APP-CA01-GEF-405, “Missing Weld Details for Ledger Angles,” Revision 0 
+APP-CA01-GEF-516, “CA01-01 Corner Joint Modifications,” Revision 0 
+APP-CA01-GEF-599, “Update coupler information for submodules CA01-01, 02, 03, 08, 09, 10 
+& 33,” Revision 0 
+APP-CA01-GEF-850386, “CA01-01/30/31/34/36 PJP Option ,” Revision 0 
+APP-CA01-GEF-850386, Rev. 0, “CA01-01/30/31/34/36 PJP Option” 
+APP-CA01-GEF-850402, “SWD-90 correction ,” Revision 0 
+APP-GW-GEF-1132, “General Note 3.8.1.1 Differs from AWS D1.1,” Revision 0 
+APP-GW-GEF-1494, “NDE Stainless Steel Fillet Welds,” Revision 0 
+APP-GW-GEF-850052, “Cleanliness of Sub-Module,” Revision 1 
+APP-GW-GEF-850078, “General Note 3.7.5.7.11,” Revision 0 
+  
+Miscellaneous 
+APP-1100-S2C-034, “Finite Element Solid-Shell Model of Containment Internal Structures,” 
+Revision 3
+ 
+APP-1100-S3C-777, “Containment Internal Structures Design Calculation – CA01, CA02, and 
+CA05 Walls and Connections,” Revision 1 
+CB&I Stone & Webster Receipt Package, Vogtle Unit 4, Purchase Order Number 132176-
+D100.CA008, Submodule CA01_37, SV4-1100- CA01-37
+ 
+IHI Toshiba Project Document Number VOG4-CIS-CA01-7501-01-01, “01 Sub-module 
+Fabrication Record Package,” Revision 0 
+IHI Toshiba Project Document Number VOG4-CIS-CA01-7501-07-01, “07 Sub-module 
+Fabrication Record,” Revision 0 
+NOUC#132167-D100.CA008-405-004-IHI-104-N0311, CA01 Structural Module Fabrication 
+Submodule CA01-31 
+  
+16 
+Nonconformance & Disposition Reports 
+APP-CA01-GNR-850429, “Incorrect Edge Prep” 
+APP-CA01-GNR-850481, “Unattainable Weld, SWD-10G” 
+APP-CA01-GNR-850560, “Unacceptable Yield Strength” 
+APP-CA01-GNR-850744, “Relocation of Three Studs and Removal of Gusset for Clear 
+Spacing” 
+APP-CA01-GNR-850767, “Dimensional Deviation for Spacing” 
+APP-CA01-GNR-850768, “Deviation of OLP Holes” 
+APP-CA01-GNR-850808, “Min Wall Thickness Violation” 
+SV4-CA01-GNR-000033, “CA01-01 unspecified studs installed,” Revision 0 
+  
+Procedures 
+APP-GW-GAP-428, “Nonconformance and Disposition Report (N&D),” Revision 9 
+QAD 07.14, “Receiving Inspection,” Revision 03.01 
+QS 07.01, “Receiving Process,” Revision 01.00 
+QS 07.10, “Control of Purchased Material, Equipment and Services for Safety Related 
+Applications,” Revision 02.00 
+QS 16.03, “Identifying and Reporting Defects and Failures to Comply Under 10CFR21 and 
+10CFR50.55(e),” Revision 05.00
+ 
+QS 16.05, “Corrective Action Program,” Revision 09.00 
+  
+Quality Assurance Inspection Reports  
+Q445-16-11028, “Receipt Inspection – Modules – Structural”, 4/25/16 
+Q445-16-11279, “Receipt Inspection – Modules – Structural,” 05/20/16 
+QARP-018-SV4-31 Rev. 0, 31 Sub-Module Fabrication record Package, PO#132176-
+D100.CA008 
+  
+Section 1A17 
+Work Packages 
+SV4-CA01-S4W-CV6432, Unit 4 Submodule CA01-20 Installation, Rev. 0 
+  
+Weld Records 
+CV15611-L17-1 
+CV15611-L17-2 
+CV15611-L16-1 
+CV15611-L16-2 
+  
+Drawings 
+SV4-GW-S9-309, AP1000 Structural Modules Standard Weld Details, Rev. 2 
+SV4-CA01-S4K-CV15611, CA01-20 INSTALLATION OF CA01-20 TO CA01-21 WELD MAP, 
+Rev. 4 
+  
+Specifications 
+APP-VW20-Z0-023, Welding Specification for ASTM A240 UNS S32101 Duplex Stainless Steel 
+Plate, Rev. 3
+ 
+  
+Procedures 
+QS 09.04, Visual Examination – Structural Welding AP1000 Modules – Safety Related, Rev. 
+03.01
+ 
+  
+Calculations  
+17 
+APP-CA00-S2C-002, AP1000 Structural Module Standard Weld Details, Rev. 1 
+APP-CA01-S3C-010, CA01 Structural Module Domestic Standard Weld Details, Rev. 1 
+APP-GA-G1-001, AP1000 Structural Modules Design Guidelines, Rev. 3 
+APP-GW-C1-001, AP1000 Civil/Structural Design Criteria, Rev. 3 
+  
+E&DCR 
+APP-CA01-GEF-850049, CA01-21 Material Substitution, Rev. 0 
+  
+Welding Procedure Specifications (WPS) 
+WPS5-10HF20, Rev. 4., 7/22/2016 
+WPS5-10H.10HM70, Rev. 15, 7/22/2016 
+WPS5-10.10HT70, Rev. 8, 7/22/2016 
+  
+Procedure Qualification Record (PQR) 
+SP256, Rev. 2, 5/20/2015 
+SP394, Rev. 1, 5/20/2015 
+PQ871, Rev. 0, 3/30/2016 
+PQ107-1, Rev.1, 03/18/2016 
+  
+Miscellaneous 
+F-S561-004, Structural Weld Inspection Modules, and "Fabrication" and "Subassembly" 
+Tolerances, Rev. 19 
+Certified Test Report EPL001-10-11-39374-6, ASME SA-240, UNS S32101, Duplex Stainless 
+Steel Material, December 9, 2010
+ 
+Commercial Grade Dedication Package No. CGD-12-000022; Rev. 1 
+NDE Report No. V-16-PT-304-1675, Plug Bar to Plate, September 7, 2016 
+  
+Section 1A18 
+Concrete Data 
+AMEC Concrete Field and Lab Test Data, Set ID SCC-FYI-0016, 7/25/2016 
+AMEC Concrete Field and Lab Test Data, Set ID 2016SCC0462, 7/25/2016 
+AMEC Concrete Field and Lab Test Data, Set ID 2016SCC0465, 7/25/2016 
+Concrete/Grout Delivery Ticket # 70395, Pour # 2731, 7/12/2016 
+Concrete/Grout Delivery Ticket # 70422, Pour # 2731, 7/12/2016 
+Concrete/Grout Delivery Ticket # 70424, Pour # 2731, 7/12/2016 
+Concrete/Grout Delivery Ticket # 70425, Pour # 2731, 7/12/2016 
+Concrete/Grout Delivery Ticket # 70430, Pour # 2731, 7/12/2016 
+Concrete/Grout Delivery Ticket # 70439, Pour # 2731, 7/12/2016 
+Concrete/Grout Delivery Ticket # 70440, Pour # 2731, 7/12/2016 
+Concrete/Grout Delivery Ticket # 70437, Pour # 2731, 7/12/2016 
+Concrete/Grout Delivery Ticket # 70434, Pour # 2731, 7/12/2016 
+  
+Miscellaneous  
+Quality Assurance Inspection Report C113-16-10075, “Placing Safety Related Concrete,” 
+7/12/2016 
+Work Package SV4-1000-C0W-850000, “Concrete Under Containment Vessel, 8Bx,” Rev. 0 
+  
+Specifications 
+SV3-CC01-Z0-026, “Safety Related Mixing and Delivering Concrete,” Rev. 6 
+SV3-CC01-Z0-027, “Safety Related Concrete Testing Services,” Rev. 4 
+SV3-CC01-Z0-031, “Safety Related Placing Concrete and Reinforcing Steel,” Rev. 7 
+18 
+  
+Section 1A19 
+Engineering & Design Coordination Reports 
+APP-1200-GEF-712, “Concrete Beams Detail Conflict 82’-6”,” Revision 0 
+APP-1200-GEF-719, “Delete T-head Reinforcement,” Revision 0 
+APP-1200-GEF-883, “Change Deckplate Embedments from DWA to HA,” Revision 0 
+APP-1230-GEF-173, “Auxiliary Building Metal Deck Composite Floor and Concrete Slab in Area 
+1, 2 & 4 at the A4 Elevation,” Revision 0 
+SV0-CR01-GEF-000772, “Optional Formsaver deletion area 5 beams @ 82'-6",” Revision 0 
+  
+Miscellaneous 
+Nonconformance & Disposition Report SV4-CR01-GNR-000043, “Clear Cover Discrepancy in 9” 
+Floor Slabs with 3” Decking EL. 82’-6” Areas 1 & 2,” Revision 0
+ 
+Nonconformance & Disposition Report SV4-CR01-GNR-000044, “Clear Cover Below Min. Value 
+9” Floor Slabs with 3” Decking EL. 82’-6” Areas 1 & 2,” Revision 0 
+Procedure QS 13.11, “Material, Equipment Storage,” Revision 04.00 
+Surveillance Report S-132175-2016-105, ““D” Level Material Storage Area,” completed 
+09/26/2016 
+  
+Work Packages 
+SV4-1220-CRW-CV4190, “Unit 4 Auxiliary Building Installation of Reinforcing Steel for Floors at 
+EL 82’-6” (Slab Placements #1 – 15),” Revision 0 
+SV4-1220-CEW-CV3879, “Auxiliary Building: Areas 1 & 2, Elevation 82’-6” Floor Slab 
+Embedment, Blockouts & Form Work,” Revision 0 
+SV4-1220-CCW-CV4192, “Unit 4 Nuclear Island Aux Building Concrete Placement for Slabs at 
+Elevation 82’-6” – Areas 1 – 6 (Slab Placements 1 – 15),” Revision 0 
+SV4-1220-SSW-CV4780, “Unit 4 Nuclear Island Auxiliary Building Area 1 Structural Steel for 
+Elevation 82’-6”,” Revision 0
+ 
+  
+Section 1A20 
+Design Documents 
+SV4-CA20-S4-03006, “Auxiliary Building Areas 5 & 6 CA20 Module Subassembly 3 Wall 4 
+Internal Face Structural Outline Sections & Details,” Revision 0; 
+SV4-CA20-S4-03010, “Auxiliary Building Areas 5 & 6 CA20 Module Subassembly 3 Structural 
+Outline Sections & Details,” Sheet 1, Revision 3; 
+SV4-CA20-S4B-03001, “Auxiliary Building Areas 5 & 6 CA20 Module Subassembly 3 Bill of 
+Materials,” Revision 0; 
+SV4-CA20-S4K-CV13386, “CA20-47, 48, 49, & 50 Installation of Ledger Angles,” Revision 9; 
+SV4-CA20-S4K-CV13387, “CA20-47, 48, 49, & 50 Installation of Submodule Floors,” Revision 
+2;
+ 
+SV4-CA20-S5Y-00003, “Auxiliary Building Areas 5 & 6 Module CA20 Submodules General 
+Notes II,” Revision 7; 
+SV4-CA20-S5Y-00004, “Auxiliary Building Areas 5 & 6 Module CA20 Submodules General 
+Notes II,” Revision 3; 
+SV4-CA20-S5Y-00201, “Auxiliary Building Areas 5 & 6 Module CA20 Standard Welding 
+Details,” Revision 0
+ 
+  
+Welding / Inspection Records 
+Welding Records for:  CV13386-5T and CV13387-1; 
+S561-16-17507 (VT Report for CV13387-1); 
+19 
+V-16-MT-302-2270 (MT Report for CV13387-1); 
+V-16-UT-310-0952 (UT Report for CV13387-1); 
+WMR # 186877, 08/03/2016; 
+WMR # 187810, 08/06/2016; 
+WMR # 188793, 08/09/2016; 
+Welder Performance Qualification Test # 2CS-03, ID 5844, 02/26/2015; 
+Welder Performance Qualification Test # 2CS-03, ID 8664, 06/27/2014; 
+Welder Performance Qualification Test # 2CS-05, ID 7999, 03/24/2015; 
+Welder Performance Qualification Test # 2CS-07-O, ID 7999, 08/04/2015; 
+Welding Filler Material Procurement Specification, DMD-M-NS-55_8018_C1_SMAW-02, 
+11/17/2014 
+  
+Material Test Reports 
+Certificate of Conformance and Certified Material Test Report from The Lincoln Electric 
+Company, Customer PO # 132175-FPR12-01836-4, Lot 1068F; 
+Certificate of Conformance and Certified Material Test Report from The Lincoln Electric 
+Company, Customer PO # 132175-FPR12-01836-7, Lot 1229P; 
+Certificate of Conformance and Certified Material Test Report from The Lincoln Electric 
+Company, Customer PO # 132175-FPR12-01836-7, Lot 1231K;
+ 
+Certified Material Test Report from Edgen Murray Corporation, Customer PO # 2786-00008, 
+ASTM A992, Heat # JW14102030;
+ 
+Certified Material Test Report from Edgen Murray Corporation, Customer PO # 766659 OI, 
+ASTM A36, Heat # JI5426
+ 
+  
+Procedures 
+GWS-2, “AWS D1.1 - Structural Steel General Welding Specification,” Revision 5; 
+100-MT-302, "Magnetic Particle Examination in accordance with AWS Structural Welding 
+Code," Revision 3;
+ 
+100-UT-310, "Ultrasonic Examination of Welds in Accordance with the AWS Structural Welding 
+Code D1.1," Revision 6;
+ 
+WPS2-1.1M73, Revision 10; 
+WPS2-1.1S03, Revision 6 
+  
+Nonconformance and Disposition Reports 
+SV4-CA20-GNR-000094, "SA3 Ledger Angle Fit Up," Revision 0 
+ 
+Section 1A21 
+Work Package SV4-CA20-S4W-CV5628, "CA20-25 to CA20-22B" 
+IR S561-16-11779 
+IR V-16-PT-304-0290 
+IR Q445-15-11633 
+IR Q445-15-10419 
+Weld Record CV13176-L26-1, Rev. 0 
+Weld Record CV13176-L26-1-RW1, Rev. 0 
+Weld Record CV13176-L26-2, Rev. 1 
+Weld Record CV13176-L26-3, Rev. 1 
+Weld Record CV13176-L26-4, Rev. 1 
+Weld Record CV13176-L26-8, Rev. 8 
+SV0-CA20-GEF-000052, "CA-20-SWD-16B Fillet Weld Callouts," Rev 0 
+APP-CA20-GEF-1458, "Weld Callout at Top and Bottom of Leak Chase," Rev. 0 
+20 
+APP-CA20-GEF-1513, "CA20 - Tolerance Clarification," Rev. 0 
+Drawing SV4-CA20-S4K-CV12202, Rev. 1 
+Drawing SV0-0000-MHK-R10572, Rev. 1 
+ 
+Section 1A22 
+Program Documents:  
+APP-GW-GRR-011, Rev 0, "AP1000 Design Reliability Assurance Program Inspections, Tests, 
+Analyses and Acceptance Criteria Report" 
+APP-GW-GAH-020, Rev 6, "AP1000® Plant Systems, Structures, and Components Quality 
+Requirements"
+ 
+APP-GW-GA-200, Rev 2, "AP1000 Quality Assurance Requirements for RTNSS Systems, 
+Structures and Components"
+ 
+APP-GW-GRR-009, Rev 3, "AP1000 Design Reliability Assurance Program" 
+APP-GW-GL-026, Rev 2, "AP1000 Implementation of the Regulatory Treatment of Nonsafety-
+Related Systems Process"
+ 
+APP-MG02-GA-001, Rev 0, "AP1000 Quality Assurance Requirements for the Supply of Control 
+Rod Drive System Power Supply Hardware"
+ 
+  
+Procedures: 
+W2-2.5-200, Rev 0.2, "Personnel Qualification and Certification Process" 
+W2-6.1-100, Rev 1, "Document Control" 
+W2-6.2-100, Rev 0.1, "Quality Assurance Records" 
+W2-8.4-101, Rev 0, "Design Review" 
+W2-8.4-102, Rev 0, "Design Document Verification" 
+W2-9.4-101, Rev 3, "Control of Purchased Items and Services" 
+  
+Purchase Orders: 
+4500298884, dated 3/30/09 
+4500298889, dated 3/30/09 
+4500328257, dated 12/23/09 
+4500328256, dated 12/23/09 
+4500667254, dated 4/30/15 
+4500667232, dated 4/30/15 
+4500611983, dated 7/29/13 
+4500611985, dated 7/29/13 
+132175-EA02.01, dated 5/14/15 
+132176-EA02.01, dated 5/14/15 
+132177-EA02.01, dated 5/26/15 
+132178-EA02.01, dated 5/26/15 
+4500447617, dated 9/10/12 
+4500448263, dated 9/14/12 
+4500298884, dated 3/30/09 
+4500298889, dated 3/30/09 
+4500328256, dated 12/23/09 
+4500328257, dated 12/23/09 
+4500439554, dated 6/22/12 
+4500445916, dated 8/23/12 
+4500454043, dated 11/9/12 
+4500466697, dated 3/11/13 
+  
+21 
+Design Specifications: 
+APP-MP08-Z0-001, Rev 7, "RNS Centrifugal RHR Pumps" 
+APP-MP08-Z5-003, Rev 0, "Appendix 3--Technical and Quality Requirements for AP1000, 
+MP08 RNS Centrifugal Normal RHR Pumps" 
+APP-JE52-Z0-001, Rev 4, "AP1000 General Design Equipment Specification for Class 1E 
+Pressure and Differential Pressure Transmitters" 
+APP-JE52-Z0R-001, Rev 3, "AP1000 Class 1E Pressure and Differential Pressure Transmitters 
+Data Sheet Report"
+ 
+APP-MG02-Z0-001, Rev 1, "AP1000 Rod Drive Power Supply System Design Specification" 
+APP-PLS-J4-007, Rev 4, "AP1000 Plant Control System and Data Display System – System 
+Design Specification"
+ 
+APP-PLS-J4-189, Rev 1, "AP1000 Miscellaneous System Control Application Functional 
+Specification for PLS" 
+APP-EA02-Z0-001, Rev 3, "Design Specification for Non-Class 1E AC Distribution Panels for 
+EDS" 
+APP-PLS-J0R-001, Rev 0, "AP1000 Nuclear Steam Supply System (NSSS) Pressurizer Water 
+Level Control System (PL) Requirements Traceability Matrix" 
+APP-PLS-J4-007, Rev 4, "AP1000 Plant Control System and Data Display System – System 
+Design Specification"
+ 
+APP-PV70-Z5-003, Rev 2, "Appendix 4: Quality Assurance Requirements for the Procurement 
+and Delivery of AP1000 Squib Valves (PV70) In Support of AP1000 Projects"
+ 
+APP-PV70-Z0-001, Rev 6, "Squib (Pyrotechnic Actuated) Valves, ASME Boiler and Pressure 
+Vessel Code, Section Ill Class 1"
+ 
+APP-PV70-Z0R-001, Rev 7, "PV70 Squib (Pyrotechnic Actuated) Valves, ASME Section III 
+Class 1, Data Sheet Report"
+ 
+APP-MP08-Z0-001, Rev 7, "RNS Centrifugal RHR Pumps" 
+APP-MP08-Z5-003, Rev 0, "Appendix 3 – Technical and Quality Requirements for AP1000, 
+MP08 RNS Centrifugal Normal RHR Pumps"
+ 
+APP-MV01-Z0-001, Rev 4, "AP1000 Reactor Pressure Vessel Functional Specification" 
+APP-PMS-J1-001, Rev 11, "AP1000 Protection and Safety Monitoring System Functional 
+Requirements" 
+APP-PMS-J0R-001, Rev 3, "AP1000 Protection and Safety Monitoring System Requirements 
+Traceability Matrix" 
+APP-PMS-J7X-001, Rev 3, "AP1000 Protection and Safety Monitoring System Equipment 
+Classification List" 
+APP-JE00-J8-001, Rev 10, "AP1000 Guidelines for Instrument Installation" 
+  
+Drawings: 
+APP-SGS-PLW-032, Rev 4, "Steam Generator System Auxiliary Building Room 12406 Main 
+Steam Line A" 
+APP-SGS-PLW-042, Rev 5, "Steam Generator System Auxiliary Building Room 12404 Main 
+Steam Line B" 
+APP-1215-CE-002, Rev 7, "Auxiliary Building Area 5 Pump RNS-MP-01A Anchor Bolts 
+Locations 112162 - Plan at El 66'-6"" 
+APP-1215-CE-003, Rev 6, "Auxiliary Building Area 5 Pump RNS-MP-01B Anchor Bolts 
+Locations 112163 - Plan at El 66'-6""
+ 
+APP-MZ12-V1-001, Rev 1, "RNS Pumps A & B Auxiliary Building Area 5 Structural Steel 
+Support Frame Plan and Elevation" 
+APP-MZ12-V1-002, Rev 1, "RNS Pumps A & B Auxiliary Building Area 5 Pump Supports Plan 
+and Details" 
+22 
+APP-RNS-PLW-09A, Rev 3, "Normal Residual Heat Rem. System Auxiliary Building Room 
+12162 RNS Pump Suction Lines (pump MP 01A)" 
+APP-RNS-PLW-09B, Rev 3, "Normal Residual Heat Rem. System Auxiliary Building Room 
+12163 RNS Pump Suction Lines (pump MP 01B)" 
+APP-RNS-PLW-141, Rev 3, "Normal Residual Heat Rem. System Auxiliary Building Room 
+12162/12262 MP-01A Discharge from Pump to ME-01A" 
+APP-RNS-PLW-161, Rev 3, "Normal Residual Heat Rem. System Auxiliary Building Room 
+12163/12262 MP-01B Discharge from Pump to ME-01B" 
+APP-CP65-S5-017, Rev 2, "Containment Building Areas 2& 3 Assembled CB 65 VCS Enclosure 
+Assembly Drawing I" 
+APP-CP65-S5-018, Rev 1, "Containment Building Areas 2& 3 Assembled CB 65 VCS Enclosure 
+Assembly Drawing II" 
+APP-FA01-V2-101, Rev 3, "AP1000 Fuel Assembly Interface Parameters 17×17×168 Active 
+Fuel"
+ 
+APP-FA01-V2-102, Rev 3, "AP1000 Fuel Assembly 17×17×168 Active Fuel Sections and 
+Details"
+ 
+  
+Section 1P01 
+Design Drawings 
+SV3-PXS-M6-001-R2, "Piping and Instrumentation Diagram Passive Core Cooling System," 
+Revision 2 
+SV3-PXS-M6-002-R4, "Piping and Instrumentation Diagram Passive Core Cooling System," 
+Revision 4
+ 
+SV3-PXS-M6-003-R4, "Piping and Instrumentation Diagram Passive Core Cooling System," 
+Revision 4
+ 
+SV3-RCS-M6-001-R5, "Piping and Instrumentation Diagram Reactor Coolant System," Revision 
+5 
+SV3-RCS-M6-002-R6, "Piping and Instrumentation Diagram Reactor Coolant System," Revision 
+6 
+SV3-RCS-M6-003-R4, "Piping and Instrumentation Diagram Reactor Coolant System," Revision 
+4 
+SV3-RCS-M6-004-R4, "Piping and Instrumentation Diagram Reactor Coolant System," Revision 
+4 
+  
+Design Specifications 
+SV3-GW-P0-007, “AP1000 Specification for Shop Fabricated Piping,” Revision 4 
+SV3-GW-P0-008, “AP1000 Specification for Field Fabricated Piping and Installation, ASME III, 
+Code Classes 1, 2, and 3 and ASME B31.1,” Revision 4
+ 
+SV3-GW-VLR-002, “Technical Requirements of Stainless Steels, Nickel-Base Alloys, Carbon 
+and Low Alloy Steels, and Welding Materials for the AP1000,” Revision 1 
+SV3-GW-VLR-010, “AP1000 Supplemental Fabrication and Inspection Requirement,” Revision 
+2 
+SV3-MB01-VW-021, “Engineering Requirements for Welding Procedure Qualifications for 
+ASME Code Section III-NB Pressure Boundary Overlay And Attachment Welds,” Revision 0
+ 
+SV3-PH02-Z0-001, “AP1000 ASME Section III Class 1, 2, and 3 and Seismic Category II Pipe 
+Supports/Tubing Supports/Instrument Rack Supports,” Revision 2 
+SV3-PH02-Z0-002, “AP1000 ASME Section III Class 1, 2, and 3 Pipe Supports/Tubing 
+Supports,” Revision 3 
+SV3-PL02-Z0-001, “Piping Class Sheets and Standard Details,” Revision 5 
+SV3-PL02-Z0-101, “AP1000 Class 1 Piping and Non-Class 1 Extensions Design Specification,” 
+Revision 3 
+23 
+SV3-PL02-Z0-102, “AP1000 Class 2, 3 Piping and B31.1 Extensions Design Specification,” 
+Revision 3 
+  
+Engineering & Design Coordination Reports 
+APP-ML05-GEF-154, "Addition of Identifying Weld Number," Revision 0 
+APP-ML05-GEF-155, "Penetration Testing Correction," Revision 0 
+APP-ML05-GEF-175, "11305-ML-P01/P02 Missing Weld," Revision 0 
+APP-ML05-GEF-194, "ML05 Weld Detail Clarification," Revision 0 
+APP-PXS-GEF-116, "E&DCR to Delete Pipe End Prep Note on Various PXS Drawings Related 
+to IRWST and Containment Recirculation Screens," Revision 0 
+APP-PXS-GEF-306, "E&DCR to Update Pipe End Prep Note on Various PXS Drawings Related 
+to IRWST and Containment Recirculation Screens," Revision 0 
+APP-PXS-GEF-398, "Remove Conflicting Hydro Test Requirements from Design Drawings," 
+Revision 0 
+SV0-VW40-GEF-000001, “H2 Extended Interval Testing,” Revision 0 
+  
+Welding Filler Material Procurement Specifications 
+TR-5.1-7018-SMAW, “E7018 Carbon Steel Covered Welding Electrodes,” Revision 2 
+TR-5.5-8018-B2-SMAW, “Low-Alloy Steel Electrodes,” Revision 1 
+TR-5.9-3XXL-GTAW, “Stainless Steel Bare Wire / Rods,” Revision 3 
+TR-5.9-308L / 316L, “ER308L / ER316L Stainless Steel Bare Wire / Rods,” Revision 0 
+TR-5.14-NiCrFe-GTAW, “ERNiCrFE-7A / ERNiCrFE-7 Bare Nickel and Nickel-Alloy Welding 
+Rods,” Revision 0
+ 
+TR-5.18-70S-X-GTAW, “E70S-X, Carbon Steel Bare Wire,” Revision 1 
+TR-5.28-80S-B2-GTAW, “Low Alloy Steel Bare Wire / Rod,” Revision 1 
+ 
+Section 1P02 
+Welding Filler Material Procurement Specifications 
+TR-5.1-7018-SMAW, “E7018 Carbon Steel Covered Welding Electrodes,” Revision 2; 
+TR-5.5-8018-B2-SMAW, “Low-Alloy Steel Electrodes,” Revision 1; 
+TR-5.9-3XXL-GTAW, “Stainless Steel Bare Wire / Rods,” Revision 3; 
+TR-5.9-308L / 316L, “ER308L / ER316L Stainless Steel Bare Wire / Rods,” Revision 0; 
+TR-5.14-NiCrFe-GTAW, “ERNiCrFE-7A / ERNiCrFE-7 Bare Nickel and Nickel-Alloy Welding 
+Rods,” Revision 0; 
+TR-5.18-70S-X-GTAW, “E70S-X, Carbon Steel Bare Wire,” Revision 1; 
+TR-5.28-80S-B2-GTAW, “Low Alloy Steel Bare Wire / Rod,” Revision 1 
+  
+Design Specifications 
+SV3-GW-P0-007, “AP1000 Specification for Shop Fabricated Piping,” Revision 4; 
+SV3-GW-P0-008, “AP1000 Specification for Field Fabricated Piping and Installation, ASME III, 
+Code Classes 1, 2, and 3 and ASME B31.1,” Revision 4;
+ 
+SV3-GW-VLR-002, “Technical Requirements of Stainless Steels, Nickel-Base Alloys, Carbon 
+and Low Alloy Steels, and Welding Materials for the AP1000,” Revision 1; 
+SV3-GW-VLR-010, “AP1000 Supplemental Fabrication and Inspection Requirement,” Revision 
+2; 
+SV3-MB01-VW-021, “Engineering Requirements for Welding Procedure Qualifications for 
+ASME Code Section III-NB Pressure Boundary Overlay And Attachment Welds,” Revision 0
+ 
+SV3-PH02-Z0-001, “AP1000 ASME Section III Class 1, 2, and 3 and Seismic Category II Pipe 
+Supports/Tubing Supports/Instrument Rack Supports,” Revision 2 
+24 
+SV3-PH02-Z0-002, “AP1000 ASME Section III Class 1, 2, and 3 Pipe Supports/Tubing 
+Supports,” Revision 3 
+SV3-PL02-Z0-001, “Piping Class Sheets and Standard Details,” Revision 5 
+SV3-PL02-Z0-101, “AP1000 Class 1 Piping and Non-Class 1 Extensions Design Specification,” 
+Revision 3
+ 
+SV3-PL02-Z0-102, “AP1000 Class 2, 3 Piping and B31.1 Extensions Design Specification,” 
+Revision 3
+ 
+  
+Material Test Reports 
+Certificate of Conformance and Certified Material Test Report from The Lincoln Electric 
+Company, Customer PO # 132175-FPR12-01836-8, Lot 1256C;
+ 
+Certificate of Conformance and Certified Material Test Report from The Lincoln Electric 
+Company, Customer PO # 132175-FPR12-01836-9, Lot 1117K;
+ 
+Certificate of Conformance and Certified Material Test Report from The Lincoln Electric 
+Company, Customer PO # 695750-000 3P, Lot 1030J; 
+Certificate of Conformance and Certified Material Test Report from The Lincoln Electric 
+Company, Customer PO # 695750-000 3P, Lot 1030K 
+  
+Corrective Action Reports 
+SNC Condition Report 10265514 
+WEC CAPAL 100407561 
+ 
+Section 1P03 
+Nonconformance & Disposition Report SV4-CA20-GNR-000118, “Final Location of Unit 4 CA20 
+Exceeds Design Tolerances,” Revision 0 
+Procedure ND-CA-VNP-013, “Nuclear Development Compliance Monitoring Program (CMP) 
+Surveillance Program,” Version 11.0 
+Procedure QAD 18.12, “Quality Assurance Surveillances,” Revision 03.01  
+Surveillance Report CMP-NI-2016-7-12030, “Review of contractor’s rigging plan for Unit 4 CA20 
+Lift/Set activities,” 08/24/2016 
+Surveillance Report S-132175-2016-082, “Jack and Weigh, Transport, Lift and Setting of CA20 
+Module NI4,” 08/22/2016
+ 
+Work Package SV4-CA20-CAW-850000, “CA20 Module Installation,” Revision 0 
+  
+Section 1P04 
+CWP-1, "Construction Welding Program," Revision 4 
+FMC-1, "Filler Material Control," Revision 7 
+GPS-1, "General Purging Standard," Revision 02.01 
+GWS-1, "ASME General Welding Specification," Revision 5 
+PQ-1, "Welding Procedure Qualification," Revision 8 
+PWHT-1, "Postweld Heat Treatment," Revision 04.01 
+QS 08.12, "Material Identification and Control," Revision 01.04 
+WQ-1, "Qualification of Welders and Welding Operations," Revision 5 
+WQT, "Welder Qualification Test Index," Revision 76 
+  
+WECTEC Welding Procedure Specifications [supporting PQR(s) are linked with indicated Rev.-
+No.]: 
+WPS1 Index, Revision 66 
+WPS1-1.1GTSM-NF-2, Revision 2 
+WPS1-1.3GT(M)SM-NF-1, Revision 0 
+25 
+WPS1-1.4C20, Revision 2 
+WPS1-1.8GT-NF-1, Revision 2 
+WPS1-1.10HT01, Revision 2 
+WPS1-3.3F-NF-01, Revision 1 
+WPS1-3.3GT(M)SM-NF-3, Revision 1 
+WPS1-4.4C30, Revision 4 
+WPS1-4.8GT(M)-NC-1, Revision 1 
+WPS1-8.8M01, Revision 1 
+WPS1-8.8T01, Revision 9 
+WPS1-8.10HGT-NC-2, Revision 1 
+WPS1-8.10HGT-ND-1, Revision 1 
+WPS1-8.10HGT-NF-6, Revision 1 
+WPS1-8.10HT01, Revision 3 
+WPS1-10H.10T01, Revision 2 
+  
+MISTRAS NDE Documents: 
+100-QC-005.2, "Qualification and Certification of Nondestructive Test Personnel," Revision 4 
+100-PT-301, "Liquid Penetrant Examination in Accordance with ASME Section V, Article 6," 
+Revision 9 
+100-MT-301, "Magnetic Particle Examination in Accordance with ASME Section V, Article 7," 
+Revision 2
+ 
+100-RT-301, "Radiographic Examination in Accordance with ASME Section V, Article 2," 
+Revision 1
+ 
+100-RT-302, "Radiographic Examination Using Computed Radiography in Accordance with 
+ASME Section V, Article 2," Revision 4
+ 
+ 
+Section 1P05 
+WECTEC Procedures 
+QS 14.02, "Inspection Report System," Revision 06.01 
+F-S562-005, "Pipe Welding / Braze; ASME Section III Visual Pipe Weld Inspection," Revision 3 
+QAD 09.12, “Visual Examination ASME III NF/NG (Nondestructive),” Revision 05.03 
+  
+NDE Records 
+100-RT-302, "Radiographic Examination Using Computed Radiography in Accordance with 
+ASME Section V, Article 2," Revision 4 
+V-16-RT-302-0130 (Final RT Report for SV3-PXS-PLW-029-1), Dated 07/11/2016 
+V-16-RT-302-0145 (Final RT Report for SV3-PXS-PLW-029-2-RW1), Dated 07/11/2016 
+RT Level II Certification # 15580, Dated 04/28/2015 
+RT Level II Certification # 16168, Dated 07/17/2015 
+RT Level III Certification # 10674, Dated 06/14/2013 
+RT Level III Certification # 17420, Dated 01/05/2016 
+RT Level III Certification # 18526, Dated 06/20/2016 
+ 
+Section 1P06 
+  
+Calculations 
+APP-1010-CCC-004, “Basemat Design, Below Shield Building,” Revision 5 
+APP-1100-S2C-034, “Finite Element Solid Shell Model of Containment Internal Structures,” 
+Revision 3 
+26 
+APP-1100-S3C-777, “Containment Internal Structures Design Calculation – CA01, CA02, and 
+CA05 Walls and Connections,” Revision 1 
+APP-1100-SUC-003, “General Design of Shear Studs for Structural Modules for Inside 
+Containment and CA20,” Revision 5 
+  
+Engineering and Design Coordination Reports 
+APP-1100-GEF-250, “Additional Check in General Shear Connector Design,” Revision 0 
+APP-1208-GEF-240, “Shield Building, SC Panels, Fillet Weld Size Change to C3J Weldable 
+Coupler,” Revision 1 
+APP-1208-GEF-251, “Shield Building, SC Panels, Coupler Fillet Weld Size Change EL.100’-0” 
+to EL. 113’-6,” Revision 1
+ 
+SV0-AX01-GEF-000001, Sherwin Williams Paint, Rev. 0 
+APP-CR01-GEF-065, “Annulus Tunnel Wall Horizontal Reinforcement Bars,” Revision 0 
+SV0-0000-GEF-000224, “VEGP Concrete General Notes Update,” Revision 1 
+SV0-0000-GEF-000227, “VEGP Concrete General Notes Update,” Revision 0 
+SV0-CC01-GEF-000309, “Curing Period for Mass Concrete,” Revision 0 
+  
+ Miscellaneous  
+APP-GW-C1-003, “Selection Manual of Standard Attachments,” Rev. 5 
+Management Assessment Plan and Report MA-CONST-2015-0003 
+10CFR21/10CFR50.55(e) Evaluation, Evaluation Identification Number 16-0067 & associated 
+N&D APP-CA01-GNR-851075, "TANE-Toshiba_NNRK 1622221-A_Stud missing at break in 
+vert angle_(CA01_08_SV4)
+ 
+  
+Nonconformance & Disposition Reports 
+SV3-CA01-GNR-000851, "CV7792-3 BMR1 Incorrect Test Method, Magnetic Particle Test of 
+Duplex," Revision 0;
+ 
+SV3-1130-GNR-000002, “Vertical T-Heads interfering with Penetration,” Revision 0 
+SV3-CA01-GNR-000798, “OLP-03-067 SM-13 Stud obstruction,” Revision 0 
+SV3-CA01-GNR-000804, “CA01 B-plate & OLP Interferences,” Revision 0 
+SV3-CA01-GNR-000805, “RV Compartment B-plate Interferences,” Revision 0 
+SV3-CA01-GNR-000833, "CA01-42: WDS CV7281-4-BMR 1 Incorrect Preheat," Revision 0 
+SV3-CC01-GNR-000264, “Unit 3 NI Wall Placement 13 Concrete Repairs,” Revision 0 
+SV3-CC01-GNR-000267, “Unit 3 NI Wall Placement 7 "Column Line 11" Concrete Repairs,” 
+Revision 0 
+SV3-CC01-GNR-000268, “Unit 3 NI Wall Placement 9 "East Face" & 10 "West Face" Concrete 
+Repairs,” Revision 0 
+SV3-CC01-GNR-000273, “Formwork Leakage Placement 8BZ,” Revision 0 
+SV3-CC01-GNR-000276, “Unit-3 Aux Bldg: Wall Thickness less than design on 11-line,” 
+Revision 0 
+SV3-CC01-GNR-000314, “Void underneath CA01_40 sump,” Revision 0 
+SV3-CE01-GNR-000181, “12207-CE-PW919 Out of Tol.,” Revision 0 
+SV3-CE01-GNR-000183, “CA02 Landing Plate Out of Tolerance,” Revision 0 
+SV3-CR01-GNR-000511, “U3 AUX BLDG Interference,” Revision 0 
+SV3-CR01-GNR-000512, “AUX BLDG 4-LINE Splice Length,” Revision 0 
+SV3-CR01-GNR-000517, “Annulus Tunnel Ceiling Elev. 100’-0”,” Revision 0 
+SV3-CR01-GNR-000518, “Annulus Ceiling Missing #11,” Revision 0 
+SV3-CR01-GNR-000520, “ Type 3CJ Missing out of 87’-6” East Placement,” Revision 0 
+SV3-CR01-GNR-000522, “Embed Plate Clearances 7.2/7.3 Opening,” Revision 0 
+SV4-1110-GNR-000001, “Missed QC Inspections,” Revision 0 
+SV4-CA05-GNR-000015, “CA05 coupler concrete consolidation clearance,” Revision 0 
+27 
+SV4-CA05-GNR-000016, “OLP CA05.25 Additional Clear Spacing Violations,” Revision 0 
+SV4-CC01-GNR-000115, “U4 Aux. Bldg Interior Wall Placement #31 – Out of ACI Tolerances,” 
+Revision 0 
+SV4-CC01-GNR-000116, “U4 Aux. Bldg Interior Wall Placement #32 – Out of ACI Tolerances,” 
+Revision 0
+ 
+SV4-CC01-GNR-000118, “U4 Aux. Bldg Interior Wall Placement #30 – Out of ACI Tolerances,” 
+Revision 0
+ 
+SVS-CE01-GNR-000176, “DWA Embed Plates – EL 82’6”,” Revision 0 
+  
+Procedures 
+APP-GW-GAP-428, “Nonconformance and Disposition Report (N&D),” Revision 9 
+APP-GW-GAP-147, “AP1000 Current Licensing Basis Review,” Revision 3 
+APP-GW-GAP-106, “Corrective Action Interface,” Revision 8 
+APP-GW-GAP-420, “Engineering and Design Coordination Reports,” Revision 10 
+CSI 3-35, “Concrete Placement,” Revision 0 
+NCSP03-31, “Concrete Placement,” Revision 04.01 
+QAD 16.02, “Significance Evaluation Screening,” Revision 01.00 
+QAD 15.01, “Nonconformance & Disposition Tagging,” Revision 03.00 
+QS 15.01, “Nonconformance & Disposition Report,” Revision 06.02 
+QS 15.01, “Nonconformance & Disposition Report,” Revision 07.00 
+QS 16.05, “Corrective Action Program,” Revision 09.00 
+QS 16.03, “Identifying and Reporting Defects and Failures to Comply under 10CFR21 and 
+10CFR50.55(e),” Revision 05.00 
+W2-5.1-102, “Issue Review Committee,” Revision 1.0 
+  
+Quality Assurance Inspection Reports  
+C112-15-10183, Pre-placement: Concrete, 7/24/15 
+C112-15-10168, Pre-placement: Concrete, 7/28/15 
+C113-15-10013, Placing Safety Related Concrete, 8/17/15 
+C113-15-10020, Placing Safety Related Concrete, 9/3/15 
+C114-15-10079, “Post Placement: Concrete,” 11/30/15 
+C114-15-10082, “Post Placement: Concrete,” 11/30/15 
+C114-15-10083, “Post Placement: Concrete,” 11/30/15 
+  
+SNC Condition Reports 
+10096219 
+10112015 
+10133540 
+10149630 
+10165743 
+10171978 
+10187794 
+10190173 
+10236402 
+10184054 
+10221404 
+  
+WEC Corrective Action, Prevention and Learnings 
+100312306 
+100326560 
+100382034 
+28 
+100398482 
+100397655 
+100396972 
+100398091 
+100398240 
+  
+WECTEC Corrective Action Reports 
+2015-2076 
+2015-2587 
+2015-4063 
+2015-4478 
+2016-0029 
+2016-0102 
+2016-1158 
+2016-1161 
+2016-1351 
+  
+Section 1P07 
+CAR 2014-1961 
+Selected Supplier Quality Scorecard Metrics, dated August 02, 2016 
+Supplier Quality Committee Meeting Minutes, dated August 11, 2016 
+Nuclear Engineering Training Matrix, Rev. 7 
+NUC-SQC-001, "Supplier Quality Committee Charter," dated July 22, 2016 
+APP-GW-GAP-420, "Engineering and Design Coordination Reports," Rev. 10 
+PROC-I-002, "Supplier Source Inspection Coordination," Rev. 5 
+PROC-I-003, "Inspections At Suppliers’ Facilities," Rev. 6 
+PROC-I-004, "Qualification And Certification Of Inspection And Test Personnel", Rev. 4 
+PROC-P-024, "Use And Conduct Of Pre-Award Meetings," Rev. 2 
+PROC-P-031, "Use And Conduct Of Supplier Kickoff Meetings," Rev. 2 
+QAD 07.04, "Supplier Quality Performance Management," Rev. 00.00 
+QAD 18.01, "Quality Assurance Audits," Rev. 09.01 
+QAD 18.12, "Quality Assurance Surveillances," Rev. 03.01 
+QAD 18.13, "Quality Assurance Supplier Surveillances," Rev. 03.01 
+QS 03.01, "Standard QA Program Requirements in Procurement Documents," Rev. 06.03 
+QS 04.03, "Office Procurement and the Selection of Suppliers," Rev. 06.00 
+QS 09.04, "Visual Examination - Structural Welding AP1000 Modules - Safety Related," Rev. 
+03.01 
+QS 16.05, "Corrective Action Program," Rev. 09.00 
+QS 16.05, "Corrective Action Program," Rev. 07.00 
+QS 16.05, "Corrective Action Program," Rev. 06.00 
+QS 18.01, "Quality Audit Program," Rev. 04.00 
+W2-5.1-101, "Westinghouse Corrective Action Program," Rev. 1.0 
+W2-5.1-102, "Issue Review Committee," Rev. 1.0 
+W2-5.1-201, "Identification and Reporting of Conditions Adverse to Nuclear Safety," Rev. 0.0 
+  
+29 
+LIST OF ACRONYMS 
+ 
+AISC   American Institute of Steel Construction 
+ASME   American Society of Mechanical Engineers 
+ASTM   American Society of Testing Materials 
+AWS   American Welding Society  
+CAR  Corrective Action Report 
+CFR  Code of Federal Regulations 
+CMTR  Certified Material Test Reports  
+COL  Combined License 
+DAPP  Domestic AP1000 Project Procedure 
+DCO  Division of Construction Oversight 
+D-RAP  Design Reliability Assurance Program 
+DVI   Direct Vessel Injection 
+E&DCRs  Engineering and Design Coordination Reports 
+FCAW   Flux Core Arc Welding 
+GMAW  Gas Metal Arc Welding 
+GTAW  Gas Tungsten Arc Welding 
+IMC  Inspection Manual Chapter 
+IP  Inspection Procedure 
+IR  Inspection Report 
+IRWST  In-containment Refueling Water Storage Tank 
+ITAAC   Inspections, Tests, Analysis, and Inspection Criteria 
+M&TE   Measuring and Test Equipment 
+MIR  Material Issue Record 
+MT  Magnetic particle Testing 
+N&D  Nonconformance and Disposition report 
+NDE  Nondestructive Examination 
+NRC  Nuclear Regulatory Commission 
+NRO  Office of New Reactors 
+PARS  Publicly Available Records 
+PQR  Procedure Qualification Record  
+PT  Liquid Penetrant Testing 
+PWHT  Postweld Heat Treatment  
+PXS  Passive Core Cooling System 
+QA  Quality Assurance 
+QAD  Quality Assurance Directive 
+QC   Quality Control 
+QS  Quality Standard 
+RT  Radiographic Testing  
+SMAW  Shielded Metal Arc Welding 
+SNC  Southern Nuclear Company 
+SSC  System, Structure, or Component 
+UFSAR Updated Final Safety Analysis Report 
+30 
+UT  Ultrasonic Testing 
+VEGP  Vogtle Electric Generating Plant 
+VT  Visual Testing 
+WEC  Westinghouse Electric Company 
+WMR  Welding Material Requisitions 
+WPS  Welding Procedure Specification 
+ 
+  
+31 
+ITAAC INSPECTED 
+ 
+No. ITAAC No. Design Commitment Inspections, Tests, 
+Analysis 
+Acceptance Criteria 
+91 2.2.01.02a 2.a)  The components 
+identified in Table 
+2.2.1-1 as ASME 
+Code Section III are 
+designed and 
+constructed in 
+accordance with 
+ASME Code Section 
+III requirements. 
+Inspection will be 
+conducted of the 
+as-built 
+components as 
+documented in the 
+ASME design 
+reports. 
+The ASME Code Section 
+III design reports exist for 
+the as-built components 
+identified in Table 2.2.1-1 
+as ASME Code Section 
+III. 
+93 2.2.01.03a 3.a)  Pressure 
+boundary welds in 
+components identified 
+in Table 2.2.1-1 as 
+ASME Code Section 
+III meet ASME Code 
+Section III 
+requirements. 
+Inspection of the 
+as-built pressure 
+boundary welds 
+will be performed 
+in accordance with 
+the ASME Code 
+Section III. 
+A report exists and 
+concludes that the ASME 
+Code Section III 
+requirements are met for 
+nondestructive 
+examination of pressure 
+boundary welds. 
+96 2.2.01.04a.ii 4.a)  The components 
+identified in Table 
+2.2.1-1 as ASME 
+Code Section III 
+retain their pressure 
+boundary integrity at 
+their design pressure. 
+ii)  Impact testing 
+will be performed 
+on the 
+containment and 
+pressure-retaining 
+penetration 
+materials in 
+accordance with 
+the ASME Code 
+Section III, 
+Subsection NE, to 
+confirm the 
+fracture toughness 
+of the materials. 
+ii)  A report exists and 
+concludes that the 
+containment and 
+pressure-retaining 
+penetration materials 
+conform with fracture 
+toughness requirements 
+of the ASME Code 
+Section III. 
+140 2.2.02.07b.iii 7.b)  The PCS wets 
+the outside surface of 
+the containment 
+vessel.  The inside 
+and the outside of the 
+containment vessel 
+above the operating 
+deck are coated with 
+an inorganic zinc 
+material. 
+iii)  Inspection of 
+the containment 
+vessel interior 
+coating will be 
+conducted. 
+iii)  A report exists and 
+concludes that the 
+containment vessel 
+interior surface is coated 
+with an inorganic zinc 
+coating above 7' above 
+the operating deck. 
+32 
+No. ITAAC No. Design Commitment Inspections, Tests, 
+Analysis 
+Acceptance Criteria 
+160 2.2.03.02b 2.b)  The piping 
+identified in Table 
+2.2.3-2 as ASME 
+Code Section III is 
+designed and 
+constructed in 
+accordance with 
+ASME Code Section 
+III requirements. 
+Inspection will be 
+conducted of the 
+as-built piping as 
+documented in the 
+ASME design 
+reports. 
+The ASME Code Section 
+III design reports exist for 
+the asbuilt piping 
+identified in Table 2.2.3-2 
+as ASME Code Section 
+III. 
+161 2.2.03.03a 3.a)  Pressure 
+boundary welds in 
+components identified 
+in Table 2.2.3-1 as 
+ASME Code Section 
+III meet ASME Code 
+Section III 
+requirements. 
+Inspection of the 
+as-built pressure 
+boundary welds 
+will be performed 
+in accordance with 
+the ASME Code 
+Section III. 
+A report exists and 
+concludes that the ASME 
+Code Section III 
+requirements are met for 
+non-destructive 
+examination of pressure 
+boundary welds. 
+162 2.2.03.03b 3.b)  Pressure 
+boundary welds in 
+piping identified in 
+Table 2.2.3-2 as 
+ASME Code Section 
+III meet ASME Code 
+Section III 
+requirements. 
+Inspection of the 
+as-built pressure 
+boundary welds 
+will be performed 
+in accordance with 
+the ASME Code 
+Section III. 
+A report exists and 
+concludes that the ASME 
+Code Section III 
+requirements are met for 
+non-destructive 
+examination of pressure 
+boundary welds. 
+760 3.3.00.02a.i.a 2.a)  The nuclear 
+island structures, 
+including the critical 
+sections listed in 
+Table 3.3-7, are 
+seismic Category I 
+and are designed and 
+constructed to 
+withstand design 
+basis loads as 
+specified in the 
+Design Description, 
+without loss of 
+structural integrity and 
+the safety-related 
+functions. 
+i)  An inspection of 
+the nuclear island 
+structures will be 
+performed.  
+Deviations from 
+the design due to 
+as-built conditions 
+will be analyzed 
+for the design 
+basis loads. 
+i.a)  A report exists which 
+reconciles deviations 
+during construction and 
+concludes that the as-
+built containment internal 
+structures, including the 
+critical sections, conform 
+to the approved design 
+and will withstand the 
+design basis loads 
+specified in the Design 
+Description without loss 
+of structural integrity or 
+the safety-related 
+functions. 
+33 
+No. ITAAC No. Design Commitment Inspections, Tests, 
+Analysis 
+Acceptance Criteria 
+761 3.3.00.02a.i.b 2.a)  The nuclear 
+island structures, 
+including the critical 
+sections listed in 
+Table 3.3-7, are 
+seismic Category I 
+and are designed and 
+constructed to 
+withstand design 
+basis loads as 
+specified in the 
+Design Description, 
+without loss of 
+structural integrity and 
+the safety-related 
+functions. 
+i)  An inspection of 
+the nuclear island 
+structures will be 
+performed.  
+Deviations from 
+the design due to 
+as-built conditions 
+will be analyzed 
+for the design 
+basis loads. 
+i.b)  A report exists which 
+reconciles deviations 
+during construction and 
+concludes that the as-
+built shield building 
+structures, including the 
+critical sections, conform 
+to the approved design 
+and will withstand the 
+design basis loads 
+specified in the Design 
+Description without loss 
+of structural integrity or 
+the safety-related 
+functions. 
+762 3.3.00.02a.i.c 2.a)  The nuclear 
+island structures, 
+including the critical 
+sections listed in 
+Table 3.3-7, are 
+seismic Category I 
+and are designed and 
+constructed to 
+withstand design 
+basis loads as 
+specified in the 
+Design Description, 
+without loss of 
+structural integrity and 
+the safety-related 
+functions. 
+i)  An inspection of 
+the nuclear island 
+structures will be 
+performed.  
+Deviations from 
+the design due to 
+as-built conditions 
+will be analyzed 
+for the design 
+basis loads. 
+i.c)  A report exists which 
+reconciles deviations 
+during construction and 
+concludes that the as-
+built structures in the non-
+radiologically controlled 
+area of the auxiliary 
+building, including the 
+critical sections, conform 
+to the approved design 
+and will withstand the 
+design basis loads 
+specified in the Design 
+Description without loss 
+of structural integrity or 
+the safety-related 
+functions. 
+34 
+No. ITAAC No. Design Commitment Inspections, Tests, 
+Analysis 
+Acceptance Criteria 
+763 3.3.00.02a.i.d 2.a)  The nuclear 
+island structures, 
+including the critical 
+sections listed in 
+Table 3.3-7, are 
+seismic Category I 
+and are designed and 
+constructed to 
+withstand design 
+basis loads as 
+specified in the 
+Design Description, 
+without loss of 
+structural integrity and 
+the safety-related 
+functions. 
+i)  An inspection of 
+the nuclear island 
+structures will be 
+performed.  
+Deviations from 
+the design due to 
+as-built conditions 
+will be analyzed 
+for the design 
+basis loads. 
+i.d)  A report exists which 
+reconciles deviations 
+during construction and 
+concludes that the as-
+built structures in the 
+radiologically controlled 
+area of the auxiliary 
+building, including the 
+critical sections, conform 
+to the approved design 
+and will withstand the 
+design basis loads 
+specified in the Design 
+Description without loss 
+of structural integrity or 
+the safety-related 
+functions. 
+841 3.7.00.01 1.  The D-RAP 
+ensures that the 
+design of SSCs within 
+the scope of the 
+reliability assurance 
+program (Table 3.7-1) 
+is consistent with the 
+risk insights and key 
+assumptions (e.g., 
+SSC design, 
+reliability, and 
+availability). 
+An analysis will 
+confirm that the 
+design of RAP 
+SSCs identified in 
+Table 3.7-1 has 
+been completed in 
+accordance with 
+applicable DRAP 
+activities. 
+An analysis report 
+documents that safety-
+related SSCs identified in 
+Table 3.7-1 have been 
+designed in accordance 
+with a 10 CFR 50 
+Appendix B quality 
+program. An analysis 
+report documents that 
+non-safety-related SSCs 
+identified in Table 3.7-1 
+have been designed in 
+accordance with a 
+program that satisfies 
+quality assurance 
+requirements for SSCs 
+important to investment 
+protection. 
+ 

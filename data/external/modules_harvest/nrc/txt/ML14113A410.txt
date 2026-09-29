@@ -1,0 +1,254 @@
+CB&I
+3191 West Lincoln Rd
+Lake Charles, LA 70605
+Tel: +1 337 562 3439
+Fax: +1 337 562 3490www.CBI.com
+L-CBILC-USNRC-000037
+April 17, 2014
+United States Nuclear Regulatory Commission
+Attn: Document Control Desk
+Quality Assurance Vendor Inspection Branch
+Division of Construction Inspection and Operational Programs
+Office of New Reactors
+Washington, DC 20555-001
+Subject: Reply to Notice of Nonconformance
+NRC Inspection Report No. 99901425/2014-201
+Reference: Letter from Kerri Kavanagh (NRC) to Kevin Walsh (CB&I LC), U.S. Nuclear Regulatory Commission
+Inspection Report No. 99901425/2014-201 and Notice of Nonconformance, dated March 21,
+2014.
+Dear Ms. Kavanagh:
+In response to the referenced NRC Notice of Nonconformance (NON), CB&I Lake Charles (CB&I LC) herewith
+provides the enclosed Reply (Enclosure). The Reply addresses: NONs A and B of the Notice as they relate to
+Section 15 (Nonconforming Materials, Parts, or Components) and Section 16 (Corrective Action) of the CB&I LC
+Quality Assurance Manual (QAM), respectively.
+Pursuant to the NRCs corresponding instructions specified in the Notice, the Enclosure addresses for each of the
+NONs A and B: 1) the reason for the noncompliance; 2) the corrective steps that have been taken and the results
+achieved, 3) the corrective steps that will be taken to avoid future noncompliance; and 4) the date when the
+corrective actions will be completed.
+CB&I LC understands the feedback received from the NRC during the inspection and in the published Inspection
+Report. We take that feedback seriously; we recognize that utmost attention to this feedback is the necessary
+and veracious response and have either completed or initiated actions to remedy the specific findings provided
+to avoid further noncompliance.
+A self-imposed Stop Work Order (SWO) was initiated on January 13, 2014, as a result of systemic problems with
+production activities, the corrective action program and quality assurance program procedures. Prior to and
+during the SWO multiple adverse conditions impacting hardware were identified. These programmatic issues
+affecting hardware were bound to welder qualification, the qualification and compliance of welding procedures,
+and documentation of fabrication activities. These types of deficiencies were addressed through the
+nonconformance and corrective action reporting processes. There are no additional programmatic issues that
+have been determined to impact hardware quality. There was and is a robust process for assessing hardware
+and documentation quality that has been effective in ensuring module quality at the time of shipment.
+Page 1 of 8
+
+CB&I3191 West Lincoln Rd
+Lake Charles, LA 70605
+Tel: +1 337 562 3439
+Fax: +1 337 562 3490
+www.CBI.com
+L-CBILC-USNRC-000037
+The conditions identified in the order have since been resolved and approved by the Management Review
+Board. The stop work order was lifted on April 8, 2014.
+In an effort to measure effectiveness of the actions taken to correct the deficiencies identified in the Stop Work
+Order, an independent team will perform an audit of the CB&I LC Corrective Action Program, procedure
+development and review process, procedure use and adherence practices, and welding program
+implementation. This audit is scheduled to be completed within 60 days of lifting the SWO.
+Should you have any questions regarding this submittal, please contact Ryan Whitford, Director, Quality, at (337)
+562-3686.
+Sincerely,
+*Ryan Whit ord
+Quality, Director
+CB&I LC
+Phil Badgwell, II
+General Manager
+CB&I LC
+Enclosure: Reply to Notice of Nonconformance 99901425/2014-201
+Page 2 of 8
+
+C4
+CB&I
+3191 West Lincoln Rd
+Lake Charles, LA 70605
+Tel: +1 337 562 3439
+Fax: +1 337 562 3490
+www.CBI.com
+L-CBILC-USNRC-000037
+ENCLOSURE
+REPLY TO NOTICE OF NONCONFORMANCE
+Page 3 of 8
+
+CB&I
+3191 West Lincoln Rd
+Lake Charles, LA 70605
+Tel: +1 337 562 3439
+Fax: +1 337 562 3490
+www.CBI.com
+L-CBILC-USNRC-000037
+STATEMENT OF NOTICE OF NONCONFORMANCE:
+Based on the results of a US Nuclear Regulatory Commission (NRC) inspection conducted at the CB&I Lake
+Charles (CB&I LC) facility in Lake Charles, LA on February 3, 2014 through February 7, 2014, it appears that
+certain activities were not conducted in accordance with NRC requirements which were contractually imposed
+upon CB&I LC by your customers or by NRC licensees:
+A. Criterion XV, "Nonconforming Materials, Parts, or Components," of Appendix B, "Quality Assurance
+Criteria for Nuclear Power Plants and Fuel Reprocessing Plants," to Title 10 of the Code of Federal
+Regulations (10 CFR) Part 50, "Domestic Licensing Production and Utilization Facilities, "states in
+part that, "Measures shall be established to control materials, parts, or components which do not
+conform to requirements in order to prevent their inadvertent use or installation. These measures
+shall include, as appropriate, procedures for identification, documentation, segregation, disposition,
+and notification to affected organizations."
+Section 15.0, "Control of Nonconforming Items," CB&I LC's Quality Assurance Manual (QAM),
+Revision 8, dated September 13, 2013, states, "Items that do not conform to specified requirements
+shall be identified and controlled to prevent inadvertent installation or use, and further processing
+beyond a point where the nonconforming condition can no longer be corrected."
+Section 6.12, "Implementing instructions for NCRs," of CB&I LC Administrative Procedure QP-CA-
+215, "Control of Nonconforming Items," Revision 0, dated October 31, 2012, step 6.12.2 states in
+part, "the initiator completes appropriate blocks in the software form or on a hard copy", and
+attachment 1 block 15 to QP-CA-215 is where the initiator describes the "Nonconforming
+Condition". Also in QP-CA-215 the Manager QC is designated as responsible to perform step
+6.12.4.a, which states, "Reviews the identified condition on the NCR and determines if
+nonconforming condition is valid."
+Contrary to above, as of February 7, 2014, CB&I LC failed to adequately implement measures to
+control material, parts, or components which do not conform to requirements in order to prevent
+their inadvertent use or installation. Specifically, CB&I failed to correctly identify unresolved
+nonconformances on a safety-related sub-module being prepared to ship: one stud that had an
+incomplete weld was incorrectly located in the documentation; one stud that was identified on the
+documentation as being added and having incomplete weld did not appear to exist on the module,
+and one stud was documented as having an incomplete weld but was actually missing.
+This issue has been identified as Nonconformance 99901425/2014-202-01.
+B. Criterion XVI, "Corrective Action," of Appendix B, "Quality Assurance Program Criteria for Nuclear
+Power Plants and Fuel Reprocessing Plants," to Title 10 of the Code of Federal Regulations (10 CFR)
+Part 50, states, in part, that "Measures shall be established to assure that conditions adverse to
+quality, such as deficiencies and nonconformances are promptly identified and corrected."
+Page 4 of 8
+
+CB&I
+3191 West Lincoln Rd
+Lake Charles, LA 70605
+Tel: +1 337 562 3439
+Fax: +1 337 562 3490www.CBI.com
+L-CBILC-USNRC-000037
+Criterion III, "Design Control," of Appendix B to 10 CFR states, in part, that "design changes,
+including field changes, shall be subject to design control measures commensurate with those
+applied to the original design".
+Section 16, "Corrective Action," of CB&I LC's Quality Assurance Manual (QAM), Revision 8, dated
+September 13, 2013, states, in part, that in classifying conditions adverse to quality, the review shall
+consider repetition of specific conditions adverse to quality, as well as the relationship or similarity
+between different conditions.
+Contrary to the above, as of February 7, 2014, CB&I LC did not ensure that conditions adverse to
+quality, such as deficiencies and nonconformances are promptly identified and corrected.
+Specifically, CB&I LC did not take timely and effective corrective action for a previously identified
+NRC finding 99901401-2011-202-03 from 2011 for red lining of drawings for safety-related AP1000
+sub-modules. CB&I LC had closed the corrective action on April 30, 2012, for the NRC finding.
+Through a focused sample, the NRC identified 20 corrective action reports in 2013 related to
+inadequate implementation of red lining (which includes annotating design changes) to drawings.
+This issue has been identified as Nonconformance 99901425/2014-201-02.
+Page 5 of 8
+
+CB&I
+3191 West Lincoln Rd
+Lake Charles, LA 70605
+Tel: +1 337 562 3439
+Fax: +1 337 562 3490
+www.CBI .com
+L-CBILC-USNRC-000037
+CB&I LC REPLY TO NONCONFORMANCES A AND B
+CB&I LC Reply to Nonconformance A
+1. The Reason for Nonconformance A
+Condition Report (CR) 2014-128 was initiated to document this issue.
+The failure to properly identify deficiencies on CA05-05 Summer was determined to be caused by
+human performance error. The individuals performing the Quality Control (QC) assessment of CA05-
+05 Summer did not use human performance improvement techniques such as self and peer
+checking.
+For nonconforming items identified and corrected at CB&I LC, procedure QP-EG-215 Revision 0,
+"Nonconformance Program", provides controls to prevent inadvertent misidentification and
+shipment of nonconforming items for installation. These controls include formal disposition,
+correction and re-examination.
+2. Corrective Steps That Have Been Taken and Results Achieved
+Training was conducted with inspection personnel involved in the QC assessment of CA05-05
+Summer reinforcing the need to use self-checking and peer-checking techniques when identifying
+discontinuities.
+Procedure QP-EG-306, "Processing Nonconformance Reports" has been revised to incorporate
+required peer checking of discontinuities identified in NCRs when those discontinuities are intended
+to be transferred to site for corrective work.
+3. Corrective Steps That Will Be Taken to Avoid Noncompliance
+A review of NCRs on the CAO5 modules has determined additional NCRs have been closed with
+N&Ds to transfer work to the site. Impacted NCRs are being evaluated and deficient documentation
+corrected as required.
+4. Date When Corrective Actions Will Be Completed
+The corrective action will be complete by May 30, 2014.
+Page 6 of 8
+
+CB&I
+3191 West Lincoln Rd
+Lake Charles, LA 70605
+Tel: +1 337 562 3439
+Fax: +1 337 562 3490
+www.CBI.com
+L-CBILC-USNRC-000037
+CB&I-LC Reply to Nonconformance B
+1. The Reason for Nonconformance B
+Prior to the NRC Inspection in February 2014, CR 2013-1607 and CR 2013-1608 were initiated to
+document untimely corrective actions and untimely correction of commitments made to the NRC.
+In addition, CR 2014-162 was initiated to document and evaluate issues with redlining processes at
+CB&I LC.
+The root cause analysis performed for CR 2013-1607 and CR 2013-1608 revealed less than adequate
+accountability for Corrective Action Program (CAP) functions and commitments to the regulator.
+The investigation revealed that management has placed insufficient emphasis on the CAP and
+regulator commitments by failing to hold responsible personnel accountable for the specific actions
+they control.
+The root cause analysis also determined that less than adequate corrective actions can be found
+throughout the history of the CAP. In addition, in some areas, corrective actions to prevent
+recurrence have been found ineffective.
+Condition Report 2014-162 investigation determined that the apparent cause of the condition
+associated with inadequate implementation of redlining is a lack of redline control due to the
+procedure that was in place (QP-PC-205a). The quality of redlines performed resulted in errors.
+Further evaluation showed that the procedural violations may have resulted from weak barriers or
+ambiguity within procedure QP-PC-205a (Managing Detailed Drawings). Weak barriers and
+ambiguous instructions may have allowed error traps for the Process Engineer and/or Detailer, and
+even reinforced training could not alleviate the human element of inadequate attention.
+Analysis also revealed that in certain instances CB&I Lake Charles lacked the process for thoroughly
+tracking and incorporating design changes to drawings and specifications. In turn, this provided an
+additional error trap for Process Engineers and Detailers when attempting to modify the affected
+drawings. The new Fabrication Change Notice procedure (QP-PE-303) will provide a new system of
+tracking and controlling the incorporation of design changes, including redline drawings which are
+being worked on the shop floor.
+2. Corrective Steps That Have Been Taken and Results Achieved
+Procedure QP-CA-305, "Condition Report Processing" Revision 0 now includes instruction for the
+Corrective Action Program Manager to notify senior management through the initiation of a CR
+when corrective actions are not addressed in a timely manner. This CR is evaluated by the
+Corrective Action Program Manager and Senior Management for potential issuance of a stop work.
+Page 7 of 8
+
+Ii
+CB&I
+3191 West Lincoln Rd
+Lake Charles, LA 70605
+Tel: +1 337 562 3439
+Fax: +1 337 562 3490
+www.CBI.com
+L-CBILC-USNRC-000037
+The CAP has also been improved by the following means:
+" Organizational realignment has occurred emphasizing line management ownership of the
+CAP.
+* CAP procedures have been revised to ensure conditions adverse to quality are addressed as
+the highest priority.
+* The composition of the CARB has been improved to include additional management
+personnel.
+* Classroom based training was provided to personnel to emphasize the importance of quality
+CR initiation.
+* Routine refresher training for CAP support personnel is being provided emphasizing critical
+program elements and lessons learned.
+* Senior and middle management attendance at the CAP oversight meeting is now
+mandatory.
+To address routine deficiencies in the redlining process; the Product Manager ensured that all
+relevant Engineering, Process Engineering, and Detailing personnel were adequately trained on the
+requirements of recently revised procedure QP-PC-205a Rev 1. This procedure requires approval
+and signatures from either the Product or Detailing managers for each redline. Prior to a redline
+being approved the FCN process must be initiated.
+Procedure O.P-PE-303, Fabrication Change Notice, was recently revised and now provides a system
+of tracking and controlling the incorporation of design changes, including redline drawings being
+worked on the shop floor in an electronic format which includes actual revision of drawings by the
+Detailing organization.
+3. Corrective Steps That Will Be Taken to Avoid Future Noncompliance
+No further corrective actions are necessary.
+4. Date When Corrective Actions Will Be Completed
+None
+Page 8 of 8
