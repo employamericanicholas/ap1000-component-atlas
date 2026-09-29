@@ -62655,9 +62655,18 @@
    "fabricator": "Sub-modules: Shaw/CB&I Lake Charles, LA (Unit 3); IHI + Toshiba, Japan (Unit 4); site assembly in the MAB",
    "origin": "Mixed (U3 Domestic / U4 sub-modules Foreign)",
    "sources": [
-    "DCD Rev 19 Tier 2 sec. 3.8.3.6.1 (ML11171A431 pp. 40-41)",
-    "GA PSC VCM 11 (https://psc.ga.gov/search/facts-document/?documentId=154916)",
-    "Toshiba MDEP 2023 (oecd-nea.org)"
+    [
+     "DCD Rev 19 Tier 2 sec. 3.8.3.6.1 (ML11171A431 pp. 40-41)",
+     "https://www.nrc.gov/docs/ML1117/ML11171A431.pdf"
+    ],
+    [
+     "GA PSC VCM 11 (Aug 2014)",
+     "https://psc.ga.gov/search/facts-document/?documentId=154916"
+    ],
+    [
+     "Toshiba, 5th MDEP Conf. (OECD-NEA, 2023)",
+     "https://www.oecd-nea.org/mdep/events/conf-2023/presentations/S3/4.Toshiba.pdf"
+    ]
    ]
   },
   {
@@ -62668,8 +62677,14 @@
    "fabricator": "Shaw/CB&I Lake Charles, LA",
    "origin": "Domestic",
    "sources": [
-    "GA PSC VCM 11 (https://psc.ga.gov/search/facts-document/?documentId=154916)",
-    "DCD Rev 19 Tier 2 sec. 3.8 (ML11171A431)"
+    [
+     "GA PSC VCM 11 (Aug 2014)",
+     "https://psc.ga.gov/search/facts-document/?documentId=154916"
+    ],
+    [
+     "DCD Rev 19 Tier 2 sec. 3.8 (ML11171A431)",
+     "https://www.nrc.gov/docs/ML1117/ML11171A431.pdf"
+    ]
    ]
   },
   {
@@ -62680,7 +62695,10 @@
    "fabricator": "Sub-modules: SMCI, Lakeland, FL (Unit 3 per VCM 11); Lake Charles scope",
    "origin": "Domestic",
    "sources": [
-    "GA PSC VCM 11 (https://psc.ga.gov/search/facts-document/?documentId=154916)"
+    [
+     "GA PSC VCM 11 (Aug 2014)",
+     "https://psc.ga.gov/search/facts-document/?documentId=154916"
+    ]
    ]
   },
   {
@@ -62691,8 +62709,14 @@
    "fabricator": "Fabricated on the Vogtle site (Unit 3 decision per VCM 9/10); SMCI RV-cavity formwork modules",
    "origin": "Domestic",
    "sources": [
-    "GA PSC VCM 9/10 (https://psc.ga.gov/search/facts-document/?documentId=152164)",
-    "NRC IR 99901439/2014-202 (https://www.nrc.gov/docs/ML1430/ML14308A027.pdf)"
+    [
+     "GA PSC VCM 9/10 (Feb 2014)",
+     "https://psc.ga.gov/search/facts-document/?documentId=152164"
+    ],
+    [
+     "NRC IR 99901439/2014-202 (ML14308A027)",
+     "https://www.nrc.gov/docs/ML1430/ML14308A027.pdf"
+    ]
    ]
   },
   {
@@ -62703,7 +62727,10 @@
    "fabricator": "Sub-modules: CB&I Lake Charles, LA; assembled in the MAB",
    "origin": "Domestic",
    "sources": [
-    "GA PSC VCM 11 (https://psc.ga.gov/search/facts-document/?documentId=154916)"
+    [
+     "GA PSC VCM 11 (Aug 2014)",
+     "https://psc.ga.gov/search/facts-document/?documentId=154916"
+    ]
    ]
   },
   {
@@ -62714,10 +62741,22 @@
    "fabricator": "Sub-modules: CB&I Lake Charles, LA and Oregon Iron Works/Vigor, Clackamas, OR (Unit 4 split); assembled in the MAB",
    "origin": "Domestic",
    "sources": [
-    "GA PSC VCM 11 (https://psc.ga.gov/search/facts-document/?documentId=154916)",
-    "GA PSC VCM 12 (https://psc.ga.gov/search/facts-document/?documentId=157249)",
-    "NRC IR 99901425/2014-202 (https://www.nrc.gov/docs/ML1435/ML14352A127.pdf)",
-    "DCD Rev 19 Tier 2 sec. 3.8.4 (ML11171A431 p. 53)"
+    [
+     "GA PSC VCM 11 (Aug 2014)",
+     "https://psc.ga.gov/search/facts-document/?documentId=154916"
+    ],
+    [
+     "GA PSC VCM 12 (Feb 2015)",
+     "https://psc.ga.gov/search/facts-document/?documentId=157249"
+    ],
+    [
+     "NRC IR 99901425/2014-202 (ML14352A127)",
+     "https://www.nrc.gov/docs/ML1435/ML14352A127.pdf"
+    ],
+    [
+     "DCD Rev 19 Tier 2 sec. 3.8 (ML11171A431)",
+     "https://www.nrc.gov/docs/ML1117/ML11171A431.pdf"
+    ]
    ]
   },
   {
@@ -62728,7 +62767,10 @@
    "fabricator": "Module program (Lake Charles/site)",
    "origin": "Domestic",
    "sources": [
-    "GA PSC VCM 11 (https://psc.ga.gov/search/facts-document/?documentId=154916)"
+    [
+     "GA PSC VCM 11 (Aug 2014)",
+     "https://psc.ga.gov/search/facts-document/?documentId=154916"
+    ]
    ]
   },
   {
@@ -62739,7 +62781,10 @@
    "fabricator": "Module program (Lake Charles/site)",
    "origin": "Domestic",
    "sources": [
-    "GA PSC VCM 11 (https://psc.ga.gov/search/facts-document/?documentId=154916)"
+    [
+     "GA PSC VCM 11 (Aug 2014)",
+     "https://psc.ga.gov/search/facts-document/?documentId=154916"
+    ]
    ]
   },
   {
@@ -62750,7 +62795,10 @@
    "fabricator": "Vigor Works LLC (formerly Oregon Iron Works), Clackamas, OR",
    "origin": "Domestic",
    "sources": [
-    "NRC IR 99901448/2017-201 (https://www.nrc.gov/docs/ML1722/ML17226A340.pdf)"
+    [
+     "NRC IR 99901448/2017-201 (ML17226A340)",
+     "https://www.nrc.gov/docs/ML1722/ML17226A340.pdf"
+    ]
    ]
   },
   {
@@ -62761,8 +62809,14 @@
    "fabricator": "Not publicly identified",
    "origin": "Unknown",
    "sources": [
-    "GA PSC VCM 9/10 (https://psc.ga.gov/search/facts-document/?documentId=152164)",
-    "GA PSC VCM 12 (https://psc.ga.gov/search/facts-document/?documentId=157249)"
+    [
+     "GA PSC VCM 9/10 (Feb 2014)",
+     "https://psc.ga.gov/search/facts-document/?documentId=152164"
+    ],
+    [
+     "GA PSC VCM 12 (Feb 2015)",
+     "https://psc.ga.gov/search/facts-document/?documentId=157249"
+    ]
    ]
   },
   {
@@ -62773,7 +62827,10 @@
    "fabricator": "Not publicly identified",
    "origin": "Unknown",
    "sources": [
-    "GA PSC VCM 9/10 (https://psc.ga.gov/search/facts-document/?documentId=152164)"
+    [
+     "GA PSC VCM 9/10 (Feb 2014)",
+     "https://psc.ga.gov/search/facts-document/?documentId=152164"
+    ]
    ]
   },
   {
@@ -62784,7 +62841,10 @@
    "fabricator": "Not publicly identified",
    "origin": "Unknown",
    "sources": [
-    "GA PSC VCM 9/10 (https://psc.ga.gov/search/facts-document/?documentId=152164)"
+    [
+     "GA PSC VCM 9/10 (Feb 2014)",
+     "https://psc.ga.gov/search/facts-document/?documentId=152164"
+    ]
    ]
   },
   {
@@ -62795,7 +62855,10 @@
    "fabricator": "Not publicly identified",
    "origin": "Unknown",
    "sources": [
-    "GA PSC VCM 9/10 (https://psc.ga.gov/search/facts-document/?documentId=152164)"
+    [
+     "GA PSC VCM 9/10 (Feb 2014)",
+     "https://psc.ga.gov/search/facts-document/?documentId=152164"
+    ]
    ]
   },
   {
@@ -62806,7 +62869,10 @@
    "fabricator": "Aecon Industrial, Cambridge, Ontario, Canada",
    "origin": "Foreign",
    "sources": [
-    "NRC IR 99901444/2016-201 (https://www.nrc.gov/docs/ML1622/ML16228A086.pdf)"
+    [
+     "NRC IR 99901444/2016-201 (ML16228A086)",
+     "https://www.nrc.gov/docs/ML1622/ML16228A086.pdf"
+    ]
    ]
   },
   {
@@ -62817,8 +62883,14 @@
    "fabricator": "CB&I Laurens, SC (formerly B.F. Shaw); Westinghouse CES, Rock Hill, SC",
    "origin": "Domestic",
    "sources": [
-    "NRC IR 99901432/2013-201 (https://www.nrc.gov/docs/ML1326/ML13263A411.pdf)",
-    "NRC IR 99901438/2014-201 (https://www.nrc.gov/docs/ML1415/ML14155A399.pdf)"
+    [
+     "NRC IR 99901432/2013-201 (ML13263A411)",
+     "https://www.nrc.gov/docs/ML1326/ML13263A411.pdf"
+    ],
+    [
+     "NRC IR 99901438/2014-201 (ML14155A399)",
+     "https://www.nrc.gov/docs/ML1415/ML14155A399.pdf"
+    ]
    ]
   },
   {
@@ -62829,7 +62901,10 @@
    "fabricator": "Greenberry Industrial, Vancouver, WA / Corvallis, OR",
    "origin": "Domestic",
    "sources": [
-    "NRC IR 99901480/2017-201 (https://www.nrc.gov/docs/ML1718/ML17181A238.pdf)"
+    [
+     "NRC IR 99901480/2017-201 (ML17181A238)",
+     "https://www.nrc.gov/docs/ML1718/ML17181A238.pdf"
+    ]
    ]
   },
   {
@@ -62840,9 +62915,12 @@
    "fabricator": "SMCI (MetalTek), Lakeland, FL",
    "origin": "Domestic",
    "sources": [
-    "NRC IR 99901439/2014-202 (https://www.nrc.gov/docs/ML1430/ML14308A027.pdf)"
+    [
+     "NRC IR 99901439/2014-202 (ML14308A027)",
+     "https://www.nrc.gov/docs/ML1430/ML14308A027.pdf"
+    ]
    ]
   }
  ],
- "module_note": "Module registry compiled from public sources (DCD Rev 19 sec. 3.8, GA PSC VCM reports, NRC vendor inspection reports). The AP1000 uses ~350 modules in total; the full module list and component-to-module routing are Westinghouse-proprietary (APP-series drawings) and are NOT public. Component module assignments here are limited to associations documented in public sources; blank does not mean field-installed."
+ "module_note": "Module registry compiled from public sources (DCD Rev 19 sec. 3.8, GA PSC VCM reports, NRC vendor inspection reports). The AP1000 uses roughly 106 structural + 52 mechanical modules (~270-350 in total depending on counting method); the full module list and component-to-module routing are Westinghouse-proprietary (APP-series drawings) and are NOT public. Component module assignments here are limited to associations documented in public sources; blank does not mean field-installed."
 }

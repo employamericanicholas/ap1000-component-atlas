@@ -79,27 +79,35 @@ set_widths(ws, [26, 120])
 
 # ---------------- Modules (top level) ----------------
 ws = wb.create_sheet("Modules")
-mh = ["Module ID", "Type", "Building", "Description", "Fabricator (Vogtle 3&4 era)",
-      "Origin", "Components mapped (see Components cols G-H)", "Sources"]
+MAX_SRC = max(len(m["sources"]) for m in d.get("modules", []))
+mh = (["Module ID", "Type", "Building", "Description", "Fabricator (Vogtle 3&4 era)",
+       "Origin", "Components mapped (see Components cols G-H)"]
+      + [f"Source {k+1}" for k in range(MAX_SRC)])
 ws.append([d.get("module_note", "")])
 ws.cell(row=1, column=1).font = Font(name=ARIAL, size=9, italic=True, color="666666")
 ws.append(mh)
 style_header(ws, len(mh), row=2)
+LINK_FONT = Font(name=ARIAL, size=10, color="0563C1", underline="single")
 mrow = 3
 CN_M = len(comps) + 1
 for m in d.get("modules", []):
     ws.append([m["id"], m["type"], m["building"], m["description"], m["fabricator"],
                m["origin"],
-               f'=COUNTIF(Components!$G$2:$G${CN_M},"*"&A{mrow}&"*")' if not m["id"].startswith("(") else 0,
-               "; ".join(m["sources"])])
+               f'=COUNTIF(Components!$G$2:$G${CN_M},"*"&A{mrow}&"*")' if not m["id"].startswith("(") else 0])
+    for k, src in enumerate(m["sources"]):
+        label, url = src
+        c = ws.cell(row=mrow, column=8 + k, value=label)
+        c.hyperlink = url
+        c.font = LINK_FONT
     for cell in ws[mrow]:
-        cell.font = BASE
+        if cell.font != LINK_FONT:
+            cell.font = BASE
         cell.border = THIN
         cell.alignment = Alignment(vertical="top", wrap_text=True)
     mrow += 1
 ws.freeze_panes = "A3"
-ws.auto_filter.ref = f"A2:H{mrow-1}"
-set_widths(ws, [12, 30, 18, 80, 46, 12, 14, 60])
+ws.auto_filter.ref = f"A2:{get_column_letter(len(mh))}{mrow-1}"
+set_widths(ws, [12, 30, 18, 80, 46, 12, 14] + [40] * MAX_SRC)
 
 # ---------------- Components ----------------
 ws = wb.create_sheet("Components")
