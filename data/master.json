@@ -62821,15 +62821,19 @@
   },
   {
    "id": "CB65",
-   "type": "Structural (containment sump)",
+   "type": "Structural (containment basement rooms)",
    "building": "Containment",
-   "description": "Containment sump module, set inside the containment vessel bottom head with CA04.",
-   "fabricator": "Module program (Lake Charles/site)",
-   "origin": "Domestic",
+   "description": "Reactor Coolant Drain Tank (RCDT) room module - 12 panels, assembled on site; set inside the containment vessel bottom head with CA04 (VCM 11 calls CB65/CB66 'sump modules'; the fabrication deck identifies CB65 as the RCDT room).",
+   "fabricator": "Assembled on site at Vogtle (onsite-assembly program; panel fabricator not publicly named)",
+   "origin": "Domestic (site assembly)",
    "sources": [
     [
      "GA PSC VCM 11 (Aug 2014)",
      "https://psc.ga.gov/search/facts-document/?documentId=154916"
+    ],
+    [
+     "Vogtle Supplier Compliance On/Offsite Fabrication deck (ML14322A365)",
+     "https://www.nrc.gov/docs/ML1432/ML14322A365.pdf"
     ],
     [
      "IR 05200025/2014004;05200026/2014004 (ML14311A666)",
@@ -62842,20 +62846,16 @@
     [
      "IR 05200025/2017004;05200026/2017004 (ML18045A476)",
      "https://www.nrc.gov/docs/ML1804/ML18045A476.pdf"
-    ],
-    [
-     "NRC ADAMS ML14322A365, Supplier Compliance Onsite and Offsite Fabrication slide ",
-     "https://www.nrc.gov/docs/ML1432/ML14322A365.pdf"
     ]
    ]
   },
   {
    "id": "CB66",
-   "type": "Structural (containment sump)",
+   "type": "Structural (containment basement rooms)",
    "building": "Containment",
-   "description": "Containment sump module, set inside the containment vessel bottom head with CA04.",
-   "fabricator": "Module program (Lake Charles/site)",
-   "origin": "Domestic",
+   "description": "Containment sump-area module, set inside the containment vessel bottom head with CA04 (companion to CB65; which pit it forms is not stated in public sources).",
+   "fabricator": "Not stated in public sources (likely onsite-assembly program like CB65)",
+   "origin": "Unknown",
    "sources": [
     [
      "GA PSC VCM 11 (Aug 2014)",
