@@ -86,6 +86,17 @@ main{padding-block:16px 40px}
 .i-list .tag{font:500 11.5px "IBM Plex Mono",monospace;color:var(--accent-ink)}
 .browse-btn{display:inline-block;margin-top:12px;background:var(--accent);color:#fff;border:none;padding:8px 14px;cursor:pointer;font-weight:600;font-size:12.5px}
 
+/* ---- module chip bar ---- */
+.mod-bar{display:flex;gap:6px;align-items:center;flex-wrap:nowrap;overflow-x:auto;
+  background:var(--surface);border:1px solid var(--line);border-bottom:none;padding:8px 10px}
+.mod-bar .lbl{font:600 10.5px/1 "IBM Plex Sans",sans-serif;text-transform:uppercase;
+  letter-spacing:.08em;color:var(--ink-3);flex:0 0 auto;margin-right:2px}
+.mod-chip{flex:0 0 auto;font:500 11.5px/1 "IBM Plex Mono",monospace;border:1px solid var(--line);
+  background:var(--surface-2);color:var(--ink);padding:5px 8px;cursor:pointer;border-radius:2px}
+.mod-chip:hover{border-color:var(--accent);color:var(--accent-ink)}
+.mod-chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+.mod-chip.nomesh{border-style:dashed;color:var(--ink-2)}
+
 /* ---- filter bar & table ---- */
 .filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px;align-items:center}
 .filters input[type=search],.filters select{background:var(--surface);border:1px solid var(--line);color:var(--ink);
@@ -169,12 +180,14 @@ td.tag{font:500 12px "IBM Plex Mono",monospace;white-space:nowrap}
   <div id="loading" class="loading">Loading component database…</div>
 
   <section class="panel" id="panel-model" hidden>
+    <div class="mod-bar" id="modbar"><span class="lbl">Modules</span></div>
     <div class="model-grid">
       <div class="viewport" id="viewport">
         <div class="v-controls">
           <label><input type="checkbox" id="ck-shield" checked> Shield &amp; aux buildings</label>
           <label><input type="checkbox" id="ck-cv" checked> Containment vessel</label>
           <label><input type="checkbox" id="ck-labels" checked> Labels</label>
+          <label><input type="checkbox" id="ck-mods" checked> Module shells</label>
           <label>Building opacity <input type="range" id="rg-op" min="8" max="100" value="34"></label>
           <label><input type="checkbox" id="ck-origin"> Color by supply origin</label>
           <div id="origin-legend" hidden style="display:flex;flex-direction:column;gap:3px;font-size:11px;padding-top:2px;border-top:1px solid var(--line-soft)">
@@ -470,6 +483,8 @@ function renderAbout(){
 
 /* ============ 3D MODEL ============ */
 let scene,camera,renderer,controls,raycaster,pickables=[],labels=[],hovered=null,selected=null;
+const MODULE_MESH={};   // module id -> mesh (for chip-bar focus)
+const modGroup=[];      // module shell meshes (visibility toggle)
 const BLDG_INFO={
   "Containment":{blurb:"Steel containment vessel, 39.6 m ID × 65.6 m — houses the entire reactor coolant system and passive core cooling equipment."},
   "Shield Building":{blurb:"Reinforced-concrete shield building around the containment vessel; its roof carries the 2,900 m³ passive containment cooling water tank."},
@@ -534,7 +549,7 @@ function build3d(){
   const shieldRoof=addMesh(new THREE.ConeGeometry(22,10,48),mat(CONC2,OP),[0,65,0],
     {label:"Shield Building roof",kind:"building",building:"Shield Building",systems:["PCS"]});
   const pcsTank=addMesh(new THREE.CylinderGeometry(9,9,7,32),mat(0x3d6f9e,0.92),[0,72,0],
-    {label:"PCS water tank",kind:"component",building:"Shield Building",systems:["PCS"],tag:"PCS-MT-01",
+    {label:"PCS water tank",kind:"component",building:"Shield Building",systems:["PCS"],tag:"PCS-MT-01",moduleId:"CB20",
      blurb:"Passive containment cooling water storage tank — ~2,900 m³ gravity-drained onto the containment shell for 72-hour passive heat removal. Steel L-modules fabricated by Vigor Works (Clackamas, Oregon)."});
   // shield building air inlets + tension ring (Newport News Industrial)
   addMesh(new THREE.TorusGeometry(21.2,1.1,10,48),mat(0x8a9298),[0,58.5,0],
@@ -633,7 +648,7 @@ function build3d(){
   addLabel("Passive core cooling (PXS)",[0,8,-13]);
   // IRWST — annular tank represented as a partial torus
   const irwst=addMesh(new THREE.TorusGeometry(14.5,3.1,14,40,Math.PI*1.25),mat(0x2f6fa8,0.85),[0,5.2,0],
-    {label:"IRWST",kind:"component",building:"Containment",systems:["PXS"],tag:"PXS-MT-03",
+    {label:"IRWST",kind:"component",building:"Containment",systems:["PXS"],tag:"PXS-MT-03",moduleId:"CA02",
      blurb:"In-containment refueling water storage tank — ~2,100 m³ annular tank; heat sink for passive RHR and gravity-injection source. Steel formwork wall modules by SMCI (Lakeland, FL); formed with the containment internal structures on site."});
   irwst.rotation.x=Math.PI/2;
   // PRHR heat exchanger inside the IRWST
@@ -646,17 +661,34 @@ function build3d(){
       {label:`Squib valve station ${i?"B":"A"}`,kind:"component",building:"Containment",systems:["PXS"],tag:`PXS-PL-V123${i?"B":"A"}`,
        blurb:"IRWST injection & containment recirculation squib valves — explosively actuated, zero-leakage (PXS-PL-V118/120/123/125; plus fourth-stage ADS RCS-PL-V004A-D). Manufactured by SPX Copes-Vulcan, McKean/Lake City, Pennsylvania; explosive initiators by UTC Aerospace, Fairfield, CA."});
   });
-  // CA01 module walls (SG & refueling compartments)
-  const ca01=addMesh(new THREE.BoxGeometry(24,13,1.0),mat(0xa39f8d,0.55),[0,8.5,3.2],
-    {label:"CA01 structural module",kind:"component",building:"Containment",systems:["CNS"],
-     supplierInfo:{name:"Shaw Modular Solutions / CB&I Lake Charles; Unit 4 sub-modules by IHI + Toshiba (Japan)",loc:"Lake Charles, Louisiana; Japan (Unit 4 resourcing)",origin:"Mixed",
-       source:"https://psc.ga.gov/search/facts-document/?documentId=154916"},
-     blurb:"CA01 — the largest structural module (SG and refueling-canal compartments): steel-plate sub-modules assembled into a ~730 t unit on site. Unit 3 sub-modules from Shaw/CB&I Lake Charles, LA; after the 2013 QA breakdown, Unit 4 CA01 sub-modules came from IHI and Toshiba in Japan."});
-  const ca01b=addMesh(new THREE.BoxGeometry(1.0,13,16),mat(0xa39f8d,0.55),[0,8.5,-3]  ,
-    {label:"CA01 structural module",kind:"component",building:"Containment",systems:["CNS"],
-     supplierInfo:{name:"Shaw Modular Solutions / CB&I Lake Charles; Unit 4 sub-modules by IHI + Toshiba (Japan)",loc:"Lake Charles, Louisiana; Japan (Unit 4 resourcing)",origin:"Mixed",
-       source:"https://psc.ga.gov/search/facts-document/?documentId=154916"},
-     blurb:"CA01 module cross-wall — remain-in-place steel formwork filled with concrete (steel-composite construction)."});
+  // ---- module shells (schematic; navigable from the module chip bar) ----
+  const MODMAT=()=>mat(0xc07a2f,0.30);
+  const ca01=addMesh(new THREE.BoxGeometry(24,13,1.0),MODMAT(),[0,8.5,3.2],
+    {label:"CA01 — SG/refueling compartments",kind:"module",moduleId:"CA01",building:"Containment"});
+  addMesh(new THREE.BoxGeometry(1.0,13,16),MODMAT(),[0,8.5,-3],
+    {label:"CA01 cross-wall",kind:"module",moduleId:"CA01",building:"Containment"});
+  const ca04=addMesh(new THREE.CylinderGeometry(3.4,3.4,7,24,1,true),MODMAT(),[0,3.5,0],
+    {label:"CA04 — reactor vessel cavity",kind:"module",moduleId:"CA04",building:"Containment"});
+  const ca05=addMesh(new THREE.BoxGeometry(1.0,12,15),MODMAT(),[-8,8,-6],
+    {label:"CA05 — wall & access tunnel",kind:"module",moduleId:"CA05",building:"Containment"});
+  ca05.rotation.y=Math.PI/5;
+  const cb65=addMesh(new THREE.BoxGeometry(2.6,1.2,2.6),MODMAT(),[-4,0.7,10],
+    {label:"CB65 — containment sump",kind:"module",moduleId:"CB65",building:"Containment"});
+  const cb66=addMesh(new THREE.BoxGeometry(2.6,1.2,2.6),MODMAT(),[4,0.7,10],
+    {label:"CB66 — containment sump",kind:"module",moduleId:"CB66",building:"Containment"});
+  const ca20=addMesh(new THREE.BoxGeometry(12,16,10),MODMAT(),[-8,8.5,28],
+    {label:"CA20 — spent fuel pool structure",kind:"module",moduleId:"CA20",building:"Auxiliary Building"});
+  const q223=addMesh(new THREE.BoxGeometry(2.2,1.6,1.6),MODMAT(),[-5,4.6,5],
+    {label:"Q223 — DVI mechanical module",kind:"module",moduleId:"Q223",building:"Containment"});
+  [["CH80",-48],["CH81A",-60],["CH81C",-74],["CH82",-86]].forEach(([mid,z])=>{
+    MODULE_MESH[mid]=addMesh(new THREE.BoxGeometry(22,1.4,4),MODMAT(),[2,9.5,z],
+      {label:mid+" — turbine deck steel",kind:"module",moduleId:mid,building:"Turbine Building"});
+    modGroup.push(MODULE_MESH[mid]);
+  });
+  Object.assign(MODULE_MESH,{CA01:ca01,CA02:irwst,CA03:irwst,CA04:ca04,CA05:ca05,
+    CB65:cb65,CB66:cb66,CA20:ca20,CB20:pcsTank,Q223:q223});
+  modGroup.push(ca01,ca04,ca05,cb65,cb66,ca20,q223);
+  scene.traverse(m=>{if(m.isMesh&&m.userData&&m.userData.kind==="module"&&!modGroup.includes(m))modGroup.push(m);});
   // polar crane ring
   const crane=addMesh(new THREE.TorusGeometry(17.5,0.5,10,48),mat(0xb0842f),[0,42,0],
     {label:"Polar crane",kind:"component",building:"Containment",systems:["MHS"],tag:"MHS-MH-01",
@@ -760,6 +792,7 @@ function build3d(){
   $("#ck-shield").addEventListener("change",e=>{opGroup.forEach(m=>m.visible=e.target.checked);});
   $("#ck-cv").addEventListener("change",e=>{cvGroup.forEach(m=>m.visible=e.target.checked);});
   $("#ck-labels").addEventListener("change",e=>{labels.forEach(l=>l.el.style.display=e.target.checked?"":"none");});
+  $("#ck-mods").addEventListener("change",e=>{modGroup.forEach(m=>m.visible=e.target.checked);});
   $("#rg-op").addEventListener("input",e=>{
     const v=+e.target.value/100;
     opGroup.forEach(m=>{m.material.opacity=v;m.material.transparent=v<0.999;});
@@ -842,7 +875,63 @@ function select(mesh){
   if(selected)selected.material.emissive?.setHex(0x000000);
   selected=mesh;
   mesh.material.emissive?.setHex(0x5a2018);
-  renderInspector(mesh.userData);
+  if(mesh.userData.kind==="module")renderModuleInspector(mesh.userData.moduleId);
+  else renderInspector(mesh.userData);
+}
+function focusOn(mesh){
+  const box=new THREE.Box3().setFromObject(mesh);
+  const c=box.getCenter(new THREE.Vector3());
+  const r=Math.max(box.getSize(new THREE.Vector3()).length()/2,6);
+  controls.target.copy(c);
+  const dir=camera.position.clone().sub(c).normalize();
+  if(!dir.length())dir.set(1,0.7,1).normalize();
+  camera.position.copy(c.clone().add(dir.multiplyScalar(Math.min(Math.max(r*3.4,25),160))));
+}
+function selectModule(id){
+  document.querySelectorAll(".mod-chip").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.mod===id)));
+  const mesh=MODULE_MESH[id];
+  if(mesh){
+    if(!$("#ck-mods").checked){$("#ck-mods").checked=true;modGroup.forEach(m=>m.visible=true);}
+    if(selected)selected.material.emissive?.setHex(0x000000);
+    selected=mesh;mesh.material.emissive?.setHex(0x5a2018);
+    focusOn(mesh);
+  }
+  renderModuleInspector(id);
+}
+function renderModuleInspector(id){
+  const el=$("#inspector");
+  const m=(DB.modules||[]).find(x=>x.id===id)||(DB.modules||[]).find(x=>x.id.includes(id));
+  if(!m){el.innerHTML=`<div class="kind">Module</div><h2>${esc(id)}</h2><p>No registry entry.</p>`;return;}
+  const oColor={Domestic:"var(--cA)",Foreign:"var(--cB)",Mixed:"var(--cO)"}[ (m.origin||"").split(" ")[0] ]||"var(--ink-3)";
+  const srcs=(m.sources||[]).map(s=>`<a href="${esc(s[1])}" target="_blank" rel="noopener">${esc(s[0])}</a>`).join("<br>");
+  const mapped=DB.components.filter(c=>c.module&&c.module.includes(id));
+  const list=mapped.length?`<div class="kind" style="margin-top:12px">Mapped components (${mapped.length})</div>
+    <ul class="i-list">${mapped.slice(0,10).map(c=>`<li><span class="tag">${esc(c.tag)}</span> ${esc(c.description)}</li>`).join("")}</ul>`:"";
+  el.innerHTML=`<div class="kind">Construction module — ${esc(m.type)}</div>
+    <h2>${esc(m.id)}</h2>
+    <div class="chips"><span class="chip">${esc(m.building)}</span></div>
+    <p>${esc(m.description)}</p>
+    <div class="kind" style="margin-top:10px">Fabricator (Vogtle 3&amp;4 era)</div>
+    <div style="font-size:12.5px;margin:3px 0">${esc(m.fabricator)}</div>
+    <div><span class="badge" style="background:${oColor};color:#fff">${esc(m.origin)}</span></div>
+    <div class="kind" style="margin-top:10px">Sources</div>
+    <div style="font-size:12px;line-height:1.7">${srcs}</div>
+    ${MODULE_MESH[id]?"":'<p style="font-size:11.5px;color:var(--ink-3);margin-top:8px">Not represented in the 3D scene (no public geometry).</p>'}
+    ${list}`;
+}
+function renderModuleBar(){
+  const bar=$("#modbar");
+  (DB.modules||[]).forEach(m=>{
+    const ids=m.id==="CA02/CA03"?["CA02","CA03"]:[m.id];
+    ids.forEach(id=>{
+      const b=document.createElement("button");
+      b.className="mod-chip"+(MODULE_MESH[id]?"":" nomesh");
+      b.dataset.mod=id;b.textContent=id;b.setAttribute("aria-pressed","false");
+      b.title=m.description.slice(0,120);
+      b.addEventListener("click",()=>{selectModule(id);});
+      bar.appendChild(b);
+    });
+  });
 }
 function renderInspector(ud){
   const el=$("#inspector");
@@ -946,6 +1035,7 @@ fetch("data/plant.json").then(r=>r.json()).then(db=>{
   const h=(location.hash||"").replace("#","");
   showTab(["model","components","systems","documents","about"].includes(h)?h:"model");
   build3d();
+  renderModuleBar();
 }).catch(err=>{
   $("#loading").textContent="Could not load data/plant.json — "+err;
 });
